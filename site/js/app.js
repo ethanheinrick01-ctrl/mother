@@ -223,7 +223,7 @@
     if (s.mocks.length) {
       h.push('<h2>History</h2><table class="stat"><tr><th>Date</th><th>Score</th>' + Object.keys(L.DOMAINS).map(function (d) { return '<th>' + esc(L.DOMAINS[d].name) + '</th>'; }).join('') + '<th></th></tr>');
       s.mocks.slice().reverse().forEach(function (m) {
-        h.push('<tr><td>' + new Date(m.ts).toLocaleString() + '</td><td><b>' + m.score + '/' + m.total + '</b> (' + U.pct(m.score, m.total) + '%)</td>' + Object.keys(L.DOMAINS).map(function (d) { var x = m.byDom[d]; return '<td>' + (x ? x.ok + '/' + x.n : '-') + '</td>'; }).join('') + '<td><a href="#mock/result/' + m.id + '">Review</a></td></tr>');
+        h.push('<tr><td>' + (m.formId ? 'Mock ' + esc(m.formId) + ' · ' : '') + new Date(m.ts).toLocaleString() + '</td><td><b>' + m.score + '/' + m.total + '</b> (' + U.pct(m.score, m.total) + '%)</td>' + Object.keys(L.DOMAINS).map(function (d) { var x = m.byDom[d]; return '<td>' + (x ? x.ok + '/' + x.n : '-') + '</td>'; }).join('') + '<td><a href="#mock/result/' + m.id + '">Review</a></td></tr>');
       });
       h.push('</table>');
     }
