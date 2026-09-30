@@ -11,3 +11,5 @@ Original academic figures: OpenStax College (2013), CC BY 3.0. The ADH film is a
 Nine content checks, 27 engine checks, and hydrated contract validation passed. Browser QA covered all mock forms, a completed mock, full/early Boss, source cases, reload, corrections, backup merge, wrong-course rejection, cross-tab persistence, timer continuity, and phone layout. No learner's actual attempts were used.
 
 NU518 runtime and copied tracked assets were verified byte-identical to accepted main. Hosting retains the same origin; NU545 has a separate stable key. Raw decks, private intake, rejected media, and personal screenshots are excluded.
+
+Published supported-content release: [Mom Lab portal](https://ethanheinrick01-ctrl.github.io/mother/). Pages workflow 36712578033 succeeded for f19135f8e6f31e8d51f5051ba51e9778fd3938f9. Live portal/exam navigation, NU518 legacy redirect, narrated sample playback/captions/seeking, and hosted asset integrity were verified in the in-app browser and HTTP readback.

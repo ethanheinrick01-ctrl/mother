@@ -4,7 +4,7 @@ Updated: September 30, 2026 by Codex root.
 Canonical repository: `ethanheinrick01-ctrl/mother`, branch `NU545`.
 Intended live URL: https://ethanheinrick01-ctrl.github.io/mother/
 Coordinator: Codex root. No active delegated work; Ethan requested personal completion.
-Overall estimate: 84%. Functional supported-content release prepared; publication, textbook gap closure, and the full scholarly film set remain separate milestones.
+Overall estimate: 85%. Functional supported-content release published and verified. Textbook gap closure and the full scholarly film set remain separate milestones.
 
 ## Settled decisions
 
@@ -33,7 +33,7 @@ Codex root owns portal, runtime, course payload, media, release records, and int
 
 ## Remaining work
 
-1. Publish this supported-content release and verify live navigation and the review player.
+1. Published supported-content release verified; preserve its functional baseline during the remaining source and media work.
 2. Obtain matching passages or instructor supplements for mapped gaps; resolve source conflicts before adding graded claims.
 3. Incorporate Ethan's visual review. Complete seven chapter explainers with sources, captions, transcripts, seeking, and editable files.
 4. Preserve IDs, keys, and snapshots. Add competencies for newly covered material rather than treating old answers as evidence of new knowledge.
@@ -41,3 +41,13 @@ Codex root owns portal, runtime, course payload, media, release records, and int
 ## Open questions and limitations
 
 The assigned textbook is unavailable. Guide filename dates to 2023; collection is Fall 2026. Instructor authorship and exam recurrence are not established. Missing topics: breast-milk composition and teenage-girl STI susceptibility. Other partial topics remain visible in the coverage map.
+
+## Verified publication receipt
+
+NU545 implementation commit: c54335100e8cae525dfc845cbaaa49646705c1d4.
+[PR 1](https://github.com/ethanheinrick01-ctrl/mother/pull/1) merged as f19135f8e6f31e8d51f5051ba51e9778fd3938f9.
+[Pages workflow 36712578033](https://github.com/ethanheinrick01-ctrl/mother/actions/runs/36712578033) completed successfully.
+
+Actual in-app browser verified [portal](https://ethanheinrick01-ctrl.github.io/mother/) → NU545 → Exam 3, the legacy NU518 hash redirect, and [scholarly review player](https://ethanheinrick01-ctrl.github.io/mother/nu545/exam3/visual-review/). Playback advanced, captions appeared with the matching water-return narration, and stage seeking worked. Hosted MP4, captions, question payload, app code, portal and NU518 store matched local bytes; byte-range requests returned 206. No production study attempts were created.
+
+The ordinary basic Python preview server does not supply byte ranges; native film seeking should use a range-capable server or the hosted site. Browser-progress QA was done on a separate local origin. Full visuals remain pending approval; textbook gaps remain.
