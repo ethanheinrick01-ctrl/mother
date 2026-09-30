@@ -4,7 +4,7 @@ Updated: September 30, 2026 by Codex root.
 Canonical repository: `ethanheinrick01-ctrl/mother`, branch `NU545`.
 Intended live URL: https://ethanheinrick01-ctrl.github.io/mother/
 Coordinator: Codex root. No active delegated work; Ethan requested personal completion.
-Current release estimate: 96%. Supported-content baseline is published. All seven scholarly films are now built, integrated and locally verified; publication of this update is in progress. Textbook gap closure remains a separate milestone.
+Current release: 100% published and live-verified. All seven scholarly films precede their chapter tabs and study cards. Source coverage is still partial; textbook gap closure remains a separate milestone.
 
 ## Settled decisions
 
@@ -35,7 +35,7 @@ Codex root owns portal, runtime, course payload, media, release records, and int
 
 1. Published supported-content release verified; preserve its functional baseline during the remaining source and media work.
 2. Obtain matching passages or instructor supplements for mapped gaps; resolve source conflicts before adding graded claims.
-3. Publish and live-verify the completed seven-film update. The revised visual style was approved; no further sample approval is required.
+3. Seven-film update is published and live-verified. Preserve its media/source baseline when extending content.
 4. Preserve IDs, keys, and snapshots. Add competencies for newly covered material rather than treating old answers as evidence of new knowledge.
 
 ## Open questions and limitations
@@ -50,4 +50,16 @@ NU545 implementation commit: c54335100e8cae525dfc845cbaaa49646705c1d4.
 
 Actual in-app browser verified [portal](https://ethanheinrick01-ctrl.github.io/mother/) → NU545 → Exam 3, the legacy NU518 hash redirect, and [scholarly review player](https://ethanheinrick01-ctrl.github.io/mother/nu545/exam3/visual-review/). Playback advanced, captions appeared with the matching water-return narration, and stage seeking worked. Hosted MP4, captions, question payload, app code, portal and NU518 store matched local bytes; byte-range requests returned 206. No production study attempts were created.
 
-The ordinary basic Python preview server does not supply byte ranges; native film seeking should use a range-capable server or the hosted site. Browser-progress QA was done on a separate local origin. Visual style is approved; all seven films are complete and passed local QA. Textbook gaps remain. The new deployment receipt will follow.
+The ordinary basic Python preview server does not supply byte ranges; native film seeking should use a range-capable server or the hosted site. Browser-progress QA was done on a separate local origin. Visual style is approved; all seven films are complete and passed local and hosted QA. Textbook gaps remain.
+
+## Seven-film publication receipt
+
+Implementation: bce22180adecb56c6c5a3ae62944d58b1dd8bbad.
+[PR 2](https://github.com/ethanheinrick01-ctrl/mother/pull/2) merged as fe6ffe7e32ec2675712743aa2bdbdf7eb0ed3843 on September 30, 2026.
+[Pages run 36742323978](https://github.com/ethanheinrick01-ctrl/mother/actions/runs/36742323978) succeeded.
+
+Live in-app browser verified Mom Lab → NU545 → Exam 3 and all seven chapter-first players. Hosted native playback advanced to the film's end, stage seeking worked, and default English captions were enabled. Thirty-six hosted app/media assets matched local bytes; an MP4 range request returned HTTP 206. No production practice checks, Boss runs, or mock attempts were created. Browser console reported no errors.
+
+Private QA receipts: `../media-review/seven-film-browser-qa.json`, `seven-film-phone-qa.json`, `seven-film-live-browser-qa.json`, and `seven-film-live-asset-qa.json`. Screenshot: `../media-review/NU545-seven-explainers-live.png`.
+
+Share [Mom Lab](https://ethanheinrick01-ctrl.github.io/mother/), then choose NU545 → Exam 3. Direct exam link: https://ethanheinrick01-ctrl.github.io/mother/nu545/exam3/. Studying costs $0 per use. Existing question bank and persistent storage are unchanged; no progress reset or migration is required for this update.
