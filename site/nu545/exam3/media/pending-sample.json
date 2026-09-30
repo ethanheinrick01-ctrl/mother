@@ -1,0 +1,42 @@
+{
+  "title": "ADH: hormone supply, renal response, and water balance",
+  "src": "media/adh-academic-sample.mp4",
+  "poster": "media/adh-academic-poster.jpg",
+  "captions": "media/adh-academic.vtt",
+  "sources": [
+    "CH21S25",
+    "CH21S26",
+    "CH22S14",
+    "CH22S17"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Stimulus and sensor",
+      "text": "Higher plasma osmolality or lower circulating volume signals for ADH."
+    },
+    {
+      "start": 12.231,
+      "title": "Synthesis, storage, release",
+      "text": "Synthesis occurs in the hypothalamus. Storage and release occur in the posterior pituitary."
+    },
+    {
+      "start": 26.217,
+      "title": "Water reabsorption",
+      "text": "ADH increases collecting-duct water permeability. More water returns to blood."
+    },
+    {
+      "start": 40.193,
+      "title": "Two DI mechanisms",
+      "text": "Neurogenic DI lacks adequate ADH. Nephrogenic DI has renal insensitivity to ADH. Both impair urine concentration."
+    }
+  ],
+  "voice": "AI Voice Generator \u00b7 Clear",
+  "chapters": [
+    21,
+    22
+  ],
+  "status": "visual review pending",
+  "figureCredit": "OpenStax College, Anatomy & Physiology (2013), CC BY 3.0; cropped/rescaled; AI-assisted annotation removal on the renal figure; original water and hormone animation layers added.",
+  "transcriptSrc": "media/adh-academic.txt"
+}

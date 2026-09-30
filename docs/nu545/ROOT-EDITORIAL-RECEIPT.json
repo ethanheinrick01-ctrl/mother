@@ -1,0 +1,59 @@
+{
+  "reviewer": "Codex root",
+  "revision": "root-manual-2026-09-30",
+  "bankSHA256": "ea74c736e28de4d7f7008f8a0cfbd9bb0eca00644aaa819fecf9acaf0fcab6d5",
+  "chapters": {
+    "21": {
+      "items": 33,
+      "choiceMedianWords": 3.0,
+      "uniqueLongestKeyWords": 4,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    },
+    "22": {
+      "items": 56,
+      "choiceMedianWords": 3.0,
+      "uniqueLongestKeyWords": 3,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    },
+    "23": {
+      "items": 23,
+      "choiceMedianWords": 2.0,
+      "uniqueLongestKeyWords": 0,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    },
+    "24": {
+      "items": 28,
+      "choiceMedianWords": 2.0,
+      "uniqueLongestKeyWords": 1,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    },
+    "25": {
+      "items": 25,
+      "choiceMedianWords": 2.0,
+      "uniqueLongestKeyWords": 1,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    },
+    "26": {
+      "items": 10,
+      "choiceMedianWords": 2.0,
+      "uniqueLongestKeyWords": 0,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    },
+    "27": {
+      "items": 20,
+      "choiceMedianWords": 2.0,
+      "uniqueLongestKeyWords": 1,
+      "colonSemicolonDashOptions": 0,
+      "choiceRangeAtLeast4Words": 0
+    }
+  },
+  "reviewScope": "All 195 stems, all choices, keys, explanations, distractor rationales, decisions, and source locators read by Codex root; exact evidence refreshed from accepted slides. Follow-up fixes include screenshot syphilis, source IDs, consequence polarity cue, echo cue, old feedback, supporting Guide teaching, and full adipose names instead of case-sensitive abbreviations. Metrics identify candidates only. Source and film gaps remain. Cortisol/aldosterone replaces the longer hormone-class key after exact CH21S44\u201345 review.",
+  "contentRevision": "bank-ea74c736e28de4d7",
+  "hashDefinition": "SHA256 of UTF-8 JSON, items sorted by stable ID, object keys sorted, compact separators, before runtime contentRevision annotation."
+}
