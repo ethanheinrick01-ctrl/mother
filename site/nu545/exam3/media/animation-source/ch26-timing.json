@@ -1,0 +1,809 @@
+{
+  "title": "Epididymitis: follow the site and route",
+  "sources": [
+    "CH24S44",
+    "CH24S45",
+    "CH26S31",
+    "CH26S28"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Locate the structures",
+      "text": "Locate the testis, epididymis, and vas deferens on the anatomical illustration. The testis produces sperm. Sperm mature in the epididymis, and the vas deferens transports them toward the urethra."
+    },
+    {
+      "start": 12.78,
+      "title": "Follow the infection route",
+      "text": "For epididymitis, reverse that usual direction. The supplied slide describes a microorganism ascending the vas deferens from an infected bladder or urethra to reach the epididymis. Watch the highlighted inflammatory change develop at the epididymis."
+    },
+    {
+      "start": 27.64,
+      "title": "Distinguish the affected organ",
+      "text": "Epididymitis is inflammation of the epididymis. Orchitis is infection of the testis and may occur with epididymitis. Similar pain does not make these the same affected structure."
+    },
+    {
+      "start": 39.16,
+      "title": "Study within the source limits",
+      "text": "The epididymitis slide lists pain and the Prehn sign, with antibiotics, analgesics, ice, and scrotal elevation as treatments. It does not provide a complete organism or complication list. Those textbook details remain marked as gaps in this guide."
+    }
+  ],
+  "words": [
+    {
+      "text": "Locate",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.343
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 0.34,
+      "end": 0.507
+    },
+    {
+      "text": "testis,",
+      "stage": 0,
+      "start": 0.5,
+      "end": 1.06
+    },
+    {
+      "text": "epididymis,",
+      "stage": 0,
+      "start": 1.36,
+      "end": 2.032
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 2.26,
+      "end": 2.4
+    },
+    {
+      "text": "vas",
+      "stage": 0,
+      "start": 2.38,
+      "end": 2.53
+    },
+    {
+      "text": "deferens",
+      "stage": 0,
+      "start": 2.56,
+      "end": 2.953
+    },
+    {
+      "text": "on",
+      "stage": 0,
+      "start": 2.96,
+      "end": 3.16
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "text": "anatomical",
+      "stage": 0,
+      "start": 3.36,
+      "end": 3.942
+    },
+    {
+      "text": "illustration.",
+      "stage": 0,
+      "start": 3.94,
+      "end": 4.513
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 5.2,
+      "end": 5.46
+    },
+    {
+      "text": "testis",
+      "stage": 0,
+      "start": 5.5,
+      "end": 5.893
+    },
+    {
+      "text": "produces",
+      "stage": 0,
+      "start": 5.9,
+      "end": 6.362
+    },
+    {
+      "text": "sperm.",
+      "stage": 0,
+      "start": 6.36,
+      "end": 6.692
+    },
+    {
+      "text": "Sperm",
+      "stage": 0,
+      "start": 7.4,
+      "end": 7.716
+    },
+    {
+      "text": "mature",
+      "stage": 0,
+      "start": 7.72,
+      "end": 8.113
+    },
+    {
+      "text": "in",
+      "stage": 0,
+      "start": 8.12,
+      "end": 8.33
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 8.42,
+      "end": 8.533
+    },
+    {
+      "text": "epididymis,",
+      "stage": 0,
+      "start": 8.5,
+      "end": 9.19
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 9.38,
+      "end": 9.6
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 9.62,
+      "end": 9.747
+    },
+    {
+      "text": "vas",
+      "stage": 0,
+      "start": 9.72,
+      "end": 9.9
+    },
+    {
+      "text": "deferens",
+      "stage": 0,
+      "start": 9.96,
+      "end": 10.337
+    },
+    {
+      "text": "transports",
+      "stage": 0,
+      "start": 10.34,
+      "end": 11.066
+    },
+    {
+      "text": "them",
+      "stage": 0,
+      "start": 11.08,
+      "end": 11.23
+    },
+    {
+      "text": "toward",
+      "stage": 0,
+      "start": 11.2,
+      "end": 11.493
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 11.48,
+      "end": 11.673
+    },
+    {
+      "text": "urethra.",
+      "stage": 0,
+      "start": 11.68,
+      "end": 12.151
+    },
+    {
+      "text": "For",
+      "stage": 1,
+      "start": 12.78,
+      "end": 12.907
+    },
+    {
+      "text": "epididymitis,",
+      "stage": 1,
+      "start": 12.88,
+      "end": 13.527
+    },
+    {
+      "text": "reverse",
+      "stage": 1,
+      "start": 13.96,
+      "end": 14.191
+    },
+    {
+      "text": "that",
+      "stage": 1,
+      "start": 14.16,
+      "end": 14.445
+    },
+    {
+      "text": "usual",
+      "stage": 1,
+      "start": 14.46,
+      "end": 14.808
+    },
+    {
+      "text": "direction.",
+      "stage": 1,
+      "start": 14.82,
+      "end": 15.253
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 16.14,
+      "end": 16.467
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 16.54,
+      "end": 16.95
+    },
+    {
+      "text": "slide",
+      "stage": 1,
+      "start": 16.94,
+      "end": 17.304
+    },
+    {
+      "text": "describes",
+      "stage": 1,
+      "start": 17.32,
+      "end": 17.718
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 17.7,
+      "end": 17.76
+    },
+    {
+      "text": "microorganism",
+      "stage": 1,
+      "start": 17.96,
+      "end": 18.888
+    },
+    {
+      "text": "ascending",
+      "stage": 1,
+      "start": 18.9,
+      "end": 19.404
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 19.4,
+      "end": 19.593
+    },
+    {
+      "text": "vas",
+      "stage": 1,
+      "start": 19.6,
+      "end": 19.78
+    },
+    {
+      "text": "deferens",
+      "stage": 1,
+      "start": 19.84,
+      "end": 20.267
+    },
+    {
+      "text": "from",
+      "stage": 1,
+      "start": 20.28,
+      "end": 20.565
+    },
+    {
+      "text": "an",
+      "stage": 1,
+      "start": 20.58,
+      "end": 20.7
+    },
+    {
+      "text": "infected",
+      "stage": 1,
+      "start": 20.7,
+      "end": 21.092
+    },
+    {
+      "text": "bladder",
+      "stage": 1,
+      "start": 21.08,
+      "end": 21.431
+    },
+    {
+      "text": "or",
+      "stage": 1,
+      "start": 21.42,
+      "end": 21.62
+    },
+    {
+      "text": "urethra",
+      "stage": 1,
+      "start": 21.7,
+      "end": 22.171
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 22.18,
+      "end": 22.32
+    },
+    {
+      "text": "reach",
+      "stage": 1,
+      "start": 22.34,
+      "end": 22.544
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 22.52,
+      "end": 22.713
+    },
+    {
+      "text": "epididymis.",
+      "stage": 1,
+      "start": 22.72,
+      "end": 23.374
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 23.74,
+      "end": 24.296
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 24.36,
+      "end": 24.58
+    },
+    {
+      "text": "highlighted",
+      "stage": 1,
+      "start": 24.6,
+      "end": 25.06
+    },
+    {
+      "text": "inflammatory",
+      "stage": 1,
+      "start": 25.04,
+      "end": 25.65
+    },
+    {
+      "text": "change",
+      "stage": 1,
+      "start": 25.64,
+      "end": 26.15
+    },
+    {
+      "text": "develop",
+      "stage": 1,
+      "start": 26.18,
+      "end": 26.617
+    },
+    {
+      "text": "at",
+      "stage": 1,
+      "start": 26.62,
+      "end": 26.84
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 26.94,
+      "end": 27.08
+    },
+    {
+      "text": "epididymis.",
+      "stage": 1,
+      "start": 27.06,
+      "end": 27.642
+    },
+    {
+      "text": "Epididymitis",
+      "stage": 2,
+      "start": 27.64,
+      "end": 28.562
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 28.58,
+      "end": 28.83
+    },
+    {
+      "text": "inflammation",
+      "stage": 2,
+      "start": 28.96,
+      "end": 29.405
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 29.38,
+      "end": 29.61
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 29.72,
+      "end": 29.833
+    },
+    {
+      "text": "epididymis.",
+      "stage": 2,
+      "start": 29.8,
+      "end": 30.526
+    },
+    {
+      "text": "Orchitis",
+      "stage": 2,
+      "start": 30.8,
+      "end": 31.683
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 31.7,
+      "end": 31.87
+    },
+    {
+      "text": "infection",
+      "stage": 2,
+      "start": 31.92,
+      "end": 32.318
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 32.3,
+      "end": 32.46
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 32.5,
+      "end": 32.64
+    },
+    {
+      "text": "testis",
+      "stage": 2,
+      "start": 32.62,
+      "end": 33.097
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 33.12,
+      "end": 33.313
+    },
+    {
+      "text": "may",
+      "stage": 2,
+      "start": 33.32,
+      "end": 33.487
+    },
+    {
+      "text": "occur",
+      "stage": 2,
+      "start": 33.48,
+      "end": 33.812
+    },
+    {
+      "text": "with",
+      "stage": 2,
+      "start": 33.82,
+      "end": 34.045
+    },
+    {
+      "text": "epididymitis.",
+      "stage": 2,
+      "start": 34.04,
+      "end": 34.778
+    },
+    {
+      "text": "Similar",
+      "stage": 2,
+      "start": 35.44,
+      "end": 35.706
+    },
+    {
+      "text": "pain",
+      "stage": 2,
+      "start": 35.68,
+      "end": 35.995
+    },
+    {
+      "text": "does",
+      "stage": 2,
+      "start": 36.02,
+      "end": 36.23
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 36.22,
+      "end": 36.413
+    },
+    {
+      "text": "make",
+      "stage": 2,
+      "start": 36.42,
+      "end": 36.645
+    },
+    {
+      "text": "these",
+      "stage": 2,
+      "start": 36.64,
+      "end": 36.924
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 36.92,
+      "end": 37.113
+    },
+    {
+      "text": "same",
+      "stage": 2,
+      "start": 37.12,
+      "end": 37.36
+    },
+    {
+      "text": "affected",
+      "stage": 2,
+      "start": 37.36,
+      "end": 37.805
+    },
+    {
+      "text": "structure.",
+      "stage": 2,
+      "start": 37.8,
+      "end": 38.322
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 39.16,
+      "end": 39.287
+    },
+    {
+      "text": "epididymitis",
+      "stage": 3,
+      "start": 39.26,
+      "end": 39.925
+    },
+    {
+      "text": "slide",
+      "stage": 3,
+      "start": 39.92,
+      "end": 40.236
+    },
+    {
+      "text": "lists",
+      "stage": 3,
+      "start": 40.24,
+      "end": 40.54
+    },
+    {
+      "text": "pain",
+      "stage": 3,
+      "start": 40.54,
+      "end": 40.9
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 40.94,
+      "end": 41.2
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 41.24,
+      "end": 41.393
+    },
+    {
+      "text": "Prehn",
+      "stage": 3,
+      "start": 41.38,
+      "end": 41.737
+    },
+    {
+      "text": "sign,",
+      "stage": 3,
+      "start": 41.753,
+      "end": 42.043
+    },
+    {
+      "text": "with",
+      "stage": 3,
+      "start": 42.06,
+      "end": 42.54
+    },
+    {
+      "text": "antibiotics,",
+      "stage": 3,
+      "start": 42.62,
+      "end": 43.171
+    },
+    {
+      "text": "analgesics,",
+      "stage": 3,
+      "start": 43.56,
+      "end": 44.214
+    },
+    {
+      "text": "ice,",
+      "stage": 3,
+      "start": 44.54,
+      "end": 44.707
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 45.04,
+      "end": 45.14
+    },
+    {
+      "text": "scrotal",
+      "stage": 3,
+      "start": 45.1,
+      "end": 45.434
+    },
+    {
+      "text": "elevation",
+      "stage": 3,
+      "start": 45.42,
+      "end": 45.8
+    },
+    {
+      "text": "as",
+      "stage": 3,
+      "start": 45.78,
+      "end": 46.02
+    },
+    {
+      "text": "treatments.",
+      "stage": 3,
+      "start": 46.14,
+      "end": 46.542
+    },
+    {
+      "text": "It",
+      "stage": 3,
+      "start": 47.12,
+      "end": 47.25
+    },
+    {
+      "text": "does",
+      "stage": 3,
+      "start": 47.26,
+      "end": 47.41
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 47.38,
+      "end": 47.573
+    },
+    {
+      "text": "provide",
+      "stage": 3,
+      "start": 47.58,
+      "end": 47.88
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 47.86,
+      "end": 47.92
+    },
+    {
+      "text": "complete",
+      "stage": 3,
+      "start": 48.04,
+      "end": 48.415
+    },
+    {
+      "text": "organism",
+      "stage": 3,
+      "start": 48.4,
+      "end": 49.02
+    },
+    {
+      "text": "or",
+      "stage": 3,
+      "start": 49.04,
+      "end": 49.23
+    },
+    {
+      "text": "complication",
+      "stage": 3,
+      "start": 49.3,
+      "end": 49.928
+    },
+    {
+      "text": "list.",
+      "stage": 3,
+      "start": 49.92,
+      "end": 50.295
+    },
+    {
+      "text": "Those",
+      "stage": 3,
+      "start": 50.74,
+      "end": 50.928
+    },
+    {
+      "text": "textbook",
+      "stage": 3,
+      "start": 50.9,
+      "end": 51.293
+    },
+    {
+      "text": "details",
+      "stage": 3,
+      "start": 51.28,
+      "end": 51.649
+    },
+    {
+      "text": "remain",
+      "stage": 3,
+      "start": 51.64,
+      "end": 52.017
+    },
+    {
+      "text": "marked",
+      "stage": 3,
+      "start": 52.02,
+      "end": 52.447
+    },
+    {
+      "text": "as",
+      "stage": 3,
+      "start": 52.46,
+      "end": 52.65
+    },
+    {
+      "text": "gaps",
+      "stage": 3,
+      "start": 52.72,
+      "end": 52.96
+    },
+    {
+      "text": "in",
+      "stage": 3,
+      "start": 52.96,
+      "end": 53.18
+    },
+    {
+      "text": "this",
+      "stage": 3,
+      "start": 53.28,
+      "end": 53.505
+    },
+    {
+      "text": "guide.",
+      "stage": 3,
+      "start": 53.5,
+      "end": 53.816
+    }
+  ],
+  "duration": 54.456,
+  "recognitionAgreement": 0.9697
+}

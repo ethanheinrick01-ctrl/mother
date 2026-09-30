@@ -1,0 +1,739 @@
+{
+  "title": "The ovarian cycle and the endometrium",
+  "sources": [
+    "CH24S31",
+    "CH24S32",
+    "CH24S33",
+    "CH24S34",
+    "CH24S35",
+    "CH24S36"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Follicular growth",
+      "text": "Follow the ovary and the uterine lining together. Rising follicle-stimulating hormone stimulates follicular growth. One follicle becomes dominant and produces increasing estradiol. Estrogen drives proliferation of the endometrium."
+    },
+    {
+      "start": 14.5,
+      "title": "Ovulation",
+      "text": "The luteinizing hormone surge causes ovulation. Watch the mature follicle release the ovum. Then follow the remaining follicle as it becomes the corpus luteum."
+    },
+    {
+      "start": 24.66,
+      "title": "Secretory phase",
+      "text": "Luteinizing hormone stimulates the corpus luteum to secrete progesterone. Progesterone initiates the secretory phase. Endometrial glands and blood vessels branch and curl through the functional layer."
+    },
+    {
+      "start": 36.46,
+      "title": "Without implantation",
+      "text": "If implantation does not occur, the corpus luteum degenerates. Estrogen and progesterone fall, and the endometrium degenerates and sheds. The hormone sequence explains the tissue sequence: follicular growth, ovulation, secretory change, and menstruation. Estrogen supports proliferation; progesterone initiates secretion."
+    }
+  ],
+  "words": [
+    {
+      "text": "Follow",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.327
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 0.32,
+      "end": 0.527
+    },
+    {
+      "text": "ovary",
+      "stage": 0,
+      "start": 0.54,
+      "end": 0.968
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 1.0,
+      "end": 1.3
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 1.36,
+      "end": 1.527
+    },
+    {
+      "text": "uterine",
+      "stage": 0,
+      "start": 1.52,
+      "end": 1.889
+    },
+    {
+      "text": "lining",
+      "stage": 0,
+      "start": 1.88,
+      "end": 2.173
+    },
+    {
+      "text": "together.",
+      "stage": 0,
+      "start": 2.16,
+      "end": 2.71
+    },
+    {
+      "text": "Rising",
+      "stage": 0,
+      "start": 3.46,
+      "end": 3.737
+    },
+    {
+      "text": "follicle-stimulating",
+      "stage": 0,
+      "start": 3.72,
+      "end": 4.809
+    },
+    {
+      "text": "hormone",
+      "stage": 0,
+      "start": 4.8,
+      "end": 5.186
+    },
+    {
+      "text": "stimulates",
+      "stage": 0,
+      "start": 5.18,
+      "end": 5.96
+    },
+    {
+      "text": "follicular",
+      "stage": 0,
+      "start": 5.98,
+      "end": 6.454
+    },
+    {
+      "text": "growth.",
+      "stage": 0,
+      "start": 6.44,
+      "end": 7.0
+    },
+    {
+      "text": "One",
+      "stage": 0,
+      "start": 7.52,
+      "end": 7.66
+    },
+    {
+      "text": "follicle",
+      "stage": 0,
+      "start": 7.64,
+      "end": 8.103
+    },
+    {
+      "text": "becomes",
+      "stage": 0,
+      "start": 8.1,
+      "end": 8.554
+    },
+    {
+      "text": "dominant",
+      "stage": 0,
+      "start": 8.56,
+      "end": 8.988
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 8.98,
+      "end": 9.2
+    },
+    {
+      "text": "produces",
+      "stage": 0,
+      "start": 9.22,
+      "end": 9.578
+    },
+    {
+      "text": "increasing",
+      "stage": 0,
+      "start": 9.56,
+      "end": 10.214
+    },
+    {
+      "text": "estradiol.",
+      "stage": 0,
+      "start": 10.22,
+      "end": 10.956
+    },
+    {
+      "text": "Estrogen",
+      "stage": 0,
+      "start": 11.54,
+      "end": 11.95
+    },
+    {
+      "text": "drives",
+      "stage": 0,
+      "start": 11.94,
+      "end": 12.35
+    },
+    {
+      "text": "proliferation",
+      "stage": 0,
+      "start": 12.36,
+      "end": 12.974
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 12.96,
+      "end": 13.17
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 13.26,
+      "end": 13.387
+    },
+    {
+      "text": "endometrium.",
+      "stage": 0,
+      "start": 13.36,
+      "end": 14.038
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 14.5,
+      "end": 14.613
+    },
+    {
+      "text": "luteinizing",
+      "stage": 1,
+      "start": 14.58,
+      "end": 15.149
+    },
+    {
+      "text": "hormone",
+      "stage": 1,
+      "start": 15.14,
+      "end": 15.509
+    },
+    {
+      "text": "surge",
+      "stage": 1,
+      "start": 15.5,
+      "end": 15.896
+    },
+    {
+      "text": "causes",
+      "stage": 1,
+      "start": 15.92,
+      "end": 16.38
+    },
+    {
+      "text": "ovulation.",
+      "stage": 1,
+      "start": 16.4,
+      "end": 17.082
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 17.76,
+      "end": 17.948
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 17.92,
+      "end": 18.18
+    },
+    {
+      "text": "mature",
+      "stage": 1,
+      "start": 18.22,
+      "end": 18.513
+    },
+    {
+      "text": "follicle",
+      "stage": 1,
+      "start": 18.5,
+      "end": 19.05
+    },
+    {
+      "text": "release",
+      "stage": 1,
+      "start": 19.06,
+      "end": 19.446
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 19.44,
+      "end": 19.673
+    },
+    {
+      "text": "ovum.",
+      "stage": 1,
+      "start": 19.7,
+      "end": 20.045
+    },
+    {
+      "text": "Then",
+      "stage": 1,
+      "start": 20.58,
+      "end": 20.73
+    },
+    {
+      "text": "follow",
+      "stage": 1,
+      "start": 20.7,
+      "end": 21.06
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 21.06,
+      "end": 21.24
+    },
+    {
+      "text": "remaining",
+      "stage": 1,
+      "start": 21.24,
+      "end": 21.584
+    },
+    {
+      "text": "follicle",
+      "stage": 1,
+      "start": 21.56,
+      "end": 22.127
+    },
+    {
+      "text": "as",
+      "stage": 1,
+      "start": 22.14,
+      "end": 22.37
+    },
+    {
+      "text": "it",
+      "stage": 1,
+      "start": 22.48,
+      "end": 22.62
+    },
+    {
+      "text": "becomes",
+      "stage": 1,
+      "start": 22.64,
+      "end": 22.991
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 22.98,
+      "end": 23.24
+    },
+    {
+      "text": "corpus",
+      "stage": 1,
+      "start": 23.28,
+      "end": 23.607
+    },
+    {
+      "text": "luteum.",
+      "stage": 1,
+      "start": 23.6,
+      "end": 24.16
+    },
+    {
+      "text": "Luteinizing",
+      "stage": 2,
+      "start": 24.66,
+      "end": 25.156
+    },
+    {
+      "text": "hormone",
+      "stage": 2,
+      "start": 25.14,
+      "end": 25.526
+    },
+    {
+      "text": "stimulates",
+      "stage": 2,
+      "start": 25.52,
+      "end": 26.336
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 26.36,
+      "end": 26.513
+    },
+    {
+      "text": "corpus",
+      "stage": 2,
+      "start": 26.5,
+      "end": 26.843
+    },
+    {
+      "text": "luteum",
+      "stage": 2,
+      "start": 26.84,
+      "end": 27.3
+    },
+    {
+      "text": "to",
+      "stage": 2,
+      "start": 27.32,
+      "end": 27.46
+    },
+    {
+      "text": "secrete",
+      "stage": 2,
+      "start": 27.48,
+      "end": 27.831
+    },
+    {
+      "text": "progesterone.",
+      "stage": 2,
+      "start": 27.82,
+      "end": 28.577
+    },
+    {
+      "text": "Progesterone",
+      "stage": 2,
+      "start": 28.58,
+      "end": 29.722
+    },
+    {
+      "text": "initiates",
+      "stage": 2,
+      "start": 29.76,
+      "end": 30.442
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 30.46,
+      "end": 30.613
+    },
+    {
+      "text": "secretory",
+      "stage": 2,
+      "start": 30.6,
+      "end": 31.104
+    },
+    {
+      "text": "phase.",
+      "stage": 2,
+      "start": 31.1,
+      "end": 31.608
+    },
+    {
+      "text": "Endometrial",
+      "stage": 2,
+      "start": 32.14,
+      "end": 32.636
+    },
+    {
+      "text": "glands",
+      "stage": 2,
+      "start": 32.62,
+      "end": 32.98
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 32.98,
+      "end": 33.213
+    },
+    {
+      "text": "blood",
+      "stage": 2,
+      "start": 33.24,
+      "end": 33.428
+    },
+    {
+      "text": "vessels",
+      "stage": 2,
+      "start": 33.4,
+      "end": 33.717
+    },
+    {
+      "text": "branch",
+      "stage": 2,
+      "start": 33.7,
+      "end": 34.143
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 34.16,
+      "end": 34.407
+    },
+    {
+      "text": "curl",
+      "stage": 2,
+      "start": 34.44,
+      "end": 34.68
+    },
+    {
+      "text": "through",
+      "stage": 2,
+      "start": 34.68,
+      "end": 34.997
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 34.98,
+      "end": 35.12
+    },
+    {
+      "text": "functional",
+      "stage": 2,
+      "start": 35.1,
+      "end": 35.52
+    },
+    {
+      "text": "layer.",
+      "stage": 2,
+      "start": 35.5,
+      "end": 35.832
+    },
+    {
+      "text": "If",
+      "stage": 3,
+      "start": 36.46,
+      "end": 36.64
+    },
+    {
+      "text": "implantation",
+      "stage": 3,
+      "start": 36.7,
+      "end": 37.347
+    },
+    {
+      "text": "does",
+      "stage": 3,
+      "start": 37.34,
+      "end": 37.505
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 37.48,
+      "end": 37.66
+    },
+    {
+      "text": "occur,",
+      "stage": 3,
+      "start": 37.66,
+      "end": 37.976
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 38.26,
+      "end": 38.373
+    },
+    {
+      "text": "corpus",
+      "stage": 3,
+      "start": 38.34,
+      "end": 38.617
+    },
+    {
+      "text": "luteum",
+      "stage": 3,
+      "start": 38.6,
+      "end": 39.077
+    },
+    {
+      "text": "degenerates.",
+      "stage": 3,
+      "start": 39.1,
+      "end": 39.869
+    },
+    {
+      "text": "Estrogen",
+      "stage": 3,
+      "start": 40.52,
+      "end": 40.86
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 40.84,
+      "end": 41.033
+    },
+    {
+      "text": "progesterone",
+      "stage": 3,
+      "start": 41.04,
+      "end": 41.65
+    },
+    {
+      "text": "fall,",
+      "stage": 3,
+      "start": 41.64,
+      "end": 41.925
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 41.94,
+      "end": 42.413
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 42.56,
+      "end": 42.687
+    },
+    {
+      "text": "endometrium",
+      "stage": 3,
+      "start": 42.66,
+      "end": 43.247
+    },
+    {
+      "text": "degenerates",
+      "stage": 3,
+      "start": 43.24,
+      "end": 44.027
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 44.04,
+      "end": 44.193
+    },
+    {
+      "text": "sheds.",
+      "stage": 3,
+      "start": 44.18,
+      "end": 44.56
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 45.1,
+      "end": 45.28
+    },
+    {
+      "text": "hormone",
+      "stage": 3,
+      "start": 45.28,
+      "end": 45.529
+    },
+    {
+      "text": "sequence",
+      "stage": 3,
+      "start": 45.5,
+      "end": 45.945
+    },
+    {
+      "text": "explains",
+      "stage": 3,
+      "start": 45.94,
+      "end": 46.472
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 46.48,
+      "end": 46.74
+    },
+    {
+      "text": "tissue",
+      "stage": 3,
+      "start": 46.78,
+      "end": 47.057
+    },
+    {
+      "text": "sequence:",
+      "stage": 3,
+      "start": 47.04,
+      "end": 47.52
+    },
+    {
+      "text": "follicular",
+      "stage": 3,
+      "start": 47.96,
+      "end": 48.308
+    },
+    {
+      "text": "growth,",
+      "stage": 3,
+      "start": 48.28,
+      "end": 48.657
+    },
+    {
+      "text": "ovulation,",
+      "stage": 3,
+      "start": 49.12,
+      "end": 49.642
+    },
+    {
+      "text": "secretory",
+      "stage": 3,
+      "start": 50.04,
+      "end": 50.509
+    },
+    {
+      "text": "change,",
+      "stage": 3,
+      "start": 50.5,
+      "end": 50.81
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 51.12,
+      "end": 51.233
+    },
+    {
+      "text": "menstruation.",
+      "stage": 3,
+      "start": 51.2,
+      "end": 51.902
+    },
+    {
+      "text": "Estrogen",
+      "stage": 3,
+      "start": 52.42,
+      "end": 52.778
+    },
+    {
+      "text": "supports",
+      "stage": 3,
+      "start": 52.76,
+      "end": 53.24
+    },
+    {
+      "text": "proliferation;",
+      "stage": 3,
+      "start": 53.24,
+      "end": 53.946
+    },
+    {
+      "text": "progesterone",
+      "stage": 3,
+      "start": 54.62,
+      "end": 55.267
+    },
+    {
+      "text": "initiates",
+      "stage": 3,
+      "start": 55.26,
+      "end": 55.96
+    },
+    {
+      "text": "secretion.",
+      "stage": 3,
+      "start": 55.98,
+      "end": 56.591
+    }
+  ],
+  "duration": 57.0,
+  "recognitionAgreement": 1.0
+}

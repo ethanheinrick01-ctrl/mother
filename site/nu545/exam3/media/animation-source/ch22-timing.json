@@ -1,0 +1,720 @@
+{
+  "title": "Insulin: supply and tissue response",
+  "sources": [
+    "CH22S56",
+    "CH22S59",
+    "CH22S65",
+    "CH22S67",
+    "CH22S17"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Insulin supply",
+      "text": "Two different failures can raise blood glucose. Start with the pancreatic beta cells. In type one diabetes, beta cells are destroyed or lost, and insulin production falls. Watch the declining insulin supply."
+    },
+    {
+      "start": 13.1,
+      "title": "Insulin response",
+      "text": "In type two diabetes, insulin resistance and decreased beta-cell secretion are the major mechanisms. The liver, muscle, and adipose tissue respond less effectively to insulin. Seeing insulin present does not prove that its effect is adequate."
+    },
+    {
+      "start": 27.48,
+      "title": "Same finding, different failure",
+      "text": "Blood glucose can remain elevated in both comparisons. The common finding is hyperglycemia. The question is whether the problem is secretion, tissue response, or both."
+    },
+    {
+      "start": 38.16,
+      "title": "Keep the disorders separate",
+      "text": "Keep diabetes mellitus separate from diabetes insipidus. Mellitus concerns insulin and glucose. The insipidus lesson concerns antidiuretic hormone and urine concentration."
+    }
+  ],
+  "words": [
+    {
+      "text": "Two",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "text": "different",
+      "stage": 0,
+      "start": 0.18,
+      "end": 0.489
+    },
+    {
+      "text": "failures",
+      "stage": 0,
+      "start": 0.46,
+      "end": 0.887
+    },
+    {
+      "text": "can",
+      "stage": 0,
+      "start": 0.88,
+      "end": 1.14
+    },
+    {
+      "text": "raise",
+      "stage": 0,
+      "start": 1.18,
+      "end": 1.416
+    },
+    {
+      "text": "blood",
+      "stage": 0,
+      "start": 1.4,
+      "end": 1.62
+    },
+    {
+      "text": "glucose.",
+      "stage": 0,
+      "start": 1.6,
+      "end": 2.02
+    },
+    {
+      "text": "Start",
+      "stage": 0,
+      "start": 2.94,
+      "end": 3.096
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 3.06,
+      "end": 3.27
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 3.26,
+      "end": 3.387
+    },
+    {
+      "text": "pancreatic",
+      "stage": 0,
+      "start": 3.36,
+      "end": 4.014
+    },
+    {
+      "text": "beta",
+      "stage": 0,
+      "start": 4.02,
+      "end": 4.215
+    },
+    {
+      "text": "cells.",
+      "stage": 0,
+      "start": 4.2,
+      "end": 4.628
+    },
+    {
+      "text": "In",
+      "stage": 0,
+      "start": 5.58,
+      "end": 5.68
+    },
+    {
+      "text": "type",
+      "stage": 0,
+      "start": 5.66,
+      "end": 5.87
+    },
+    {
+      "text": "one",
+      "stage": 0,
+      "start": 5.86,
+      "end": 6.08
+    },
+    {
+      "text": "diabetes,",
+      "stage": 0,
+      "start": 6.1,
+      "end": 6.615
+    },
+    {
+      "text": "beta",
+      "stage": 0,
+      "start": 7.12,
+      "end": 7.255
+    },
+    {
+      "text": "cells",
+      "stage": 0,
+      "start": 7.22,
+      "end": 7.536
+    },
+    {
+      "text": "are",
+      "stage": 0,
+      "start": 7.54,
+      "end": 7.693
+    },
+    {
+      "text": "destroyed",
+      "stage": 0,
+      "start": 7.68,
+      "end": 8.078
+    },
+    {
+      "text": "or",
+      "stage": 0,
+      "start": 8.06,
+      "end": 8.23
+    },
+    {
+      "text": "lost,",
+      "stage": 0,
+      "start": 8.28,
+      "end": 8.535
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 8.54,
+      "end": 8.907
+    },
+    {
+      "text": "insulin",
+      "stage": 0,
+      "start": 9.0,
+      "end": 9.351
+    },
+    {
+      "text": "production",
+      "stage": 0,
+      "start": 9.34,
+      "end": 9.76
+    },
+    {
+      "text": "falls.",
+      "stage": 0,
+      "start": 9.74,
+      "end": 10.184
+    },
+    {
+      "text": "Watch",
+      "stage": 0,
+      "start": 10.82,
+      "end": 11.008
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 10.98,
+      "end": 11.173
+    },
+    {
+      "text": "declining",
+      "stage": 0,
+      "start": 11.18,
+      "end": 11.578
+    },
+    {
+      "text": "insulin",
+      "stage": 0,
+      "start": 11.56,
+      "end": 11.997
+    },
+    {
+      "text": "supply.",
+      "stage": 0,
+      "start": 12.0,
+      "end": 12.46
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 13.1,
+      "end": 13.19
+    },
+    {
+      "text": "type",
+      "stage": 1,
+      "start": 13.16,
+      "end": 13.37
+    },
+    {
+      "text": "two",
+      "stage": 1,
+      "start": 13.36,
+      "end": 13.62
+    },
+    {
+      "text": "diabetes,",
+      "stage": 1,
+      "start": 13.66,
+      "end": 14.175
+    },
+    {
+      "text": "insulin",
+      "stage": 1,
+      "start": 14.82,
+      "end": 15.154
+    },
+    {
+      "text": "resistance",
+      "stage": 1,
+      "start": 15.14,
+      "end": 15.65
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 15.64,
+      "end": 15.94
+    },
+    {
+      "text": "decreased",
+      "stage": 1,
+      "start": 16.0,
+      "end": 16.469
+    },
+    {
+      "text": "beta-cell",
+      "stage": 1,
+      "start": 16.46,
+      "end": 17.105
+    },
+    {
+      "text": "secretion",
+      "stage": 1,
+      "start": 17.12,
+      "end": 17.66
+    },
+    {
+      "text": "are",
+      "stage": 1,
+      "start": 17.66,
+      "end": 17.827
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 17.82,
+      "end": 17.973
+    },
+    {
+      "text": "major",
+      "stage": 1,
+      "start": 17.96,
+      "end": 18.292
+    },
+    {
+      "text": "mechanisms.",
+      "stage": 1,
+      "start": 18.3,
+      "end": 18.846
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 19.52,
+      "end": 19.647
+    },
+    {
+      "text": "liver,",
+      "stage": 1,
+      "start": 19.62,
+      "end": 19.904
+    },
+    {
+      "text": "muscle,",
+      "stage": 1,
+      "start": 20.2,
+      "end": 20.493
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 20.78,
+      "end": 20.893
+    },
+    {
+      "text": "adipose",
+      "stage": 1,
+      "start": 20.86,
+      "end": 21.314
+    },
+    {
+      "text": "tissue",
+      "stage": 1,
+      "start": 21.32,
+      "end": 21.713
+    },
+    {
+      "text": "respond",
+      "stage": 1,
+      "start": 21.72,
+      "end": 22.14
+    },
+    {
+      "text": "less",
+      "stage": 1,
+      "start": 22.14,
+      "end": 22.41
+    },
+    {
+      "text": "effectively",
+      "stage": 1,
+      "start": 22.42,
+      "end": 22.935
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 22.92,
+      "end": 23.13
+    },
+    {
+      "text": "insulin.",
+      "stage": 1,
+      "start": 23.22,
+      "end": 23.606
+    },
+    {
+      "text": "Seeing",
+      "stage": 1,
+      "start": 24.2,
+      "end": 24.477
+    },
+    {
+      "text": "insulin",
+      "stage": 1,
+      "start": 24.46,
+      "end": 24.914
+    },
+    {
+      "text": "present",
+      "stage": 1,
+      "start": 24.92,
+      "end": 25.306
+    },
+    {
+      "text": "does",
+      "stage": 1,
+      "start": 25.3,
+      "end": 25.57
+    },
+    {
+      "text": "not",
+      "stage": 1,
+      "start": 25.58,
+      "end": 25.813
+    },
+    {
+      "text": "prove",
+      "stage": 1,
+      "start": 25.84,
+      "end": 26.172
+    },
+    {
+      "text": "that",
+      "stage": 1,
+      "start": 26.18,
+      "end": 26.435
+    },
+    {
+      "text": "its",
+      "stage": 1,
+      "start": 26.44,
+      "end": 26.607
+    },
+    {
+      "text": "effect",
+      "stage": 1,
+      "start": 26.6,
+      "end": 26.86
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 26.84,
+      "end": 27.04
+    },
+    {
+      "text": "adequate.",
+      "stage": 1,
+      "start": 27.12,
+      "end": 27.495
+    },
+    {
+      "text": "Blood",
+      "stage": 2,
+      "start": 27.48,
+      "end": 28.052
+    },
+    {
+      "text": "glucose",
+      "stage": 2,
+      "start": 28.12,
+      "end": 28.42
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 28.4,
+      "end": 28.673
+    },
+    {
+      "text": "remain",
+      "stage": 2,
+      "start": 28.72,
+      "end": 28.947
+    },
+    {
+      "text": "elevated",
+      "stage": 2,
+      "start": 28.92,
+      "end": 29.488
+    },
+    {
+      "text": "in",
+      "stage": 2,
+      "start": 29.5,
+      "end": 29.67
+    },
+    {
+      "text": "both",
+      "stage": 2,
+      "start": 29.72,
+      "end": 29.96
+    },
+    {
+      "text": "comparisons.",
+      "stage": 2,
+      "start": 29.96,
+      "end": 30.584
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 31.12,
+      "end": 31.233
+    },
+    {
+      "text": "common",
+      "stage": 2,
+      "start": 31.2,
+      "end": 31.493
+    },
+    {
+      "text": "finding",
+      "stage": 2,
+      "start": 31.48,
+      "end": 31.9
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 31.9,
+      "end": 32.06
+    },
+    {
+      "text": "hyperglycemia.",
+      "stage": 2,
+      "start": 32.1,
+      "end": 33.065
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 33.46,
+      "end": 33.56
+    },
+    {
+      "text": "question",
+      "stage": 2,
+      "start": 33.52,
+      "end": 33.878
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 33.86,
+      "end": 34.01
+    },
+    {
+      "text": "whether",
+      "stage": 2,
+      "start": 34.04,
+      "end": 34.34
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 34.32,
+      "end": 34.46
+    },
+    {
+      "text": "problem",
+      "stage": 2,
+      "start": 34.44,
+      "end": 34.826
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 34.82,
+      "end": 34.98
+    },
+    {
+      "text": "secretion,",
+      "stage": 2,
+      "start": 35.02,
+      "end": 35.649
+    },
+    {
+      "text": "tissue",
+      "stage": 2,
+      "start": 36.14,
+      "end": 36.417
+    },
+    {
+      "text": "response,",
+      "stage": 2,
+      "start": 36.4,
+      "end": 36.845
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 37.1,
+      "end": 37.21
+    },
+    {
+      "text": "both.",
+      "stage": 2,
+      "start": 37.2,
+      "end": 37.485
+    },
+    {
+      "text": "Keep",
+      "stage": 3,
+      "start": 38.16,
+      "end": 38.31
+    },
+    {
+      "text": "diabetes",
+      "stage": 3,
+      "start": 38.28,
+      "end": 38.725
+    },
+    {
+      "text": "mellitus",
+      "stage": 3,
+      "start": 38.72,
+      "end": 39.235
+    },
+    {
+      "text": "separate",
+      "stage": 3,
+      "start": 39.24,
+      "end": 39.65
+    },
+    {
+      "text": "from",
+      "stage": 3,
+      "start": 39.64,
+      "end": 39.895
+    },
+    {
+      "text": "diabetes",
+      "stage": 3,
+      "start": 39.9,
+      "end": 40.363
+    },
+    {
+      "text": "insipidus.",
+      "stage": 3,
+      "start": 40.36,
+      "end": 41.238
+    },
+    {
+      "text": "Mellitus",
+      "stage": 3,
+      "start": 41.64,
+      "end": 41.998
+    },
+    {
+      "text": "concerns",
+      "stage": 3,
+      "start": 41.98,
+      "end": 42.407
+    },
+    {
+      "text": "insulin",
+      "stage": 3,
+      "start": 42.4,
+      "end": 42.974
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 43.0,
+      "end": 43.26
+    },
+    {
+      "text": "glucose.",
+      "stage": 3,
+      "start": 43.3,
+      "end": 43.669
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 44.3,
+      "end": 44.4
+    },
+    {
+      "text": "insipidus",
+      "stage": 3,
+      "start": 44.36,
+      "end": 44.971
+    },
+    {
+      "text": "lesson",
+      "stage": 3,
+      "start": 44.98,
+      "end": 45.307
+    },
+    {
+      "text": "concerns",
+      "stage": 3,
+      "start": 45.3,
+      "end": 45.78
+    },
+    {
+      "text": "antidiuretic",
+      "stage": 3,
+      "start": 45.78,
+      "end": 46.818
+    },
+    {
+      "text": "hormone",
+      "stage": 3,
+      "start": 46.82,
+      "end": 47.189
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 47.18,
+      "end": 47.56
+    },
+    {
+      "text": "urine",
+      "stage": 3,
+      "start": 47.66,
+      "end": 47.896
+    },
+    {
+      "text": "concentration.",
+      "stage": 3,
+      "start": 47.88,
+      "end": 48.457
+    }
+  ],
+  "duration": 49.056,
+  "recognitionAgreement": 1.0
+}
