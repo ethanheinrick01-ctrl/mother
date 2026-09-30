@@ -42,5 +42,101 @@
     "url": "https://commons.wikimedia.org/wiki/File:2710_Aquaporins-01.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
     "sha256": "aab3f8bd85fbb279121d37cc2e7f8ef292f3ffb9928c65421766a69fb7dc807b"
+  },
+  {
+    "chapter": 22,
+    "src": "media/figures/glucose-homeostasis.jpg",
+    "title": "Pancreatic tissue and insulin response",
+    "alt": "Pancreatic tissue and insulin response; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:1822_The_Homostatic_Regulation_of_Blood_Glucose_Levels.jpg",
+    "credit": "OpenStax College, Anatomy & Physiology (2013), CC BY 3.0",
+    "license": "3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "eb74d0c4e300e6dd2f39cb1ff87551a30813d7b8f4a3ce865e599e15ef5a701f"
+  },
+  {
+    "chapter": 23,
+    "src": "media/figures/adipose-tissue.jpg",
+    "title": "Adipose tissue illustration and histology",
+    "alt": "Adipose tissue illustration and histology; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:409_Adipose_Tissue.jpg",
+    "credit": "OpenStax College, Anatomy & Physiology (2013), CC BY 3.0",
+    "license": "3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "873ab0a6133cfb85bf731f7f1cdabc57441c21ba6a222223451ca0db1d20d8ea"
+  },
+  {
+    "chapter": 24,
+    "src": "media/figures/ovarian-cycle.jpg",
+    "title": "Ovarian and uterine cycle",
+    "alt": "Ovarian and uterine cycle; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:Figure_28_02_07.jpg",
+    "credit": "OpenStax College, Anatomy & Physiology cycle figure, CC BY 4.0",
+    "license": "4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "97098a0d13cc1895238a172f296d72ffe77528e1a42e39ae974d3e37806def79"
+  },
+  {
+    "chapter": 25,
+    "src": "media/figures/ductal-in-situ.jpg",
+    "title": "Ductal carcinoma in situ",
+    "alt": "Ductal carcinoma in situ; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:Breast_cancer_ductal_carcinoma_in_situ.jpg",
+    "credit": "National Cancer Institute / Don Bliss (2005), public domain",
+    "license": "public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "78c056239453d4c236e48687a637bdba64d59e769407245035d8b02712080794"
+  },
+  {
+    "chapter": 25,
+    "src": "media/figures/mammary-anatomy.jpg",
+    "title": "Mammary architecture within the let-down reflex plate",
+    "alt": "Mammary architecture within the let-down reflex plate; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:2922_Let_Down_Reflex-new.jpg",
+    "credit": "OpenStax College, Anatomy & Physiology (2013), CC BY 3.0",
+    "license": "3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "43abde526404cc9fb74c50527451ae7876646cf017368892363827d3317483ff"
+  },
+  {
+    "chapter": 26,
+    "src": "media/figures/testis-epididymis.jpg",
+    "title": "Testis, epididymis, and deferens anatomy",
+    "alt": "Testis, epididymis, and deferens anatomy; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:Figure_28_01_03.jpg",
+    "credit": "OpenStax Anatomy & Physiology version 8.25 (2016), CC BY 4.0",
+    "license": "4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "0b3a72c39e1c1c745b8895bb236a587cecd957e0d32f235409a6b19a9660a6c1"
+  },
+  {
+    "chapter": 27,
+    "src": "media/figures/lymphatic-system.jpg",
+    "title": "Lymphatic anatomy and capillary network",
+    "alt": "Lymphatic anatomy and capillary network; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:2201_Anatomy_of_the_Lymphatic_System.jpg",
+    "credit": "OpenStax College, Anatomy & Physiology (2013), CC BY 3.0",
+    "license": "3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "ac20d8e1485ee33bd077d34a940a089a5246393864986a725ff2853d5a90d018"
+  },
+  {
+    "chapter": 27,
+    "src": "media/figures/treponema-pallidum.jpg",
+    "title": "Treponema pallidum electron micrograph",
+    "alt": "Treponema pallidum electron micrograph; original scholarly reference",
+    "url": "https://commons.wikimedia.org/wiki/File:Treponema_pallidum.jpg",
+    "credit": "CDC / Dr. David Cox, PHIL 1977, public domain",
+    "license": "public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "notice": "Original reference image. The film is an adaptation with schematic timing, scale, quantities, and motion. Supplemental figures do not fill missing textbook details or enlarge the tested question pool.",
+    "sha256": "3b042d271d9356ed8054bde8df4af9de34ceff4bc0fc4cbb7a8b7bcdc88c7188"
   }
 ]

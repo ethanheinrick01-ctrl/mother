@@ -1,0 +1,167 @@
+{
+  "22": {
+    "title": "Insulin: supply and tissue response",
+    "sources": [
+      "CH22S56",
+      "CH22S59",
+      "CH22S65",
+      "CH22S67",
+      "CH22S17"
+    ],
+    "stages": [
+      {
+        "title": "Insulin supply",
+        "text": "Two different failures can raise blood glucose. Start with the pancreatic beta cells. In type one diabetes, beta cells are destroyed or lost, and insulin production falls. Watch the declining insulin supply."
+      },
+      {
+        "title": "Insulin response",
+        "text": "In type two diabetes, insulin resistance and decreased beta-cell secretion are the major mechanisms. The liver, muscle, and adipose tissue respond less effectively to insulin. Seeing insulin present does not prove that its effect is adequate."
+      },
+      {
+        "title": "Same finding, different failure",
+        "text": "Blood glucose can remain elevated in both comparisons. The common finding is hyperglycemia. The question is whether the problem is secretion, tissue response, or both."
+      },
+      {
+        "title": "Keep the disorders separate",
+        "text": "Keep diabetes mellitus separate from diabetes insipidus. Mellitus concerns insulin and glucose. The insipidus lesson concerns antidiuretic hormone and urine concentration."
+      }
+    ]
+  },
+  "23": {
+    "title": "Adipose tissue: storage, heat, and inflammation",
+    "sources": [
+      "CH23S5",
+      "CH23S6",
+      "CH23S7",
+      "CH23S8",
+      "CH23S12"
+    ],
+    "stages": [
+      {
+        "title": "White adipose tissue",
+        "text": "Adipose tissue is active tissue. White adipose stores excess energy as triglycerides and acts as an endocrine organ. Its adipokines participate in energy balance, insulin sensitivity, and inflammatory responses. Watch the stored fat expand within the illustrated cells."
+      },
+      {
+        "title": "Brown and beige tissue",
+        "text": "Brown adipose is rich in mitochondria. Cold exposure and sympathetic activation can stimulate it to generate heat through uncoupling protein one. Beige tissue can emerge within white adipose with chronic cold exposure or exercise. With warm adaptation, beige tissue can return to white adipose."
+      },
+      {
+        "title": "Inflammation and insulin sensitivity",
+        "text": "In obesity, macrophages infiltrate adipose tissue and inflammatory mediators are released. The supplied slides connect these changes with possible insulin resistance. More stored fat, altered endocrine signals, and inflammation belong to the same mechanism. Fat storage and heat production are different functions. Keep white, brown, and beige adipose distinct."
+      }
+    ]
+  },
+  "24": {
+    "title": "The ovarian cycle and the endometrium",
+    "sources": [
+      "CH24S31",
+      "CH24S32",
+      "CH24S33",
+      "CH24S34",
+      "CH24S35",
+      "CH24S36"
+    ],
+    "stages": [
+      {
+        "title": "Follicular growth",
+        "text": "Follow the ovary and the uterine lining together. Rising follicle-stimulating hormone stimulates follicular growth. One follicle becomes dominant and produces increasing estradiol. Estrogen drives proliferation of the endometrium."
+      },
+      {
+        "title": "Ovulation",
+        "text": "The luteinizing hormone surge causes ovulation. Watch the mature follicle release the ovum. Then follow the remaining follicle as it becomes the corpus luteum."
+      },
+      {
+        "title": "Secretory phase",
+        "text": "Luteinizing hormone stimulates the corpus luteum to secrete progesterone. Progesterone initiates the secretory phase. Endometrial glands and blood vessels branch and curl through the functional layer."
+      },
+      {
+        "title": "Without implantation",
+        "text": "If implantation does not occur, the corpus luteum degenerates. Estrogen and progesterone fall, and the endometrium degenerates and sheds. The hormone sequence explains the tissue sequence: follicular growth, ovulation, secretory change, and menstruation. Estrogen supports proliferation; progesterone initiates secretion."
+      }
+    ]
+  },
+  "25": {
+    "title": "Breast ducts: in situ and invasive disease",
+    "sources": [
+      "CH24S41",
+      "CH25S56",
+      "CH25S66",
+      "CH25S67",
+      "CH25CASE4",
+      "CH25CASE5"
+    ],
+    "stages": [
+      {
+        "title": "Find the duct",
+        "text": "Start with the branching breast ducts and lobules. Now move closer to the duct wall. The basement membrane is the boundary that matters in this comparison."
+      },
+      {
+        "title": "In situ disease",
+        "text": "Ductal carcinoma in situ is limited to the breast ducts and lobules without invading the basement membrane. Watch abnormal cells accumulate inside the boundary. Their number can increase while that boundary remains intact."
+      },
+      {
+        "title": "Invasive disease",
+        "text": "Invasive carcinoma crosses into surrounding tissue. Watch cells extend beyond the duct boundary in the second comparison. These are different disease states. The supplied slides do not establish that every in situ lesion will become invasive."
+      },
+      {
+        "title": "Metastatic origin",
+        "text": "The released breast case then distinguishes a breast cancer deposit in the lung from a new primary lung cancer. A tumor found in the lung can still have a breast origin. Keep location, invasion, and tumor origin separate when interpreting the case."
+      }
+    ]
+  },
+  "26": {
+    "title": "Epididymitis: follow the site and route",
+    "sources": [
+      "CH24S44",
+      "CH24S45",
+      "CH26S31",
+      "CH26S28"
+    ],
+    "stages": [
+      {
+        "title": "Locate the structures",
+        "text": "Locate the testis, epididymis, and vas deferens on the anatomical illustration. The testis produces sperm. Sperm mature in the epididymis, and the vas deferens transports them toward the urethra."
+      },
+      {
+        "title": "Follow the infection route",
+        "text": "For epididymitis, reverse that usual direction. The supplied slide describes a microorganism ascending the vas deferens from an infected bladder or urethra to reach the epididymis. Watch the highlighted inflammatory change develop at the epididymis."
+      },
+      {
+        "title": "Distinguish the affected organ",
+        "text": "Epididymitis is inflammation of the epididymis. Orchitis is infection of the testis and may occur with epididymitis. Similar pain does not make these the same affected structure."
+      },
+      {
+        "title": "Study within the source limits",
+        "text": "The epididymitis slide lists pain and the Prehn sign, with antibiotics, analgesics, ice, and scrotal elevation as treatments. It does not provide a complete organism or complication list. Those textbook details remain marked as gaps in this guide."
+      }
+    ]
+  },
+  "27": {
+    "title": "Syphilis: local, systemic, and latent disease",
+    "sources": [
+      "CH27S16",
+      "CH27S17",
+      "CH27S18",
+      "CH27S19",
+      "CH27S22"
+    ],
+    "stages": [
+      {
+        "title": "Primary disease",
+        "text": "Syphilis is caused by Treponema pallidum. In primary syphilis, focus on the local lesion: a firm, indurated, painless chancre, with firm, enlarged, nontender regional lymph nodes."
+      },
+      {
+        "title": "Systemic spread",
+        "text": "The supplied slides describe microorganisms draining with lymphatic fluid. Secondary syphilis has systemic manifestations, including low-grade fever, malaise, sore throat, generalized lymph-node enlargement, and skin or mucous-membrane lesions. Watch the local site connect with the wider lymphatic network."
+      },
+      {
+        "title": "Latent and tertiary disease",
+        "text": "Latent syphilis can be asymptomatic while medical evidence of infection remains. Absence of symptoms does not mean the infection has disappeared. Tertiary disease can include destructive gummas and neurosyphilis."
+      },
+      {
+        "title": "The closest ulcer contrast",
+        "text": "Keep the primary syphilitic chancre separate from chancroid. The supplied chancroid slide describes a painful, tender, soft chancre. Use the lesion findings and the disease stage together. This visual shows a schematic sequence, not a prediction for every patient."
+      }
+    ]
+  }
+}

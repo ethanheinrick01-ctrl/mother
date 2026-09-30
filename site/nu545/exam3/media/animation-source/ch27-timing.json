@@ -1,0 +1,828 @@
+{
+  "title": "Syphilis: local, systemic, and latent disease",
+  "sources": [
+    "CH27S16",
+    "CH27S17",
+    "CH27S18",
+    "CH27S19",
+    "CH27S22"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Primary disease",
+      "text": "Syphilis is caused by Treponema pallidum. In primary syphilis, focus on the local lesion: a firm, indurated, painless chancre, with firm, enlarged, nontender regional lymph nodes."
+    },
+    {
+      "start": 11.54,
+      "title": "Systemic spread",
+      "text": "The supplied slides describe microorganisms draining with lymphatic fluid. Secondary syphilis has systemic manifestations, including low-grade fever, malaise, sore throat, generalized lymph-node enlargement, and skin or mucous-membrane lesions. Watch the local site connect with the wider lymphatic network."
+    },
+    {
+      "start": 29.44,
+      "title": "Latent and tertiary disease",
+      "text": "Latent syphilis can be asymptomatic while medical evidence of infection remains. Absence of symptoms does not mean the infection has disappeared. Tertiary disease can include destructive gummas and neurosyphilis."
+    },
+    {
+      "start": 43.54,
+      "title": "The closest ulcer contrast",
+      "text": "Keep the primary syphilitic chancre separate from chancroid. The supplied chancroid slide describes a painful, tender, soft chancre. Use the lesion findings and the disease stage together. This visual shows a schematic sequence, not a prediction for every patient."
+    }
+  ],
+  "words": [
+    {
+      "text": "Syphilis",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.515
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 0.52,
+      "end": 0.65
+    },
+    {
+      "text": "caused",
+      "stage": 0,
+      "start": 0.66,
+      "end": 0.903
+    },
+    {
+      "text": "by",
+      "stage": 0,
+      "start": 0.88,
+      "end": 1.05
+    },
+    {
+      "text": "Treponema",
+      "stage": 0,
+      "start": 1.1,
+      "end": 1.604
+    },
+    {
+      "text": "pallidum.",
+      "stage": 0,
+      "start": 1.6,
+      "end": 2.133
+    },
+    {
+      "text": "In",
+      "stage": 0,
+      "start": 2.56,
+      "end": 2.65
+    },
+    {
+      "text": "primary",
+      "stage": 0,
+      "start": 2.62,
+      "end": 2.954
+    },
+    {
+      "text": "syphilis,",
+      "stage": 0,
+      "start": 2.94,
+      "end": 3.542
+    },
+    {
+      "text": "focus",
+      "stage": 0,
+      "start": 3.9,
+      "end": 4.12
+    },
+    {
+      "text": "on",
+      "stage": 0,
+      "start": 4.1,
+      "end": 4.28
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 4.34,
+      "end": 4.48
+    },
+    {
+      "text": "local",
+      "stage": 0,
+      "start": 4.46,
+      "end": 4.728
+    },
+    {
+      "text": "lesion:",
+      "stage": 0,
+      "start": 4.72,
+      "end": 5.13
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 5.4,
+      "end": 5.46
+    },
+    {
+      "text": "firm,",
+      "stage": 0,
+      "start": 5.46,
+      "end": 5.76
+    },
+    {
+      "text": "indurated,",
+      "stage": 0,
+      "start": 6.0,
+      "end": 6.469
+    },
+    {
+      "text": "painless",
+      "stage": 0,
+      "start": 6.46,
+      "end": 6.94
+    },
+    {
+      "text": "chancre,",
+      "stage": 0,
+      "start": 6.94,
+      "end": 7.556
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 7.64,
+      "end": 7.88
+    },
+    {
+      "text": "firm,",
+      "stage": 0,
+      "start": 7.88,
+      "end": 8.21
+    },
+    {
+      "text": "enlarged,",
+      "stage": 0,
+      "start": 8.48,
+      "end": 9.048
+    },
+    {
+      "text": "nontender",
+      "stage": 0,
+      "start": 9.3,
+      "end": 9.857
+    },
+    {
+      "text": "regional",
+      "stage": 0,
+      "start": 9.86,
+      "end": 10.393
+    },
+    {
+      "text": "lymph",
+      "stage": 0,
+      "start": 10.4,
+      "end": 10.62
+    },
+    {
+      "text": "nodes.",
+      "stage": 0,
+      "start": 10.6,
+      "end": 10.9
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 11.54,
+      "end": 11.72
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 11.72,
+      "end": 12.095
+    },
+    {
+      "text": "slides",
+      "stage": 1,
+      "start": 12.08,
+      "end": 12.557
+    },
+    {
+      "text": "describe",
+      "stage": 1,
+      "start": 12.58,
+      "end": 12.973
+    },
+    {
+      "text": "microorganisms",
+      "stage": 1,
+      "start": 12.96,
+      "end": 14.004
+    },
+    {
+      "text": "draining",
+      "stage": 1,
+      "start": 14.02,
+      "end": 14.43
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 14.42,
+      "end": 14.735
+    },
+    {
+      "text": "lymphatic",
+      "stage": 1,
+      "start": 14.76,
+      "end": 15.211
+    },
+    {
+      "text": "fluid.",
+      "stage": 1,
+      "start": 15.2,
+      "end": 15.564
+    },
+    {
+      "text": "Secondary",
+      "stage": 1,
+      "start": 16.3,
+      "end": 16.84
+    },
+    {
+      "text": "syphilis",
+      "stage": 1,
+      "start": 16.84,
+      "end": 17.285
+    },
+    {
+      "text": "has",
+      "stage": 1,
+      "start": 17.28,
+      "end": 17.473
+    },
+    {
+      "text": "systemic",
+      "stage": 1,
+      "start": 17.48,
+      "end": 17.925
+    },
+    {
+      "text": "manifestations,",
+      "stage": 1,
+      "start": 17.92,
+      "end": 18.556
+    },
+    {
+      "text": "including",
+      "stage": 1,
+      "start": 19.06,
+      "end": 19.351
+    },
+    {
+      "text": "low-grade",
+      "stage": 1,
+      "start": 19.32,
+      "end": 19.756
+    },
+    {
+      "text": "fever,",
+      "stage": 1,
+      "start": 19.74,
+      "end": 20.088
+    },
+    {
+      "text": "malaise,",
+      "stage": 1,
+      "start": 20.5,
+      "end": 20.937
+    },
+    {
+      "text": "sore",
+      "stage": 1,
+      "start": 21.16,
+      "end": 21.28
+    },
+    {
+      "text": "throat,",
+      "stage": 1,
+      "start": 21.24,
+      "end": 21.617
+    },
+    {
+      "text": "generalized",
+      "stage": 1,
+      "start": 22.0,
+      "end": 22.351
+    },
+    {
+      "text": "lymph-node",
+      "stage": 1,
+      "start": 22.32,
+      "end": 22.95
+    },
+    {
+      "text": "enlargement,",
+      "stage": 1,
+      "start": 22.96,
+      "end": 23.475
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 23.76,
+      "end": 24.06
+    },
+    {
+      "text": "skin",
+      "stage": 1,
+      "start": 24.12,
+      "end": 24.465
+    },
+    {
+      "text": "or",
+      "stage": 1,
+      "start": 24.5,
+      "end": 24.74
+    },
+    {
+      "text": "mucous-membrane",
+      "stage": 1,
+      "start": 24.86,
+      "end": 25.595
+    },
+    {
+      "text": "lesions.",
+      "stage": 1,
+      "start": 25.58,
+      "end": 26.12
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 26.76,
+      "end": 27.028
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 27.02,
+      "end": 27.227
+    },
+    {
+      "text": "local",
+      "stage": 1,
+      "start": 27.24,
+      "end": 27.476
+    },
+    {
+      "text": "site",
+      "stage": 1,
+      "start": 27.46,
+      "end": 27.745
+    },
+    {
+      "text": "connect",
+      "stage": 1,
+      "start": 27.76,
+      "end": 28.06
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 28.04,
+      "end": 28.25
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 28.24,
+      "end": 28.367
+    },
+    {
+      "text": "wider",
+      "stage": 1,
+      "start": 28.34,
+      "end": 28.576
+    },
+    {
+      "text": "lymphatic",
+      "stage": 1,
+      "start": 28.56,
+      "end": 29.047
+    },
+    {
+      "text": "network.",
+      "stage": 1,
+      "start": 29.04,
+      "end": 29.443
+    },
+    {
+      "text": "Latent",
+      "stage": 2,
+      "start": 29.44,
+      "end": 30.033
+    },
+    {
+      "text": "syphilis",
+      "stage": 2,
+      "start": 30.08,
+      "end": 30.49
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 30.48,
+      "end": 30.673
+    },
+    {
+      "text": "be",
+      "stage": 2,
+      "start": 30.68,
+      "end": 30.82
+    },
+    {
+      "text": "asymptomatic",
+      "stage": 2,
+      "start": 30.84,
+      "end": 31.597
+    },
+    {
+      "text": "while",
+      "stage": 2,
+      "start": 31.6,
+      "end": 31.932
+    },
+    {
+      "text": "medical",
+      "stage": 2,
+      "start": 31.94,
+      "end": 32.326
+    },
+    {
+      "text": "evidence",
+      "stage": 2,
+      "start": 32.32,
+      "end": 32.765
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 32.76,
+      "end": 32.93
+    },
+    {
+      "text": "infection",
+      "stage": 2,
+      "start": 32.98,
+      "end": 33.431
+    },
+    {
+      "text": "remains.",
+      "stage": 2,
+      "start": 33.42,
+      "end": 33.926
+    },
+    {
+      "text": "Absence",
+      "stage": 2,
+      "start": 35.02,
+      "end": 35.32
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 35.3,
+      "end": 35.46
+    },
+    {
+      "text": "symptoms",
+      "stage": 2,
+      "start": 35.5,
+      "end": 35.91
+    },
+    {
+      "text": "does",
+      "stage": 2,
+      "start": 35.9,
+      "end": 36.125
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 36.12,
+      "end": 36.34
+    },
+    {
+      "text": "mean",
+      "stage": 2,
+      "start": 36.36,
+      "end": 36.585
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 36.58,
+      "end": 36.733
+    },
+    {
+      "text": "infection",
+      "stage": 2,
+      "start": 36.72,
+      "end": 37.171
+    },
+    {
+      "text": "has",
+      "stage": 2,
+      "start": 37.16,
+      "end": 37.393
+    },
+    {
+      "text": "disappeared.",
+      "stage": 2,
+      "start": 37.42,
+      "end": 37.971
+    },
+    {
+      "text": "Tertiary",
+      "stage": 2,
+      "start": 38.94,
+      "end": 39.35
+    },
+    {
+      "text": "disease",
+      "stage": 2,
+      "start": 39.34,
+      "end": 39.726
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 39.72,
+      "end": 39.953
+    },
+    {
+      "text": "include",
+      "stage": 2,
+      "start": 39.98,
+      "end": 40.366
+    },
+    {
+      "text": "destructive",
+      "stage": 2,
+      "start": 40.36,
+      "end": 40.947
+    },
+    {
+      "text": "gummas",
+      "stage": 2,
+      "start": 40.94,
+      "end": 41.429
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 41.44,
+      "end": 41.647
+    },
+    {
+      "text": "neurosyphilis.",
+      "stage": 2,
+      "start": 41.66,
+      "end": 42.426
+    },
+    {
+      "text": "Keep",
+      "stage": 3,
+      "start": 43.54,
+      "end": 43.78
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 43.78,
+      "end": 43.96
+    },
+    {
+      "text": "primary",
+      "stage": 3,
+      "start": 43.96,
+      "end": 44.311
+    },
+    {
+      "text": "syphilitic",
+      "stage": 3,
+      "start": 44.3,
+      "end": 44.882
+    },
+    {
+      "text": "chancre",
+      "stage": 3,
+      "start": 44.88,
+      "end": 45.293
+    },
+    {
+      "text": "separate",
+      "stage": 3,
+      "start": 45.26,
+      "end": 45.618
+    },
+    {
+      "text": "from",
+      "stage": 3,
+      "start": 45.6,
+      "end": 45.84
+    },
+    {
+      "text": "chancroid.",
+      "stage": 3,
+      "start": 45.84,
+      "end": 46.443
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 46.98,
+      "end": 47.173
+    },
+    {
+      "text": "supplied",
+      "stage": 3,
+      "start": 47.18,
+      "end": 47.573
+    },
+    {
+      "text": "chancroid",
+      "stage": 3,
+      "start": 47.56,
+      "end": 48.064
+    },
+    {
+      "text": "slide",
+      "stage": 3,
+      "start": 48.06,
+      "end": 48.376
+    },
+    {
+      "text": "describes",
+      "stage": 3,
+      "start": 48.38,
+      "end": 48.724
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 48.7,
+      "end": 48.76
+    },
+    {
+      "text": "painful,",
+      "stage": 3,
+      "start": 48.98,
+      "end": 49.349
+    },
+    {
+      "text": "tender,",
+      "stage": 3,
+      "start": 49.56,
+      "end": 49.837
+    },
+    {
+      "text": "soft",
+      "stage": 3,
+      "start": 50.1,
+      "end": 50.4
+    },
+    {
+      "text": "chancre.",
+      "stage": 3,
+      "start": 50.42,
+      "end": 51.52
+    },
+    {
+      "text": "Use",
+      "stage": 3,
+      "start": 52.02,
+      "end": 52.2
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 52.2,
+      "end": 52.353
+    },
+    {
+      "text": "lesion",
+      "stage": 3,
+      "start": 52.34,
+      "end": 52.633
+    },
+    {
+      "text": "findings",
+      "stage": 3,
+      "start": 52.62,
+      "end": 53.03
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 53.02,
+      "end": 53.293
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 53.34,
+      "end": 53.493
+    },
+    {
+      "text": "disease",
+      "stage": 3,
+      "start": 53.48,
+      "end": 53.78
+    },
+    {
+      "text": "stage",
+      "stage": 3,
+      "start": 53.76,
+      "end": 54.076
+    },
+    {
+      "text": "together.",
+      "stage": 3,
+      "start": 54.08,
+      "end": 54.56
+    },
+    {
+      "text": "This",
+      "stage": 3,
+      "start": 55.08,
+      "end": 55.29
+    },
+    {
+      "text": "visual",
+      "stage": 3,
+      "start": 55.28,
+      "end": 55.657
+    },
+    {
+      "text": "shows",
+      "stage": 3,
+      "start": 55.66,
+      "end": 55.992
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 56.0,
+      "end": 56.06
+    },
+    {
+      "text": "schematic",
+      "stage": 3,
+      "start": 56.16,
+      "end": 56.54
+    },
+    {
+      "text": "sequence,",
+      "stage": 3,
+      "start": 56.52,
+      "end": 57.123
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 57.14,
+      "end": 57.44
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 57.5,
+      "end": 57.56
+    },
+    {
+      "text": "prediction",
+      "stage": 3,
+      "start": 57.62,
+      "end": 58.04
+    },
+    {
+      "text": "for",
+      "stage": 3,
+      "start": 58.02,
+      "end": 58.227
+    },
+    {
+      "text": "every",
+      "stage": 3,
+      "start": 58.24,
+      "end": 58.508
+    },
+    {
+      "text": "patient.",
+      "stage": 3,
+      "start": 58.5,
+      "end": 58.886
+    }
+  ],
+  "duration": 59.328,
+  "recognitionAgreement": 0.9876
+}

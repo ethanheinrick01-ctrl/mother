@@ -1,0 +1,297 @@
+[
+  {
+    "title": "ADH: hormone supply, renal response, and water balance",
+    "src": "media/adh-academic-sample.mp4",
+    "poster": "media/adh-academic-poster.jpg",
+    "captions": "media/adh-academic.vtt",
+    "sources": [
+      "CH21S25",
+      "CH21S26",
+      "CH22S14",
+      "CH22S17"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "Stimulus and sensor",
+        "text": "Higher plasma osmolality or lower circulating volume signals for ADH."
+      },
+      {
+        "start": 12.231,
+        "title": "Synthesis, storage, release",
+        "text": "Synthesis occurs in the hypothalamus. Storage and release occur in the posterior pituitary."
+      },
+      {
+        "start": 26.217,
+        "title": "Water reabsorption",
+        "text": "ADH increases collecting-duct water permeability. More water returns to blood."
+      },
+      {
+        "start": 40.193,
+        "title": "Two DI mechanisms",
+        "text": "Neurogenic DI lacks adequate ADH. Nephrogenic DI has renal insensitivity to ADH. Both impair urine concentration."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "chapters": [
+      21
+    ],
+    "status": "Visual style approved by Ethan on September 30, 2026",
+    "figureCredit": "OpenStax College, Anatomy & Physiology (2013), CC BY 3.0; cropped/rescaled; AI-assisted annotation removal on the renal figure; original water and hormone animation layers added.",
+    "transcriptSrc": "media/adh-academic.txt"
+  },
+  {
+    "title": "Insulin: supply and tissue response",
+    "chapters": [
+      22
+    ],
+    "src": "media/ch22-academic.mp4",
+    "poster": "media/ch22-academic-poster.jpg",
+    "captions": "media/ch22-academic.vtt",
+    "transcriptSrc": "media/ch22-academic.txt",
+    "sources": [
+      "CH22S56",
+      "CH22S59",
+      "CH22S65",
+      "CH22S67",
+      "CH22S17"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "Insulin supply",
+        "text": "Two different failures can raise blood glucose. Start with the pancreatic beta cells. In type one diabetes, beta cells are destroyed or lost, and insulin production falls. Watch the declining insulin supply."
+      },
+      {
+        "start": 13.1,
+        "title": "Insulin response",
+        "text": "In type two diabetes, insulin resistance and decreased beta-cell secretion are the major mechanisms. The liver, muscle, and adipose tissue respond less effectively to insulin. Seeing insulin present does not prove that its effect is adequate."
+      },
+      {
+        "start": 27.48,
+        "title": "Same finding, different failure",
+        "text": "Blood glucose can remain elevated in both comparisons. The common finding is hyperglycemia. The question is whether the problem is secretion, tissue response, or both."
+      },
+      {
+        "start": 38.16,
+        "title": "Keep the disorders separate",
+        "text": "Keep diabetes mellitus separate from diabetes insipidus. Mellitus concerns insulin and glucose. The insipidus lesson concerns antidiuretic hormone and urine concentration."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "figureCredit": "OpenStax College (2013), CC BY 3.0; cropped pancreatic, vascular and liver art; schematic hormone and glucose motion.",
+    "duration": 49.056,
+    "status": "Course-supported chapter mechanism; remaining guide gaps stay marked"
+  },
+  {
+    "title": "Adipose tissue: storage, heat, and inflammation",
+    "chapters": [
+      23
+    ],
+    "src": "media/ch23-academic.mp4",
+    "poster": "media/ch23-academic-poster.jpg",
+    "captions": "media/ch23-academic.vtt",
+    "transcriptSrc": "media/ch23-academic.txt",
+    "sources": [
+      "CH23S5",
+      "CH23S6",
+      "CH23S7",
+      "CH23S8",
+      "CH23S12"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "White adipose tissue",
+        "text": "Adipose tissue is active tissue. White adipose stores excess energy as triglycerides and acts as an endocrine organ. Its adipokines participate in energy balance, insulin sensitivity, and inflammatory responses. Watch the stored fat expand within the illustrated cells."
+      },
+      {
+        "start": 17.54,
+        "title": "Brown and beige tissue",
+        "text": "Brown adipose is rich in mitochondria. Cold exposure and sympathetic activation can stimulate it to generate heat through uncoupling protein one. Beige tissue can emerge within white adipose with chronic cold exposure or exercise. With warm adaptation, beige tissue can return to white adipose."
+      },
+      {
+        "start": 35.34,
+        "title": "Inflammation and insulin sensitivity",
+        "text": "In obesity, macrophages infiltrate adipose tissue and inflammatory mediators are released. The supplied slides connect these changes with possible insulin resistance. More stored fat, altered endocrine signals, and inflammation belong to the same mechanism. Fat storage and heat production are different functions. Keep white, brown, and beige adipose distinct."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "figureCredit": "OpenStax College (2013), CC BY 3.0; white-adipose illustration and histology, plus cropped mitochondrial artwork; schematic storage, heat and inflammatory layers.",
+    "duration": 57.24,
+    "status": "Course-supported chapter mechanism; remaining guide gaps stay marked"
+  },
+  {
+    "title": "The ovarian cycle and the endometrium",
+    "chapters": [
+      24
+    ],
+    "src": "media/ch24-academic.mp4",
+    "poster": "media/ch24-academic-poster.jpg",
+    "captions": "media/ch24-academic.vtt",
+    "transcriptSrc": "media/ch24-academic.txt",
+    "sources": [
+      "CH24S31",
+      "CH24S32",
+      "CH24S33",
+      "CH24S34",
+      "CH24S35",
+      "CH24S36"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "Follicular growth",
+        "text": "Follow the ovary and the uterine lining together. Rising follicle-stimulating hormone stimulates follicular growth. One follicle becomes dominant and produces increasing estradiol. Estrogen drives proliferation of the endometrium."
+      },
+      {
+        "start": 14.5,
+        "title": "Ovulation",
+        "text": "The luteinizing hormone surge causes ovulation. Watch the mature follicle release the ovum. Then follow the remaining follicle as it becomes the corpus luteum."
+      },
+      {
+        "start": 24.66,
+        "title": "Secretory phase",
+        "text": "Luteinizing hormone stimulates the corpus luteum to secrete progesterone. Progesterone initiates the secretory phase. Endometrial glands and blood vessels branch and curl through the functional layer."
+      },
+      {
+        "start": 36.46,
+        "title": "Without implantation",
+        "text": "If implantation does not occur, the corpus luteum degenerates. Estrogen and progesterone fall, and the endometrium degenerates and sheds. The hormone sequence explains the tissue sequence: follicular growth, ovulation, secretory change, and menstruation. Estrogen supports proliferation; progesterone initiates secretion."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "figureCredit": "OpenStax College, Anatomy & Physiology cycle illustration, CC BY 4.0; cropped/rescaled follicle and tissue states; schematic release, growth and shedding.",
+    "duration": 57.0,
+    "status": "Course-supported chapter mechanism; remaining guide gaps stay marked"
+  },
+  {
+    "title": "Breast ducts: in situ and invasive disease",
+    "chapters": [
+      25
+    ],
+    "src": "media/ch25-academic.mp4",
+    "poster": "media/ch25-academic-poster.jpg",
+    "captions": "media/ch25-academic.vtt",
+    "transcriptSrc": "media/ch25-academic.txt",
+    "sources": [
+      "CH24S41",
+      "CH25S56",
+      "CH25S66",
+      "CH25S67",
+      "CH25CASE4",
+      "CH25CASE5"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "Find the duct",
+        "text": "Start with the branching breast ducts and lobules. Now move closer to the duct wall. The basement membrane is the boundary that matters in this comparison."
+      },
+      {
+        "start": 10.2,
+        "title": "In situ disease",
+        "text": "Ductal carcinoma in situ is limited to the breast ducts and lobules without invading the basement membrane. Watch abnormal cells accumulate inside the boundary. Their number can increase while that boundary remains intact."
+      },
+      {
+        "start": 23.66,
+        "title": "Invasive disease",
+        "text": "Invasive carcinoma crosses into surrounding tissue. Watch cells extend beyond the duct boundary in the second comparison. These are different disease states. The supplied slides do not establish that every in situ lesion will become invasive."
+      },
+      {
+        "start": 38.72,
+        "title": "Metastatic origin",
+        "text": "The released breast case then distinguishes a breast cancer deposit in the lung from a new primary lung cancer. A tumor found in the lung can still have a breast origin. Keep location, invasion, and tumor origin separate when interpreting the case."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "figureCredit": "National Cancer Institute / Don Bliss (2005), public domain; OpenStax College (2013), CC BY 3.0; cropped/rescaled; added cell accumulation and boundary-crossing comparison.",
+    "duration": 54.504,
+    "status": "Course-supported chapter mechanism; remaining guide gaps stay marked"
+  },
+  {
+    "title": "Epididymitis: follow the site and route",
+    "chapters": [
+      26
+    ],
+    "src": "media/ch26-academic.mp4",
+    "poster": "media/ch26-academic-poster.jpg",
+    "captions": "media/ch26-academic.vtt",
+    "transcriptSrc": "media/ch26-academic.txt",
+    "sources": [
+      "CH24S44",
+      "CH24S45",
+      "CH26S31",
+      "CH26S28"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "Locate the structures",
+        "text": "Locate the testis, epididymis, and vas deferens on the anatomical illustration. The testis produces sperm. Sperm mature in the epididymis, and the vas deferens transports them toward the urethra."
+      },
+      {
+        "start": 12.78,
+        "title": "Follow the infection route",
+        "text": "For epididymitis, reverse that usual direction. The supplied slide describes a microorganism ascending the vas deferens from an infected bladder or urethra to reach the epididymis. Watch the highlighted inflammatory change develop at the epididymis."
+      },
+      {
+        "start": 27.64,
+        "title": "Distinguish the affected organ",
+        "text": "Epididymitis is inflammation of the epididymis. Orchitis is infection of the testis and may occur with epididymitis. Similar pain does not make these the same affected structure."
+      },
+      {
+        "start": 39.16,
+        "title": "Study within the source limits",
+        "text": "The epididymitis slide lists pain and the Prehn sign, with antibiotics, analgesics, ice, and scrotal elevation as treatments. It does not provide a complete organism or complication list. Those textbook details remain marked as gaps in this guide."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "figureCredit": "OpenStax Anatomy & Physiology (2016), CC BY 4.0; AI-assisted annotation removal with anatomy retained; original figure remains accessible; schematic route and inflammatory fields.",
+    "duration": 54.456,
+    "status": "Course-supported chapter mechanism; remaining guide gaps stay marked"
+  },
+  {
+    "title": "Syphilis: local, systemic, and latent disease",
+    "chapters": [
+      27
+    ],
+    "src": "media/ch27-academic.mp4",
+    "poster": "media/ch27-academic-poster.jpg",
+    "captions": "media/ch27-academic.vtt",
+    "transcriptSrc": "media/ch27-academic.txt",
+    "sources": [
+      "CH27S16",
+      "CH27S17",
+      "CH27S18",
+      "CH27S19",
+      "CH27S22"
+    ],
+    "stages": [
+      {
+        "start": 0,
+        "title": "Primary disease",
+        "text": "Syphilis is caused by Treponema pallidum. In primary syphilis, focus on the local lesion: a firm, indurated, painless chancre, with firm, enlarged, nontender regional lymph nodes."
+      },
+      {
+        "start": 11.54,
+        "title": "Systemic spread",
+        "text": "The supplied slides describe microorganisms draining with lymphatic fluid. Secondary syphilis has systemic manifestations, including low-grade fever, malaise, sore throat, generalized lymph-node enlargement, and skin or mucous-membrane lesions. Watch the local site connect with the wider lymphatic network."
+      },
+      {
+        "start": 29.44,
+        "title": "Latent and tertiary disease",
+        "text": "Latent syphilis can be asymptomatic while medical evidence of infection remains. Absence of symptoms does not mean the infection has disappeared. Tertiary disease can include destructive gummas and neurosyphilis."
+      },
+      {
+        "start": 43.54,
+        "title": "The closest ulcer contrast",
+        "text": "Keep the primary syphilitic chancre separate from chancroid. The supplied chancroid slide describes a painful, tender, soft chancre. Use the lesion findings and the disease stage together. This visual shows a schematic sequence, not a prediction for every patient."
+      }
+    ],
+    "voice": "AI Voice Generator \u00b7 Clear",
+    "figureCredit": "CDC / Dr. David Cox, PHIL 1977, public domain; OpenStax College (2013), CC BY 3.0; AI-assisted annotation removal from the lymphatic plate; original remains accessible; schematic microorganism movement and node involvement.",
+    "duration": 59.328,
+    "status": "Course-supported chapter mechanism; remaining guide gaps stay marked"
+  }
+]
