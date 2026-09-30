@@ -63,3 +63,10 @@ Live in-app browser verified Mom Lab → NU545 → Exam 3 and all seven chapter-
 Private QA receipts: `../media-review/seven-film-browser-qa.json`, `seven-film-phone-qa.json`, `seven-film-live-browser-qa.json`, and `seven-film-live-asset-qa.json`. Screenshot: `../media-review/NU545-seven-explainers-live.png`.
 
 Share [Mom Lab](https://ethanheinrick01-ctrl.github.io/mother/), then choose NU545 → Exam 3. Direct exam link: https://ethanheinrick01-ctrl.github.io/mother/nu545/exam3/. Studying costs $0 per use. Existing question bank and persistent storage are unchanged; no progress reset or migration is required for this update.
+
+## Checked-answer feedback colors · September 30, 2026
+
+- Shared NU545 MC renderer marks the first checked wrong option and radio red, and the saved question's correct option green. The entire “Correct answer” feedback line uses the same green token (`#4cd07d`). Unchecked drafts and unanswered ended items stay neutral; unselected correct radios remain unselected. Screen-reader labels supplement color.
+- Practice, Review, released MC cases, Boss and mocks use this renderer. Bank, engine/store, IDs, keys and saved snapshots are unchanged. CSS/app cache versions are bumped.
+- Local in-app browser QA verified neutral draft state, wrong and correct checks, shuffled options, correction/reload retaining the original wrong check, mock feedback with the timer continuing, and no horizontal overflow at 390px. All 27 existing engine checks passed; JavaScript syntax and diff checks passed. Synthetic progress was isolated on localhost.
+- Implementation is ready; Pages deployment and live browser confirmation are pending. After live verification, update the nursing skill with this accepted feedback behavior.
