@@ -1,0 +1,415 @@
+{
+  "title": "Immature tissue and differentiation",
+  "sources": "14:4,6,8",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Development",
+      "text": "Childhood cancer is not simply adult cancer occurring earlier. The supplied chapter emphasizes immature tissues and developmental origins."
+    },
+    {
+      "start": 8.72,
+      "title": "Diverging states",
+      "text": "Compare two paths. In one, immature cells mature and differentiate. In the embryonal-tumor model, tissue fails to differentiate and retains an immature pattern."
+    },
+    {
+      "start": 18.9,
+      "title": "Scope",
+      "text": "Many childhood cancers arise from mesodermal tissues. Growth timing, inherited factors and exposures belong to the same assessment; no single factor explains every case."
+    }
+  ],
+  "words": [
+    {
+      "text": "Childhood",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.433
+    },
+    {
+      "text": "cancer",
+      "stage": 0,
+      "start": 0.42,
+      "end": 0.663
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 0.64,
+      "end": 0.86
+    },
+    {
+      "text": "not",
+      "stage": 0,
+      "start": 0.96,
+      "end": 1.127
+    },
+    {
+      "text": "simply",
+      "stage": 0,
+      "start": 1.12,
+      "end": 1.53
+    },
+    {
+      "text": "adult",
+      "stage": 0,
+      "start": 1.54,
+      "end": 1.92
+    },
+    {
+      "text": "cancer",
+      "stage": 0,
+      "start": 1.94,
+      "end": 2.433
+    },
+    {
+      "text": "occurring",
+      "stage": 0,
+      "start": 2.46,
+      "end": 2.929
+    },
+    {
+      "text": "earlier.",
+      "stage": 0,
+      "start": 2.92,
+      "end": 3.391
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 3.8,
+      "end": 4.073
+    },
+    {
+      "text": "supplied",
+      "stage": 0,
+      "start": 4.12,
+      "end": 4.495
+    },
+    {
+      "text": "chapter",
+      "stage": 0,
+      "start": 4.48,
+      "end": 4.917
+    },
+    {
+      "text": "emphasizes",
+      "stage": 0,
+      "start": 4.92,
+      "end": 5.52
+    },
+    {
+      "text": "immature",
+      "stage": 0,
+      "start": 5.52,
+      "end": 6.017
+    },
+    {
+      "text": "tissues",
+      "stage": 0,
+      "start": 6.02,
+      "end": 6.509
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 6.52,
+      "end": 6.82
+    },
+    {
+      "text": "developmental",
+      "stage": 0,
+      "start": 6.88,
+      "end": 7.383
+    },
+    {
+      "text": "origins.",
+      "stage": 0,
+      "start": 7.36,
+      "end": 8.054
+    },
+    {
+      "text": "Compare",
+      "stage": 1,
+      "start": 8.72,
+      "end": 9.14
+    },
+    {
+      "text": "two",
+      "stage": 1,
+      "start": 9.14,
+      "end": 9.413
+    },
+    {
+      "text": "paths.",
+      "stage": 1,
+      "start": 9.46,
+      "end": 9.872
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 10.24,
+      "end": 10.35
+    },
+    {
+      "text": "one,",
+      "stage": 1,
+      "start": 10.34,
+      "end": 10.56
+    },
+    {
+      "text": "immature",
+      "stage": 1,
+      "start": 11.06,
+      "end": 11.278
+    },
+    {
+      "text": "cells",
+      "stage": 1,
+      "start": 11.24,
+      "end": 11.636
+    },
+    {
+      "text": "mature",
+      "stage": 1,
+      "start": 11.66,
+      "end": 12.02
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 12.02,
+      "end": 12.253
+    },
+    {
+      "text": "differentiate.",
+      "stage": 1,
+      "start": 12.28,
+      "end": 12.783
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 13.38,
+      "end": 13.58
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 13.66,
+      "end": 13.8
+    },
+    {
+      "text": "embryonal-tumor",
+      "stage": 1,
+      "start": 13.78,
+      "end": 14.508
+    },
+    {
+      "text": "model,",
+      "stage": 1,
+      "start": 14.5,
+      "end": 14.928
+    },
+    {
+      "text": "tissue",
+      "stage": 1,
+      "start": 15.34,
+      "end": 15.533
+    },
+    {
+      "text": "fails",
+      "stage": 1,
+      "start": 15.5,
+      "end": 15.832
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 15.84,
+      "end": 16.02
+    },
+    {
+      "text": "differentiate",
+      "stage": 1,
+      "start": 16.08,
+      "end": 16.638
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 16.62,
+      "end": 16.853
+    },
+    {
+      "text": "retains",
+      "stage": 1,
+      "start": 16.88,
+      "end": 17.231
+    },
+    {
+      "text": "an",
+      "stage": 1,
+      "start": 17.22,
+      "end": 17.39
+    },
+    {
+      "text": "immature",
+      "stage": 1,
+      "start": 17.44,
+      "end": 17.78
+    },
+    {
+      "text": "pattern.",
+      "stage": 1,
+      "start": 17.76,
+      "end": 18.18
+    },
+    {
+      "text": "Many",
+      "stage": 2,
+      "start": 18.9,
+      "end": 19.125
+    },
+    {
+      "text": "childhood",
+      "stage": 2,
+      "start": 19.12,
+      "end": 19.553
+    },
+    {
+      "text": "cancers",
+      "stage": 2,
+      "start": 19.54,
+      "end": 19.977
+    },
+    {
+      "text": "arise",
+      "stage": 2,
+      "start": 19.98,
+      "end": 20.376
+    },
+    {
+      "text": "from",
+      "stage": 2,
+      "start": 20.4,
+      "end": 20.685
+    },
+    {
+      "text": "mesodermal",
+      "stage": 2,
+      "start": 20.7,
+      "end": 21.269
+    },
+    {
+      "text": "tissues.",
+      "stage": 2,
+      "start": 21.26,
+      "end": 21.629
+    },
+    {
+      "text": "Growth",
+      "stage": 2,
+      "start": 22.58,
+      "end": 22.807
+    },
+    {
+      "text": "timing,",
+      "stage": 2,
+      "start": 22.78,
+      "end": 23.14
+    },
+    {
+      "text": "inherited",
+      "stage": 2,
+      "start": 23.14,
+      "end": 23.644
+    },
+    {
+      "text": "factors",
+      "stage": 2,
+      "start": 23.64,
+      "end": 24.077
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 24.08,
+      "end": 24.327
+    },
+    {
+      "text": "exposures",
+      "stage": 2,
+      "start": 24.36,
+      "end": 24.918
+    },
+    {
+      "text": "belong",
+      "stage": 2,
+      "start": 24.92,
+      "end": 25.263
+    },
+    {
+      "text": "to",
+      "stage": 2,
+      "start": 25.26,
+      "end": 25.47
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 25.56,
+      "end": 25.687
+    },
+    {
+      "text": "same",
+      "stage": 2,
+      "start": 25.66,
+      "end": 25.9
+    },
+    {
+      "text": "assessment;",
+      "stage": 2,
+      "start": 25.9,
+      "end": 26.392
+    },
+    {
+      "text": "no",
+      "stage": 2,
+      "start": 26.38,
+      "end": 26.81
+    },
+    {
+      "text": "single",
+      "stage": 2,
+      "start": 27.12,
+      "end": 27.463
+    },
+    {
+      "text": "factor",
+      "stage": 2,
+      "start": 27.46,
+      "end": 27.837
+    },
+    {
+      "text": "explains",
+      "stage": 2,
+      "start": 27.84,
+      "end": 28.268
+    },
+    {
+      "text": "every",
+      "stage": 2,
+      "start": 28.26,
+      "end": 28.608
+    },
+    {
+      "text": "case.",
+      "stage": 2,
+      "start": 28.62,
+      "end": 28.935
+    }
+  ],
+  "duration": 29.328,
+  "recognitionAgreement": 0.9962
+}

@@ -1,0 +1,409 @@
+{
+  "title": "Transcription: making the message",
+  "sources": "4:12,13",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Template",
+      "text": "Follow the DNA template. RNA polymerase binds at the promoter and builds a complementary messenger RNA strand."
+    },
+    {
+      "start": 7.18,
+      "title": "Message",
+      "text": "Watch the RNA message lengthen and leave the template. This is transcription. The DNA sequence provides the information; the RNA carries a copy."
+    },
+    {
+      "start": 15.92,
+      "title": "Next step",
+      "text": "Translation comes next at a ribosome. Transfer RNA matches messenger codons while a polypeptide is assembled. Do not confuse message production with protein assembly."
+    }
+  ],
+  "words": [
+    {
+      "text": "Follow",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.327
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 0.32,
+      "end": 0.54
+    },
+    {
+      "text": "DNA",
+      "stage": 0,
+      "start": 0.56,
+      "end": 0.78
+    },
+    {
+      "text": "template.",
+      "stage": 0,
+      "start": 0.8,
+      "end": 1.333
+    },
+    {
+      "text": "RNA",
+      "stage": 0,
+      "start": 1.88,
+      "end": 2.113
+    },
+    {
+      "text": "polymerase",
+      "stage": 0,
+      "start": 2.14,
+      "end": 2.776
+    },
+    {
+      "text": "binds",
+      "stage": 0,
+      "start": 2.78,
+      "end": 3.032
+    },
+    {
+      "text": "at",
+      "stage": 0,
+      "start": 3.02,
+      "end": 3.19
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 3.24,
+      "end": 3.38
+    },
+    {
+      "text": "promoter",
+      "stage": 0,
+      "start": 3.36,
+      "end": 3.822
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 3.82,
+      "end": 4.16
+    },
+    {
+      "text": "builds",
+      "stage": 0,
+      "start": 4.24,
+      "end": 4.5
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 4.48,
+      "end": 4.54
+    },
+    {
+      "text": "complementary",
+      "stage": 0,
+      "start": 4.62,
+      "end": 5.234
+    },
+    {
+      "text": "messenger",
+      "stage": 0,
+      "start": 5.22,
+      "end": 5.76
+    },
+    {
+      "text": "RNA",
+      "stage": 0,
+      "start": 5.76,
+      "end": 6.073
+    },
+    {
+      "text": "strand.",
+      "stage": 0,
+      "start": 6.14,
+      "end": 6.6
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 7.18,
+      "end": 7.336
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 7.3,
+      "end": 7.493
+    },
+    {
+      "text": "RNA",
+      "stage": 1,
+      "start": 7.5,
+      "end": 7.72
+    },
+    {
+      "text": "message",
+      "stage": 1,
+      "start": 7.74,
+      "end": 8.126
+    },
+    {
+      "text": "lengthen",
+      "stage": 1,
+      "start": 8.12,
+      "end": 8.617
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 8.62,
+      "end": 8.827
+    },
+    {
+      "text": "leave",
+      "stage": 1,
+      "start": 8.84,
+      "end": 9.06
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 9.04,
+      "end": 9.233
+    },
+    {
+      "text": "template.",
+      "stage": 1,
+      "start": 9.24,
+      "end": 9.598
+    },
+    {
+      "text": "This",
+      "stage": 1,
+      "start": 10.12,
+      "end": 10.27
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 10.24,
+      "end": 10.37
+    },
+    {
+      "text": "transcription.",
+      "stage": 1,
+      "start": 10.38,
+      "end": 10.902
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 11.5,
+      "end": 11.613
+    },
+    {
+      "text": "DNA",
+      "stage": 1,
+      "start": 11.58,
+      "end": 11.84
+    },
+    {
+      "text": "sequence",
+      "stage": 1,
+      "start": 11.88,
+      "end": 12.43
+    },
+    {
+      "text": "provides",
+      "stage": 1,
+      "start": 12.44,
+      "end": 12.85
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 12.84,
+      "end": 13.073
+    },
+    {
+      "text": "information;",
+      "stage": 1,
+      "start": 13.1,
+      "end": 13.633
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 14.0,
+      "end": 14.14
+    },
+    {
+      "text": "RNA",
+      "stage": 1,
+      "start": 14.12,
+      "end": 14.38
+    },
+    {
+      "text": "carries",
+      "stage": 1,
+      "start": 14.42,
+      "end": 14.891
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 14.9,
+      "end": 14.96
+    },
+    {
+      "text": "copy.",
+      "stage": 1,
+      "start": 15.06,
+      "end": 15.36
+    },
+    {
+      "text": "Translation",
+      "stage": 2,
+      "start": 15.92,
+      "end": 16.38
+    },
+    {
+      "text": "comes",
+      "stage": 2,
+      "start": 16.36,
+      "end": 16.644
+    },
+    {
+      "text": "next",
+      "stage": 2,
+      "start": 16.64,
+      "end": 16.925
+    },
+    {
+      "text": "at",
+      "stage": 2,
+      "start": 16.94,
+      "end": 17.1
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 17.14,
+      "end": 17.2
+    },
+    {
+      "text": "ribosome.",
+      "stage": 2,
+      "start": 17.24,
+      "end": 17.79
+    },
+    {
+      "text": "Transfer",
+      "stage": 2,
+      "start": 18.34,
+      "end": 18.732
+    },
+    {
+      "text": "RNA",
+      "stage": 2,
+      "start": 18.72,
+      "end": 19.06
+    },
+    {
+      "text": "matches",
+      "stage": 2,
+      "start": 19.14,
+      "end": 19.629
+    },
+    {
+      "text": "messenger",
+      "stage": 2,
+      "start": 19.64,
+      "end": 20.198
+    },
+    {
+      "text": "codons",
+      "stage": 2,
+      "start": 20.2,
+      "end": 20.693
+    },
+    {
+      "text": "while",
+      "stage": 2,
+      "start": 20.72,
+      "end": 20.924
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 20.9,
+      "end": 20.96
+    },
+    {
+      "text": "polypeptide",
+      "stage": 2,
+      "start": 21.06,
+      "end": 21.629
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 21.62,
+      "end": 21.78
+    },
+    {
+      "text": "assembled.",
+      "stage": 2,
+      "start": 21.82,
+      "end": 22.2
+    },
+    {
+      "text": "Do",
+      "stage": 2,
+      "start": 22.68,
+      "end": 22.79
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 22.78,
+      "end": 22.973
+    },
+    {
+      "text": "confuse",
+      "stage": 2,
+      "start": 22.98,
+      "end": 23.366
+    },
+    {
+      "text": "message",
+      "stage": 2,
+      "start": 23.36,
+      "end": 23.746
+    },
+    {
+      "text": "production",
+      "stage": 2,
+      "start": 23.74,
+      "end": 24.124
+    },
+    {
+      "text": "with",
+      "stage": 2,
+      "start": 24.1,
+      "end": 24.475
+    },
+    {
+      "text": "protein",
+      "stage": 2,
+      "start": 24.52,
+      "end": 24.906
+    },
+    {
+      "text": "assembly.",
+      "stage": 2,
+      "start": 24.9,
+      "end": 25.38
+    }
+  ],
+  "duration": 26.184,
+  "recognitionAgreement": 0.9971
+}

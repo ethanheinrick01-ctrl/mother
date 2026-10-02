@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-02",
+  "owner": "Codex root personally; no subagents",
+  "baseline": "9c058c6",
+  "branch": "NU545-exam7",
+  "buildPercent": 100,
+  "sourceCoverage": {
+    "direct": 133,
+    "partial": 13,
+    "missing": 20,
+    "total": 166,
+    "directPercent": 80.1
+  },
+  "automated": {
+    "command": "node --test tests/*.test.cjs",
+    "passed": 71,
+    "failed": 0,
+    "skillValidator": {
+      "result": "pass",
+      "errors": 0,
+      "warnings": 0,
+      "adapter": "Only URL cache query stripping; unmodified validator otherwise treats query strings as filenames"
+    },
+    "syntax": "app.js, course.js and media.js pass node --check"
+  },
+  "browser": {
+    "tool": "CUA Chrome ordinary UI/native controls and read-only DOM",
+    "origins": {
+      "primaryQA": "http://127.0.0.1:8877",
+      "freshRestoreQA": "http://127.0.0.1:8878",
+      "privateHarness": "http://127.0.0.1:8879",
+      "cleanPreview": "http://localhost:8877"
+    },
+    "chapterFilmPlaybackCaptionsSeeking": [
+      4,
+      5,
+      6,
+      12,
+      13,
+      14,
+      46,
+      47,
+      48,
+      49
+    ],
+    "mockForms": {
+      "A": "20/20 synthetic first-answer checks",
+      "B": "20/20 synthetic first-answer checks",
+      "C": "20/20 synthetic first-answer checks"
+    },
+    "boss": "25/25 synthetic first-answer checks",
+    "cases": "All ten original synthesis cases inspected, drafted, model revealed and self-check saved",
+    "editorial": "All 120 MC in rendered private editorial sheet, not a sample; all ten cases in app",
+    "feedback": "Pre-check neutral; selected wrong text/radio red; unselected key text/radio green; full correct-answer line same green; other distractors neutral",
+    "confidence": "Required before check; draft/confidence survive reload",
+    "corrections": "Separate correction persists; first wrong response remains scored",
+    "assistance": "Hint history survives reload and excludes assisted mastery evidence",
+    "notesAndCrossTab": "Chapter 4 and 5 notes exchanged both directions across two tabs; all runs retained",
+    "timer": "Active mock remained elapsed across reload; completed Mock A frozen at 29:17 remaining when finished after fix",
+    "backup": "Actual JSON download read from disk; full 429929-character paste import into fresh origin restored 64 attempts, six runs, one correction, notes, saved old question versions and 30/30 synthetic mastery; reload preserved restoration",
+    "phone": "Actual 390 CSS-pixel iframe; home, nine other modes, ten chapter documents and expanded question/source all clientWidth=scrollWidth=390; keyboard answer/confidence/check succeeded",
+    "cleanPreview": "Zero attempts, zero runs and 0/30 mastered before opening chapter; no real learner history touched",
+    "consoleErrors": "None observed in final main QA and clean preview tab logs"
+  },
+  "limitations": [
+    "File-picker upload path not browser-verified: extension Allow access to file URLs was disabled. Complete download and pasted JSON restore were verified. No permission change made.",
+    "390-pixel layout exercised in a real Chrome iframe, not a physical phone or claimed device emulator. Browser viewport override did not resize the app window.",
+    "Thirty-minute real-time expiration was not awaited. Active elapsed time/reload and frozen completed time were browser-verified; expiry and stale-answer rejection were tested with the engine clock.",
+    "Raw debugger commands were denied by automatic browser approval review. No bypass was attempted; ordinary native UI completed playback and assessment checks.",
+    "Textbook missing, official count/time/weights unknown, and 33 components partial or missing. These remain visible in the app. No live deployment QA is claimed."
+  ],
+  "privateEvidenceHashes": {
+    "automated-tests.tap": "5059c34630a026b96826ddb6ce2b516991a8b75b0bd3a25c2e824905575bbb5d",
+    "skill-validator.json": "43e8d60218e3871421a05d626f54ca459097c13dcdbc4c7f85191d9dd93a1dc0",
+    "qa-progress-export.json": "c7500bb5c6ac3c71973bc8cd7634e6db395514be0d702733ad82e496bcfc5e1b",
+    "editorial-review.html": "27d7471cafce55bdff3052cc8c9aa833dc786bd575fff5c5160f01887fa5d621",
+    "feedback-browser.jpg": "fd374707f856d2f77846da1a9b7e0302c0c6ad08a0756862e0a720e7aad12717",
+    "phone-browser.jpg": "7e4385692ae2bd9768314001abd04b6a9a7ffa619251fa9fffa89337f36791ce",
+    "clean-preview-browser.jpg": "af40bd3381d04d78e96159f5aea1a24b0a45a5a5c419d01539330b70b37bf735"
+  }
+}

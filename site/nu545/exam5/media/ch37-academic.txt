@@ -1,0 +1,9 @@
+Follow the filtrate through the loop of Henle. Its two limbs run beside each other, but they do not handle water and solute in the same way.
+
+The supplied chapter describes active sodium and chloride transport from the thick ascending limb into the medullary interstitium. This helps create a concentrated environment around the loop.
+
+Water can then leave the water-permeable descending limb, concentrating the fluid that remains inside.
+
+In the ascending limb, solute leaves while water is retained, so the tubular fluid becomes more dilute.
+
+Finally, follow the fluid toward the collecting duct. Antidiuretic hormone increases water permeability there. More water returns to the body, and final urine volume decreases. Keep the two ideas separate: the loop builds the concentration gradient, while antidiuretic hormone regulates the final water adjustment. Motion, colors, and quantities are schematic.

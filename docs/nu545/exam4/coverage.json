@@ -1,0 +1,3857 @@
+{
+  "updatedAt": "2026-10-01",
+  "prompts": [
+    {
+      "studyGuidePrompt": 1,
+      "promptVerbatim": "Know Infectious mononucleosis: patho, clinical manifestations, diagnostics, treatment & complications.",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology/etiology: Acute B-lymphocyte viral infection; EBV; salivary route Manifestations: Classic fever/pharyngitis/cervical nodes",
+      "remainingGapOrLimit": "Diagnostics: Monospot named; sensitivity, interpretation and confirmation missing Treatment: Rest and symptom relief; antibiotic indication not explained and gated Complications: No mononucleosis complication teaching supplied",
+      "sources": [
+        {
+          "sourceId": "CH29S65",
+          "locator": "CH29S65"
+        },
+        {
+          "sourceId": "CH29S66",
+          "locator": "CH29S66"
+        },
+        {
+          "sourceId": "CH29S67",
+          "locator": "CH29S67"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G01-C01",
+          "prompt": 1,
+          "component": "Pathophysiology/etiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S65"
+          ],
+          "detail": "Acute B-lymphocyte viral infection; EBV; salivary route"
+        },
+        {
+          "id": "U4-G01-C02",
+          "prompt": 1,
+          "component": "Manifestations",
+          "status": "Direct",
+          "sources": [
+            "CH29S66"
+          ],
+          "detail": "Classic fever/pharyngitis/cervical nodes"
+        },
+        {
+          "id": "U4-G01-C03",
+          "prompt": 1,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH29S66"
+          ],
+          "detail": "Monospot named; sensitivity, interpretation and confirmation missing"
+        },
+        {
+          "id": "U4-G01-C04",
+          "prompt": 1,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH29S67"
+          ],
+          "detail": "Rest and symptom relief; antibiotic indication not explained and gated"
+        },
+        {
+          "id": "U4-G01-C05",
+          "prompt": 1,
+          "component": "Complications",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No mononucleosis complication teaching supplied"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 2,
+      "promptVerbatim": "Know the leukemias: patho, clinical manifestations, diagnostics, treatment & complications",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Lineage and acute/chronic pathophysiology: ALL/AML/CML/CLL cell and progression contrasts; apoptosis wording excluded Manifestations/complications: Cytopenias, infection, bleeding, nodes and blast phase",
+      "remainingGapOrLimit": "Diagnostics: Blood/marrow named; subtype criteria missing and isolated blast cutoff gated Treatment: Treatment categories; subtype protocols and response criteria absent",
+      "sources": [
+        {
+          "sourceId": "CH29S69",
+          "locator": "CH29S69"
+        },
+        {
+          "sourceId": "CH29S70",
+          "locator": "CH29S70"
+        },
+        {
+          "sourceId": "CH29S72",
+          "locator": "CH29S72"
+        },
+        {
+          "sourceId": "CH29S74",
+          "locator": "CH29S74"
+        },
+        {
+          "sourceId": "CH29S75",
+          "locator": "CH29S75"
+        },
+        {
+          "sourceId": "CH29S76",
+          "locator": "CH29S76"
+        },
+        {
+          "sourceId": "CH29S77",
+          "locator": "CH29S77"
+        },
+        {
+          "sourceId": "CH29S79",
+          "locator": "CH29S79"
+        },
+        {
+          "sourceId": "CH29S80",
+          "locator": "CH29S80"
+        },
+        {
+          "sourceId": "CH29S81",
+          "locator": "CH29S81"
+        },
+        {
+          "sourceId": "CH29S82",
+          "locator": "CH29S82"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G02-C01",
+          "prompt": 2,
+          "component": "Lineage and acute/chronic pathophysiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S69",
+            "CH29S70",
+            "CH29S72",
+            "CH29S74",
+            "CH29S79"
+          ],
+          "detail": "ALL/AML/CML/CLL cell and progression contrasts; apoptosis wording excluded"
+        },
+        {
+          "id": "U4-G02-C02",
+          "prompt": 2,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH29S75",
+            "CH29S77",
+            "CH29S80",
+            "CH29S81"
+          ],
+          "detail": "Cytopenias, infection, bleeding, nodes and blast phase"
+        },
+        {
+          "id": "U4-G02-C03",
+          "prompt": 2,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH29S76",
+            "CH29S82"
+          ],
+          "detail": "Blood/marrow named; subtype criteria missing and isolated blast cutoff gated"
+        },
+        {
+          "id": "U4-G02-C04",
+          "prompt": 2,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH29S76",
+            "CH29S77",
+            "CH29S82"
+          ],
+          "detail": "Treatment categories; subtype protocols and response criteria absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 3,
+      "promptVerbatim": "Know multiple myeloma: patho, clinical manifestations, diagnostics, treatment, complications, electrolyte imbalances",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology: Plasma cells, M protein, light-chain renal injury Manifestations/complications/electrolytes: Lytic bone disease, renal failure, hypercalcemia, anemia, infection Treatment categories: Malignancy, skeletal, renal and infection targets at slide depth",
+      "remainingGapOrLimit": "Diagnostics: Radiographic/lab/marrow studies named, criteria absent",
+      "sources": [
+        {
+          "sourceId": "CH29S101",
+          "locator": "CH29S101"
+        },
+        {
+          "sourceId": "CH29S102",
+          "locator": "CH29S102"
+        },
+        {
+          "sourceId": "CH29S103",
+          "locator": "CH29S103"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G03-C01",
+          "prompt": 3,
+          "component": "Pathophysiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S101"
+          ],
+          "detail": "Plasma cells, M protein, light-chain renal injury"
+        },
+        {
+          "id": "U4-G03-C02",
+          "prompt": 3,
+          "component": "Manifestations/complications/electrolytes",
+          "status": "Direct",
+          "sources": [
+            "CH29S102"
+          ],
+          "detail": "Lytic bone disease, renal failure, hypercalcemia, anemia, infection"
+        },
+        {
+          "id": "U4-G03-C03",
+          "prompt": 3,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH29S102"
+          ],
+          "detail": "Radiographic/lab/marrow studies named, criteria absent"
+        },
+        {
+          "id": "U4-G03-C04",
+          "prompt": 3,
+          "component": "Treatment categories",
+          "status": "Direct",
+          "sources": [
+            "CH29S103"
+          ],
+          "detail": "Malignancy, skeletal, renal and infection targets at slide depth"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 4,
+      "promptVerbatim": "Know lymphomas: patho, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology: Hodgkin versus non-Hodgkin lineage and malignant expansion Manifestations: Painless nodes, systemic symptoms, pressure/mass effects",
+      "remainingGapOrLimit": "Diagnostics: Biopsy and imaging named, staging absent Treatment/complications: Categories and pressure effects; complete subtype complications and selection absent",
+      "sources": [
+        {
+          "sourceId": "CH29S87",
+          "locator": "CH29S87"
+        },
+        {
+          "sourceId": "CH29S88",
+          "locator": "CH29S88"
+        },
+        {
+          "sourceId": "CH29S89",
+          "locator": "CH29S89"
+        },
+        {
+          "sourceId": "CH29S90",
+          "locator": "CH29S90"
+        },
+        {
+          "sourceId": "CH29S91",
+          "locator": "CH29S91"
+        },
+        {
+          "sourceId": "CH29S92",
+          "locator": "CH29S92"
+        },
+        {
+          "sourceId": "CH29S93",
+          "locator": "CH29S93"
+        },
+        {
+          "sourceId": "CH29S94",
+          "locator": "CH29S94"
+        },
+        {
+          "sourceId": "CH29S95",
+          "locator": "CH29S95"
+        },
+        {
+          "sourceId": "CH29S96",
+          "locator": "CH29S96"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G04-C01",
+          "prompt": 4,
+          "component": "Pathophysiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S87",
+            "CH29S88",
+            "CH29S89",
+            "CH29S90",
+            "CH29S93",
+            "CH29S94"
+          ],
+          "detail": "Hodgkin versus non-Hodgkin lineage and malignant expansion"
+        },
+        {
+          "id": "U4-G04-C02",
+          "prompt": 4,
+          "component": "Manifestations",
+          "status": "Direct",
+          "sources": [
+            "CH29S91",
+            "CH29S95"
+          ],
+          "detail": "Painless nodes, systemic symptoms, pressure/mass effects"
+        },
+        {
+          "id": "U4-G04-C03",
+          "prompt": 4,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH29S91",
+            "CH29S95"
+          ],
+          "detail": "Biopsy and imaging named, staging absent"
+        },
+        {
+          "id": "U4-G04-C04",
+          "prompt": 4,
+          "component": "Treatment/complications",
+          "status": "Partial",
+          "sources": [
+            "CH29S92",
+            "CH29S96"
+          ],
+          "detail": "Categories and pressure effects; complete subtype complications and selection absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 5,
+      "promptVerbatim": "What are Reed-Sternberg cells?",
+      "status": "Direct",
+      "chapters": [
+        29
+      ],
+      "supported": "Definition and diagnostic qualifier: Often binucleate transformed B cells; necessary but not specific in supplied wording",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH29S89",
+          "locator": "CH29S89"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G05-C01",
+          "prompt": 5,
+          "component": "Definition and diagnostic qualifier",
+          "status": "Direct",
+          "sources": [
+            "CH29S89"
+          ],
+          "detail": "Often binucleate transformed B cells; necessary but not specific in supplied wording"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 6,
+      "promptVerbatim": "Know Burkitt lymphoma: patho, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology/manifestations: Aggressive B-cell NHL; jaw versus abdominal presentations Treatment categories: Chemotherapy and adjunct rituximab",
+      "remainingGapOrLimit": "Diagnostics: Biopsy/marrow named; criteria absent Complications: No specific complication account",
+      "sources": [
+        {
+          "sourceId": "CH29S97",
+          "locator": "CH29S97"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G06-C01",
+          "prompt": 6,
+          "component": "Pathophysiology/manifestations",
+          "status": "Direct",
+          "sources": [
+            "CH29S97"
+          ],
+          "detail": "Aggressive B-cell NHL; jaw versus abdominal presentations"
+        },
+        {
+          "id": "U4-G06-C02",
+          "prompt": 6,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH29S97"
+          ],
+          "detail": "Biopsy/marrow named; criteria absent"
+        },
+        {
+          "id": "U4-G06-C03",
+          "prompt": 6,
+          "component": "Treatment categories",
+          "status": "Direct",
+          "sources": [
+            "CH29S97"
+          ],
+          "detail": "Chemotherapy and adjunct rituximab"
+        },
+        {
+          "id": "U4-G06-C04",
+          "prompt": 6,
+          "component": "Complications",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No specific complication account"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 7,
+      "promptVerbatim": "Know DIC: patho, clinical manifestations, diagnostics, treatment & complications",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology: Tissue-factor activation, microthrombi, consumption and bleeding Manifestations/complications: Bleeding and organ hypoperfusion",
+      "remainingGapOrLimit": "Diagnostics: No complete diagnostic lab pattern Treatment: Goals supplied; specific replacement/anticoagulant indications absent",
+      "sources": [
+        {
+          "sourceId": "CH29S117",
+          "locator": "CH29S117"
+        },
+        {
+          "sourceId": "CH29S118",
+          "locator": "CH29S118"
+        },
+        {
+          "sourceId": "CH29S119",
+          "locator": "CH29S119"
+        },
+        {
+          "sourceId": "CH29S120",
+          "locator": "CH29S120"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G07-C01",
+          "prompt": 7,
+          "component": "Pathophysiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S117",
+            "CH29S118"
+          ],
+          "detail": "Tissue-factor activation, microthrombi, consumption and bleeding"
+        },
+        {
+          "id": "U4-G07-C02",
+          "prompt": 7,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH29S118",
+            "CH29S119"
+          ],
+          "detail": "Bleeding and organ hypoperfusion"
+        },
+        {
+          "id": "U4-G07-C03",
+          "prompt": 7,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No complete diagnostic lab pattern"
+        },
+        {
+          "id": "U4-G07-C04",
+          "prompt": 7,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH29S120"
+          ],
+          "detail": "Goals supplied; specific replacement/anticoagulant indications absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 8,
+      "promptVerbatim": "Genetic abnormalities leading to thrombus formation",
+      "status": "Partial",
+      "chapters": [
+        29,
+        30
+      ],
+      "supported": "",
+      "remainingGapOrLimit": "Genetic thrombophilia: Protein C/S and AT defects, APC resistance in notes; exact mutations and genotype risks missing",
+      "sources": [
+        {
+          "sourceId": "CH29S124",
+          "locator": "CH29S124"
+        },
+        {
+          "sourceId": "CH29S125",
+          "locator": "CH29S125"
+        },
+        {
+          "sourceId": "CH30S39",
+          "locator": "CH30S39"
+        },
+        {
+          "sourceId": "CH30S45N",
+          "locator": "CH30S45N"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G08-C01",
+          "prompt": 8,
+          "component": "Genetic thrombophilia",
+          "status": "Partial",
+          "sources": [
+            "CH29S124",
+            "CH29S125",
+            "CH30S39",
+            "CH30S45N"
+          ],
+          "detail": "Protein C/S and AT defects, APC resistance in notes; exact mutations and genotype risks missing"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 9,
+      "promptVerbatim": "Know normal/abnormal hematology values in infants",
+      "status": "Partial",
+      "chapters": [
+        28,
+        30
+      ],
+      "supported": "",
+      "remainingGapOrLimit": "Normal/abnormal infant values: Developmental trends and RBC life spans; complete numeric CBC/reference intervals missing",
+      "sources": [
+        {
+          "sourceId": "CH28S63",
+          "locator": "CH28S63"
+        },
+        {
+          "sourceId": "CH28S64",
+          "locator": "CH28S64"
+        },
+        {
+          "sourceId": "CH28S65",
+          "locator": "CH28S65"
+        },
+        {
+          "sourceId": "CH28S66",
+          "locator": "CH28S66"
+        },
+        {
+          "sourceId": "CH30S8",
+          "locator": "CH30S8"
+        },
+        {
+          "sourceId": "CH30S9",
+          "locator": "CH30S9"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G09-C01",
+          "prompt": 9,
+          "component": "Normal/abnormal infant values",
+          "status": "Partial",
+          "sources": [
+            "CH28S63",
+            "CH28S64",
+            "CH28S65",
+            "CH28S66",
+            "CH30S8",
+            "CH30S9"
+          ],
+          "detail": "Developmental trends and RBC life spans; complete numeric CBC/reference intervals missing"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 10,
+      "promptVerbatim": "Know hemolytic disease of the newborn: patho, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        30
+      ],
+      "supported": "Pathophysiology: Maternal IgG, antigen incompatibility and fetal RBC destruction Manifestations/complications: Anemia, bilirubin excess and brain deposition",
+      "remainingGapOrLimit": "Diagnostics: Coombs named; interpretation absent Treatment/prevention: RhIG, phototherapy/exchange named; indications and thresholds absent",
+      "sources": [
+        {
+          "sourceId": "CH30S14",
+          "locator": "CH30S14"
+        },
+        {
+          "sourceId": "CH30S15",
+          "locator": "CH30S15"
+        },
+        {
+          "sourceId": "CH30S16",
+          "locator": "CH30S16"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G10-C01",
+          "prompt": 10,
+          "component": "Pathophysiology",
+          "status": "Direct",
+          "sources": [
+            "CH30S14",
+            "CH30S15"
+          ],
+          "detail": "Maternal IgG, antigen incompatibility and fetal RBC destruction"
+        },
+        {
+          "id": "U4-G10-C02",
+          "prompt": 10,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH30S16"
+          ],
+          "detail": "Anemia, bilirubin excess and brain deposition"
+        },
+        {
+          "id": "U4-G10-C03",
+          "prompt": 10,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH30S16"
+          ],
+          "detail": "Coombs named; interpretation absent"
+        },
+        {
+          "id": "U4-G10-C04",
+          "prompt": 10,
+          "component": "Treatment/prevention",
+          "status": "Partial",
+          "sources": [
+            "CH30S16"
+          ],
+          "detail": "RhIG, phototherapy/exchange named; indications and thresholds absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 11,
+      "promptVerbatim": "What is kernicterus?",
+      "status": "Direct",
+      "chapters": [
+        30
+      ],
+      "supported": "Definition: Bilirubin deposited in brain, potentially fatal",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH30S16",
+          "locator": "CH30S16"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G11-C01",
+          "prompt": 11,
+          "component": "Definition",
+          "status": "Direct",
+          "sources": [
+            "CH30S16"
+          ],
+          "detail": "Bilirubin deposited in brain, potentially fatal"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 12,
+      "promptVerbatim": "Know G-6-PD: patho, inherited pattern, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        30
+      ],
+      "supported": "Pathophysiology/inheritance: X-linked recessive enzyme deficiency; oxidative damage and Heinz bodies Manifestations/complications: Episodic hemolysis, jaundice, dark urine and pain",
+      "remainingGapOrLimit": "Diagnostics: High-risk testing mentioned but assay/interpretation absent Treatment: Transfusion listed; precise indications/trigger avoidance and iron indication missing",
+      "sources": [
+        {
+          "sourceId": "CH30S18",
+          "locator": "CH30S18"
+        },
+        {
+          "sourceId": "CH30S19",
+          "locator": "CH30S19"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G12-C01",
+          "prompt": 12,
+          "component": "Pathophysiology/inheritance",
+          "status": "Direct",
+          "sources": [
+            "CH30S18"
+          ],
+          "detail": "X-linked recessive enzyme deficiency; oxidative damage and Heinz bodies"
+        },
+        {
+          "id": "U4-G12-C02",
+          "prompt": 12,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH30S19"
+          ],
+          "detail": "Episodic hemolysis, jaundice, dark urine and pain"
+        },
+        {
+          "id": "U4-G12-C03",
+          "prompt": 12,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "High-risk testing mentioned but assay/interpretation absent"
+        },
+        {
+          "id": "U4-G12-C04",
+          "prompt": 12,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH30S19"
+          ],
+          "detail": "Transfusion listed; precise indications/trigger avoidance and iron indication missing"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 13,
+      "promptVerbatim": "Know sickle cell disease: patho, inherited pattern, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        30
+      ],
+      "supported": "Pathophysiology/inheritance: HbS, recessive inheritance, stiffening/sickling triggers; amino-acid direction excluded Manifestations/complications: Distinct crises, renal concentrating defect, infection, gallstones Treatment categories: Crisis prevention, pain/infection care, fluids, hydroxyurea and hypoxia-qualified oxygen",
+      "remainingGapOrLimit": "Diagnostics: No definitive testing pathway",
+      "sources": [
+        {
+          "sourceId": "CH30S22",
+          "locator": "CH30S22"
+        },
+        {
+          "sourceId": "CH30S23",
+          "locator": "CH30S23"
+        },
+        {
+          "sourceId": "CH30S24",
+          "locator": "CH30S24"
+        },
+        {
+          "sourceId": "CH30S26",
+          "locator": "CH30S26"
+        },
+        {
+          "sourceId": "CH30S27",
+          "locator": "CH30S27"
+        },
+        {
+          "sourceId": "CH30S28",
+          "locator": "CH30S28"
+        },
+        {
+          "sourceId": "CH30S29",
+          "locator": "CH30S29"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G13-C01",
+          "prompt": 13,
+          "component": "Pathophysiology/inheritance",
+          "status": "Direct",
+          "sources": [
+            "CH30S22",
+            "CH30S23",
+            "CH30S24"
+          ],
+          "detail": "HbS, recessive inheritance, stiffening/sickling triggers; amino-acid direction excluded"
+        },
+        {
+          "id": "U4-G13-C02",
+          "prompt": 13,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH30S26",
+            "CH30S27",
+            "CH30S28"
+          ],
+          "detail": "Distinct crises, renal concentrating defect, infection, gallstones"
+        },
+        {
+          "id": "U4-G13-C03",
+          "prompt": 13,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No definitive testing pathway"
+        },
+        {
+          "id": "U4-G13-C04",
+          "prompt": 13,
+          "component": "Treatment categories",
+          "status": "Direct",
+          "sources": [
+            "CH30S29"
+          ],
+          "detail": "Crisis prevention, pain/infection care, fluids, hydroxyurea and hypoxia-qualified oxygen"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 14,
+      "promptVerbatim": "Know the thallasemias: patho, inherited pattern, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        30
+      ],
+      "supported": "Pathophysiology/inheritance: Recessive globin-production defects and alpha/beta forms Manifestations/complications: Microcytic anemia, cardiovascular burden, hydrops Treatment categories: Transfusion, chelation, counseling, transplantation",
+      "remainingGapOrLimit": "Diagnostics: No complete assay and interpretation framework",
+      "sources": [
+        {
+          "sourceId": "CH30S30",
+          "locator": "CH30S30"
+        },
+        {
+          "sourceId": "CH30S31",
+          "locator": "CH30S31"
+        },
+        {
+          "sourceId": "CH30S32",
+          "locator": "CH30S32"
+        },
+        {
+          "sourceId": "CH30S33",
+          "locator": "CH30S33"
+        },
+        {
+          "sourceId": "CH30S34",
+          "locator": "CH30S34"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G14-C01",
+          "prompt": 14,
+          "component": "Pathophysiology/inheritance",
+          "status": "Direct",
+          "sources": [
+            "CH30S30",
+            "CH30S31"
+          ],
+          "detail": "Recessive globin-production defects and alpha/beta forms"
+        },
+        {
+          "id": "U4-G14-C02",
+          "prompt": 14,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH30S32",
+            "CH30S33"
+          ],
+          "detail": "Microcytic anemia, cardiovascular burden, hydrops"
+        },
+        {
+          "id": "U4-G14-C03",
+          "prompt": 14,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No complete assay and interpretation framework"
+        },
+        {
+          "id": "U4-G14-C04",
+          "prompt": 14,
+          "component": "Treatment categories",
+          "status": "Direct",
+          "sources": [
+            "CH30S34"
+          ],
+          "detail": "Transfusion, chelation, counseling, transplantation"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 15,
+      "promptVerbatim": "Know hemophilias/bleeding disorders: patho, inherited pattern, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        30
+      ],
+      "supported": "Manifestations: Factor bleeding versus immune platelet manifestations",
+      "remainingGapOrLimit": "Pathophysiology/inheritance: A/B factor deficits, vWF defect, A recessive and vWD dominant; complete B/C inheritance missing Diagnostics: PT/PTT pattern; definitive testing absent Treatment/complications: Factor replacement and ITP approaches; inhibitors and subtype complications missing",
+      "sources": [
+        {
+          "sourceId": "CH30S35",
+          "locator": "CH30S35"
+        },
+        {
+          "sourceId": "CH30S36",
+          "locator": "CH30S36"
+        },
+        {
+          "sourceId": "CH30S37",
+          "locator": "CH30S37"
+        },
+        {
+          "sourceId": "CH30S38N",
+          "locator": "CH30S38N"
+        },
+        {
+          "sourceId": "CH30S40",
+          "locator": "CH30S40"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G15-C01",
+          "prompt": 15,
+          "component": "Pathophysiology/inheritance",
+          "status": "Partial",
+          "sources": [
+            "CH30S35",
+            "CH30S37",
+            "CH30S38N"
+          ],
+          "detail": "A/B factor deficits, vWF defect, A recessive and vWD dominant; complete B/C inheritance missing"
+        },
+        {
+          "id": "U4-G15-C02",
+          "prompt": 15,
+          "component": "Manifestations",
+          "status": "Direct",
+          "sources": [
+            "CH30S36",
+            "CH30S40"
+          ],
+          "detail": "Factor bleeding versus immune platelet manifestations"
+        },
+        {
+          "id": "U4-G15-C03",
+          "prompt": 15,
+          "component": "Diagnostics",
+          "status": "Partial",
+          "sources": [
+            "CH30S36"
+          ],
+          "detail": "PT/PTT pattern; definitive testing absent"
+        },
+        {
+          "id": "U4-G15-C04",
+          "prompt": 15,
+          "component": "Treatment/complications",
+          "status": "Partial",
+          "sources": [
+            "CH30S36",
+            "CH30S40"
+          ],
+          "detail": "Factor replacement and ITP approaches; inhibitors and subtype complications missing"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 16,
+      "promptVerbatim": "Know Heparin Induced Thrombocytopenia (HIT): patho, etiology, clinical manifestations, diagnostics, treatment and complications.",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology/etiology: IgG against heparin\u2013PF4",
+      "remainingGapOrLimit": "Manifestations/complications: Thrombocytopenia with thrombosis; full pattern absent Diagnostics: No timing, probability score or confirmatory assays Treatment: Stop heparin stated; alternative regimen absent",
+      "sources": [
+        {
+          "sourceId": "CH29S106",
+          "locator": "CH29S106"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G16-C01",
+          "prompt": 16,
+          "component": "Pathophysiology/etiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S106"
+          ],
+          "detail": "IgG against heparin\u2013PF4"
+        },
+        {
+          "id": "U4-G16-C02",
+          "prompt": 16,
+          "component": "Manifestations/complications",
+          "status": "Partial",
+          "sources": [
+            "CH29S106"
+          ],
+          "detail": "Thrombocytopenia with thrombosis; full pattern absent"
+        },
+        {
+          "id": "U4-G16-C03",
+          "prompt": 16,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No timing, probability score or confirmatory assays"
+        },
+        {
+          "id": "U4-G16-C04",
+          "prompt": 16,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH29S106"
+          ],
+          "detail": "Stop heparin stated; alternative regimen absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 17,
+      "promptVerbatim": "Know the heart: circulation (oxygenated and deoxygenated blood), chambers, valves, cardiac cycle, pressures",
+      "status": "Partial",
+      "chapters": [
+        31
+      ],
+      "supported": "Circulation/chambers/valves: Right/left oxygenation path and one-way valves Cardiac cycle: Five phases and valve opening/closing",
+      "remainingGapOrLimit": "Pressures: Pressure-wave meanings/preload/afterload; numeric chamber pressures absent",
+      "sources": [
+        {
+          "sourceId": "CH31S11",
+          "locator": "CH31S11"
+        },
+        {
+          "sourceId": "CH31S15",
+          "locator": "CH31S15"
+        },
+        {
+          "sourceId": "CH31S16",
+          "locator": "CH31S16"
+        },
+        {
+          "sourceId": "CH31S17",
+          "locator": "CH31S17"
+        },
+        {
+          "sourceId": "CH31S18",
+          "locator": "CH31S18"
+        },
+        {
+          "sourceId": "CH31S19",
+          "locator": "CH31S19"
+        },
+        {
+          "sourceId": "CH31S20",
+          "locator": "CH31S20"
+        },
+        {
+          "sourceId": "CH31S21",
+          "locator": "CH31S21"
+        },
+        {
+          "sourceId": "CH31S22",
+          "locator": "CH31S22"
+        },
+        {
+          "sourceId": "CH31S23",
+          "locator": "CH31S23"
+        },
+        {
+          "sourceId": "CH31S45",
+          "locator": "CH31S45"
+        },
+        {
+          "sourceId": "CH31S46",
+          "locator": "CH31S46"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G17-C01",
+          "prompt": 17,
+          "component": "Circulation/chambers/valves",
+          "status": "Direct",
+          "sources": [
+            "CH31S11",
+            "CH31S15",
+            "CH31S16",
+            "CH31S17",
+            "CH31S18",
+            "CH31S22",
+            "CH31S23"
+          ],
+          "detail": "Right/left oxygenation path and one-way valves"
+        },
+        {
+          "id": "U4-G17-C02",
+          "prompt": 17,
+          "component": "Cardiac cycle",
+          "status": "Direct",
+          "sources": [
+            "CH31S20",
+            "CH31S21"
+          ],
+          "detail": "Five phases and valve opening/closing"
+        },
+        {
+          "id": "U4-G17-C03",
+          "prompt": 17,
+          "component": "Pressures",
+          "status": "Partial",
+          "sources": [
+            "CH31S19",
+            "CH31S45",
+            "CH31S46"
+          ],
+          "detail": "Pressure-wave meanings/preload/afterload; numeric chamber pressures absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 18,
+      "promptVerbatim": "Know the Electrical activity of the heart as displayed on the EKG- ex-what does the QRS represent, etc.",
+      "status": "Partial",
+      "chapters": [
+        31
+      ],
+      "supported": "",
+      "remainingGapOrLimit": "ECG activity: P, PR, QRS, ST, QT; complete T-wave and abnormal-tracing coverage absent",
+      "sources": [
+        {
+          "sourceId": "CH31S29",
+          "locator": "CH31S29"
+        },
+        {
+          "sourceId": "CH31S30",
+          "locator": "CH31S30"
+        },
+        {
+          "sourceId": "CH31S31",
+          "locator": "CH31S31"
+        },
+        {
+          "sourceId": "CH31S32N",
+          "locator": "CH31S32N"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G18-C01",
+          "prompt": 18,
+          "component": "ECG activity",
+          "status": "Partial",
+          "sources": [
+            "CH31S29",
+            "CH31S30",
+            "CH31S31",
+            "CH31S32N"
+          ],
+          "detail": "P, PR, QRS, ST, QT; complete T-wave and abnormal-tracing coverage absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 19,
+      "promptVerbatim": "Know coronary artery blood flow and effects of occlusions-which part of the heart is affected by occlusion in each coronary artery",
+      "status": "Partial",
+      "chapters": [
+        31
+      ],
+      "supported": "",
+      "remainingGapOrLimit": "Coronary flow: Major branches/collaterals/drainage; full flow phases incomplete Each artery occlusion territory: No artery-by-territory mapping",
+      "sources": [
+        {
+          "sourceId": "CH31S25",
+          "locator": "CH31S25"
+        },
+        {
+          "sourceId": "CH31S26",
+          "locator": "CH31S26"
+        },
+        {
+          "sourceId": "CH31S27",
+          "locator": "CH31S27"
+        },
+        {
+          "sourceId": "CH31S28",
+          "locator": "CH31S28"
+        },
+        {
+          "sourceId": "CH31S71",
+          "locator": "CH31S71"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G19-C01",
+          "prompt": 19,
+          "component": "Coronary flow",
+          "status": "Partial",
+          "sources": [
+            "CH31S25",
+            "CH31S26",
+            "CH31S27",
+            "CH31S28",
+            "CH31S71"
+          ],
+          "detail": "Major branches/collaterals/drainage; full flow phases incomplete"
+        },
+        {
+          "id": "U4-G19-C02",
+          "prompt": 19,
+          "component": "Each artery occlusion territory",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No artery-by-territory mapping"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 20,
+      "promptVerbatim": "Know Beta 1, Beta 2 and Beta 3 receptors of the heart and how catecholamines affect each",
+      "status": "Direct",
+      "chapters": [
+        31
+      ],
+      "supported": "Beta 1/2/3 catecholamine effects: Rate/force increases, beta2 coronary flow, beta3 negative inotropy",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH31S35",
+          "locator": "CH31S35"
+        },
+        {
+          "sourceId": "CH31S36",
+          "locator": "CH31S36"
+        },
+        {
+          "sourceId": "CH31S37",
+          "locator": "CH31S37"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G20-C01",
+          "prompt": 20,
+          "component": "Beta 1/2/3 catecholamine effects",
+          "status": "Direct",
+          "sources": [
+            "CH31S35",
+            "CH31S36",
+            "CH31S37"
+          ],
+          "detail": "Rate/force increases, beta2 coronary flow, beta3 negative inotropy"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 21,
+      "promptVerbatim": "Know hypertension: patho, etiology, RAAS system effects, clinical manifestations, diagnostics, treatment and complications/effects on other organs",
+      "status": "Partial",
+      "chapters": [
+        31,
+        32
+      ],
+      "supported": "Pathophysiology/etiology: Output/resistance, primary/secondary causes and vascular remodeling Manifestations/diagnosis: Silent early disease and repeated measurement procedure Treatment categories: Risk reduction and drug classes Organ complications: MI, renal disease, stroke, encephalopathy",
+      "remainingGapOrLimit": "RAAS: Angiotensin/aldosterone effects; full cascade/feedback absent",
+      "sources": [
+        {
+          "sourceId": "CH31S68",
+          "locator": "CH31S68"
+        },
+        {
+          "sourceId": "CH32S20",
+          "locator": "CH32S20"
+        },
+        {
+          "sourceId": "CH32S21",
+          "locator": "CH32S21"
+        },
+        {
+          "sourceId": "CH32S22",
+          "locator": "CH32S22"
+        },
+        {
+          "sourceId": "CH32S23",
+          "locator": "CH32S23"
+        },
+        {
+          "sourceId": "CH32S24",
+          "locator": "CH32S24"
+        },
+        {
+          "sourceId": "CH32S25",
+          "locator": "CH32S25"
+        },
+        {
+          "sourceId": "CH32S26",
+          "locator": "CH32S26"
+        },
+        {
+          "sourceId": "CH32S27",
+          "locator": "CH32S27"
+        },
+        {
+          "sourceId": "CH32S28",
+          "locator": "CH32S28"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G21-C01",
+          "prompt": 21,
+          "component": "Pathophysiology/etiology",
+          "status": "Direct",
+          "sources": [
+            "CH32S20",
+            "CH32S21",
+            "CH32S22",
+            "CH32S23",
+            "CH32S24",
+            "CH32S25"
+          ],
+          "detail": "Output/resistance, primary/secondary causes and vascular remodeling"
+        },
+        {
+          "id": "U4-G21-C02",
+          "prompt": 21,
+          "component": "RAAS",
+          "status": "Partial",
+          "sources": [
+            "CH31S68",
+            "CH32S24"
+          ],
+          "detail": "Angiotensin/aldosterone effects; full cascade/feedback absent"
+        },
+        {
+          "id": "U4-G21-C03",
+          "prompt": 21,
+          "component": "Manifestations/diagnosis",
+          "status": "Direct",
+          "sources": [
+            "CH32S26"
+          ],
+          "detail": "Silent early disease and repeated measurement procedure"
+        },
+        {
+          "id": "U4-G21-C04",
+          "prompt": 21,
+          "component": "Treatment categories",
+          "status": "Direct",
+          "sources": [
+            "CH32S27",
+            "CH32S28"
+          ],
+          "detail": "Risk reduction and drug classes"
+        },
+        {
+          "id": "U4-G21-C05",
+          "prompt": 21,
+          "component": "Organ complications",
+          "status": "Direct",
+          "sources": [
+            "CH32S20",
+            "CH32S25"
+          ],
+          "detail": "MI, renal disease, stroke, encephalopathy"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 22,
+      "promptVerbatim": "Know Rheumatic Fever: patho, etiology, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        32
+      ],
+      "supported": "Pathophysiology/etiology: Delayed streptococcal immune response, M proteins, Aschoff bodies Manifestations/complications: Carditis, arthritis, chorea/rash/nodules and valve disease",
+      "remainingGapOrLimit": "Diagnostics: No formal diagnostic criteria/testing sequence Treatment: Antibiotics/NSAIDs named; duration/risk-based prophylaxis incomplete",
+      "sources": [
+        {
+          "sourceId": "CH32S78",
+          "locator": "CH32S78"
+        },
+        {
+          "sourceId": "CH32S83",
+          "locator": "CH32S83"
+        },
+        {
+          "sourceId": "CH32S84",
+          "locator": "CH32S84"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G22-C01",
+          "prompt": 22,
+          "component": "Pathophysiology/etiology",
+          "status": "Direct",
+          "sources": [
+            "CH32S83",
+            "CH32S84"
+          ],
+          "detail": "Delayed streptococcal immune response, M proteins, Aschoff bodies"
+        },
+        {
+          "id": "U4-G22-C02",
+          "prompt": 22,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH32S83",
+            "CH32S84",
+            "CH32S78"
+          ],
+          "detail": "Carditis, arthritis, chorea/rash/nodules and valve disease"
+        },
+        {
+          "id": "U4-G22-C03",
+          "prompt": 22,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No formal diagnostic criteria/testing sequence"
+        },
+        {
+          "id": "U4-G22-C04",
+          "prompt": 22,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH32S84"
+          ],
+          "detail": "Antibiotics/NSAIDs named; duration/risk-based prophylaxis incomplete"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 23,
+      "promptVerbatim": "Know infective endocarditis: patho, etiology, clinical manifestations, diagnostics, treatment and complications.",
+      "status": "Partial",
+      "chapters": [
+        32
+      ],
+      "supported": "Pathophysiology/etiology: Endocardial injury, adherence and infected vegetations Manifestations/complications: Fever/murmur, lesions, emboli and failure",
+      "remainingGapOrLimit": "Diagnostics: No blood-culture/echo diagnostic criteria Treatment: Weeks of antimicrobials and valve surgery; organism-specific regimens absent",
+      "sources": [
+        {
+          "sourceId": "CH32S85",
+          "locator": "CH32S85"
+        },
+        {
+          "sourceId": "CH32S86",
+          "locator": "CH32S86"
+        },
+        {
+          "sourceId": "CH32S87",
+          "locator": "CH32S87"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G23-C01",
+          "prompt": 23,
+          "component": "Pathophysiology/etiology",
+          "status": "Direct",
+          "sources": [
+            "CH32S85"
+          ],
+          "detail": "Endocardial injury, adherence and infected vegetations"
+        },
+        {
+          "id": "U4-G23-C02",
+          "prompt": 23,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH32S86"
+          ],
+          "detail": "Fever/murmur, lesions, emboli and failure"
+        },
+        {
+          "id": "U4-G23-C03",
+          "prompt": 23,
+          "component": "Diagnostics",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No blood-culture/echo diagnostic criteria"
+        },
+        {
+          "id": "U4-G23-C04",
+          "prompt": 23,
+          "component": "Treatment",
+          "status": "Partial",
+          "sources": [
+            "CH32S87"
+          ],
+          "detail": "Weeks of antimicrobials and valve surgery; organism-specific regimens absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 24,
+      "promptVerbatim": "Know heart defects in children. What kind of murmur will you hear and where? How do children compensate for heart defects?",
+      "status": "Partial",
+      "chapters": [
+        33
+      ],
+      "supported": "Defect anatomy and flow: Shunts, obstructions, mixing and underdeveloped structures",
+      "remainingGapOrLimit": "Murmur type/location: PDA type and released VSD type/location; complete lesion matrix absent Compensation: Squatting and hypertrophy supported; exact shunt-reversal claim gated, full compensation map absent",
+      "sources": [
+        {
+          "sourceId": "CH33S10",
+          "locator": "CH33S10"
+        },
+        {
+          "sourceId": "CH33S11",
+          "locator": "CH33S11"
+        },
+        {
+          "sourceId": "CH33S13",
+          "locator": "CH33S13"
+        },
+        {
+          "sourceId": "CH33S15",
+          "locator": "CH33S15"
+        },
+        {
+          "sourceId": "CH33S16",
+          "locator": "CH33S16"
+        },
+        {
+          "sourceId": "CH33S17N",
+          "locator": "CH33S17N"
+        },
+        {
+          "sourceId": "CH33S18",
+          "locator": "CH33S18"
+        },
+        {
+          "sourceId": "CH33S19",
+          "locator": "CH33S19"
+        },
+        {
+          "sourceId": "CH33S22",
+          "locator": "CH33S22"
+        },
+        {
+          "sourceId": "CH33S23",
+          "locator": "CH33S23"
+        },
+        {
+          "sourceId": "CH33S25",
+          "locator": "CH33S25"
+        },
+        {
+          "sourceId": "CH33S26",
+          "locator": "CH33S26"
+        },
+        {
+          "sourceId": "CH33S27",
+          "locator": "CH33S27"
+        },
+        {
+          "sourceId": "CH33S30",
+          "locator": "CH33S30"
+        },
+        {
+          "sourceId": "CH33S6",
+          "locator": "CH33S6"
+        },
+        {
+          "sourceId": "CH33S7",
+          "locator": "CH33S7"
+        },
+        {
+          "sourceId": "CH33S8",
+          "locator": "CH33S8"
+        },
+        {
+          "sourceId": "CH33S9",
+          "locator": "CH33S9"
+        },
+        {
+          "sourceId": "U4-C33-Q01",
+          "locator": "U4-C33-Q01"
+        },
+        {
+          "sourceId": "U4-C33-Q02",
+          "locator": "U4-C33-Q02"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G24-C01",
+          "prompt": 24,
+          "component": "Defect anatomy and flow",
+          "status": "Direct",
+          "sources": [
+            "CH33S6",
+            "CH33S8",
+            "CH33S9",
+            "CH33S11",
+            "CH33S13",
+            "CH33S15",
+            "CH33S18",
+            "CH33S19",
+            "CH33S22",
+            "CH33S23",
+            "CH33S25",
+            "CH33S26",
+            "CH33S27"
+          ],
+          "detail": "Shunts, obstructions, mixing and underdeveloped structures"
+        },
+        {
+          "id": "U4-G24-C02",
+          "prompt": 24,
+          "component": "Murmur type/location",
+          "status": "Partial",
+          "sources": [
+            "CH33S7",
+            "CH33S10",
+            "CH33S16",
+            "CH33S18",
+            "U4-C33-Q01"
+          ],
+          "detail": "PDA type and released VSD type/location; complete lesion matrix absent"
+        },
+        {
+          "id": "U4-G24-C03",
+          "prompt": 24,
+          "component": "Compensation",
+          "status": "Partial",
+          "sources": [
+            "CH33S17N",
+            "CH33S22",
+            "CH33S30",
+            "U4-C33-Q02"
+          ],
+          "detail": "Squatting and hypertrophy supported; exact shunt-reversal claim gated, full compensation map absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 25,
+      "promptVerbatim": "Know function and life span of RBCs and platelets.",
+      "status": "Direct",
+      "chapters": [
+        28
+      ],
+      "supported": "RBC function/life span: Oxygen carriage, deformability, 120 days adult Platelet function/life span: Hemostasis, nondividing fragments, 8\u201311 days",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH28S12",
+          "locator": "CH28S12"
+        },
+        {
+          "sourceId": "CH28S23",
+          "locator": "CH28S23"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G25-C01",
+          "prompt": 25,
+          "component": "RBC function/life span",
+          "status": "Direct",
+          "sources": [
+            "CH28S12"
+          ],
+          "detail": "Oxygen carriage, deformability, 120 days adult"
+        },
+        {
+          "id": "U4-G25-C02",
+          "prompt": 25,
+          "component": "Platelet function/life span",
+          "status": "Direct",
+          "sources": [
+            "CH28S23"
+          ],
+          "detail": "Hemostasis, nondividing fragments, 8\u201311 days"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 26,
+      "promptVerbatim": "Know the process of hemoglobin synthesis. What is methemoglobin?",
+      "status": "Partial",
+      "chapters": [
+        28
+      ],
+      "supported": "",
+      "remainingGapOrLimit": "Hemoglobin synthesis: Chains, heme/mitochondria and nutrients; full synthesis pathway missing, molecule count gated Methemoglobin: No supplied teaching beyond requested guide term",
+      "sources": [
+        {
+          "sourceId": "CH28S40",
+          "locator": "CH28S40"
+        },
+        {
+          "sourceId": "CH28S41",
+          "locator": "CH28S41"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G26-C01",
+          "prompt": 26,
+          "component": "Hemoglobin synthesis",
+          "status": "Partial",
+          "sources": [
+            "CH28S40",
+            "CH28S41"
+          ],
+          "detail": "Chains, heme/mitochondria and nutrients; full synthesis pathway missing, molecule count gated"
+        },
+        {
+          "id": "U4-G26-C02",
+          "prompt": 26,
+          "component": "Methemoglobin",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No supplied teaching beyond requested guide term"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 27,
+      "promptVerbatim": "Know function of all granulocytes and agranulocytes.",
+      "status": "Direct",
+      "chapters": [
+        28
+      ],
+      "supported": "Granulocytes: Neutrophil/eosinophil/basophil and mast-cell roles Agranulocytes: Lymphocytes, NK, monocytes/macrophages and dendritic functions",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH28S13",
+          "locator": "CH28S13"
+        },
+        {
+          "sourceId": "CH28S14",
+          "locator": "CH28S14"
+        },
+        {
+          "sourceId": "CH28S15",
+          "locator": "CH28S15"
+        },
+        {
+          "sourceId": "CH28S16",
+          "locator": "CH28S16"
+        },
+        {
+          "sourceId": "CH28S17",
+          "locator": "CH28S17"
+        },
+        {
+          "sourceId": "CH28S18",
+          "locator": "CH28S18"
+        },
+        {
+          "sourceId": "CH28S19",
+          "locator": "CH28S19"
+        },
+        {
+          "sourceId": "CH28S20",
+          "locator": "CH28S20"
+        },
+        {
+          "sourceId": "CH28S21",
+          "locator": "CH28S21"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G27-C01",
+          "prompt": 27,
+          "component": "Granulocytes",
+          "status": "Direct",
+          "sources": [
+            "CH28S13",
+            "CH28S14",
+            "CH28S15",
+            "CH28S16",
+            "CH28S17",
+            "CH28S18"
+          ],
+          "detail": "Neutrophil/eosinophil/basophil and mast-cell roles"
+        },
+        {
+          "id": "U4-G27-C02",
+          "prompt": 27,
+          "component": "Agranulocytes",
+          "status": "Direct",
+          "sources": [
+            "CH28S19",
+            "CH28S20",
+            "CH28S21"
+          ],
+          "detail": "Lymphocytes, NK, monocytes/macrophages and dendritic functions"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 28,
+      "promptVerbatim": "Know hematopoiesis-the process and where does it occur in the fetus, neonate, child and adult.",
+      "status": "Partial",
+      "chapters": [
+        28,
+        30
+      ],
+      "supported": "Production process: Stem cells, niches, proliferation/differentiation",
+      "remainingGapOrLimit": "Sites across fetal/neonatal/child/adult stages: Yolk/liver/marrow transition and adult locations; childhood site transition detail missing",
+      "sources": [
+        {
+          "sourceId": "CH28S30",
+          "locator": "CH28S30"
+        },
+        {
+          "sourceId": "CH28S31",
+          "locator": "CH28S31"
+        },
+        {
+          "sourceId": "CH28S32",
+          "locator": "CH28S32"
+        },
+        {
+          "sourceId": "CH28S33",
+          "locator": "CH28S33"
+        },
+        {
+          "sourceId": "CH28S34",
+          "locator": "CH28S34"
+        },
+        {
+          "sourceId": "CH28S35",
+          "locator": "CH28S35"
+        },
+        {
+          "sourceId": "CH28S36",
+          "locator": "CH28S36"
+        },
+        {
+          "sourceId": "CH30S6",
+          "locator": "CH30S6"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G28-C01",
+          "prompt": 28,
+          "component": "Production process",
+          "status": "Direct",
+          "sources": [
+            "CH28S30",
+            "CH28S31",
+            "CH28S32",
+            "CH28S33",
+            "CH28S34",
+            "CH28S35",
+            "CH28S36"
+          ],
+          "detail": "Stem cells, niches, proliferation/differentiation"
+        },
+        {
+          "id": "U4-G28-C02",
+          "prompt": 28,
+          "component": "Sites across fetal/neonatal/child/adult stages",
+          "status": "Partial",
+          "sources": [
+            "CH30S6",
+            "CH28S30",
+            "CH28S35"
+          ],
+          "detail": "Yolk/liver/marrow transition and adult locations; childhood site transition detail missing"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 29,
+      "promptVerbatim": "Know erythropoiesis and the iron cycle. What are the nutritional requirements?",
+      "status": "Partial",
+      "chapters": [
+        28
+      ],
+      "supported": "Erythropoiesis: Hypoxia\u2192renal EPO\u2192marrow; reticulocytes Nutritional requirements: Protein, B12/folate and listed supporting vitamins",
+      "remainingGapOrLimit": "Iron cycle: Recycling, storage/transport proteins, hepcidin; absorption/export steps missing",
+      "sources": [
+        {
+          "sourceId": "CH28S38",
+          "locator": "CH28S38"
+        },
+        {
+          "sourceId": "CH28S39",
+          "locator": "CH28S39"
+        },
+        {
+          "sourceId": "CH28S41",
+          "locator": "CH28S41"
+        },
+        {
+          "sourceId": "CH28S42",
+          "locator": "CH28S42"
+        },
+        {
+          "sourceId": "CH28S43N",
+          "locator": "CH28S43N"
+        },
+        {
+          "sourceId": "CH28S44",
+          "locator": "CH28S44"
+        },
+        {
+          "sourceId": "CH28S45",
+          "locator": "CH28S45"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G29-C01",
+          "prompt": 29,
+          "component": "Erythropoiesis",
+          "status": "Direct",
+          "sources": [
+            "CH28S38",
+            "CH28S39"
+          ],
+          "detail": "Hypoxia\u2192renal EPO\u2192marrow; reticulocytes"
+        },
+        {
+          "id": "U4-G29-C02",
+          "prompt": 29,
+          "component": "Iron cycle",
+          "status": "Partial",
+          "sources": [
+            "CH28S44",
+            "CH28S45"
+          ],
+          "detail": "Recycling, storage/transport proteins, hepcidin; absorption/export steps missing"
+        },
+        {
+          "id": "U4-G29-C03",
+          "prompt": 29,
+          "component": "Nutritional requirements",
+          "status": "Direct",
+          "sources": [
+            "CH28S41",
+            "CH28S42",
+            "CH28S43N"
+          ],
+          "detail": "Protein, B12/folate and listed supporting vitamins"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 30,
+      "promptVerbatim": "Know the mechanisms of hemostasis: function of the blood vessels, platelets and clotting factors. Know what regulates hemostasis. What vitamins are needed for normal clotting factor synthesis?",
+      "status": "Partial",
+      "chapters": [
+        28,
+        29
+      ],
+      "supported": "Vessel/platelet/clotting mechanisms: Plug, coagulation, retraction Regulation/fibrinolysis: Antithrombin, TFPI, C/S, plasmin",
+      "remainingGapOrLimit": "Clotting-factor synthesis vitamins: Vitamin K deficiency linked to coagulation; synthesis pathway/factor inventory absent",
+      "sources": [
+        {
+          "sourceId": "CH28S49",
+          "locator": "CH28S49"
+        },
+        {
+          "sourceId": "CH28S50",
+          "locator": "CH28S50"
+        },
+        {
+          "sourceId": "CH28S51",
+          "locator": "CH28S51"
+        },
+        {
+          "sourceId": "CH28S52",
+          "locator": "CH28S52"
+        },
+        {
+          "sourceId": "CH28S53",
+          "locator": "CH28S53"
+        },
+        {
+          "sourceId": "CH28S56",
+          "locator": "CH28S56"
+        },
+        {
+          "sourceId": "CH28S57",
+          "locator": "CH28S57"
+        },
+        {
+          "sourceId": "CH28S59",
+          "locator": "CH28S59"
+        },
+        {
+          "sourceId": "CH28S60",
+          "locator": "CH28S60"
+        },
+        {
+          "sourceId": "CH29S116",
+          "locator": "CH29S116"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G30-C01",
+          "prompt": 30,
+          "component": "Vessel/platelet/clotting mechanisms",
+          "status": "Direct",
+          "sources": [
+            "CH28S49",
+            "CH28S50",
+            "CH28S51",
+            "CH28S52",
+            "CH28S53",
+            "CH28S56",
+            "CH28S57"
+          ],
+          "detail": "Plug, coagulation, retraction"
+        },
+        {
+          "id": "U4-G30-C02",
+          "prompt": 30,
+          "component": "Regulation/fibrinolysis",
+          "status": "Direct",
+          "sources": [
+            "CH28S59",
+            "CH28S60"
+          ],
+          "detail": "Antithrombin, TFPI, C/S, plasmin"
+        },
+        {
+          "id": "U4-G30-C03",
+          "prompt": 30,
+          "component": "Clotting-factor synthesis vitamins",
+          "status": "Partial",
+          "sources": [
+            "CH29S116"
+          ],
+          "detail": "Vitamin K deficiency linked to coagulation; synthesis pathway/factor inventory absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 31,
+      "promptVerbatim": "Know function of the spleen. What happens when a patient has a splenectomy?",
+      "status": "Direct",
+      "chapters": [
+        28
+      ],
+      "supported": "Splenic functions and splenectomy: Blood filtration/storage, fetal production, immunity and increased encapsulated infection risk",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH28S26",
+          "locator": "CH28S26"
+        },
+        {
+          "sourceId": "CH28S27",
+          "locator": "CH28S27"
+        },
+        {
+          "sourceId": "CH28S44",
+          "locator": "CH28S44"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G31-C01",
+          "prompt": 31,
+          "component": "Splenic functions and splenectomy",
+          "status": "Direct",
+          "sources": [
+            "CH28S26",
+            "CH28S27",
+            "CH28S44"
+          ],
+          "detail": "Blood filtration/storage, fetal production, immunity and increased encapsulated infection risk"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 32,
+      "promptVerbatim": "Know function of lymph nodes. How are they affected by inflammation/infection? Why?",
+      "status": "Partial",
+      "chapters": [
+        28,
+        29
+      ],
+      "supported": "Lymph-node function: Lymph filtration and antigen processing",
+      "remainingGapOrLimit": "Inflammatory enlargement mechanism: Nearby lesion drainage and tender nodes; full cellular enlargement process absent",
+      "sources": [
+        {
+          "sourceId": "CH28S28",
+          "locator": "CH28S28"
+        },
+        {
+          "sourceId": "CH28S29",
+          "locator": "CH28S29"
+        },
+        {
+          "sourceId": "CH29S85",
+          "locator": "CH29S85"
+        },
+        {
+          "sourceId": "CH29S86",
+          "locator": "CH29S86"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G32-C01",
+          "prompt": 32,
+          "component": "Lymph-node function",
+          "status": "Direct",
+          "sources": [
+            "CH28S28",
+            "CH28S29"
+          ],
+          "detail": "Lymph filtration and antigen processing"
+        },
+        {
+          "id": "U4-G32-C02",
+          "prompt": 32,
+          "component": "Inflammatory enlargement mechanism",
+          "status": "Partial",
+          "sources": [
+            "CH29S85",
+            "CH29S86"
+          ],
+          "detail": "Nearby lesion drainage and tender nodes; full cellular enlargement process absent"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 33,
+      "promptVerbatim": "Know all the anemias: patho, etiology, clinical manifestations, diagnostics, treatment, compensation of the body and complications.",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Major clinical manifestations: Hypoxia and subtype clues at slide depth",
+      "remainingGapOrLimit": "All anemia etiologies/pathophysiology: Major categories covered; complete sideroblastic/subtype mechanisms absent Diagnostics/treatment/complications: Selected tests/approaches; exhaustive subtype algorithms absent Complete compensatory responses: No dedicated comprehensive physiologic compensation account",
+      "sources": [
+        {
+          "sourceId": "CH29S13",
+          "locator": "CH29S13"
+        },
+        {
+          "sourceId": "CH29S14",
+          "locator": "CH29S14"
+        },
+        {
+          "sourceId": "CH29S16",
+          "locator": "CH29S16"
+        },
+        {
+          "sourceId": "CH29S17",
+          "locator": "CH29S17"
+        },
+        {
+          "sourceId": "CH29S18",
+          "locator": "CH29S18"
+        },
+        {
+          "sourceId": "CH29S20",
+          "locator": "CH29S20"
+        },
+        {
+          "sourceId": "CH29S21",
+          "locator": "CH29S21"
+        },
+        {
+          "sourceId": "CH29S22",
+          "locator": "CH29S22"
+        },
+        {
+          "sourceId": "CH29S23",
+          "locator": "CH29S23"
+        },
+        {
+          "sourceId": "CH29S24",
+          "locator": "CH29S24"
+        },
+        {
+          "sourceId": "CH29S26",
+          "locator": "CH29S26"
+        },
+        {
+          "sourceId": "CH29S27",
+          "locator": "CH29S27"
+        },
+        {
+          "sourceId": "CH29S28",
+          "locator": "CH29S28"
+        },
+        {
+          "sourceId": "CH29S29",
+          "locator": "CH29S29"
+        },
+        {
+          "sourceId": "CH29S30",
+          "locator": "CH29S30"
+        },
+        {
+          "sourceId": "CH29S32",
+          "locator": "CH29S32"
+        },
+        {
+          "sourceId": "CH29S34",
+          "locator": "CH29S34"
+        },
+        {
+          "sourceId": "CH29S35",
+          "locator": "CH29S35"
+        },
+        {
+          "sourceId": "CH29S36",
+          "locator": "CH29S36"
+        },
+        {
+          "sourceId": "CH29S38",
+          "locator": "CH29S38"
+        },
+        {
+          "sourceId": "CH29S39",
+          "locator": "CH29S39"
+        },
+        {
+          "sourceId": "CH29S40",
+          "locator": "CH29S40"
+        },
+        {
+          "sourceId": "CH29S41",
+          "locator": "CH29S41"
+        },
+        {
+          "sourceId": "CH29S42",
+          "locator": "CH29S42"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G33-C01",
+          "prompt": 33,
+          "component": "All anemia etiologies/pathophysiology",
+          "status": "Partial",
+          "sources": [
+            "CH29S13",
+            "CH29S14",
+            "CH29S17",
+            "CH29S18",
+            "CH29S20",
+            "CH29S23",
+            "CH29S26",
+            "CH29S27",
+            "CH29S30",
+            "CH29S34",
+            "CH29S38",
+            "CH29S39",
+            "CH29S40"
+          ],
+          "detail": "Major categories covered; complete sideroblastic/subtype mechanisms absent"
+        },
+        {
+          "id": "U4-G33-C02",
+          "prompt": 33,
+          "component": "Major clinical manifestations",
+          "status": "Direct",
+          "sources": [
+            "CH29S16",
+            "CH29S21",
+            "CH29S24",
+            "CH29S28",
+            "CH29S35",
+            "CH29S41"
+          ],
+          "detail": "Hypoxia and subtype clues at slide depth"
+        },
+        {
+          "id": "U4-G33-C03",
+          "prompt": 33,
+          "component": "Diagnostics/treatment/complications",
+          "status": "Partial",
+          "sources": [
+            "CH29S22",
+            "CH29S29",
+            "CH29S32",
+            "CH29S35",
+            "CH29S36",
+            "CH29S41",
+            "CH29S42"
+          ],
+          "detail": "Selected tests/approaches; exhaustive subtype algorithms absent"
+        },
+        {
+          "id": "U4-G33-C04",
+          "prompt": 33,
+          "component": "Complete compensatory responses",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No dedicated comprehensive physiologic compensation account"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 34,
+      "promptVerbatim": "How do deficiencies in folate and B12 cause anemia?",
+      "status": "Direct",
+      "chapters": [
+        29
+      ],
+      "supported": "B12/folate mechanism: DNA/nuclear maturation failure with continuing RNA processes",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH29S18",
+          "locator": "CH29S18"
+        },
+        {
+          "sourceId": "CH29S19",
+          "locator": "CH29S19"
+        },
+        {
+          "sourceId": "CH29S20",
+          "locator": "CH29S20"
+        },
+        {
+          "sourceId": "CH29S23",
+          "locator": "CH29S23"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G34-C01",
+          "prompt": 34,
+          "component": "B12/folate mechanism",
+          "status": "Direct",
+          "sources": [
+            "CH29S18",
+            "CH29S19",
+            "CH29S20",
+            "CH29S23"
+          ],
+          "detail": "DNA/nuclear maturation failure with continuing RNA processes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 35,
+      "promptVerbatim": "Know all about vitamin B12-how is it given, how do you know vitamin B12 administration is effective?",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Administration routes: Injections or high oral doses; case absorption rationale",
+      "remainingGapOrLimit": "Evidence of effective B12 replacement: No response criteria/timeline supplied",
+      "sources": [
+        {
+          "sourceId": "CH29S22",
+          "locator": "CH29S22"
+        },
+        {
+          "sourceId": "U4-C29R-Q02",
+          "locator": "U4-C29R-Q02"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G35-C01",
+          "prompt": 35,
+          "component": "Administration routes",
+          "status": "Direct",
+          "sources": [
+            "CH29S22",
+            "U4-C29R-Q02"
+          ],
+          "detail": "Injections or high oral doses; case absorption rationale"
+        },
+        {
+          "id": "U4-G35-C02",
+          "prompt": 35,
+          "component": "Evidence of effective B12 replacement",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No response criteria/timeline supplied"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 36,
+      "promptVerbatim": "Know myeloproliferative RBC disorders: patho, etiology, clinical manifestations, diagnostics, treatment and complications",
+      "status": "Partial",
+      "chapters": [
+        29
+      ],
+      "supported": "Pathophysiology/etiology: Relative volume loss versus absolute/PV/secondary excess Manifestations/complications: Viscosity, pressure, thrombosis, pruritus, splenomegaly Treatment categories: Phlebotomy and listed pharmacologic categories",
+      "remainingGapOrLimit": "Diagnostic work-up: No complete work-up",
+      "sources": [
+        {
+          "sourceId": "CH29S43",
+          "locator": "CH29S43"
+        },
+        {
+          "sourceId": "CH29S44",
+          "locator": "CH29S44"
+        },
+        {
+          "sourceId": "CH29S45",
+          "locator": "CH29S45"
+        },
+        {
+          "sourceId": "CH29S46",
+          "locator": "CH29S46"
+        },
+        {
+          "sourceId": "CH29S47",
+          "locator": "CH29S47"
+        },
+        {
+          "sourceId": "CH29S48",
+          "locator": "CH29S48"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G36-C01",
+          "prompt": 36,
+          "component": "Pathophysiology/etiology",
+          "status": "Direct",
+          "sources": [
+            "CH29S43",
+            "CH29S44",
+            "CH29S45",
+            "CH29S46"
+          ],
+          "detail": "Relative volume loss versus absolute/PV/secondary excess"
+        },
+        {
+          "id": "U4-G36-C02",
+          "prompt": 36,
+          "component": "Manifestations/complications",
+          "status": "Direct",
+          "sources": [
+            "CH29S47"
+          ],
+          "detail": "Viscosity, pressure, thrombosis, pruritus, splenomegaly"
+        },
+        {
+          "id": "U4-G36-C03",
+          "prompt": 36,
+          "component": "Diagnostic work-up",
+          "status": "Missing",
+          "sources": [],
+          "detail": "No complete work-up"
+        },
+        {
+          "id": "U4-G36-C04",
+          "prompt": 36,
+          "component": "Treatment categories",
+          "status": "Direct",
+          "sources": [
+            "CH29S48"
+          ],
+          "detail": "Phlebotomy and listed pharmacologic categories"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 37,
+      "promptVerbatim": "What happens to leukocytes during a Type I allergic reaction?",
+      "status": "Direct",
+      "chapters": [
+        28,
+        29
+      ],
+      "supported": "Type I leukocyte changes: Eosinophil/basophil increase and mast-cell mediator release",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH28S16",
+          "locator": "CH28S16"
+        },
+        {
+          "sourceId": "CH28S17",
+          "locator": "CH28S17"
+        },
+        {
+          "sourceId": "CH28S18",
+          "locator": "CH28S18"
+        },
+        {
+          "sourceId": "CH29S60",
+          "locator": "CH29S60"
+        },
+        {
+          "sourceId": "CH29S62",
+          "locator": "CH29S62"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G37-C01",
+          "prompt": 37,
+          "component": "Type I leukocyte changes",
+          "status": "Direct",
+          "sources": [
+            "CH28S16",
+            "CH28S17",
+            "CH28S18",
+            "CH29S60",
+            "CH29S62"
+          ],
+          "detail": "Eosinophil/basophil increase and mast-cell mediator release"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 38,
+      "promptVerbatim": "What is Raynaud phenomenon and disease? Patho?",
+      "status": "Direct",
+      "chapters": [
+        32
+      ],
+      "supported": "Primary/secondary Raynaud and pathophysiology: Episodic digital vasospasm; primary unknown origin versus secondary disease; mediator imbalance in notes",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH32S42",
+          "locator": "CH32S42"
+        },
+        {
+          "sourceId": "CH32S46N",
+          "locator": "CH32S46N"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G38-C01",
+          "prompt": 38,
+          "component": "Primary/secondary Raynaud and pathophysiology",
+          "status": "Direct",
+          "sources": [
+            "CH32S42",
+            "CH32S46N"
+          ],
+          "detail": "Episodic digital vasospasm; primary unknown origin versus secondary disease; mediator imbalance in notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 39,
+      "promptVerbatim": "How do varicose veins develop? Patho?",
+      "status": "Direct",
+      "chapters": [
+        32
+      ],
+      "supported": "Varicose-vein development: Valve failure/obstruction/pump dysfunction\u2192pooling/pressure/inflammation",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "CH32S12",
+          "locator": "CH32S12"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G39-C01",
+          "prompt": 39,
+          "component": "Varicose-vein development",
+          "status": "Direct",
+          "sources": [
+            "CH32S12"
+          ],
+          "detail": "Valve failure/obstruction/pump dysfunction\u2192pooling/pressure/inflammation"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 40,
+      "promptVerbatim": "Know consequences of low albumin.",
+      "status": "Partial",
+      "chapters": [
+        28
+      ],
+      "supported": "",
+      "remainingGapOrLimit": "Low-albumin consequences: Oncotic/carrier function only; full downstream fluid/transport consequences missing",
+      "sources": [
+        {
+          "sourceId": "CH28S9",
+          "locator": "CH28S9"
+        }
+      ],
+      "components": [
+        {
+          "id": "U4-G40-C01",
+          "prompt": 40,
+          "component": "Low-albumin consequences",
+          "status": "Partial",
+          "sources": [
+            "CH28S9"
+          ],
+          "detail": "Oncotic/carrier function only; full downstream fluid/transport consequences missing"
+        }
+      ]
+    }
+  ],
+  "components": [
+    {
+      "id": "U4-G01-C01",
+      "prompt": 1,
+      "component": "Pathophysiology/etiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S65"
+      ],
+      "detail": "Acute B-lymphocyte viral infection; EBV; salivary route"
+    },
+    {
+      "id": "U4-G01-C02",
+      "prompt": 1,
+      "component": "Manifestations",
+      "status": "Direct",
+      "sources": [
+        "CH29S66"
+      ],
+      "detail": "Classic fever/pharyngitis/cervical nodes"
+    },
+    {
+      "id": "U4-G01-C03",
+      "prompt": 1,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH29S66"
+      ],
+      "detail": "Monospot named; sensitivity, interpretation and confirmation missing"
+    },
+    {
+      "id": "U4-G01-C04",
+      "prompt": 1,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH29S67"
+      ],
+      "detail": "Rest and symptom relief; antibiotic indication not explained and gated"
+    },
+    {
+      "id": "U4-G01-C05",
+      "prompt": 1,
+      "component": "Complications",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No mononucleosis complication teaching supplied"
+    },
+    {
+      "id": "U4-G02-C01",
+      "prompt": 2,
+      "component": "Lineage and acute/chronic pathophysiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S69",
+        "CH29S70",
+        "CH29S72",
+        "CH29S74",
+        "CH29S79"
+      ],
+      "detail": "ALL/AML/CML/CLL cell and progression contrasts; apoptosis wording excluded"
+    },
+    {
+      "id": "U4-G02-C02",
+      "prompt": 2,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH29S75",
+        "CH29S77",
+        "CH29S80",
+        "CH29S81"
+      ],
+      "detail": "Cytopenias, infection, bleeding, nodes and blast phase"
+    },
+    {
+      "id": "U4-G02-C03",
+      "prompt": 2,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH29S76",
+        "CH29S82"
+      ],
+      "detail": "Blood/marrow named; subtype criteria missing and isolated blast cutoff gated"
+    },
+    {
+      "id": "U4-G02-C04",
+      "prompt": 2,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH29S76",
+        "CH29S77",
+        "CH29S82"
+      ],
+      "detail": "Treatment categories; subtype protocols and response criteria absent"
+    },
+    {
+      "id": "U4-G03-C01",
+      "prompt": 3,
+      "component": "Pathophysiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S101"
+      ],
+      "detail": "Plasma cells, M protein, light-chain renal injury"
+    },
+    {
+      "id": "U4-G03-C02",
+      "prompt": 3,
+      "component": "Manifestations/complications/electrolytes",
+      "status": "Direct",
+      "sources": [
+        "CH29S102"
+      ],
+      "detail": "Lytic bone disease, renal failure, hypercalcemia, anemia, infection"
+    },
+    {
+      "id": "U4-G03-C03",
+      "prompt": 3,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH29S102"
+      ],
+      "detail": "Radiographic/lab/marrow studies named, criteria absent"
+    },
+    {
+      "id": "U4-G03-C04",
+      "prompt": 3,
+      "component": "Treatment categories",
+      "status": "Direct",
+      "sources": [
+        "CH29S103"
+      ],
+      "detail": "Malignancy, skeletal, renal and infection targets at slide depth"
+    },
+    {
+      "id": "U4-G04-C01",
+      "prompt": 4,
+      "component": "Pathophysiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S87",
+        "CH29S88",
+        "CH29S89",
+        "CH29S90",
+        "CH29S93",
+        "CH29S94"
+      ],
+      "detail": "Hodgkin versus non-Hodgkin lineage and malignant expansion"
+    },
+    {
+      "id": "U4-G04-C02",
+      "prompt": 4,
+      "component": "Manifestations",
+      "status": "Direct",
+      "sources": [
+        "CH29S91",
+        "CH29S95"
+      ],
+      "detail": "Painless nodes, systemic symptoms, pressure/mass effects"
+    },
+    {
+      "id": "U4-G04-C03",
+      "prompt": 4,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH29S91",
+        "CH29S95"
+      ],
+      "detail": "Biopsy and imaging named, staging absent"
+    },
+    {
+      "id": "U4-G04-C04",
+      "prompt": 4,
+      "component": "Treatment/complications",
+      "status": "Partial",
+      "sources": [
+        "CH29S92",
+        "CH29S96"
+      ],
+      "detail": "Categories and pressure effects; complete subtype complications and selection absent"
+    },
+    {
+      "id": "U4-G05-C01",
+      "prompt": 5,
+      "component": "Definition and diagnostic qualifier",
+      "status": "Direct",
+      "sources": [
+        "CH29S89"
+      ],
+      "detail": "Often binucleate transformed B cells; necessary but not specific in supplied wording"
+    },
+    {
+      "id": "U4-G06-C01",
+      "prompt": 6,
+      "component": "Pathophysiology/manifestations",
+      "status": "Direct",
+      "sources": [
+        "CH29S97"
+      ],
+      "detail": "Aggressive B-cell NHL; jaw versus abdominal presentations"
+    },
+    {
+      "id": "U4-G06-C02",
+      "prompt": 6,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH29S97"
+      ],
+      "detail": "Biopsy/marrow named; criteria absent"
+    },
+    {
+      "id": "U4-G06-C03",
+      "prompt": 6,
+      "component": "Treatment categories",
+      "status": "Direct",
+      "sources": [
+        "CH29S97"
+      ],
+      "detail": "Chemotherapy and adjunct rituximab"
+    },
+    {
+      "id": "U4-G06-C04",
+      "prompt": 6,
+      "component": "Complications",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No specific complication account"
+    },
+    {
+      "id": "U4-G07-C01",
+      "prompt": 7,
+      "component": "Pathophysiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S117",
+        "CH29S118"
+      ],
+      "detail": "Tissue-factor activation, microthrombi, consumption and bleeding"
+    },
+    {
+      "id": "U4-G07-C02",
+      "prompt": 7,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH29S118",
+        "CH29S119"
+      ],
+      "detail": "Bleeding and organ hypoperfusion"
+    },
+    {
+      "id": "U4-G07-C03",
+      "prompt": 7,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No complete diagnostic lab pattern"
+    },
+    {
+      "id": "U4-G07-C04",
+      "prompt": 7,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH29S120"
+      ],
+      "detail": "Goals supplied; specific replacement/anticoagulant indications absent"
+    },
+    {
+      "id": "U4-G08-C01",
+      "prompt": 8,
+      "component": "Genetic thrombophilia",
+      "status": "Partial",
+      "sources": [
+        "CH29S124",
+        "CH29S125",
+        "CH30S39",
+        "CH30S45N"
+      ],
+      "detail": "Protein C/S and AT defects, APC resistance in notes; exact mutations and genotype risks missing"
+    },
+    {
+      "id": "U4-G09-C01",
+      "prompt": 9,
+      "component": "Normal/abnormal infant values",
+      "status": "Partial",
+      "sources": [
+        "CH28S63",
+        "CH28S64",
+        "CH28S65",
+        "CH28S66",
+        "CH30S8",
+        "CH30S9"
+      ],
+      "detail": "Developmental trends and RBC life spans; complete numeric CBC/reference intervals missing"
+    },
+    {
+      "id": "U4-G10-C01",
+      "prompt": 10,
+      "component": "Pathophysiology",
+      "status": "Direct",
+      "sources": [
+        "CH30S14",
+        "CH30S15"
+      ],
+      "detail": "Maternal IgG, antigen incompatibility and fetal RBC destruction"
+    },
+    {
+      "id": "U4-G10-C02",
+      "prompt": 10,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH30S16"
+      ],
+      "detail": "Anemia, bilirubin excess and brain deposition"
+    },
+    {
+      "id": "U4-G10-C03",
+      "prompt": 10,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH30S16"
+      ],
+      "detail": "Coombs named; interpretation absent"
+    },
+    {
+      "id": "U4-G10-C04",
+      "prompt": 10,
+      "component": "Treatment/prevention",
+      "status": "Partial",
+      "sources": [
+        "CH30S16"
+      ],
+      "detail": "RhIG, phototherapy/exchange named; indications and thresholds absent"
+    },
+    {
+      "id": "U4-G11-C01",
+      "prompt": 11,
+      "component": "Definition",
+      "status": "Direct",
+      "sources": [
+        "CH30S16"
+      ],
+      "detail": "Bilirubin deposited in brain, potentially fatal"
+    },
+    {
+      "id": "U4-G12-C01",
+      "prompt": 12,
+      "component": "Pathophysiology/inheritance",
+      "status": "Direct",
+      "sources": [
+        "CH30S18"
+      ],
+      "detail": "X-linked recessive enzyme deficiency; oxidative damage and Heinz bodies"
+    },
+    {
+      "id": "U4-G12-C02",
+      "prompt": 12,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH30S19"
+      ],
+      "detail": "Episodic hemolysis, jaundice, dark urine and pain"
+    },
+    {
+      "id": "U4-G12-C03",
+      "prompt": 12,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "High-risk testing mentioned but assay/interpretation absent"
+    },
+    {
+      "id": "U4-G12-C04",
+      "prompt": 12,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH30S19"
+      ],
+      "detail": "Transfusion listed; precise indications/trigger avoidance and iron indication missing"
+    },
+    {
+      "id": "U4-G13-C01",
+      "prompt": 13,
+      "component": "Pathophysiology/inheritance",
+      "status": "Direct",
+      "sources": [
+        "CH30S22",
+        "CH30S23",
+        "CH30S24"
+      ],
+      "detail": "HbS, recessive inheritance, stiffening/sickling triggers; amino-acid direction excluded"
+    },
+    {
+      "id": "U4-G13-C02",
+      "prompt": 13,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH30S26",
+        "CH30S27",
+        "CH30S28"
+      ],
+      "detail": "Distinct crises, renal concentrating defect, infection, gallstones"
+    },
+    {
+      "id": "U4-G13-C03",
+      "prompt": 13,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No definitive testing pathway"
+    },
+    {
+      "id": "U4-G13-C04",
+      "prompt": 13,
+      "component": "Treatment categories",
+      "status": "Direct",
+      "sources": [
+        "CH30S29"
+      ],
+      "detail": "Crisis prevention, pain/infection care, fluids, hydroxyurea and hypoxia-qualified oxygen"
+    },
+    {
+      "id": "U4-G14-C01",
+      "prompt": 14,
+      "component": "Pathophysiology/inheritance",
+      "status": "Direct",
+      "sources": [
+        "CH30S30",
+        "CH30S31"
+      ],
+      "detail": "Recessive globin-production defects and alpha/beta forms"
+    },
+    {
+      "id": "U4-G14-C02",
+      "prompt": 14,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH30S32",
+        "CH30S33"
+      ],
+      "detail": "Microcytic anemia, cardiovascular burden, hydrops"
+    },
+    {
+      "id": "U4-G14-C03",
+      "prompt": 14,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No complete assay and interpretation framework"
+    },
+    {
+      "id": "U4-G14-C04",
+      "prompt": 14,
+      "component": "Treatment categories",
+      "status": "Direct",
+      "sources": [
+        "CH30S34"
+      ],
+      "detail": "Transfusion, chelation, counseling, transplantation"
+    },
+    {
+      "id": "U4-G15-C01",
+      "prompt": 15,
+      "component": "Pathophysiology/inheritance",
+      "status": "Partial",
+      "sources": [
+        "CH30S35",
+        "CH30S37",
+        "CH30S38N"
+      ],
+      "detail": "A/B factor deficits, vWF defect, A recessive and vWD dominant; complete B/C inheritance missing"
+    },
+    {
+      "id": "U4-G15-C02",
+      "prompt": 15,
+      "component": "Manifestations",
+      "status": "Direct",
+      "sources": [
+        "CH30S36",
+        "CH30S40"
+      ],
+      "detail": "Factor bleeding versus immune platelet manifestations"
+    },
+    {
+      "id": "U4-G15-C03",
+      "prompt": 15,
+      "component": "Diagnostics",
+      "status": "Partial",
+      "sources": [
+        "CH30S36"
+      ],
+      "detail": "PT/PTT pattern; definitive testing absent"
+    },
+    {
+      "id": "U4-G15-C04",
+      "prompt": 15,
+      "component": "Treatment/complications",
+      "status": "Partial",
+      "sources": [
+        "CH30S36",
+        "CH30S40"
+      ],
+      "detail": "Factor replacement and ITP approaches; inhibitors and subtype complications missing"
+    },
+    {
+      "id": "U4-G16-C01",
+      "prompt": 16,
+      "component": "Pathophysiology/etiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S106"
+      ],
+      "detail": "IgG against heparin\u2013PF4"
+    },
+    {
+      "id": "U4-G16-C02",
+      "prompt": 16,
+      "component": "Manifestations/complications",
+      "status": "Partial",
+      "sources": [
+        "CH29S106"
+      ],
+      "detail": "Thrombocytopenia with thrombosis; full pattern absent"
+    },
+    {
+      "id": "U4-G16-C03",
+      "prompt": 16,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No timing, probability score or confirmatory assays"
+    },
+    {
+      "id": "U4-G16-C04",
+      "prompt": 16,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH29S106"
+      ],
+      "detail": "Stop heparin stated; alternative regimen absent"
+    },
+    {
+      "id": "U4-G17-C01",
+      "prompt": 17,
+      "component": "Circulation/chambers/valves",
+      "status": "Direct",
+      "sources": [
+        "CH31S11",
+        "CH31S15",
+        "CH31S16",
+        "CH31S17",
+        "CH31S18",
+        "CH31S22",
+        "CH31S23"
+      ],
+      "detail": "Right/left oxygenation path and one-way valves"
+    },
+    {
+      "id": "U4-G17-C02",
+      "prompt": 17,
+      "component": "Cardiac cycle",
+      "status": "Direct",
+      "sources": [
+        "CH31S20",
+        "CH31S21"
+      ],
+      "detail": "Five phases and valve opening/closing"
+    },
+    {
+      "id": "U4-G17-C03",
+      "prompt": 17,
+      "component": "Pressures",
+      "status": "Partial",
+      "sources": [
+        "CH31S19",
+        "CH31S45",
+        "CH31S46"
+      ],
+      "detail": "Pressure-wave meanings/preload/afterload; numeric chamber pressures absent"
+    },
+    {
+      "id": "U4-G18-C01",
+      "prompt": 18,
+      "component": "ECG activity",
+      "status": "Partial",
+      "sources": [
+        "CH31S29",
+        "CH31S30",
+        "CH31S31",
+        "CH31S32N"
+      ],
+      "detail": "P, PR, QRS, ST, QT; complete T-wave and abnormal-tracing coverage absent"
+    },
+    {
+      "id": "U4-G19-C01",
+      "prompt": 19,
+      "component": "Coronary flow",
+      "status": "Partial",
+      "sources": [
+        "CH31S25",
+        "CH31S26",
+        "CH31S27",
+        "CH31S28",
+        "CH31S71"
+      ],
+      "detail": "Major branches/collaterals/drainage; full flow phases incomplete"
+    },
+    {
+      "id": "U4-G19-C02",
+      "prompt": 19,
+      "component": "Each artery occlusion territory",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No artery-by-territory mapping"
+    },
+    {
+      "id": "U4-G20-C01",
+      "prompt": 20,
+      "component": "Beta 1/2/3 catecholamine effects",
+      "status": "Direct",
+      "sources": [
+        "CH31S35",
+        "CH31S36",
+        "CH31S37"
+      ],
+      "detail": "Rate/force increases, beta2 coronary flow, beta3 negative inotropy"
+    },
+    {
+      "id": "U4-G21-C01",
+      "prompt": 21,
+      "component": "Pathophysiology/etiology",
+      "status": "Direct",
+      "sources": [
+        "CH32S20",
+        "CH32S21",
+        "CH32S22",
+        "CH32S23",
+        "CH32S24",
+        "CH32S25"
+      ],
+      "detail": "Output/resistance, primary/secondary causes and vascular remodeling"
+    },
+    {
+      "id": "U4-G21-C02",
+      "prompt": 21,
+      "component": "RAAS",
+      "status": "Partial",
+      "sources": [
+        "CH31S68",
+        "CH32S24"
+      ],
+      "detail": "Angiotensin/aldosterone effects; full cascade/feedback absent"
+    },
+    {
+      "id": "U4-G21-C03",
+      "prompt": 21,
+      "component": "Manifestations/diagnosis",
+      "status": "Direct",
+      "sources": [
+        "CH32S26"
+      ],
+      "detail": "Silent early disease and repeated measurement procedure"
+    },
+    {
+      "id": "U4-G21-C04",
+      "prompt": 21,
+      "component": "Treatment categories",
+      "status": "Direct",
+      "sources": [
+        "CH32S27",
+        "CH32S28"
+      ],
+      "detail": "Risk reduction and drug classes"
+    },
+    {
+      "id": "U4-G21-C05",
+      "prompt": 21,
+      "component": "Organ complications",
+      "status": "Direct",
+      "sources": [
+        "CH32S20",
+        "CH32S25"
+      ],
+      "detail": "MI, renal disease, stroke, encephalopathy"
+    },
+    {
+      "id": "U4-G22-C01",
+      "prompt": 22,
+      "component": "Pathophysiology/etiology",
+      "status": "Direct",
+      "sources": [
+        "CH32S83",
+        "CH32S84"
+      ],
+      "detail": "Delayed streptococcal immune response, M proteins, Aschoff bodies"
+    },
+    {
+      "id": "U4-G22-C02",
+      "prompt": 22,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH32S83",
+        "CH32S84",
+        "CH32S78"
+      ],
+      "detail": "Carditis, arthritis, chorea/rash/nodules and valve disease"
+    },
+    {
+      "id": "U4-G22-C03",
+      "prompt": 22,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No formal diagnostic criteria/testing sequence"
+    },
+    {
+      "id": "U4-G22-C04",
+      "prompt": 22,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH32S84"
+      ],
+      "detail": "Antibiotics/NSAIDs named; duration/risk-based prophylaxis incomplete"
+    },
+    {
+      "id": "U4-G23-C01",
+      "prompt": 23,
+      "component": "Pathophysiology/etiology",
+      "status": "Direct",
+      "sources": [
+        "CH32S85"
+      ],
+      "detail": "Endocardial injury, adherence and infected vegetations"
+    },
+    {
+      "id": "U4-G23-C02",
+      "prompt": 23,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH32S86"
+      ],
+      "detail": "Fever/murmur, lesions, emboli and failure"
+    },
+    {
+      "id": "U4-G23-C03",
+      "prompt": 23,
+      "component": "Diagnostics",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No blood-culture/echo diagnostic criteria"
+    },
+    {
+      "id": "U4-G23-C04",
+      "prompt": 23,
+      "component": "Treatment",
+      "status": "Partial",
+      "sources": [
+        "CH32S87"
+      ],
+      "detail": "Weeks of antimicrobials and valve surgery; organism-specific regimens absent"
+    },
+    {
+      "id": "U4-G24-C01",
+      "prompt": 24,
+      "component": "Defect anatomy and flow",
+      "status": "Direct",
+      "sources": [
+        "CH33S6",
+        "CH33S8",
+        "CH33S9",
+        "CH33S11",
+        "CH33S13",
+        "CH33S15",
+        "CH33S18",
+        "CH33S19",
+        "CH33S22",
+        "CH33S23",
+        "CH33S25",
+        "CH33S26",
+        "CH33S27"
+      ],
+      "detail": "Shunts, obstructions, mixing and underdeveloped structures"
+    },
+    {
+      "id": "U4-G24-C02",
+      "prompt": 24,
+      "component": "Murmur type/location",
+      "status": "Partial",
+      "sources": [
+        "CH33S7",
+        "CH33S10",
+        "CH33S16",
+        "CH33S18",
+        "U4-C33-Q01"
+      ],
+      "detail": "PDA type and released VSD type/location; complete lesion matrix absent"
+    },
+    {
+      "id": "U4-G24-C03",
+      "prompt": 24,
+      "component": "Compensation",
+      "status": "Partial",
+      "sources": [
+        "CH33S17N",
+        "CH33S22",
+        "CH33S30",
+        "U4-C33-Q02"
+      ],
+      "detail": "Squatting and hypertrophy supported; exact shunt-reversal claim gated, full compensation map absent"
+    },
+    {
+      "id": "U4-G25-C01",
+      "prompt": 25,
+      "component": "RBC function/life span",
+      "status": "Direct",
+      "sources": [
+        "CH28S12"
+      ],
+      "detail": "Oxygen carriage, deformability, 120 days adult"
+    },
+    {
+      "id": "U4-G25-C02",
+      "prompt": 25,
+      "component": "Platelet function/life span",
+      "status": "Direct",
+      "sources": [
+        "CH28S23"
+      ],
+      "detail": "Hemostasis, nondividing fragments, 8\u201311 days"
+    },
+    {
+      "id": "U4-G26-C01",
+      "prompt": 26,
+      "component": "Hemoglobin synthesis",
+      "status": "Partial",
+      "sources": [
+        "CH28S40",
+        "CH28S41"
+      ],
+      "detail": "Chains, heme/mitochondria and nutrients; full synthesis pathway missing, molecule count gated"
+    },
+    {
+      "id": "U4-G26-C02",
+      "prompt": 26,
+      "component": "Methemoglobin",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No supplied teaching beyond requested guide term"
+    },
+    {
+      "id": "U4-G27-C01",
+      "prompt": 27,
+      "component": "Granulocytes",
+      "status": "Direct",
+      "sources": [
+        "CH28S13",
+        "CH28S14",
+        "CH28S15",
+        "CH28S16",
+        "CH28S17",
+        "CH28S18"
+      ],
+      "detail": "Neutrophil/eosinophil/basophil and mast-cell roles"
+    },
+    {
+      "id": "U4-G27-C02",
+      "prompt": 27,
+      "component": "Agranulocytes",
+      "status": "Direct",
+      "sources": [
+        "CH28S19",
+        "CH28S20",
+        "CH28S21"
+      ],
+      "detail": "Lymphocytes, NK, monocytes/macrophages and dendritic functions"
+    },
+    {
+      "id": "U4-G28-C01",
+      "prompt": 28,
+      "component": "Production process",
+      "status": "Direct",
+      "sources": [
+        "CH28S30",
+        "CH28S31",
+        "CH28S32",
+        "CH28S33",
+        "CH28S34",
+        "CH28S35",
+        "CH28S36"
+      ],
+      "detail": "Stem cells, niches, proliferation/differentiation"
+    },
+    {
+      "id": "U4-G28-C02",
+      "prompt": 28,
+      "component": "Sites across fetal/neonatal/child/adult stages",
+      "status": "Partial",
+      "sources": [
+        "CH30S6",
+        "CH28S30",
+        "CH28S35"
+      ],
+      "detail": "Yolk/liver/marrow transition and adult locations; childhood site transition detail missing"
+    },
+    {
+      "id": "U4-G29-C01",
+      "prompt": 29,
+      "component": "Erythropoiesis",
+      "status": "Direct",
+      "sources": [
+        "CH28S38",
+        "CH28S39"
+      ],
+      "detail": "Hypoxia\u2192renal EPO\u2192marrow; reticulocytes"
+    },
+    {
+      "id": "U4-G29-C02",
+      "prompt": 29,
+      "component": "Iron cycle",
+      "status": "Partial",
+      "sources": [
+        "CH28S44",
+        "CH28S45"
+      ],
+      "detail": "Recycling, storage/transport proteins, hepcidin; absorption/export steps missing"
+    },
+    {
+      "id": "U4-G29-C03",
+      "prompt": 29,
+      "component": "Nutritional requirements",
+      "status": "Direct",
+      "sources": [
+        "CH28S41",
+        "CH28S42",
+        "CH28S43N"
+      ],
+      "detail": "Protein, B12/folate and listed supporting vitamins"
+    },
+    {
+      "id": "U4-G30-C01",
+      "prompt": 30,
+      "component": "Vessel/platelet/clotting mechanisms",
+      "status": "Direct",
+      "sources": [
+        "CH28S49",
+        "CH28S50",
+        "CH28S51",
+        "CH28S52",
+        "CH28S53",
+        "CH28S56",
+        "CH28S57"
+      ],
+      "detail": "Plug, coagulation, retraction"
+    },
+    {
+      "id": "U4-G30-C02",
+      "prompt": 30,
+      "component": "Regulation/fibrinolysis",
+      "status": "Direct",
+      "sources": [
+        "CH28S59",
+        "CH28S60"
+      ],
+      "detail": "Antithrombin, TFPI, C/S, plasmin"
+    },
+    {
+      "id": "U4-G30-C03",
+      "prompt": 30,
+      "component": "Clotting-factor synthesis vitamins",
+      "status": "Partial",
+      "sources": [
+        "CH29S116"
+      ],
+      "detail": "Vitamin K deficiency linked to coagulation; synthesis pathway/factor inventory absent"
+    },
+    {
+      "id": "U4-G31-C01",
+      "prompt": 31,
+      "component": "Splenic functions and splenectomy",
+      "status": "Direct",
+      "sources": [
+        "CH28S26",
+        "CH28S27",
+        "CH28S44"
+      ],
+      "detail": "Blood filtration/storage, fetal production, immunity and increased encapsulated infection risk"
+    },
+    {
+      "id": "U4-G32-C01",
+      "prompt": 32,
+      "component": "Lymph-node function",
+      "status": "Direct",
+      "sources": [
+        "CH28S28",
+        "CH28S29"
+      ],
+      "detail": "Lymph filtration and antigen processing"
+    },
+    {
+      "id": "U4-G32-C02",
+      "prompt": 32,
+      "component": "Inflammatory enlargement mechanism",
+      "status": "Partial",
+      "sources": [
+        "CH29S85",
+        "CH29S86"
+      ],
+      "detail": "Nearby lesion drainage and tender nodes; full cellular enlargement process absent"
+    },
+    {
+      "id": "U4-G33-C01",
+      "prompt": 33,
+      "component": "All anemia etiologies/pathophysiology",
+      "status": "Partial",
+      "sources": [
+        "CH29S13",
+        "CH29S14",
+        "CH29S17",
+        "CH29S18",
+        "CH29S20",
+        "CH29S23",
+        "CH29S26",
+        "CH29S27",
+        "CH29S30",
+        "CH29S34",
+        "CH29S38",
+        "CH29S39",
+        "CH29S40"
+      ],
+      "detail": "Major categories covered; complete sideroblastic/subtype mechanisms absent"
+    },
+    {
+      "id": "U4-G33-C02",
+      "prompt": 33,
+      "component": "Major clinical manifestations",
+      "status": "Direct",
+      "sources": [
+        "CH29S16",
+        "CH29S21",
+        "CH29S24",
+        "CH29S28",
+        "CH29S35",
+        "CH29S41"
+      ],
+      "detail": "Hypoxia and subtype clues at slide depth"
+    },
+    {
+      "id": "U4-G33-C03",
+      "prompt": 33,
+      "component": "Diagnostics/treatment/complications",
+      "status": "Partial",
+      "sources": [
+        "CH29S22",
+        "CH29S29",
+        "CH29S32",
+        "CH29S35",
+        "CH29S36",
+        "CH29S41",
+        "CH29S42"
+      ],
+      "detail": "Selected tests/approaches; exhaustive subtype algorithms absent"
+    },
+    {
+      "id": "U4-G33-C04",
+      "prompt": 33,
+      "component": "Complete compensatory responses",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No dedicated comprehensive physiologic compensation account"
+    },
+    {
+      "id": "U4-G34-C01",
+      "prompt": 34,
+      "component": "B12/folate mechanism",
+      "status": "Direct",
+      "sources": [
+        "CH29S18",
+        "CH29S19",
+        "CH29S20",
+        "CH29S23"
+      ],
+      "detail": "DNA/nuclear maturation failure with continuing RNA processes"
+    },
+    {
+      "id": "U4-G35-C01",
+      "prompt": 35,
+      "component": "Administration routes",
+      "status": "Direct",
+      "sources": [
+        "CH29S22",
+        "U4-C29R-Q02"
+      ],
+      "detail": "Injections or high oral doses; case absorption rationale"
+    },
+    {
+      "id": "U4-G35-C02",
+      "prompt": 35,
+      "component": "Evidence of effective B12 replacement",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No response criteria/timeline supplied"
+    },
+    {
+      "id": "U4-G36-C01",
+      "prompt": 36,
+      "component": "Pathophysiology/etiology",
+      "status": "Direct",
+      "sources": [
+        "CH29S43",
+        "CH29S44",
+        "CH29S45",
+        "CH29S46"
+      ],
+      "detail": "Relative volume loss versus absolute/PV/secondary excess"
+    },
+    {
+      "id": "U4-G36-C02",
+      "prompt": 36,
+      "component": "Manifestations/complications",
+      "status": "Direct",
+      "sources": [
+        "CH29S47"
+      ],
+      "detail": "Viscosity, pressure, thrombosis, pruritus, splenomegaly"
+    },
+    {
+      "id": "U4-G36-C03",
+      "prompt": 36,
+      "component": "Diagnostic work-up",
+      "status": "Missing",
+      "sources": [],
+      "detail": "No complete work-up"
+    },
+    {
+      "id": "U4-G36-C04",
+      "prompt": 36,
+      "component": "Treatment categories",
+      "status": "Direct",
+      "sources": [
+        "CH29S48"
+      ],
+      "detail": "Phlebotomy and listed pharmacologic categories"
+    },
+    {
+      "id": "U4-G37-C01",
+      "prompt": 37,
+      "component": "Type I leukocyte changes",
+      "status": "Direct",
+      "sources": [
+        "CH28S16",
+        "CH28S17",
+        "CH28S18",
+        "CH29S60",
+        "CH29S62"
+      ],
+      "detail": "Eosinophil/basophil increase and mast-cell mediator release"
+    },
+    {
+      "id": "U4-G38-C01",
+      "prompt": 38,
+      "component": "Primary/secondary Raynaud and pathophysiology",
+      "status": "Direct",
+      "sources": [
+        "CH32S42",
+        "CH32S46N"
+      ],
+      "detail": "Episodic digital vasospasm; primary unknown origin versus secondary disease; mediator imbalance in notes"
+    },
+    {
+      "id": "U4-G39-C01",
+      "prompt": 39,
+      "component": "Varicose-vein development",
+      "status": "Direct",
+      "sources": [
+        "CH32S12"
+      ],
+      "detail": "Valve failure/obstruction/pump dysfunction\u2192pooling/pressure/inflammation"
+    },
+    {
+      "id": "U4-G40-C01",
+      "prompt": 40,
+      "component": "Low-albumin consequences",
+      "status": "Partial",
+      "sources": [
+        "CH28S9"
+      ],
+      "detail": "Oncotic/carrier function only; full downstream fluid/transport consequences missing"
+    }
+  ],
+  "componentCounts": {
+    "Direct": 59,
+    "Partial": 35,
+    "Missing": 14
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "media/figures/alveolus.jpg",
+    "title": "2310 Structures of the Respiratory Zone-a",
+    "creator": "OpenStax Anatomy and Physiology (2016)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:2310_Structures_of_the_Respiratory_Zone-a.jpg",
+    "alterations": "Unmodified original retained; films use the detailed alveolus crop, local collapse deformation and process overlays.",
+    "sha256": "551df2538a2c088550d823bb0479a9bcc682532941c64ee4f56ad715254488bc"
+  },
+  {
+    "file": "media/figures/airway.jpg",
+    "title": "2311 Lung Tissue",
+    "creator": "OpenStax College (2013)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:2311_Lung_Tissue.jpg",
+    "alterations": "Unmodified original retained. Films use normal panel (a), from a published asthma comparison. CF overlays are teaching adaptations; the underlying panel is never claimed to be CF tissue.",
+    "sha256": "1cf89e39491195a67baf010d5f03fcc2cc075bd101553bfab0d99c80f2b2b93b"
+  },
+  {
+    "file": "media/figures/nephron.jpg",
+    "title": "2618 Nephron Secretion Reabsorption",
+    "creator": "OpenStax College (2013)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:2618_Nephron_Secretion_Reabsorption.jpg",
+    "alterations": "Unmodified original retained; films crop the loop and collecting duct, adding a concentration gradient and source-aligned water/solute flow.",
+    "sha256": "22245114f45516127f8bd127a9eaeca7e3e3e017beb5a8deb5a8a15b78bcaafb"
+  },
+  {
+    "file": "media/figures/kidney.jpg",
+    "title": "2610 The Kidney",
+    "creator": "OpenStax College (2013)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:2610_The_Kidney.jpg",
+    "alterations": "Unmodified whole published figure retained and used in the film; local collecting-space deformation and obstruction/outflow overlays are schematic.",
+    "sha256": "30d15988386d61f74039dee64bb63f7d13556173058bb4d1d42ac97c12546654"
+  },
+  {
+    "file": "media/figures/bladder.jpg",
+    "title": "2605 The Bladder, illustration panel (a)",
+    "creator": "OpenStax College (2013)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:2605_The_Bladder.jpg",
+    "alterations": "Panel (b), the Regents of the University of Michigan micrograph, is excluded from the distributed file and film. Whole downloaded original is preserved privately. Panel (a) is cropped for the reflux film; colored flow layers reverse along its ureters.",
+    "sha256": "c472a3c8964005c4b71ceec5ef13a54ca0e2b02ceffedd19f29d482488d7f395"
+  },
+  {
+    "file": "media/figures/cf.png",
+    "title": "Medical illustration of cystic fibrosis",
+    "creator": "BruceBlaus / Blausen Medical (2014)",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Blausen_0286_CysticFibrosis.png",
+    "alterations": "Unmodified scholarly illustration; external visualization only. Blausen gallery, WikiJournal of Medicine 1(2), DOI 10.15347/wjm/2014.010. External labels do not expand the tested fact pool.",
+    "sha256": "5c711afb2743c8cd1f1d78259b615b900757ed6a6da8128ac5840f5195d466ba"
+  }
+]

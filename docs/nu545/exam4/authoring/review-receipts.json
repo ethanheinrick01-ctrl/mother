@@ -1,0 +1,1956 @@
+{
+  "reviewer": "Codex root",
+  "independentReviewer": false,
+  "editorialRevision": "u4-personal-2026-10-02-r2",
+  "dnaRevision": "u4-personal-2026-10-01-r1",
+  "contentRevision": "bank-e12ab7d68c6f473e",
+  "contentSha256": "e12ab7d68c6f473ef3c16087615903104995a8cf4f50a3ee3a4f4efa8e4190d1",
+  "bankFileSha256": "be61e05156e5489ffa6cdafbab0c7d5a44b737aef39e6e1f4de52063dff8fb67",
+  "method": "Entire rendered bank read personally; exact slide and original note relationships rechecked in a separate answer/source pass by the same author. Automation supplements, never substitutes for these passes.",
+  "items": [
+    {
+      "id": "u4-p-c28-rbc-capillary",
+      "rootId": "u4-p-c28-rbc-capillary",
+      "conceptId": "u4-c28-cells",
+      "pool": "practice",
+      "decision": "rbc-capillary",
+      "key": "Reversible deformability",
+      "sources": [
+        "CH28S12"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-cell-clearance",
+      "rootId": "u4-p-c28-cell-clearance",
+      "conceptId": "u4-c28-cells",
+      "pool": "practice",
+      "decision": "cell-clearance",
+      "key": "Macrophage",
+      "sources": [
+        "CH28S20",
+        "CH28S21",
+        "CH28S23"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-reticulocyte-response",
+      "rootId": "u4-p-c28-reticulocyte-response",
+      "conceptId": "u4-c28-production",
+      "pool": "practice",
+      "decision": "reticulocyte-response",
+      "key": "Increased reticulocytes",
+      "sources": [
+        "CH28S38",
+        "CH28S39"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-renal-signal",
+      "rootId": "u4-p-c28-renal-signal",
+      "conceptId": "u4-c28-production",
+      "pool": "practice",
+      "decision": "renal-signal",
+      "key": "Kidney",
+      "sources": [
+        "CH28S38",
+        "CH28S39"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-transport-storage",
+      "rootId": "u4-p-c28-transport-storage",
+      "conceptId": "u4-c28-iron",
+      "pool": "practice",
+      "decision": "transport-storage",
+      "key": "Transferrin then ferritin",
+      "sources": [
+        "CH28S45"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-senescent-products",
+      "rootId": "u4-p-c28-senescent-products",
+      "conceptId": "u4-c28-iron",
+      "pool": "practice",
+      "decision": "senescent-products",
+      "key": "Iron",
+      "sources": [
+        "CH28S44"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-plug-stage",
+      "rootId": "u4-p-c28-plug-stage",
+      "conceptId": "u4-c28-hemostasis",
+      "pool": "practice",
+      "decision": "plug-stage",
+      "key": "Activation",
+      "sources": [
+        "CH28S56"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-clot-limit",
+      "rootId": "u4-p-c28-clot-limit",
+      "conceptId": "u4-c28-hemostasis",
+      "pool": "practice",
+      "decision": "clot-limit",
+      "key": "Plasmin",
+      "sources": [
+        "CH28S59",
+        "CH28S60"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-splenic-risk",
+      "rootId": "u4-p-c28-splenic-risk",
+      "conceptId": "u4-c28-lymph",
+      "pool": "practice",
+      "decision": "splenic-risk",
+      "key": "Encapsulated bacteria",
+      "sources": [
+        "CH28S26",
+        "CH28S27"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c28-filter-compartment",
+      "rootId": "u4-p-c28-filter-compartment",
+      "conceptId": "u4-c28-lymph",
+      "pool": "practice",
+      "decision": "filter-compartment",
+      "key": "Lymph node",
+      "sources": [
+        "CH28S26",
+        "CH28S28",
+        "CH28S29"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-nuclear-delay",
+      "rootId": "u4-p-c29-nuclear-delay",
+      "conceptId": "u4-c29-anemia",
+      "pool": "practice",
+      "decision": "nuclear-delay",
+      "key": "DNA synthesis",
+      "sources": [
+        "CH29S18"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-morphology-language",
+      "rootId": "u4-p-c29-morphology-language",
+      "conceptId": "u4-c29-anemia",
+      "pool": "practice",
+      "decision": "morphology-language",
+      "key": "Poikilocytosis",
+      "sources": [
+        "CH29S14",
+        "CH29S15"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-route-boundary",
+      "rootId": "u4-p-c29-route-boundary",
+      "conceptId": "u4-c29-b12",
+      "pool": "practice",
+      "decision": "route-boundary",
+      "key": "High-dose oral replacement",
+      "sources": [
+        "CH29S22",
+        "U4-C29R-Q02"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-folate-contrast",
+      "rootId": "u4-p-c29-folate-contrast",
+      "conceptId": "u4-c29-b12",
+      "pool": "practice",
+      "decision": "folate-contrast",
+      "key": "Absorption does not require intrinsic factor",
+      "sources": [
+        "CH29S20",
+        "CH29S23",
+        "CH29S24"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-iron-unavailable",
+      "rootId": "u4-p-c29-iron-unavailable",
+      "conceptId": "u4-c29-marrow",
+      "pool": "practice",
+      "decision": "iron-unavailable",
+      "key": "Impaired erythropoietic response",
+      "sources": [
+        "CH29S30",
+        "CH29S31",
+        "CH29S32"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-three-lines",
+      "rootId": "u4-p-c29-three-lines",
+      "conceptId": "u4-c29-marrow",
+      "pool": "practice",
+      "decision": "three-lines",
+      "key": "Hypocellular marrow replaced by fat",
+      "sources": [
+        "CH29S34",
+        "CH29S35"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-autonomous-signal",
+      "rootId": "u4-p-c29-autonomous-signal",
+      "conceptId": "u4-c29-polycythemia",
+      "pool": "practice",
+      "decision": "autonomous-signal",
+      "key": "Constitutive JAK2-linked signaling",
+      "sources": [
+        "CH29S44",
+        "CH29S46"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-treatment-target",
+      "rootId": "u4-p-c29-treatment-target",
+      "conceptId": "u4-c29-polycythemia",
+      "pool": "practice",
+      "decision": "treatment-target",
+      "key": "Excess erythrocytes and volume",
+      "sources": [
+        "CH29S47",
+        "CH29S48"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-test-target",
+      "rootId": "u4-p-c29-test-target",
+      "conceptId": "u4-c29-mono",
+      "pool": "practice",
+      "decision": "test-target",
+      "key": "Heterophile antibodies",
+      "sources": [
+        "CH29S65",
+        "CH29S66"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-allergic-recruitment",
+      "rootId": "u4-p-c29-allergic-recruitment",
+      "conceptId": "u4-c29-mono",
+      "pool": "practice",
+      "decision": "allergic-recruitment",
+      "key": "Eosinophil",
+      "sources": [
+        "CH29S60",
+        "CH28S16"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-maturity-classification",
+      "rootId": "u4-p-c29-maturity-classification",
+      "conceptId": "u4-c29-leukemia",
+      "pool": "practice",
+      "decision": "maturity-classification",
+      "key": "Chronic leukemia",
+      "sources": [
+        "CH29S70"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-humoral-consequence",
+      "rootId": "u4-p-c29-humoral-consequence",
+      "conceptId": "u4-c29-leukemia",
+      "pool": "practice",
+      "decision": "humoral-consequence",
+      "key": "Humoral immunity",
+      "sources": [
+        "CH29S79",
+        "CH29S80"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-tissue-origin",
+      "rootId": "u4-p-c29-tissue-origin",
+      "conceptId": "u4-c29-lymphoma",
+      "pool": "practice",
+      "decision": "tissue-origin",
+      "key": "Lymphoblastic lymphoma",
+      "sources": [
+        "CH29S94",
+        "CH29S98"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-rs-qualifier",
+      "rootId": "u4-p-c29-rs-qualifier",
+      "conceptId": "u4-c29-lymphoma",
+      "pool": "practice",
+      "decision": "rs-qualifier",
+      "key": "Necessary but not specific",
+      "sources": [
+        "CH29S89"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-kidney-product",
+      "rootId": "u4-p-c29-kidney-product",
+      "conceptId": "u4-c29-myeloma",
+      "pool": "practice",
+      "decision": "kidney-product",
+      "key": "Free immunoglobulin light chains",
+      "sources": [
+        "CH29S101"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-skeletal-target",
+      "rootId": "u4-p-c29-skeletal-target",
+      "conceptId": "u4-c29-myeloma",
+      "pool": "practice",
+      "decision": "skeletal-target",
+      "key": "Bisphosphonates",
+      "sources": [
+        "CH29S102",
+        "CH29S103"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-hit-paradox",
+      "rootId": "u4-p-c29-hit-paradox",
+      "conceptId": "u4-c29-platelets",
+      "pool": "practice",
+      "decision": "hit-paradox",
+      "key": "Antibodies to heparin PF4 complexes",
+      "sources": [
+        "CH29S106"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-normal-count-bleeding",
+      "rootId": "u4-p-c29-normal-count-bleeding",
+      "conceptId": "u4-c29-platelets",
+      "pool": "practice",
+      "decision": "normal-count-bleeding",
+      "key": "Abnormal platelet function",
+      "sources": [
+        "CH29S114",
+        "CH29S115"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-organ-flow",
+      "rootId": "u4-p-c29-organ-flow",
+      "conceptId": "u4-c29-dic",
+      "pool": "practice",
+      "decision": "organ-flow",
+      "key": "Intravascular fibrin deposition",
+      "sources": [
+        "CH29S118"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c29-cause-priority",
+      "rootId": "u4-p-c29-cause-priority",
+      "conceptId": "u4-c29-dic",
+      "pool": "practice",
+      "decision": "cause-priority",
+      "key": "Eliminate underlying pathology",
+      "sources": [
+        "CH29S117",
+        "CH29S120"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-brain-bilirubin",
+      "rootId": "u4-p-c30-brain-bilirubin",
+      "conceptId": "u4-c30-neonatal",
+      "pool": "practice",
+      "decision": "brain-bilirubin",
+      "key": "Kernicterus",
+      "sources": [
+        "CH30S15",
+        "CH30S16"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-antibody-route",
+      "rootId": "u4-p-c30-antibody-route",
+      "conceptId": "u4-c30-neonatal",
+      "pool": "practice",
+      "decision": "antibody-route",
+      "key": "Maternal IgG enters fetal circulation",
+      "sources": [
+        "CH30S15"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-oxidative-window",
+      "rootId": "u4-p-c30-oxidative-window",
+      "conceptId": "u4-c30-g6pd",
+      "pool": "practice",
+      "decision": "oxidative-window",
+      "key": "Oxidative stress causes episodic hemolysis",
+      "sources": [
+        "CH30S18",
+        "CH30S19"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-spleen-selection",
+      "rootId": "u4-p-c30-spleen-selection",
+      "conceptId": "u4-c30-g6pd",
+      "pool": "practice",
+      "decision": "spleen-selection",
+      "key": "Spleen",
+      "sources": [
+        "CH30S20",
+        "CH30S21"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-crisis-mechanism",
+      "rootId": "u4-p-c30-crisis-mechanism",
+      "conceptId": "u4-c30-sickle",
+      "pool": "practice",
+      "decision": "crisis-mechanism",
+      "key": "Sequestration",
+      "sources": [
+        "CH30S26",
+        "CH30S27"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-oxygen-condition",
+      "rootId": "u4-p-c30-oxygen-condition",
+      "conceptId": "u4-c30-sickle",
+      "pool": "practice",
+      "decision": "oxygen-condition",
+      "key": "Hypoxia is present",
+      "sources": [
+        "CH30S29"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-quantity-distinction",
+      "rootId": "u4-p-c30-quantity-distinction",
+      "conceptId": "u4-c30-thalassemia",
+      "pool": "practice",
+      "decision": "quantity-distinction",
+      "key": "Defective globin-chain synthesis",
+      "sources": [
+        "CH30S22",
+        "CH30S30"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-alpha-count",
+      "rootId": "u4-p-c30-alpha-count",
+      "conceptId": "u4-c30-thalassemia",
+      "pool": "practice",
+      "decision": "alpha-count",
+      "key": "Hemoglobin H disease",
+      "sources": [
+        "CH30S31"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-lab-pattern",
+      "rootId": "u4-p-c30-lab-pattern",
+      "conceptId": "u4-c30-bleeding",
+      "pool": "practice",
+      "decision": "lab-pattern",
+      "key": "Prolonged PTT with normal PT",
+      "sources": [
+        "CH30S35",
+        "CH30S36"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c30-vwd-inheritance",
+      "rootId": "u4-p-c30-vwd-inheritance",
+      "conceptId": "u4-c30-bleeding",
+      "pool": "practice",
+      "decision": "vwd-inheritance",
+      "key": "Von Willebrand disease",
+      "sources": [
+        "CH30S35",
+        "CH30S37"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c31-ejection-phase",
+      "rootId": "u4-p-c31-ejection-phase",
+      "conceptId": "u4-c31-flow",
+      "pool": "practice",
+      "decision": "ejection-phase",
+      "key": "Semilunar valves open",
+      "sources": [
+        "CH31S21"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c31-ef-computation",
+      "rootId": "u4-p-c31-ef-computation",
+      "conceptId": "u4-c31-flow",
+      "pool": "practice",
+      "decision": "ef-computation",
+      "key": "50%",
+      "sources": [
+        "CH31S44"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c31-depolarized-interval",
+      "rootId": "u4-p-c31-depolarized-interval",
+      "conceptId": "u4-c31-electric",
+      "pool": "practice",
+      "decision": "depolarized-interval",
+      "key": "ST interval",
+      "sources": [
+        "CH31S31"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c31-relaxation-trigger",
+      "rootId": "u4-p-c31-relaxation-trigger",
+      "conceptId": "u4-c31-electric",
+      "pool": "practice",
+      "decision": "relaxation-trigger",
+      "key": "Calcium released from troponin",
+      "sources": [
+        "CH31S41",
+        "CH31S42"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c31-receptor-brake",
+      "rootId": "u4-p-c31-receptor-brake",
+      "conceptId": "u4-c31-beta",
+      "pool": "practice",
+      "decision": "receptor-brake",
+      "key": "Beta 3 stimulation",
+      "sources": [
+        "CH31S36",
+        "CH31S37"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c31-volume-opposition",
+      "rootId": "u4-p-c31-volume-opposition",
+      "conceptId": "u4-c31-beta",
+      "pool": "practice",
+      "decision": "volume-opposition",
+      "key": "Aldosterone retention and natriuretic loss",
+      "sources": [
+        "CH31S68"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-measurement-context",
+      "rootId": "u4-p-c32-measurement-context",
+      "conceptId": "u4-c32-pressure",
+      "pool": "practice",
+      "decision": "measurement-context",
+      "key": "Repeated readings after seated rest",
+      "sources": [
+        "CH32S26"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-resistance-mechanism",
+      "rootId": "u4-p-c32-resistance-mechanism",
+      "conceptId": "u4-c32-pressure",
+      "pool": "practice",
+      "decision": "resistance-mechanism",
+      "key": "Increased peripheral resistance",
+      "sources": [
+        "CH32S23"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-valve-pooling",
+      "rootId": "u4-p-c32-valve-pooling",
+      "conceptId": "u4-c32-vascular",
+      "pool": "practice",
+      "decision": "valve-pooling",
+      "key": "Valve incompetence followed by pooling",
+      "sources": [
+        "CH32S12"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-secondary-raynaud",
+      "rootId": "u4-p-c32-secondary-raynaud",
+      "conceptId": "u4-c32-vascular",
+      "pool": "practice",
+      "decision": "secondary-raynaud",
+      "key": "Raynaud phenomenon",
+      "sources": [
+        "CH32S42"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-vegetation-sequence",
+      "rootId": "u4-p-c32-vegetation-sequence",
+      "conceptId": "u4-c32-infection",
+      "pool": "practice",
+      "decision": "vegetation-sequence",
+      "key": "Microorganisms adhere to damaged tissue",
+      "sources": [
+        "CH32S85"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-lesion-discriminator",
+      "rootId": "u4-p-c32-lesion-discriminator",
+      "conceptId": "u4-c32-infection",
+      "pool": "practice",
+      "decision": "lesion-discriminator",
+      "key": "Janeway lesions",
+      "sources": [
+        "CH32S86"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-congestion-localize",
+      "rootId": "u4-p-c32-congestion-localize",
+      "conceptId": "u4-c32-failure",
+      "pool": "practice",
+      "decision": "congestion-localize",
+      "key": "Jugular venous distension",
+      "sources": [
+        "CH32S93",
+        "CH32S94",
+        "CH32S95"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c32-compliance-failure",
+      "rootId": "u4-p-c32-compliance-failure",
+      "conceptId": "u4-c32-failure",
+      "pool": "practice",
+      "decision": "compliance-failure",
+      "key": "Diastolic heart failure",
+      "sources": [
+        "CH32S92"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c33-parallel-circuits",
+      "rootId": "u4-p-c33-parallel-circuits",
+      "conceptId": "u4-c33-shunts",
+      "pool": "practice",
+      "decision": "parallel-circuits",
+      "key": "Communication between circuits",
+      "sources": [
+        "CH33S25"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c33-atresia-anatomy",
+      "rootId": "u4-p-c33-atresia-anatomy",
+      "conceptId": "u4-c33-shunts",
+      "pool": "practice",
+      "decision": "atresia-anatomy",
+      "key": "Right atrium to right ventricle",
+      "sources": [
+        "CH33S23"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c33-ductus-dependence",
+      "rootId": "u4-p-c33-ductus-dependence",
+      "conceptId": "u4-c33-obstruction",
+      "pool": "practice",
+      "decision": "ductus-dependence",
+      "key": "Left-sided structures obstruct systemic output",
+      "sources": [
+        "CH33S19"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-p-c33-feeding-failure",
+      "rootId": "u4-p-c33-feeding-failure",
+      "conceptId": "u4-c33-obstruction",
+      "pool": "practice",
+      "decision": "feeding-failure",
+      "key": "Poor sucking with sweating",
+      "sources": [
+        "CH33S30",
+        "CH33S31",
+        "CH33S32"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c28-turnover-comparison",
+      "rootId": "u4-mA-c28-turnover-comparison",
+      "conceptId": "u4-c28-cells",
+      "pool": "mock",
+      "decision": "turnover-comparison",
+      "key": "Platelets turn over more rapidly",
+      "sources": [
+        "CH28S12",
+        "CH28S23"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c28-prior-exposure",
+      "rootId": "u4-mA-c28-prior-exposure",
+      "conceptId": "u4-c28-cells",
+      "pool": "mock",
+      "decision": "prior-exposure",
+      "key": "Natural killer cell",
+      "sources": [
+        "CH28S19",
+        "CH28S21"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c28-endothelium-restraint",
+      "rootId": "u4-mA-c28-endothelium-restraint",
+      "conceptId": "u4-c28-hemostasis",
+      "pool": "mock",
+      "decision": "endothelium-restraint",
+      "key": "Nitric oxide and prostacyclin",
+      "sources": [
+        "CH28S51",
+        "CH28S59"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c28-heme-location",
+      "rootId": "u4-mA-c28-heme-location",
+      "conceptId": "u4-c28-iron",
+      "pool": "mock",
+      "decision": "heme-location",
+      "key": "Mitochondrion",
+      "sources": [
+        "CH28S40",
+        "CH28S41"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-clinical-contrast",
+      "rootId": "u4-mA-c29-clinical-contrast",
+      "conceptId": "u4-c29-anemia",
+      "pool": "mock",
+      "decision": "clinical-contrast",
+      "key": "Paresthesias with gait difficulty",
+      "sources": [
+        "CH29S21",
+        "CH29S24"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-iron-evaluation",
+      "rootId": "u4-mA-c29-iron-evaluation",
+      "conceptId": "u4-c29-anemia",
+      "pool": "mock",
+      "decision": "iron-evaluation",
+      "key": "Ferritin",
+      "sources": [
+        "CH29S27",
+        "CH29S28",
+        "CH29S29"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-complement-protection",
+      "rootId": "u4-mA-c29-complement-protection",
+      "conceptId": "u4-c29-marrow",
+      "pool": "mock",
+      "decision": "complement-protection",
+      "key": "Complement-mediated intravascular lysis",
+      "sources": [
+        "CH29S38"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-secondary-stimulus",
+      "rootId": "u4-mA-c29-secondary-stimulus",
+      "conceptId": "u4-c29-polycythemia",
+      "pool": "mock",
+      "decision": "secondary-stimulus",
+      "key": "Secondary absolute polycythemia",
+      "sources": [
+        "CH29S44",
+        "CH28S39"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-molecular-association",
+      "rootId": "u4-mA-c29-molecular-association",
+      "conceptId": "u4-c29-leukemia",
+      "pool": "mock",
+      "decision": "molecular-association",
+      "key": "Philadelphia chromosome",
+      "sources": [
+        "CH29S79"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-burkitt-distribution",
+      "rootId": "u4-mA-c29-burkitt-distribution",
+      "conceptId": "u4-c29-lymphoma",
+      "pool": "mock",
+      "decision": "burkitt-distribution",
+      "key": "Jaw in Africa, abdomen in US",
+      "sources": [
+        "CH29S97"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c29-ttp-mechanism",
+      "rootId": "u4-mA-c29-ttp-mechanism",
+      "conceptId": "u4-c29-platelets",
+      "pool": "mock",
+      "decision": "ttp-mechanism",
+      "key": "Platelet aggregation in small vessels",
+      "sources": [
+        "CH29S109",
+        "CH29S110"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c30-fetal-affinity",
+      "rootId": "u4-mA-c30-fetal-affinity",
+      "conceptId": "u4-c30-neonatal",
+      "pool": "mock",
+      "decision": "fetal-affinity",
+      "key": "Gamma chains with greater oxygen affinity",
+      "sources": [
+        "CH30S7"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c30-postnatal-rbc-course",
+      "rootId": "u4-mA-c30-postnatal-rbc-course",
+      "conceptId": "u4-c30-neonatal",
+      "pool": "mock",
+      "decision": "postnatal-rbc-course",
+      "key": "Decline from high birth levels",
+      "sources": [
+        "CH30S8"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c30-production-stop",
+      "rootId": "u4-mA-c30-production-stop",
+      "conceptId": "u4-c30-sickle",
+      "pool": "mock",
+      "decision": "production-stop",
+      "key": "Aplastic",
+      "sources": [
+        "CH30S26",
+        "CH30S27"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c30-beta-major-burden",
+      "rootId": "u4-mA-c30-beta-major-burden",
+      "conceptId": "u4-c30-thalassemia",
+      "pool": "mock",
+      "decision": "beta-major-burden",
+      "key": "Absent HbA with severe anemia",
+      "sources": [
+        "CH30S31",
+        "CH30S32"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c30-factor-specificity",
+      "rootId": "u4-mA-c30-factor-specificity",
+      "conceptId": "u4-c30-bleeding",
+      "pool": "mock",
+      "decision": "factor-specificity",
+      "key": "Recombinant factor IX",
+      "sources": [
+        "CH30S35",
+        "CH30S36"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c31-output-arithmetic",
+      "rootId": "u4-mA-c31-output-arithmetic",
+      "conceptId": "u4-c31-flow",
+      "pool": "mock",
+      "decision": "output-arithmetic",
+      "key": "6 L/min",
+      "sources": [
+        "CH31S43"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c31-collateral-purpose",
+      "rootId": "u4-mA-c31-collateral-purpose",
+      "conceptId": "u4-c31-flow",
+      "pool": "mock",
+      "decision": "collateral-purpose",
+      "key": "Provide alternate arterial routes",
+      "sources": [
+        "CH31S25",
+        "CH31S26"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c31-coronary-receptor",
+      "rootId": "u4-mA-c31-coronary-receptor",
+      "conceptId": "u4-c31-beta",
+      "pool": "mock",
+      "decision": "coronary-receptor",
+      "key": "Beta 2",
+      "sources": [
+        "CH31S36",
+        "CH31S37"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c32-immune-cross-reaction",
+      "rootId": "u4-mA-c32-immune-cross-reaction",
+      "conceptId": "u4-c32-infection",
+      "pool": "mock",
+      "decision": "immune-cross-reaction",
+      "key": "Delayed streptococcal immune response",
+      "sources": [
+        "CH32S83",
+        "CH32S84"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c32-secondary-cause",
+      "rootId": "u4-mA-c32-secondary-cause",
+      "conceptId": "u4-c32-pressure",
+      "pool": "mock",
+      "decision": "secondary-cause",
+      "key": "Secondary hypertension",
+      "sources": [
+        "CH32S20",
+        "CH32S25"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c32-silent-course",
+      "rootId": "u4-mA-c32-silent-course",
+      "conceptId": "u4-c32-pressure",
+      "pool": "mock",
+      "decision": "silent-course",
+      "key": "Early disease may be clinically silent",
+      "sources": [
+        "CH32S20",
+        "CH32S26"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c33-cushion-anatomy",
+      "rootId": "u4-mA-c33-cushion-anatomy",
+      "conceptId": "u4-c33-shunts",
+      "pool": "mock",
+      "decision": "cushion-anatomy",
+      "key": "Atrial septum, ventricular septum and AV valves",
+      "sources": [
+        "CH33S11"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c33-tof-obstruction",
+      "rootId": "u4-mA-c33-tof-obstruction",
+      "conceptId": "u4-c33-shunts",
+      "pool": "mock",
+      "decision": "tof-obstruction",
+      "key": "Pulmonary stenosis",
+      "sources": [
+        "CH33S22"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mA-c33-regional-perfusion",
+      "rootId": "u4-mA-c33-regional-perfusion",
+      "conceptId": "u4-c33-obstruction",
+      "pool": "mock",
+      "decision": "regional-perfusion",
+      "key": "Aortic narrowing limits downstream flow",
+      "sources": [
+        "CH33S13",
+        "CH33S14"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c28-bridge-step",
+      "rootId": "u4-mB-c28-bridge-step",
+      "conceptId": "u4-c28-hemostasis",
+      "pool": "mock",
+      "decision": "bridge-step",
+      "key": "Fibrinogen bridges",
+      "sources": [
+        "CH28S56"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c28-immature-neutrophils",
+      "rootId": "u4-mB-c28-immature-neutrophils",
+      "conceptId": "u4-c28-cells",
+      "pool": "mock",
+      "decision": "immature-neutrophils",
+      "key": "More bands",
+      "sources": [
+        "CH28S15",
+        "CH29S56"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c28-iron-regulator",
+      "rootId": "u4-mB-c28-iron-regulator",
+      "conceptId": "u4-c28-iron",
+      "pool": "mock",
+      "decision": "iron-regulator",
+      "key": "Hepcidin",
+      "sources": [
+        "CH28S45"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c28-stem-cell-lineage",
+      "rootId": "u4-mB-c28-stem-cell-lineage",
+      "conceptId": "u4-c28-production",
+      "pool": "mock",
+      "decision": "stem-cell-lineage",
+      "key": "Hematopoietic cells generate blood lineages",
+      "sources": [
+        "CH28S30",
+        "CH28S31",
+        "CH28S32"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-loss-treatment",
+      "rootId": "u4-mB-c29-loss-treatment",
+      "conceptId": "u4-c29-anemia",
+      "pool": "mock",
+      "decision": "loss-treatment",
+      "key": "Identify and eliminate the bleeding source",
+      "sources": [
+        "CH29S27",
+        "CH29S29"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-iron-sequestration",
+      "rootId": "u4-mB-c29-iron-sequestration",
+      "conceptId": "u4-c29-marrow",
+      "pool": "mock",
+      "decision": "iron-sequestration",
+      "key": "Reduced iron available to bacteria",
+      "sources": [
+        "CH29S31"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-hemolysis-classification",
+      "rootId": "u4-mB-c29-hemolysis-classification",
+      "conceptId": "u4-c29-marrow",
+      "pool": "mock",
+      "decision": "hemolysis-classification",
+      "key": "Antibody binding temperature optimum",
+      "sources": [
+        "CH29S39"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-support-neutrophils",
+      "rootId": "u4-mB-c29-support-neutrophils",
+      "conceptId": "u4-c29-leukemia",
+      "pool": "mock",
+      "decision": "support-neutrophils",
+      "key": "Colony stimulating factors",
+      "sources": [
+        "CH29S77"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-immune-product-paradox",
+      "rootId": "u4-mB-c29-immune-product-paradox",
+      "conceptId": "u4-c29-myeloma",
+      "pool": "mock",
+      "decision": "immune-product-paradox",
+      "key": "Monoclonal excess with impaired humoral defense",
+      "sources": [
+        "CH29S101",
+        "CH29S102"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-consumption-bleeding",
+      "rootId": "u4-mB-c29-consumption-bleeding",
+      "conceptId": "u4-c29-dic",
+      "pool": "mock",
+      "decision": "consumption-bleeding",
+      "key": "Clotting consumes platelets and factors",
+      "sources": [
+        "CH29S117",
+        "CH29S118"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c29-anticoagulant-defect",
+      "rootId": "u4-mB-c29-anticoagulant-defect",
+      "conceptId": "u4-c29-dic",
+      "pool": "mock",
+      "decision": "anticoagulant-defect",
+      "key": "Protein C, protein S and antithrombin",
+      "sources": [
+        "CH30S39",
+        "CH30S45N",
+        "CH29S124"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c30-inheritance-comparison",
+      "rootId": "u4-mB-c30-inheritance-comparison",
+      "conceptId": "u4-c30-g6pd",
+      "pool": "mock",
+      "decision": "inheritance-comparison",
+      "key": "X-linked recessive then autosomal dominant",
+      "sources": [
+        "CH30S18",
+        "CH30S20"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c30-fetal-burden",
+      "rootId": "u4-mB-c30-fetal-burden",
+      "conceptId": "u4-c30-thalassemia",
+      "pool": "mock",
+      "decision": "fetal-burden",
+      "key": "Hydrops with severe fetal heart failure",
+      "sources": [
+        "CH30S31",
+        "CH30S33"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c30-fetal-platelet-antigen",
+      "rootId": "u4-mB-c30-fetal-platelet-antigen",
+      "conceptId": "u4-c30-bleeding",
+      "pool": "mock",
+      "decision": "fetal-platelet-antigen",
+      "key": "Paternally derived platelet antigens",
+      "sources": [
+        "CH30S41"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c30-renal-consequence",
+      "rootId": "u4-mB-c30-renal-consequence",
+      "conceptId": "u4-c30-sickle",
+      "pool": "mock",
+      "decision": "renal-consequence",
+      "key": "Hyposthenuria",
+      "sources": [
+        "CH30S28"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c30-prevention-treatment",
+      "rootId": "u4-mB-c30-prevention-treatment",
+      "conceptId": "u4-c30-neonatal",
+      "pool": "mock",
+      "decision": "prevention-treatment",
+      "key": "Rh immune globulin and phototherapy",
+      "sources": [
+        "CH30S16"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c31-afterload-work",
+      "rootId": "u4-mB-c31-afterload-work",
+      "conceptId": "u4-c31-flow",
+      "pool": "mock",
+      "decision": "afterload-work",
+      "key": "Afterload",
+      "sources": [
+        "CH31S45",
+        "CH31S46"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c31-qt-rate",
+      "rootId": "u4-mB-c31-qt-rate",
+      "conceptId": "u4-c31-electric",
+      "pool": "mock",
+      "decision": "qt-rate",
+      "key": "QT shortens as rate rises",
+      "sources": [
+        "CH31S31"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c31-sarcomere-geometry",
+      "rootId": "u4-mB-c31-sarcomere-geometry",
+      "conceptId": "u4-c31-electric",
+      "pool": "mock",
+      "decision": "sarcomere-geometry",
+      "key": "Z lines approach and I band narrows",
+      "sources": [
+        "CH31S40"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c32-primary-raynaud-target",
+      "rootId": "u4-mB-c32-primary-raynaud-target",
+      "conceptId": "u4-c32-vascular",
+      "pool": "mock",
+      "decision": "primary-raynaud-target",
+      "key": "Reduce cold exposure and emotional stress",
+      "sources": [
+        "CH32S42"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c32-embolic-source",
+      "rootId": "u4-mB-c32-embolic-source",
+      "conceptId": "u4-c32-infection",
+      "pool": "mock",
+      "decision": "embolic-source",
+      "key": "Endocardial vegetation",
+      "sources": [
+        "CH32S40",
+        "CH32S85",
+        "CH32S86"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c32-remodeling",
+      "rootId": "u4-mB-c32-remodeling",
+      "conceptId": "u4-c32-pressure",
+      "pool": "mock",
+      "decision": "remodeling",
+      "key": "Vascular remodeling",
+      "sources": [
+        "CH32S25"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c33-left-outflow",
+      "rootId": "u4-mB-c33-left-outflow",
+      "conceptId": "u4-c33-obstruction",
+      "pool": "mock",
+      "decision": "left-outflow",
+      "key": "Left ventricle",
+      "sources": [
+        "CH33S15",
+        "CH33S18"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c33-pulmonary-vein-routing",
+      "rootId": "u4-mB-c33-pulmonary-vein-routing",
+      "conceptId": "u4-c33-shunts",
+      "pool": "mock",
+      "decision": "pulmonary-vein-routing",
+      "key": "Right side of the heart",
+      "sources": [
+        "CH33S26"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mB-c33-tof-paired-features",
+      "rootId": "u4-mB-c33-tof-paired-features",
+      "conceptId": "u4-c33-shunts",
+      "pool": "mock",
+      "decision": "tof-paired-features",
+      "key": "Right ventricular hypertrophy and overriding aorta",
+      "sources": [
+        "CH33S22"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c28-regulator-target",
+      "rootId": "u4-mC-c28-regulator-target",
+      "conceptId": "u4-c28-hemostasis",
+      "pool": "mock",
+      "decision": "regulator-target",
+      "key": "Factors Va and VIIIa",
+      "sources": [
+        "CH28S59"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c28-production-pools",
+      "rootId": "u4-mC-c28-production-pools",
+      "conceptId": "u4-c28-production",
+      "pool": "mock",
+      "decision": "production-pools",
+      "key": "Bone marrow pool",
+      "sources": [
+        "CH28S34"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c28-mast-permeability",
+      "rootId": "u4-mC-c28-mast-permeability",
+      "conceptId": "u4-c28-cells",
+      "pool": "mock",
+      "decision": "mast-permeability",
+      "key": "Greater permeability with muscle contraction",
+      "sources": [
+        "CH28S17",
+        "CH28S18"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c28-albumin-function",
+      "rootId": "u4-mC-c28-albumin-function",
+      "conceptId": "u4-c28-lymph",
+      "pool": "mock",
+      "decision": "albumin-function",
+      "key": "Control of plasma oncotic pressure",
+      "sources": [
+        "CH28S9"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-microcytic-mechanism",
+      "rootId": "u4-mC-c29-microcytic-mechanism",
+      "conceptId": "u4-c29-anemia",
+      "pool": "mock",
+      "decision": "microcytic-mechanism",
+      "key": "Iron, heme or globin synthesis",
+      "sources": [
+        "CH29S26"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-pure-versus-pan",
+      "rootId": "u4-mC-c29-pure-versus-pan",
+      "conceptId": "u4-c29-marrow",
+      "pool": "mock",
+      "decision": "pure-versus-pan",
+      "key": "Only the erythrocyte line is affected",
+      "sources": [
+        "CH29S34"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-viscosity-consequence",
+      "rootId": "u4-mC-c29-viscosity-consequence",
+      "conceptId": "u4-c29-polycythemia",
+      "pool": "mock",
+      "decision": "viscosity-consequence",
+      "key": "Higher resistance at unchanged vessel diameter",
+      "sources": [
+        "CH29S47",
+        "CH31S62"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-lineage-versus-speed",
+      "rootId": "u4-mC-c29-lineage-versus-speed",
+      "conceptId": "u4-c29-leukemia",
+      "pool": "mock",
+      "decision": "lineage-versus-speed",
+      "key": "Cell lineage and progression rate",
+      "sources": [
+        "CH29S69",
+        "CH29S70",
+        "CH29S74"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-biopsy-role",
+      "rootId": "u4-mC-c29-biopsy-role",
+      "conceptId": "u4-c29-lymphoma",
+      "pool": "mock",
+      "decision": "biopsy-role",
+      "key": "Biopsy",
+      "sources": [
+        "CH29S91",
+        "CH29S95"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-electrolyte-pattern",
+      "rootId": "u4-mC-c29-electrolyte-pattern",
+      "conceptId": "u4-c29-myeloma",
+      "pool": "mock",
+      "decision": "electrolyte-pattern",
+      "key": "Hypercalcemia",
+      "sources": [
+        "CH29S102"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c29-excess-origin",
+      "rootId": "u4-mC-c29-excess-origin",
+      "conceptId": "u4-c29-platelets",
+      "pool": "mock",
+      "decision": "excess-origin",
+      "key": "Essential thrombocythemia",
+      "sources": [
+        "CH29S112",
+        "CH29S113"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c30-fetal-production-transition",
+      "rootId": "u4-mC-c30-fetal-production-transition",
+      "conceptId": "u4-c30-neonatal",
+      "pool": "mock",
+      "decision": "fetal-production-transition",
+      "key": "Yolk sac, liver, marrow",
+      "sources": [
+        "CH30S6"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c30-membrane-protein",
+      "rootId": "u4-mC-c30-membrane-protein",
+      "conceptId": "u4-c30-g6pd",
+      "pool": "mock",
+      "decision": "membrane-protein",
+      "key": "Spectrin and ankyrin",
+      "sources": [
+        "CH30S20"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c30-polymer-flow",
+      "rootId": "u4-mC-c30-polymer-flow",
+      "conceptId": "u4-c30-sickle",
+      "pool": "mock",
+      "decision": "polymer-flow",
+      "key": "Reduced deformability with microvascular obstruction",
+      "sources": [
+        "CH30S24",
+        "CH30S26"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c30-treatment-pair",
+      "rootId": "u4-mC-c30-treatment-pair",
+      "conceptId": "u4-c30-thalassemia",
+      "pool": "mock",
+      "decision": "treatment-pair",
+      "key": "Blood transfusion and iron chelation",
+      "sources": [
+        "CH30S34"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c30-itp-removal",
+      "rootId": "u4-mC-c30-itp-removal",
+      "conceptId": "u4-c30-bleeding",
+      "pool": "mock",
+      "decision": "itp-removal",
+      "key": "Greater sequestration and destruction",
+      "sources": [
+        "CH30S40",
+        "CH29S107"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c31-filling-limit",
+      "rootId": "u4-mC-c31-filling-limit",
+      "conceptId": "u4-c31-flow",
+      "pool": "mock",
+      "decision": "filling-limit",
+      "key": "Cardiac output decreases",
+      "sources": [
+        "CH31S45",
+        "CH31S47"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c31-refractory-purpose",
+      "rootId": "u4-mC-c31-refractory-purpose",
+      "conceptId": "u4-c31-electric",
+      "pool": "mock",
+      "decision": "refractory-purpose",
+      "key": "It permits diastolic relaxation",
+      "sources": [
+        "CH31S30"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c31-rate-force-terms",
+      "rootId": "u4-mC-c31-rate-force-terms",
+      "conceptId": "u4-c31-beta",
+      "pool": "mock",
+      "decision": "rate-force-terms",
+      "key": "Negative chronotropy",
+      "sources": [
+        "CH31S36"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c32-rheumatic-movement",
+      "rootId": "u4-mC-c32-rheumatic-movement",
+      "conceptId": "u4-c32-infection",
+      "pool": "mock",
+      "decision": "rheumatic-movement",
+      "key": "Chorea",
+      "sources": [
+        "CH32S84"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c32-demand-versus-output",
+      "rootId": "u4-mC-c32-demand-versus-output",
+      "conceptId": "u4-c32-failure",
+      "pool": "mock",
+      "decision": "demand-versus-output",
+      "key": "High-output failure",
+      "sources": [
+        "CH32S96"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c32-therapeutic-directions",
+      "rootId": "u4-mC-c32-therapeutic-directions",
+      "conceptId": "u4-c32-pressure",
+      "pool": "mock",
+      "decision": "therapeutic-directions",
+      "key": "Blocking angiotensin or aldosterone effects",
+      "sources": [
+        "CH32S27",
+        "CH32S28",
+        "CH31S68"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c33-vsd-flow-burden",
+      "rootId": "u4-mC-c33-vsd-flow-burden",
+      "conceptId": "u4-c33-shunts",
+      "pool": "mock",
+      "decision": "vsd-flow-burden",
+      "key": "Pulmonary circuit receives more flow",
+      "sources": [
+        "CH33S9",
+        "CH33S10"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c33-truncus-development",
+      "rootId": "u4-mC-c33-truncus-development",
+      "conceptId": "u4-c33-shunts",
+      "pool": "mock",
+      "decision": "truncus-development",
+      "key": "Failure to separate the great arterial outlets",
+      "sources": [
+        "CH33S27"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    },
+    {
+      "id": "u4-mC-c33-pediatric-afterload-target",
+      "rootId": "u4-mC-c33-pediatric-afterload-target",
+      "conceptId": "u4-c33-obstruction",
+      "pool": "mock",
+      "decision": "pediatric-afterload-target",
+      "key": "ACE inhibition",
+      "sources": [
+        "CH33S31",
+        "CH33S32"
+      ],
+      "editorial": "personally reviewed stem, four choices and all rationales",
+      "sourceValidation": "separately reviewed supported key and exact source locator",
+      "verdict": "accepted within disclosed packet scope"
+    }
+  ]
+}

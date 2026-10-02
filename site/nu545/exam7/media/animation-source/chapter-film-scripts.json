@@ -1,0 +1,182 @@
+{
+  "4": {
+    "title": "Transcription: making the message",
+    "refs": "4:12,13",
+    "stages": [
+      {
+        "title": "Template",
+        "text": "Follow the DNA template. RNA polymerase binds at the promoter and builds a complementary messenger RNA strand."
+      },
+      {
+        "title": "Message",
+        "text": "Watch the RNA message lengthen and leave the template. This is transcription. The DNA sequence provides the information; the RNA carries a copy."
+      },
+      {
+        "title": "Next step",
+        "text": "Translation comes next at a ribosome. Transfer RNA matches messenger codons while a polypeptide is assembled. Do not confuse message production with protein assembly."
+      }
+    ]
+  },
+  "5": {
+    "title": "Insulin: response and supply",
+    "refs": "5:26,28,30N",
+    "stages": [
+      {
+        "title": "Insulin resistance",
+        "text": "Chapter five. Obesity is a risk factor for type two diabetes, but the connection is more than a label. The supplied notes describe insulin resistance: cells have difficulty using the insulin present."
+      },
+      {
+        "title": "Supply contrast",
+        "text": "Watch the tissue response weaken while insulin remains available. Contrast this with type one diabetes, where autoimmune destruction reduces the pancreatic beta-cell supply."
+      },
+      {
+        "title": "Modifiable risk",
+        "text": "Family history also changes risk. Exercise and weight management address modifiable contributors; they do not erase inherited susceptibility."
+      }
+    ]
+  },
+  "6": {
+    "title": "Epigenetics: changing access",
+    "refs": "6:4,6,10,26",
+    "stages": [
+      {
+        "title": "Chromatin",
+        "text": "DNA wraps around histone proteins. Tight packing is heterochromatin; loose packing is euchromatin."
+      },
+      {
+        "title": "Silencing",
+        "text": "Now add methyl groups at a promoter. The supplied cancer example links heavy promoter methylation with reduced tumor-suppressor transcription. The base sequence need not change."
+      },
+      {
+        "title": "Different outcomes",
+        "text": "A chemical modification can change gene activity. Different expression patterns help cells acquire different identities, even when they carry the same DNA."
+      }
+    ]
+  },
+  "12": {
+    "title": "Invasion: crossing a tissue boundary",
+    "refs": "12:38,39,40,41",
+    "stages": [
+      {
+        "title": "Boundary",
+        "text": "A tumor can enlarge without yet establishing a distant deposit. First examine its boundary with surrounding tissue."
+      },
+      {
+        "title": "Invasion",
+        "text": "Watch protease activity open a path through extracellular matrix and basement membrane. Reduced adhesion and increased migration help cells leave the original site."
+      },
+      {
+        "title": "Metastasis",
+        "text": "Entry into blood or lymph is not enough. Cells must survive transport and grow in a receptive distant environment. Local invasion and successful metastasis are separate steps."
+      }
+    ]
+  },
+  "13": {
+    "title": "Adipose tissue and cancer risk",
+    "refs": "13:14,17",
+    "stages": [
+      {
+        "title": "Active tissue",
+        "text": "Adipose tissue is an active participant in the cancer-risk model. It releases adipokines."
+      },
+      {
+        "title": "Interacting pathways",
+        "text": "With obesity, the supplied deck links insulin resistance and hyperinsulinemia. Watch signaling increase around the tissue. This is a risk mechanism, not proof that a tumor will develop."
+      },
+      {
+        "title": "Activity",
+        "text": "Physical activity can reduce inflammatory mediators and insulin-like growth factors. The packet describes protection for selected cancers even without weight loss."
+      }
+    ]
+  },
+  "14": {
+    "title": "Immature tissue and differentiation",
+    "refs": "14:4,6,8",
+    "stages": [
+      {
+        "title": "Development",
+        "text": "Childhood cancer is not simply adult cancer occurring earlier. The supplied chapter emphasizes immature tissues and developmental origins."
+      },
+      {
+        "title": "Diverging states",
+        "text": "Compare two paths. In one, immature cells mature and differentiate. In the embryonal-tumor model, tissue fails to differentiate and retains an immature pattern."
+      },
+      {
+        "title": "Scope",
+        "text": "Many childhood cancers arise from mesodermal tissues. Growth timing, inherited factors and exposures belong to the same assessment; no single factor explains every case."
+      }
+    ]
+  },
+  "46": {
+    "title": "Pressure: from compression to ischemia",
+    "refs": "46:27,28,29,30",
+    "stages": [
+      {
+        "title": "Compression",
+        "text": "Pressure over a bony prominence can compress the local capillary bed. Watch flow diminish as the tissue is compressed."
+      },
+      {
+        "title": "Ischemia",
+        "text": "Unrelieved pressure reduces oxygen delivery and can cause ischemia and necrosis. Depth matters: injury can extend from skin into deeper supporting tissues."
+      },
+      {
+        "title": "Relief",
+        "text": "Pressure relief and repositioning address the initiating force. An intact red surface and an exposed deep wound represent different findings; a covered wound base may prevent staging."
+      }
+    ]
+  },
+  "47": {
+    "title": "The itch and barrier cycle",
+    "refs": "47:9,10,11",
+    "stages": [
+      {
+        "title": "Barrier",
+        "text": "Atopic dermatitis involves epidermal barrier dysfunction and immune dysregulation. Filaggrin alteration is one supplied barrier mechanism."
+      },
+      {
+        "title": "Scratching",
+        "text": "Severe itching drives scratching. Watch the surface become disrupted, followed by a thickened epidermis with repeated scratching. The thickening is lichenification."
+      },
+      {
+        "title": "Care",
+        "text": "Hydration and emollients support barrier care. Distribution changes with age: infants often have face and extensor lesions, while older children favor flexures."
+      }
+    ]
+  },
+  "48": {
+    "title": "Burns: edema with volume depletion",
+    "refs": "48:46,47,48,54",
+    "stages": [
+      {
+        "title": "Leak",
+        "text": "After a major burn, fluid shifts out of the circulation and tissue edema develops. Watch fluid collect outside the vessel while the circulating supply falls."
+      },
+      {
+        "title": "Replacement",
+        "text": "Visible swelling does not prove adequate blood volume. Fluid replacement supports the circulation; increasing capillary permeability is not its purpose."
+      },
+      {
+        "title": "Monitoring",
+        "text": "The supplied deck identifies urine output as the most reliable resuscitation measure. Capillary seal marks the end of burn shock in this source."
+      }
+    ]
+  },
+  "49": {
+    "title": "Perfusion before pressure falls",
+    "refs": "49:5,6,17,18,25,26",
+    "stages": [
+      {
+        "title": "Early shock",
+        "text": "A child can have poor tissue perfusion while systolic pressure remains appropriate for age. This is compensated shock."
+      },
+      {
+        "title": "Redistribution",
+        "text": "Watch peripheral flow decrease as blood is redistributed. A normal pressure reading does not erase abnormal perfusion findings."
+      },
+      {
+        "title": "Deterioration",
+        "text": "Hypotension marks a later category. Bradycardia in a severely ill child can signal deterioration, and hypoxia is a common cause. Assess oxygen delivery and perfusion together."
+      }
+    ]
+  }
+}

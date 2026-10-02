@@ -1,0 +1,132 @@
+{
+  "40": {
+    "title": "Mixing and propulsion",
+    "sources": [
+      "CH40S46"
+    ],
+    "stages": [
+      {
+        "title": "Mixing",
+        "text": "Digestion needs both mixing and forward movement. In the small intestine, segmentation uses localized rhythmic contractions to divide and mix chyme against the absorbing surface. Watch neighboring sections narrow and relax while the contents remain in the same region."
+      },
+      {
+        "title": "Propulsion",
+        "text": "Peristalsis serves a different purpose. A coordinated contraction wave moves the contents onward. Now the narrowing travels, and the bolus advances ahead of it."
+      },
+      {
+        "title": "Compare",
+        "text": "Mixing improves contact; propulsion changes location. This distinction comes from Chapter forty, slide forty-six. The illustrated timing and motion are schematic. The source does not supply a complete motor-control pathway."
+      }
+    ]
+  },
+  "41": {
+    "title": "When intestinal flow stops",
+    "sources": [
+      "CH41S33",
+      "CH41S36",
+      "CH41S37"
+    ],
+    "stages": [
+      {
+        "title": "Normal movement",
+        "text": "Intestinal contents normally move along the lumen. Here, the moving contraction advances material through an open segment."
+      },
+      {
+        "title": "Mechanical obstruction",
+        "text": "A mechanical obstruction places a lesion in that route. Incoming contents collect upstream. Watch the proximal segment expand while material fails to pass the narrowed region. Chapter forty-one explains that a lower small-bowel obstruction can produce more distention because a greater length of bowel lies upstream."
+      },
+      {
+        "title": "Functional failure",
+        "text": "Paralytic ileus is different. The packet describes failure of motility, especially after surgery, without an obstructing lesion. The lumen remains open, but the propulsive wave stops. The animation compares these mechanisms schematically; its dimensions do not represent a patient or a clinical threshold."
+      }
+    ]
+  },
+  "42": {
+    "title": "Celiac injury and absorptive surface",
+    "sources": [
+      "CH42S37",
+      "CH42S40",
+      "CH42S41"
+    ],
+    "stages": [
+      {
+        "title": "Villus surface",
+        "text": "The small intestine presents an extensive epithelial surface to the lumen. These projecting villi provide the geometry needed to understand the course packet’s celiac disease explanation."
+      },
+      {
+        "title": "Immune injury",
+        "text": "In the supplied mechanism, gluten ingestion triggers immune injury to the villous epithelium. T-cell infiltration accompanies inflammation and mucosal destruction. Watch the projections shorten and flatten. The loss of surface connects tissue injury with impaired absorption."
+      },
+      {
+        "title": "Healing distinction",
+        "text": "The packet calls for permanent gluten exclusion. It separately permits lactose reintroduction after villous healing. These are different instructions: recovery does not end gluten avoidance. This schematic deformation shows a mechanism, not a measured healing time or a diagnostic biopsy."
+      }
+    ]
+  },
+  "43": {
+    "title": "From calcium release to relaxation",
+    "sources": [
+      "CH43S53",
+      "CH43S54",
+      "CH43S55",
+      "CH43S56"
+    ],
+    "stages": [
+      {
+        "title": "Excitation and coupling",
+        "text": "Muscle contraction begins with electrical excitation. The supplied sequence reaches voltage-sensitive receptors in the transverse tubules and opens ryanodine channels. Released calcium enables actin to bind myosin."
+      },
+      {
+        "title": "Filament sliding",
+        "text": "Now watch thin filaments move inward relative to thick filaments. Their overlap increases and the sarcomere shortens. The motion represents cross-bridge activity, not shortening of the individual filaments. The packet identifies a continuing requirement for ATP and phosphocreatine."
+      },
+      {
+        "title": "Relaxation",
+        "text": "During relaxation, calcium returns to the sarcoplasmic reticulum, cross-bridges detach, and the sarcomere lengthens. Follow the reverse motion. This film uses a textbook figure with schematic motion to separate excitation, coupling, contraction, and relaxation."
+      }
+    ]
+  },
+  "44": {
+    "title": "Bone loss and structural integrity",
+    "sources": [
+      "CH44S31",
+      "CH44S32",
+      "CH44S33"
+    ],
+    "stages": [
+      {
+        "title": "Bone architecture",
+        "text": "Bone strength depends on its supporting architecture. This OpenStax figure provides a view of the trabecular network. It is a structural reference, not a patient specimen from this course."
+      },
+      {
+        "title": "Resorption imbalance",
+        "text": "Chapter forty-four describes osteoporosis as reduced bone mass with an imbalance between resorption and formation. Watch the supporting connections thin in this schematic adaptation. The supplied glucocorticoid pathway increases RANK ligand and inhibits osteoprotegerin, favoring lower bone density."
+      },
+      {
+        "title": "Distinguish the defect",
+        "text": "Less supporting bone means less structural integrity. Keep that concept separate from inadequate mineralization of osteoid in osteomalacia. The osteoporosis slides contain conflicting mineralization wording, so this film follows the explicit reduced-mass description on slide thirty-three. The amount and speed of bone loss shown are illustrative."
+      }
+    ]
+  },
+  "45": {
+    "title": "Femoral-head injury in Perthes disease",
+    "sources": [
+      "CH45S39",
+      "CH45S40"
+    ],
+    "stages": [
+      {
+        "title": "Locate the head",
+        "text": "Locate the femoral head on this textbook illustration. Chapter forty-five identifies interruption of its blood supply as the initiating problem in Legg Calvé Perthes disease."
+      },
+      {
+        "title": "Necrosis and collapse",
+        "text": "The supplied sequence is necrosis of the ossification center, collapse, and gradual remodeling by living bone. Watch the highlighted head lose its rounded contour. This deformation illustrates the described collapse; it does not reproduce a patient radiograph or predict the final shape."
+      },
+      {
+        "title": "Remodeling and containment",
+        "text": "The final stage illustrates remodeling without promising a complete return to the original contour. The packet’s containment goal is to keep the ball completely within the socket, while maintaining motion. Knee pain can be part of this hip disorder. The source does not supply a precise recovery timeline for this animation."
+      }
+    ]
+  }
+}

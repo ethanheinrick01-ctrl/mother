@@ -1,0 +1,707 @@
+{
+  "title": "Bone loss and structural integrity",
+  "sources": [
+    "CH44S31",
+    "CH44S32",
+    "CH44S33"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Bone architecture",
+      "text": "Bone strength depends on its supporting architecture. This OpenStax figure provides a view of the trabecular network. It is a structural reference, not a patient specimen from this course."
+    },
+    {
+      "start": 11.28,
+      "title": "Resorption imbalance",
+      "text": "Chapter forty-four describes osteoporosis as reduced bone mass with an imbalance between resorption and formation. Watch the supporting connections thin in this schematic adaptation. The supplied glucocorticoid pathway increases RANK ligand and inhibits osteoprotegerin, favoring lower bone density."
+    },
+    {
+      "start": 30.7,
+      "title": "Distinguish the defect",
+      "text": "Less supporting bone means less structural integrity. Keep that concept separate from inadequate mineralization of osteoid in osteomalacia. The osteoporosis slides contain conflicting mineralization wording, so this film follows the explicit reduced-mass description on slide thirty-three. The amount and speed of bone loss shown are illustrative."
+    }
+  ],
+  "words": [
+    {
+      "text": "Bone",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.18
+    },
+    {
+      "text": "strength",
+      "stage": 0,
+      "start": 0.16,
+      "end": 0.465
+    },
+    {
+      "text": "depends",
+      "stage": 0,
+      "start": 0.44,
+      "end": 0.826
+    },
+    {
+      "text": "on",
+      "stage": 0,
+      "start": 0.82,
+      "end": 1.07
+    },
+    {
+      "text": "its",
+      "stage": 0,
+      "start": 1.2,
+      "end": 1.34
+    },
+    {
+      "text": "supporting",
+      "stage": 0,
+      "start": 1.32,
+      "end": 1.686
+    },
+    {
+      "text": "architecture.",
+      "stage": 0,
+      "start": 1.66,
+      "end": 2.05
+    },
+    {
+      "text": "This",
+      "stage": 0,
+      "start": 3.06,
+      "end": 3.21
+    },
+    {
+      "text": "OpenStax",
+      "stage": 0,
+      "start": 3.18,
+      "end": 3.64
+    },
+    {
+      "text": "figure",
+      "stage": 0,
+      "start": 3.68,
+      "end": 4.123
+    },
+    {
+      "text": "provides",
+      "stage": 0,
+      "start": 4.14,
+      "end": 4.515
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 4.5,
+      "end": 4.56
+    },
+    {
+      "text": "view",
+      "stage": 0,
+      "start": 4.76,
+      "end": 4.985
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 4.98,
+      "end": 5.11
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 5.12,
+      "end": 5.247
+    },
+    {
+      "text": "trabecular",
+      "stage": 0,
+      "start": 5.22,
+      "end": 5.766
+    },
+    {
+      "text": "network.",
+      "stage": 0,
+      "start": 5.76,
+      "end": 6.06
+    },
+    {
+      "text": "It",
+      "stage": 0,
+      "start": 7.1,
+      "end": 7.21
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 7.2,
+      "end": 7.31
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 7.3,
+      "end": 7.36
+    },
+    {
+      "text": "structural",
+      "stage": 0,
+      "start": 7.4,
+      "end": 7.712
+    },
+    {
+      "text": "reference,",
+      "stage": 0,
+      "start": 7.68,
+      "end": 8.238
+    },
+    {
+      "text": "not",
+      "stage": 0,
+      "start": 8.7,
+      "end": 8.933
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 8.96,
+      "end": 9.02
+    },
+    {
+      "text": "patient",
+      "stage": 0,
+      "start": 9.06,
+      "end": 9.394
+    },
+    {
+      "text": "specimen",
+      "stage": 0,
+      "start": 9.38,
+      "end": 9.72
+    },
+    {
+      "text": "from",
+      "stage": 0,
+      "start": 9.7,
+      "end": 10.06
+    },
+    {
+      "text": "this",
+      "stage": 0,
+      "start": 10.1,
+      "end": 10.28
+    },
+    {
+      "text": "course.",
+      "stage": 0,
+      "start": 10.26,
+      "end": 10.537
+    },
+    {
+      "text": "Chapter",
+      "stage": 1,
+      "start": 11.28,
+      "end": 11.391
+    },
+    {
+      "text": "forty-four",
+      "stage": 1,
+      "start": 11.398,
+      "end": 11.993
+    },
+    {
+      "text": "describes",
+      "stage": 1,
+      "start": 12.0,
+      "end": 12.433
+    },
+    {
+      "text": "osteoporosis",
+      "stage": 1,
+      "start": 12.42,
+      "end": 13.525
+    },
+    {
+      "text": "as",
+      "stage": 1,
+      "start": 13.56,
+      "end": 13.78
+    },
+    {
+      "text": "reduced",
+      "stage": 1,
+      "start": 13.88,
+      "end": 14.163
+    },
+    {
+      "text": "bone",
+      "stage": 1,
+      "start": 14.14,
+      "end": 14.485
+    },
+    {
+      "text": "mass",
+      "stage": 1,
+      "start": 14.52,
+      "end": 14.805
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 14.82,
+      "end": 15.165
+    },
+    {
+      "text": "an",
+      "stage": 1,
+      "start": 15.2,
+      "end": 15.32
+    },
+    {
+      "text": "imbalance",
+      "stage": 1,
+      "start": 15.32,
+      "end": 15.753
+    },
+    {
+      "text": "between",
+      "stage": 1,
+      "start": 15.74,
+      "end": 16.28
+    },
+    {
+      "text": "resorption",
+      "stage": 1,
+      "start": 16.3,
+      "end": 16.972
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 16.98,
+      "end": 17.253
+    },
+    {
+      "text": "formation.",
+      "stage": 1,
+      "start": 17.3,
+      "end": 17.591
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 18.8,
+      "end": 19.052
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 19.04,
+      "end": 19.233
+    },
+    {
+      "text": "supporting",
+      "stage": 1,
+      "start": 19.24,
+      "end": 19.624
+    },
+    {
+      "text": "connections",
+      "stage": 1,
+      "start": 19.6,
+      "end": 20.042
+    },
+    {
+      "text": "thin",
+      "stage": 1,
+      "start": 20.02,
+      "end": 20.47
+    },
+    {
+      "text": "in",
+      "stage": 1,
+      "start": 20.54,
+      "end": 20.77
+    },
+    {
+      "text": "this",
+      "stage": 1,
+      "start": 20.88,
+      "end": 21.06
+    },
+    {
+      "text": "schematic",
+      "stage": 1,
+      "start": 21.04,
+      "end": 21.349
+    },
+    {
+      "text": "adaptation.",
+      "stage": 1,
+      "start": 21.32,
+      "end": 21.83
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 22.94,
+      "end": 23.187
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 23.22,
+      "end": 23.595
+    },
+    {
+      "text": "glucocorticoid",
+      "stage": 1,
+      "start": 23.58,
+      "end": 24.661
+    },
+    {
+      "text": "pathway",
+      "stage": 1,
+      "start": 24.68,
+      "end": 25.066
+    },
+    {
+      "text": "increases",
+      "stage": 1,
+      "start": 25.06,
+      "end": 25.92
+    },
+    {
+      "text": "RANK",
+      "stage": 1,
+      "start": 25.96,
+      "end": 26.29
+    },
+    {
+      "text": "ligand",
+      "stage": 1,
+      "start": 26.32,
+      "end": 26.9
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 26.92,
+      "end": 27.087
+    },
+    {
+      "text": "inhibits",
+      "stage": 1,
+      "start": 27.08,
+      "end": 27.525
+    },
+    {
+      "text": "osteoprotegerin,",
+      "stage": 1,
+      "start": 27.52,
+      "end": 28.543
+    },
+    {
+      "text": "favoring",
+      "stage": 1,
+      "start": 28.86,
+      "end": 29.165
+    },
+    {
+      "text": "lower",
+      "stage": 1,
+      "start": 29.14,
+      "end": 29.44
+    },
+    {
+      "text": "bone",
+      "stage": 1,
+      "start": 29.44,
+      "end": 29.71
+    },
+    {
+      "text": "density.",
+      "stage": 1,
+      "start": 29.72,
+      "end": 30.123
+    },
+    {
+      "text": "Less",
+      "stage": 2,
+      "start": 30.7,
+      "end": 30.895
+    },
+    {
+      "text": "supporting",
+      "stage": 2,
+      "start": 30.88,
+      "end": 31.318
+    },
+    {
+      "text": "bone",
+      "stage": 2,
+      "start": 31.3,
+      "end": 31.585
+    },
+    {
+      "text": "means",
+      "stage": 2,
+      "start": 31.6,
+      "end": 31.868
+    },
+    {
+      "text": "less",
+      "stage": 2,
+      "start": 31.86,
+      "end": 32.145
+    },
+    {
+      "text": "structural",
+      "stage": 2,
+      "start": 32.16,
+      "end": 32.436
+    },
+    {
+      "text": "integrity.",
+      "stage": 2,
+      "start": 32.4,
+      "end": 32.993
+    },
+    {
+      "text": "Keep",
+      "stage": 2,
+      "start": 33.7,
+      "end": 33.91
+    },
+    {
+      "text": "that",
+      "stage": 2,
+      "start": 33.9,
+      "end": 34.125
+    },
+    {
+      "text": "concept",
+      "stage": 2,
+      "start": 34.12,
+      "end": 34.369
+    },
+    {
+      "text": "separate",
+      "stage": 2,
+      "start": 34.34,
+      "end": 35.047
+    },
+    {
+      "text": "from",
+      "stage": 2,
+      "start": 35.08,
+      "end": 35.485
+    },
+    {
+      "text": "inadequate",
+      "stage": 2,
+      "start": 35.54,
+      "end": 35.942
+    },
+    {
+      "text": "mineralization",
+      "stage": 2,
+      "start": 35.92,
+      "end": 36.816
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 36.82,
+      "end": 37.13
+    },
+    {
+      "text": "osteoid",
+      "stage": 2,
+      "start": 37.32,
+      "end": 37.843
+    },
+    {
+      "text": "in",
+      "stage": 2,
+      "start": 37.838,
+      "end": 37.953
+    },
+    {
+      "text": "osteomalacia.",
+      "stage": 2,
+      "start": 37.96,
+      "end": 38.643
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 39.64,
+      "end": 39.74
+    },
+    {
+      "text": "osteoporosis",
+      "stage": 2,
+      "start": 39.7,
+      "end": 40.438
+    },
+    {
+      "text": "slides",
+      "stage": 2,
+      "start": 40.44,
+      "end": 40.8
+    },
+    {
+      "text": "contain",
+      "stage": 2,
+      "start": 40.8,
+      "end": 41.289
+    },
+    {
+      "text": "conflicting",
+      "stage": 2,
+      "start": 41.3,
+      "end": 41.833
+    },
+    {
+      "text": "mineralization",
+      "stage": 2,
+      "start": 41.82,
+      "end": 42.716
+    },
+    {
+      "text": "wording,",
+      "stage": 2,
+      "start": 42.72,
+      "end": 43.089
+    },
+    {
+      "text": "so",
+      "stage": 2,
+      "start": 43.66,
+      "end": 43.81
+    },
+    {
+      "text": "this",
+      "stage": 2,
+      "start": 43.84,
+      "end": 44.005
+    },
+    {
+      "text": "film",
+      "stage": 2,
+      "start": 43.98,
+      "end": 44.265
+    },
+    {
+      "text": "follows",
+      "stage": 2,
+      "start": 44.28,
+      "end": 44.751
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 44.76,
+      "end": 44.953
+    },
+    {
+      "text": "explicit",
+      "stage": 2,
+      "start": 44.96,
+      "end": 45.405
+    },
+    {
+      "text": "reduced-mass",
+      "stage": 2,
+      "start": 45.4,
+      "end": 46.13
+    },
+    {
+      "text": "description",
+      "stage": 2,
+      "start": 46.18,
+      "end": 46.567
+    },
+    {
+      "text": "on",
+      "stage": 2,
+      "start": 46.54,
+      "end": 46.79
+    },
+    {
+      "text": "slide",
+      "stage": 2,
+      "start": 46.92,
+      "end": 47.108
+    },
+    {
+      "text": "thirty-three.",
+      "stage": 2,
+      "start": 47.162,
+      "end": 48.366
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 48.42,
+      "end": 48.547
+    },
+    {
+      "text": "amount",
+      "stage": 2,
+      "start": 48.52,
+      "end": 48.78
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 48.76,
+      "end": 49.02
+    },
+    {
+      "text": "speed",
+      "stage": 2,
+      "start": 49.06,
+      "end": 49.376
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 49.38,
+      "end": 49.54
+    },
+    {
+      "text": "bone",
+      "stage": 2,
+      "start": 49.58,
+      "end": 49.79
+    },
+    {
+      "text": "loss",
+      "stage": 2,
+      "start": 49.78,
+      "end": 50.005
+    },
+    {
+      "text": "shown",
+      "stage": 2,
+      "start": 50.0,
+      "end": 50.364
+    },
+    {
+      "text": "are",
+      "stage": 2,
+      "start": 50.38,
+      "end": 50.667
+    },
+    {
+      "text": "illustrative.",
+      "stage": 2,
+      "start": 50.72,
+      "end": 51.33
+    }
+  ],
+  "duration": 52.536,
+  "recognitionAgreement": 0.9729
+}

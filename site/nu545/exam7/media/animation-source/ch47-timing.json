@@ -1,0 +1,379 @@
+{
+  "title": "The itch and barrier cycle",
+  "sources": "47:9,10,11",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Barrier",
+      "text": "Atopic dermatitis involves epidermal barrier dysfunction and immune dysregulation. Filaggrin alteration is one supplied barrier mechanism."
+    },
+    {
+      "start": 9.26,
+      "title": "Scratching",
+      "text": "Severe itching drives scratching. Watch the surface become disrupted, followed by a thickened epidermis with repeated scratching. The thickening is lichenification."
+    },
+    {
+      "start": 18.3,
+      "title": "Care",
+      "text": "Hydration and emollients support barrier care. Distribution changes with age: infants often have face and extensor lesions, while older children favor flexures."
+    }
+  ],
+  "words": [
+    {
+      "text": "Atopic",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.42
+    },
+    {
+      "text": "dermatitis",
+      "stage": 0,
+      "start": 0.42,
+      "end": 1.02
+    },
+    {
+      "text": "involves",
+      "stage": 0,
+      "start": 1.02,
+      "end": 1.5
+    },
+    {
+      "text": "epidermal",
+      "stage": 0,
+      "start": 1.5,
+      "end": 2.129
+    },
+    {
+      "text": "barrier",
+      "stage": 0,
+      "start": 2.14,
+      "end": 2.491
+    },
+    {
+      "text": "dysfunction",
+      "stage": 0,
+      "start": 2.48,
+      "end": 2.904
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 2.88,
+      "end": 3.313
+    },
+    {
+      "text": "immune",
+      "stage": 0,
+      "start": 3.44,
+      "end": 3.75
+    },
+    {
+      "text": "dysregulation.",
+      "stage": 0,
+      "start": 3.74,
+      "end": 4.705
+    },
+    {
+      "text": "Filaggrin",
+      "stage": 0,
+      "start": 5.6,
+      "end": 6.045
+    },
+    {
+      "text": "alteration",
+      "stage": 0,
+      "start": 6.04,
+      "end": 6.748
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 6.76,
+      "end": 6.89
+    },
+    {
+      "text": "one",
+      "stage": 0,
+      "start": 6.9,
+      "end": 7.08
+    },
+    {
+      "text": "supplied",
+      "stage": 0,
+      "start": 7.08,
+      "end": 7.49
+    },
+    {
+      "text": "barrier",
+      "stage": 0,
+      "start": 7.48,
+      "end": 7.917
+    },
+    {
+      "text": "mechanism.",
+      "stage": 0,
+      "start": 7.92,
+      "end": 8.478
+    },
+    {
+      "text": "Severe",
+      "stage": 1,
+      "start": 9.26,
+      "end": 9.537
+    },
+    {
+      "text": "itching",
+      "stage": 1,
+      "start": 9.52,
+      "end": 9.871
+    },
+    {
+      "text": "drives",
+      "stage": 1,
+      "start": 9.86,
+      "end": 10.187
+    },
+    {
+      "text": "scratching.",
+      "stage": 1,
+      "start": 10.18,
+      "end": 10.672
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 11.1,
+      "end": 11.288
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 11.26,
+      "end": 11.48
+    },
+    {
+      "text": "surface",
+      "stage": 1,
+      "start": 11.5,
+      "end": 11.817
+    },
+    {
+      "text": "become",
+      "stage": 1,
+      "start": 11.8,
+      "end": 12.177
+    },
+    {
+      "text": "disrupted,",
+      "stage": 1,
+      "start": 12.18,
+      "end": 12.72
+    },
+    {
+      "text": "followed",
+      "stage": 1,
+      "start": 12.96,
+      "end": 13.213
+    },
+    {
+      "text": "by",
+      "stage": 1,
+      "start": 13.18,
+      "end": 13.33
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 13.36,
+      "end": 13.42
+    },
+    {
+      "text": "thickened",
+      "stage": 1,
+      "start": 13.48,
+      "end": 13.967
+    },
+    {
+      "text": "epidermis",
+      "stage": 1,
+      "start": 13.96,
+      "end": 14.518
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 14.52,
+      "end": 14.775
+    },
+    {
+      "text": "repeated",
+      "stage": 1,
+      "start": 14.78,
+      "end": 15.19
+    },
+    {
+      "text": "scratching.",
+      "stage": 1,
+      "start": 15.18,
+      "end": 15.672
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 16.34,
+      "end": 16.52
+    },
+    {
+      "text": "thickening",
+      "stage": 1,
+      "start": 16.52,
+      "end": 16.976
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 16.96,
+      "end": 17.14
+    },
+    {
+      "text": "lichenification.",
+      "stage": 1,
+      "start": 17.2,
+      "end": 17.984
+    },
+    {
+      "text": "Hydration",
+      "stage": 2,
+      "start": 18.3,
+      "end": 18.716
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 18.7,
+      "end": 18.96
+    },
+    {
+      "text": "emollients",
+      "stage": 2,
+      "start": 19.0,
+      "end": 19.473
+    },
+    {
+      "text": "support",
+      "stage": 2,
+      "start": 19.44,
+      "end": 19.843
+    },
+    {
+      "text": "barrier",
+      "stage": 2,
+      "start": 19.84,
+      "end": 20.311
+    },
+    {
+      "text": "care.",
+      "stage": 2,
+      "start": 20.32,
+      "end": 20.635
+    },
+    {
+      "text": "Distribution",
+      "stage": 2,
+      "start": 21.58,
+      "end": 22.135
+    },
+    {
+      "text": "changes",
+      "stage": 2,
+      "start": 22.12,
+      "end": 22.609
+    },
+    {
+      "text": "with",
+      "stage": 2,
+      "start": 22.62,
+      "end": 22.875
+    },
+    {
+      "text": "age:",
+      "stage": 2,
+      "start": 22.88,
+      "end": 23.153
+    },
+    {
+      "text": "infants",
+      "stage": 2,
+      "start": 23.52,
+      "end": 23.871
+    },
+    {
+      "text": "often",
+      "stage": 2,
+      "start": 23.86,
+      "end": 24.176
+    },
+    {
+      "text": "have",
+      "stage": 2,
+      "start": 24.18,
+      "end": 24.39
+    },
+    {
+      "text": "face",
+      "stage": 2,
+      "start": 24.38,
+      "end": 24.605
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 24.6,
+      "end": 24.847
+    },
+    {
+      "text": "extensor",
+      "stage": 2,
+      "start": 24.88,
+      "end": 25.377
+    },
+    {
+      "text": "lesions,",
+      "stage": 2,
+      "start": 25.38,
+      "end": 25.869
+    },
+    {
+      "text": "while",
+      "stage": 2,
+      "start": 25.88,
+      "end": 26.228
+    },
+    {
+      "text": "older",
+      "stage": 2,
+      "start": 26.24,
+      "end": 26.588
+    },
+    {
+      "text": "children",
+      "stage": 2,
+      "start": 26.6,
+      "end": 26.992
+    },
+    {
+      "text": "favor",
+      "stage": 2,
+      "start": 26.98,
+      "end": 27.312
+    },
+    {
+      "text": "flexures.",
+      "stage": 2,
+      "start": 27.32,
+      "end": 27.86
+    }
+  ],
+  "duration": 29.04,
+  "recognitionAgreement": 0.986
+}

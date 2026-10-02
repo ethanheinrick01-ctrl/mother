@@ -1,0 +1,88 @@
+[
+  {
+    "file": "hematopoiesis.jpg",
+    "title": "Hematopoietic cell lineages",
+    "chapters": [
+      28,
+      30
+    ],
+    "credit": "OpenStax, Anatomy and Physiology, version 8.25 (2016)",
+    "url": "https://commons.wikimedia.org/wiki/File:0337_Hematopoiesis_new.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "alt": "Original scholarly lineage tree with erythrocyte and macrophage artwork.",
+    "alterations": "Original preserved. Film uses resized/cropped lineage, erythrocyte and macrophage images; reversible cell deformation, production, clearance and schematic transport markers added.",
+    "src": "media/figures/hematopoiesis.jpg",
+    "sha256": "1d64208f45813d992dea59df252441e0807e21452dcde1404a0825d13c33a9fd",
+    "licenseVerified": "2026-10-02"
+  },
+  {
+    "file": "hemostasis.jpg",
+    "title": "Normal vessel repair and hemostasis",
+    "chapters": [
+      28,
+      29,
+      30
+    ],
+    "credit": "OpenStax College, Anatomy and Physiology (2013), 1909 Blood Clotting; part (a) credit Kevin MacKenzie",
+    "url": "https://commons.wikimedia.org/wiki/File:1909_Blood_Clotting.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "alt": "Original hemostasis figure, including the vessel cross-section used as a reference in the films.",
+    "alterations": "Original preserved. The vessel segment is cropped/rescaled. Schematic cell motion, intravascular fibrin accumulation, impaired flow and consumption markers are added; DIC overlays are distinguished from the original normal-repair figure.",
+    "src": "media/figures/hemostasis.jpg",
+    "sha256": "8aaba912079b7b10655f3a8a96f87acc936a26b5a33c2039b62899741623a6ee",
+    "licenseVerified": "2026-10-02"
+  },
+  {
+    "file": "sickle.svg",
+    "title": "Sickle erythrocyte",
+    "chapters": [
+      30
+    ],
+    "credit": "Database Center for Life Science (DBCLS), Togo picture gallery (2024), DOI 10.7875/togopic.2024.219",
+    "url": "https://commons.wikimedia.org/wiki/File:202410_Sckle_Cell.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "alt": "Original DBCLS illustration of sickle erythrocytes.",
+    "alterations": "Original SVG preserved. Rendered to sickle.png with CairoSVG, then cell crop/rescale and schematic motion added.",
+    "src": "media/figures/sickle.svg",
+    "sha256": "1d74dd8f881069393de7cd02b548b18f8eeec310fe64b5e6eca007341b0a3a88",
+    "licenseVerified": "2026-10-02",
+    "licenseVerificationUrl": "https://dbcls.rois.ac.jp/ja/2023/11/30/post1.html",
+    "licenseNote": "Commons review is pending; the DBCLS institutional announcement independently states CC BY 4.0 for TogoTV illustrations."
+  },
+  {
+    "file": "heart.jpg",
+    "title": "Internal anatomy of the heart",
+    "chapters": [
+      31,
+      32
+    ],
+    "credit": "OpenStax College, Anatomy and Physiology (2013)",
+    "url": "https://commons.wikimedia.org/wiki/File:2008_Internal_Anatomy_of_the_HeartN.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "alt": "Original OpenStax anterior heart cutaway with chambers, valves and vessels labeled.",
+    "alterations": "Original preserved. Film uses an anatomical crop/rescale, schematic flow markers and valve-state marks, and relative volume markers. Posterior aortic flow is hidden where the anterior pulmonary trunk overlies it. No image generation or invented organ anatomy.",
+    "src": "media/figures/heart.jpg",
+    "sha256": "5d962a658cab2538378fa846e2276c67389902c51968d64950873b9850938437",
+    "licenseVerified": "2026-10-02"
+  },
+  {
+    "file": "vsd.jpg",
+    "title": "Normal heart and ventricular septal defect",
+    "chapters": [
+      33
+    ],
+    "credit": "CDC, National Center on Birth Defects and Developmental Disabilities",
+    "url": "https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html",
+    "license": "U.S. public domain, absent a stated third-party copyright restriction",
+    "licenseUrl": "https://www.cdc.gov/other/agencymaterials.html",
+    "alt": "CDC comparison of a normal heart and VSD, with an arrow crossing the ventricular septum.",
+    "alterations": "Original preserved. Film crops/rescales the paired anatomy and adds schematic left-to-right and pulmonary flow. Use does not imply endorsement by CDC, HHS, or the U.S. Government.",
+    "src": "media/figures/vsd.jpg",
+    "sha256": "3ada57983664dbbdef8bcbf552c467eb414bfdf5ce0ffb60a0fe9922796fa6db",
+    "licenseVerified": "2026-10-02"
+  }
+]

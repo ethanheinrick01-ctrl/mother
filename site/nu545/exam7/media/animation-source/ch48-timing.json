@@ -1,0 +1,433 @@
+{
+  "title": "Burns: edema with volume depletion",
+  "sources": "48:46,47,48,54",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Leak",
+      "text": "After a major burn, fluid shifts out of the circulation and tissue edema develops. Watch fluid collect outside the vessel while the circulating supply falls."
+    },
+    {
+      "start": 10.04,
+      "title": "Replacement",
+      "text": "Visible swelling does not prove adequate blood volume. Fluid replacement supports the circulation; increasing capillary permeability is not its purpose."
+    },
+    {
+      "start": 19.74,
+      "title": "Monitoring",
+      "text": "The supplied deck identifies urine output as the most reliable resuscitation measure. Capillary seal marks the end of burn shock in this source."
+    }
+  ],
+  "words": [
+    {
+      "text": "After",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 0.3,
+      "end": 0.36
+    },
+    {
+      "text": "major",
+      "stage": 0,
+      "start": 0.42,
+      "end": 0.688
+    },
+    {
+      "text": "burn,",
+      "stage": 0,
+      "start": 0.68,
+      "end": 0.995
+    },
+    {
+      "text": "fluid",
+      "stage": 0,
+      "start": 1.44,
+      "end": 1.596
+    },
+    {
+      "text": "shifts",
+      "stage": 0,
+      "start": 1.56,
+      "end": 1.853
+    },
+    {
+      "text": "out",
+      "stage": 0,
+      "start": 1.84,
+      "end": 2.14
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 2.2,
+      "end": 2.31
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 2.3,
+      "end": 2.413
+    },
+    {
+      "text": "circulation",
+      "stage": 0,
+      "start": 2.38,
+      "end": 2.967
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 2.96,
+      "end": 3.3
+    },
+    {
+      "text": "tissue",
+      "stage": 0,
+      "start": 3.38,
+      "end": 3.673
+    },
+    {
+      "text": "edema",
+      "stage": 0,
+      "start": 3.66,
+      "end": 3.992
+    },
+    {
+      "text": "develops.",
+      "stage": 0,
+      "start": 4.0,
+      "end": 4.497
+    },
+    {
+      "text": "Watch",
+      "stage": 0,
+      "start": 5.3,
+      "end": 5.552
+    },
+    {
+      "text": "fluid",
+      "stage": 0,
+      "start": 5.54,
+      "end": 5.824
+    },
+    {
+      "text": "collect",
+      "stage": 0,
+      "start": 5.82,
+      "end": 6.137
+    },
+    {
+      "text": "outside",
+      "stage": 0,
+      "start": 6.12,
+      "end": 6.574
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 6.58,
+      "end": 6.8
+    },
+    {
+      "text": "vessel",
+      "stage": 0,
+      "start": 6.82,
+      "end": 7.113
+    },
+    {
+      "text": "while",
+      "stage": 0,
+      "start": 7.1,
+      "end": 7.432
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 7.44,
+      "end": 7.593
+    },
+    {
+      "text": "circulating",
+      "stage": 0,
+      "start": 7.58,
+      "end": 8.04
+    },
+    {
+      "text": "supply",
+      "stage": 0,
+      "start": 8.02,
+      "end": 8.447
+    },
+    {
+      "text": "falls.",
+      "stage": 0,
+      "start": 8.46,
+      "end": 8.92
+    },
+    {
+      "text": "Visible",
+      "stage": 1,
+      "start": 10.04,
+      "end": 10.443
+    },
+    {
+      "text": "swelling",
+      "stage": 1,
+      "start": 10.44,
+      "end": 10.833
+    },
+    {
+      "text": "does",
+      "stage": 1,
+      "start": 10.82,
+      "end": 11.045
+    },
+    {
+      "text": "not",
+      "stage": 1,
+      "start": 11.04,
+      "end": 11.247
+    },
+    {
+      "text": "prove",
+      "stage": 1,
+      "start": 11.26,
+      "end": 11.592
+    },
+    {
+      "text": "adequate",
+      "stage": 1,
+      "start": 11.6,
+      "end": 11.993
+    },
+    {
+      "text": "blood",
+      "stage": 1,
+      "start": 11.98,
+      "end": 12.376
+    },
+    {
+      "text": "volume.",
+      "stage": 1,
+      "start": 12.4,
+      "end": 12.793
+    },
+    {
+      "text": "Fluid",
+      "stage": 1,
+      "start": 13.56,
+      "end": 13.892
+    },
+    {
+      "text": "replacement",
+      "stage": 1,
+      "start": 13.9,
+      "end": 14.342
+    },
+    {
+      "text": "supports",
+      "stage": 1,
+      "start": 14.32,
+      "end": 14.765
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 14.76,
+      "end": 14.98
+    },
+    {
+      "text": "circulation;",
+      "stage": 1,
+      "start": 15.0,
+      "end": 15.569
+    },
+    {
+      "text": "increasing",
+      "stage": 1,
+      "start": 16.12,
+      "end": 16.522
+    },
+    {
+      "text": "capillary",
+      "stage": 1,
+      "start": 16.5,
+      "end": 16.969
+    },
+    {
+      "text": "permeability",
+      "stage": 1,
+      "start": 16.96,
+      "end": 17.735
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 17.74,
+      "end": 17.97
+    },
+    {
+      "text": "not",
+      "stage": 1,
+      "start": 18.08,
+      "end": 18.26
+    },
+    {
+      "text": "its",
+      "stage": 1,
+      "start": 18.26,
+      "end": 18.453
+    },
+    {
+      "text": "purpose.",
+      "stage": 1,
+      "start": 18.46,
+      "end": 18.811
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 19.74,
+      "end": 19.893
+    },
+    {
+      "text": "supplied",
+      "stage": 2,
+      "start": 19.88,
+      "end": 20.22
+    },
+    {
+      "text": "deck",
+      "stage": 2,
+      "start": 20.2,
+      "end": 20.41
+    },
+    {
+      "text": "identifies",
+      "stage": 2,
+      "start": 20.4,
+      "end": 20.964
+    },
+    {
+      "text": "urine",
+      "stage": 2,
+      "start": 20.96,
+      "end": 21.292
+    },
+    {
+      "text": "output",
+      "stage": 2,
+      "start": 21.3,
+      "end": 21.743
+    },
+    {
+      "text": "as",
+      "stage": 2,
+      "start": 21.76,
+      "end": 21.94
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 22.0,
+      "end": 22.14
+    },
+    {
+      "text": "most",
+      "stage": 2,
+      "start": 22.12,
+      "end": 22.33
+    },
+    {
+      "text": "reliable",
+      "stage": 2,
+      "start": 22.32,
+      "end": 22.765
+    },
+    {
+      "text": "resuscitation",
+      "stage": 2,
+      "start": 22.76,
+      "end": 23.54
+    },
+    {
+      "text": "measure.",
+      "stage": 2,
+      "start": 23.54,
+      "end": 23.926
+    },
+    {
+      "text": "Capillary",
+      "stage": 2,
+      "start": 24.6,
+      "end": 25.033
+    },
+    {
+      "text": "seal",
+      "stage": 2,
+      "start": 25.02,
+      "end": 25.35
+    },
+    {
+      "text": "marks",
+      "stage": 2,
+      "start": 25.38,
+      "end": 25.664
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 25.66,
+      "end": 25.893
+    },
+    {
+      "text": "end",
+      "stage": 2,
+      "start": 25.92,
+      "end": 26.113
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 26.12,
+      "end": 26.28
+    },
+    {
+      "text": "burn",
+      "stage": 2,
+      "start": 26.32,
+      "end": 26.47
+    },
+    {
+      "text": "shock",
+      "stage": 2,
+      "start": 26.44,
+      "end": 26.74
+    },
+    {
+      "text": "in",
+      "stage": 2,
+      "start": 26.74,
+      "end": 26.91
+    },
+    {
+      "text": "this",
+      "stage": 2,
+      "start": 26.96,
+      "end": 27.14
+    },
+    {
+      "text": "source.",
+      "stage": 2,
+      "start": 27.12,
+      "end": 27.397
+    }
+  ],
+  "duration": 28.488,
+  "recognitionAgreement": 1.0
+}

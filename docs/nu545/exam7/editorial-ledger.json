@@ -1,0 +1,2068 @@
+[
+  {
+    "id": "u7-c4-p-sets",
+    "pool": "practice",
+    "concept": "u7-c4-chromosomes",
+    "sources": [
+      "C4S17",
+      "C4S18",
+      "C4S28",
+      "C4S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-p-separation",
+    "pool": "practice",
+    "concept": "u7-c4-chromosomes",
+    "sources": [
+      "C4S20",
+      "C4S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-p-carrier-cross",
+    "pool": "practice",
+    "concept": "u7-c4-inheritance",
+    "sources": [
+      "C4S47"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-p-father-son",
+    "pool": "practice",
+    "concept": "u7-c4-inheritance",
+    "sources": [
+      "C4S52",
+      "C4S53"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-p-variation",
+    "pool": "practice",
+    "concept": "u7-c4-expression",
+    "sources": [
+      "C4S43",
+      "C4S44"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-p-message",
+    "pool": "practice",
+    "concept": "u7-c4-expression",
+    "sources": [
+      "C4S12",
+      "C4S13"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-A-syndrome-comparison",
+    "pool": "mock",
+    "concept": "u7-c4-chromosomes",
+    "sources": [
+      "C4S24",
+      "C4S25"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-A-independent-birth",
+    "pool": "mock",
+    "concept": "u7-c4-inheritance",
+    "sources": [
+      "C4S38",
+      "C4S40"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-B-fraction",
+    "pool": "mock",
+    "concept": "u7-c4-expression",
+    "sources": [
+      "C4S43",
+      "C4S44"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-B-rearrangement",
+    "pool": "mock",
+    "concept": "u7-c4-chromosomes",
+    "sources": [
+      "C4S28",
+      "C4S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-C-affected-recessive",
+    "pool": "mock",
+    "concept": "u7-c4-inheritance",
+    "sources": [
+      "C4S45",
+      "C4S47"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c4-C-treatment-phenotype",
+    "pool": "mock",
+    "concept": "u7-c4-expression",
+    "sources": [
+      "C4S33"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-p-snapshot",
+    "pool": "practice",
+    "concept": "u7-c5-risk",
+    "sources": [
+      "C5S5",
+      "C5S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-p-ratio",
+    "pool": "practice",
+    "concept": "u7-c5-risk",
+    "sources": [
+      "C5S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-p-gene-map",
+    "pool": "practice",
+    "concept": "u7-c5-familial",
+    "sources": [
+      "C5S20",
+      "C5S21N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-p-polyposis",
+    "pool": "practice",
+    "concept": "u7-c5-familial",
+    "sources": [
+      "C5S22"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-p-resistance",
+    "pool": "practice",
+    "concept": "u7-c5-metabolic",
+    "sources": [
+      "C5S28",
+      "C5S30N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-p-prevention",
+    "pool": "practice",
+    "concept": "u7-c5-metabolic",
+    "sources": [
+      "C5S28",
+      "C5S30N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-A-new-cases",
+    "pool": "mock",
+    "concept": "u7-c5-risk",
+    "sources": [
+      "C5S5"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-A-bilateral",
+    "pool": "mock",
+    "concept": "u7-c5-familial",
+    "sources": [
+      "C5S20",
+      "C5S36"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-B-type-contrast",
+    "pool": "mock",
+    "concept": "u7-c5-metabolic",
+    "sources": [
+      "C5S26",
+      "C5S28"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-B-followup",
+    "pool": "mock",
+    "concept": "u7-c5-risk",
+    "sources": [
+      "C5S5",
+      "C5S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-C-other-organ",
+    "pool": "mock",
+    "concept": "u7-c5-familial",
+    "sources": [
+      "C5S20"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c5-C-gene-role",
+    "pool": "mock",
+    "concept": "u7-c5-metabolic",
+    "sources": [
+      "C5S29",
+      "C5S30N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-p-promoter",
+    "pool": "practice",
+    "concept": "u7-c6-methylation",
+    "sources": [
+      "C6S4",
+      "C6S26"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-p-opposite-patterns",
+    "pool": "practice",
+    "concept": "u7-c6-methylation",
+    "sources": [
+      "C6S26"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-p-active-copy",
+    "pool": "practice",
+    "concept": "u7-c6-imprinting",
+    "sources": [
+      "C6S14",
+      "C6S15"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-p-growth-dose",
+    "pool": "practice",
+    "concept": "u7-c6-imprinting",
+    "sources": [
+      "C6S18",
+      "C6S19"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-p-packing",
+    "pool": "practice",
+    "concept": "u7-c6-chromatin",
+    "sources": [
+      "C6S6",
+      "C4S16",
+      "C4S49"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-p-translation-block",
+    "pool": "practice",
+    "concept": "u7-c6-chromatin",
+    "sources": [
+      "C6S28"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-A-reversible-target",
+    "pool": "mock",
+    "concept": "u7-c6-methylation",
+    "sources": [
+      "C6S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-A-parent-effect",
+    "pool": "mock",
+    "concept": "u7-c6-imprinting",
+    "sources": [
+      "C6S11",
+      "C6S12",
+      "C6S13"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-B-hdac",
+    "pool": "mock",
+    "concept": "u7-c6-chromatin",
+    "sources": [
+      "C6S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-B-repair-loss",
+    "pool": "mock",
+    "concept": "u7-c6-methylation",
+    "sources": [
+      "C6S27",
+      "C12S24"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-C-double-dose",
+    "pool": "mock",
+    "concept": "u7-c6-imprinting",
+    "sources": [
+      "C6S16",
+      "C6S17",
+      "C6S18",
+      "C6S19"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c6-C-cell-fate",
+    "pool": "mock",
+    "concept": "u7-c6-chromatin",
+    "sources": [
+      "C6S10"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-p-matrix",
+    "pool": "practice",
+    "concept": "u7-c12-invasion",
+    "sources": [
+      "C12S39",
+      "C12S40"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-p-distant-site",
+    "pool": "practice",
+    "concept": "u7-c12-invasion",
+    "sources": [
+      "C12S38",
+      "C12S40"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-p-marker-limit",
+    "pool": "practice",
+    "concept": "u7-c12-markers-therapy",
+    "sources": [
+      "C12S50",
+      "C12S51",
+      "C12S52"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-p-before-surgery",
+    "pool": "practice",
+    "concept": "u7-c12-markers-therapy",
+    "sources": [
+      "C12S57"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-p-suppressor",
+    "pool": "practice",
+    "concept": "u7-c12-growth",
+    "sources": [
+      "C12S21",
+      "C12S22"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-p-inflammatory-support",
+    "pool": "practice",
+    "concept": "u7-c12-growth",
+    "sources": [
+      "C12S32",
+      "C12S34"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-A-adhesion",
+    "pool": "mock",
+    "concept": "u7-c12-invasion",
+    "sources": [
+      "C12S41"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-A-postoperative-purpose",
+    "pool": "mock",
+    "concept": "u7-c12-markers-therapy",
+    "sources": [
+      "C12S57"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-B-caretaker",
+    "pool": "mock",
+    "concept": "u7-c12-growth",
+    "sources": [
+      "C12S24",
+      "C12S25"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-B-local-vs-distant",
+    "pool": "mock",
+    "concept": "u7-c12-invasion",
+    "sources": [
+      "C12S38",
+      "C12S39"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-C-afp",
+    "pool": "mock",
+    "concept": "u7-c12-markers-therapy",
+    "sources": [
+      "C12S51"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c12-C-growth-signal",
+    "pool": "mock",
+    "concept": "u7-c12-growth",
+    "sources": [
+      "C12S23"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-p-tobacco-sites",
+    "pool": "practice",
+    "concept": "u7-c13-exposure",
+    "sources": [
+      "C13S9"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-p-prenatal-limit",
+    "pool": "practice",
+    "concept": "u7-c13-exposure",
+    "sources": [
+      "C13S8",
+      "C14S11"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-p-obesity-chain",
+    "pool": "practice",
+    "concept": "u7-c13-risk-process",
+    "sources": [
+      "C13S14"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-p-exercise-mediator",
+    "pool": "practice",
+    "concept": "u7-c13-risk-process",
+    "sources": [
+      "C13S17"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-p-stroma",
+    "pool": "practice",
+    "concept": "u7-c13-microenvironment",
+    "sources": [
+      "C13S5"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-p-repair-risk",
+    "pool": "practice",
+    "concept": "u7-c13-microenvironment",
+    "sources": [
+      "C13S6",
+      "C12S24"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-A-smoke-route",
+    "pool": "mock",
+    "concept": "u7-c13-exposure",
+    "sources": [
+      "C13S9"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-A-weight-independent",
+    "pool": "mock",
+    "concept": "u7-c13-risk-process",
+    "sources": [
+      "C13S17"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-B-inflammation-bridge",
+    "pool": "mock",
+    "concept": "u7-c13-microenvironment",
+    "sources": [
+      "C13S5",
+      "C12S32"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-B-positive-association",
+    "pool": "mock",
+    "concept": "u7-c13-exposure",
+    "sources": [
+      "C13S9"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-C-adipose-signal",
+    "pool": "mock",
+    "concept": "u7-c13-risk-process",
+    "sources": [
+      "C13S14"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c13-C-multi-contribution",
+    "pool": "mock",
+    "concept": "u7-c13-microenvironment",
+    "sources": [
+      "C13S5",
+      "C13S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-p-embryonal",
+    "pool": "practice",
+    "concept": "u7-c14-origins",
+    "sources": [
+      "C14S4"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-p-growth-time",
+    "pool": "practice",
+    "concept": "u7-c14-origins",
+    "sources": [
+      "C14S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-p-nmyc",
+    "pool": "practice",
+    "concept": "u7-c14-genetic",
+    "sources": [
+      "C14S10N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-p-chromosome-risk",
+    "pool": "practice",
+    "concept": "u7-c14-genetic",
+    "sources": [
+      "C14S9",
+      "C4S22"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-p-exposure-timing",
+    "pool": "practice",
+    "concept": "u7-c14-etiology",
+    "sources": [
+      "C14S11"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-p-response-function",
+    "pool": "practice",
+    "concept": "u7-c14-etiology",
+    "sources": [
+      "C14S9",
+      "C12S22"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-A-mesoderm-tissues",
+    "pool": "mock",
+    "concept": "u7-c14-origins",
+    "sources": [
+      "C14S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-A-paired-association",
+    "pool": "mock",
+    "concept": "u7-c14-genetic",
+    "sources": [
+      "C14S10N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-B-multifactorial",
+    "pool": "mock",
+    "concept": "u7-c14-etiology",
+    "sources": [
+      "C14S8"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-B-age-subgroup",
+    "pool": "mock",
+    "concept": "u7-c14-origins",
+    "sources": [
+      "C14S4",
+      "C14S17N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-C-other-syndrome",
+    "pool": "mock",
+    "concept": "u7-c14-genetic",
+    "sources": [
+      "C14S10N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c14-C-congenital-vs-exposure",
+    "pool": "mock",
+    "concept": "u7-c14-etiology",
+    "sources": [
+      "C14S8",
+      "C14S11"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-p-layer",
+    "pool": "practice",
+    "concept": "u7-c46-barrier",
+    "sources": [
+      "C46S14",
+      "C46S16"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-p-gland-purpose",
+    "pool": "practice",
+    "concept": "u7-c46-barrier",
+    "sources": [
+      "C46S17",
+      "C46S18N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-p-boundary",
+    "pool": "practice",
+    "concept": "u7-c46-repair",
+    "sources": [
+      "C46S31",
+      "C46S32"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-p-pressure-depth",
+    "pool": "practice",
+    "concept": "u7-c46-repair",
+    "sources": [
+      "C46S28",
+      "C46S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-p-contact-sequence",
+    "pool": "practice",
+    "concept": "u7-c46-immune",
+    "sources": [
+      "C46S36",
+      "C46S37",
+      "C46S82",
+      "C46S83"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-p-psoriasis-variant",
+    "pool": "practice",
+    "concept": "u7-c46-immune",
+    "sources": [
+      "C46S44"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-A-cell-role",
+    "pool": "mock",
+    "concept": "u7-c46-barrier",
+    "sources": [
+      "C46S15"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-A-intact-redness",
+    "pool": "mock",
+    "concept": "u7-c46-repair",
+    "sources": [
+      "C46S28",
+      "C46S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-B-urticaria",
+    "pool": "mock",
+    "concept": "u7-c46-immune",
+    "sources": [
+      "C46S15",
+      "C46S83"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-B-basal-gene",
+    "pool": "mock",
+    "concept": "u7-c46-barrier",
+    "sources": [
+      "C46S88",
+      "C46S94N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-C-pressure-cause",
+    "pool": "mock",
+    "concept": "u7-c46-repair",
+    "sources": [
+      "C46S27",
+      "C46S30"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c46-C-rapid-turnover",
+    "pool": "mock",
+    "concept": "u7-c46-immune",
+    "sources": [
+      "C46S43",
+      "C46S44"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-p-barrier-defect",
+    "pool": "practice",
+    "concept": "u7-c47-dermatitis",
+    "sources": [
+      "C47S9"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-p-age-location",
+    "pool": "practice",
+    "concept": "u7-c47-dermatitis",
+    "sources": [
+      "C47S10"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-p-scalp",
+    "pool": "practice",
+    "concept": "u7-c47-fungal",
+    "sources": [
+      "C47S22",
+      "C47S23",
+      "C47S25"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-p-ring-origin",
+    "pool": "practice",
+    "concept": "u7-c47-fungal",
+    "sources": [
+      "C47S25",
+      "C47S26"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-p-adhesion-toxin",
+    "pool": "practice",
+    "concept": "u7-c47-bacterial-viral",
+    "sources": [
+      "C47S15",
+      "C47S17"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-p-viral-stages",
+    "pool": "practice",
+    "concept": "u7-c47-bacterial-viral",
+    "sources": [
+      "C47S34",
+      "C47S35",
+      "C47S37"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-A-satellites",
+    "pool": "mock",
+    "concept": "u7-c47-dermatitis",
+    "sources": [
+      "C47S12",
+      "C47S13",
+      "C47S61N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-A-specimen",
+    "pool": "mock",
+    "concept": "u7-c47-fungal",
+    "sources": [
+      "C47S26"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-B-crust",
+    "pool": "mock",
+    "concept": "u7-c47-bacterial-viral",
+    "sources": [
+      "C47S15",
+      "C47S16"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-B-itch-cycle",
+    "pool": "mock",
+    "concept": "u7-c47-dermatitis",
+    "sources": [
+      "C47S10"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-C-reinfection",
+    "pool": "mock",
+    "concept": "u7-c47-fungal",
+    "sources": [
+      "C47S27"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c47-C-reactivation",
+    "pool": "mock",
+    "concept": "u7-c47-bacterial-viral",
+    "sources": [
+      "C47S34",
+      "C47S37"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-p-pump-volume",
+    "pool": "practice",
+    "concept": "u7-c48-shock",
+    "sources": [
+      "C48S9",
+      "C48S14"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-p-space",
+    "pool": "practice",
+    "concept": "u7-c48-shock",
+    "sources": [
+      "C48S16",
+      "C48S17",
+      "C48S18"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-p-second-hit",
+    "pool": "practice",
+    "concept": "u7-c48-mods",
+    "sources": [
+      "C48S29",
+      "C48S31"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-p-clotting",
+    "pool": "practice",
+    "concept": "u7-c48-mods",
+    "sources": [
+      "C48S32",
+      "C48S35",
+      "C48S41N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-p-nerve-loss",
+    "pool": "practice",
+    "concept": "u7-c48-burns",
+    "sources": [
+      "C48S44",
+      "C48S51",
+      "C48S52"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-p-endpoint",
+    "pool": "practice",
+    "concept": "u7-c48-burns",
+    "sources": [
+      "C48S47",
+      "C48S54"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-A-anaphylaxis-action",
+    "pool": "mock",
+    "concept": "u7-c48-shock",
+    "sources": [
+      "C48S19",
+      "C48S20",
+      "C48S21"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-A-organ-count",
+    "pool": "mock",
+    "concept": "u7-c48-mods",
+    "sources": [
+      "C48S26",
+      "C48S37",
+      "C48S39"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-B-feeding-purpose",
+    "pool": "mock",
+    "concept": "u7-c48-burns",
+    "sources": [
+      "C48S55"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-B-sepsis-cause",
+    "pool": "mock",
+    "concept": "u7-c48-shock",
+    "sources": [
+      "C48S22",
+      "C48S24"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-C-reperfusion",
+    "pool": "mock",
+    "concept": "u7-c48-mods",
+    "sources": [
+      "C48S36"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c48-C-fluid-mechanism",
+    "pool": "mock",
+    "concept": "u7-c48-burns",
+    "sources": [
+      "C48S46",
+      "C48S48",
+      "C48S54"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-p-normal-pressure",
+    "pool": "practice",
+    "concept": "u7-c49-perfusion",
+    "sources": [
+      "C49S5",
+      "C49S6",
+      "C49S18"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-p-bradycardia",
+    "pool": "practice",
+    "concept": "u7-c49-perfusion",
+    "sources": [
+      "C49S17"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-p-obstruction",
+    "pool": "practice",
+    "concept": "u7-c49-mechanisms",
+    "sources": [
+      "C49S11",
+      "C49S37",
+      "C49S38",
+      "C49S39"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-p-compensation",
+    "pool": "practice",
+    "concept": "u7-c49-mechanisms",
+    "sources": [
+      "C49S25",
+      "C49S26"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-p-surface-ratio",
+    "pool": "practice",
+    "concept": "u7-c49-burns",
+    "sources": [
+      "C49S46",
+      "C49S53"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-p-small-airway",
+    "pool": "practice",
+    "concept": "u7-c49-burns",
+    "sources": [
+      "C49S50",
+      "C49S51"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-A-lactate-meaning",
+    "pool": "mock",
+    "concept": "u7-c49-perfusion",
+    "sources": [
+      "C49S21",
+      "C49S23N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-A-cold-shock",
+    "pool": "mock",
+    "concept": "u7-c49-mechanisms",
+    "sources": [
+      "C49S33"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-B-vascular-access",
+    "pool": "mock",
+    "concept": "u7-c49-burns",
+    "sources": [
+      "C49S52",
+      "C49S55N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-B-infant-reserve",
+    "pool": "mock",
+    "concept": "u7-c49-perfusion",
+    "sources": [
+      "C49S22",
+      "C49S26"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-C-neurogenic-heart-rate",
+    "pool": "mock",
+    "concept": "u7-c49-mechanisms",
+    "sources": [
+      "C49S35",
+      "C49S69N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-c49-C-growing-scar",
+    "pool": "mock",
+    "concept": "u7-c49-burns",
+    "sources": [
+      "C49S63",
+      "C49S65",
+      "C49S66"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c4-synthesis",
+    "pool": "case",
+    "concept": "u7-c4-chromosomes",
+    "sources": [
+      "C4S43",
+      "C4S44"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c5-synthesis",
+    "pool": "case",
+    "concept": "u7-c5-risk",
+    "sources": [
+      "C5S5",
+      "C5S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c6-synthesis",
+    "pool": "case",
+    "concept": "u7-c6-methylation",
+    "sources": [
+      "C6S4",
+      "C6S29"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c12-synthesis",
+    "pool": "case",
+    "concept": "u7-c12-invasion",
+    "sources": [
+      "C12S38",
+      "C12S39",
+      "C12S40"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c13-synthesis",
+    "pool": "case",
+    "concept": "u7-c13-exposure",
+    "sources": [
+      "C13S5",
+      "C13S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c14-synthesis",
+    "pool": "case",
+    "concept": "u7-c14-origins",
+    "sources": [
+      "C14S4",
+      "C14S6"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c46-synthesis",
+    "pool": "case",
+    "concept": "u7-c46-barrier",
+    "sources": [
+      "C46S29",
+      "C46S31",
+      "C46S32"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c47-synthesis",
+    "pool": "case",
+    "concept": "u7-c47-dermatitis",
+    "sources": [
+      "C47S9",
+      "C47S10",
+      "C47S12",
+      "C47S61N"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c48-synthesis",
+    "pool": "case",
+    "concept": "u7-c48-shock",
+    "sources": [
+      "C48S46",
+      "C48S48",
+      "C48S54"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "u7-case-c49-synthesis",
+    "pool": "case",
+    "concept": "u7-c49-perfusion",
+    "sources": [
+      "C49S5",
+      "C49S6",
+      "C49S18",
+      "C49S53"
+    ],
+    "dnaRevision": "e7-dna-20261001-r1",
+    "contentRevision": "e7-d6bc6213b61b",
+    "authorshipReview": "completed",
+    "keyOrModelSourceReview": "completed",
+    "renderedReview": "completed",
+    "reviewer": "Codex root in separate passes; not an independent reviewer",
+    "date": "2026-10-02"
+  }
+]

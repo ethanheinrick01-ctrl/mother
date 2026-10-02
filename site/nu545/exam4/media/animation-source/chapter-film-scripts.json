@@ -1,0 +1,177 @@
+{
+  "28": {
+    "title": "Red cells: production, passage and recycling",
+    "sources": [
+      "CH28S12",
+      "CH28S38",
+      "CH28S39",
+      "CH28S44",
+      "CH28S45"
+    ],
+    "stages": [
+      {
+        "title": "Oxygen delivery",
+        "text": "Red cells connect oxygen delivery to a regulated production response. Start with the circulating erythrocyte. Its reversible deformability permits passage through narrow vessels."
+      },
+      {
+        "title": "Hypoxia to production",
+        "text": "When oxygen availability falls, the kidney releases erythropoietin. The marrow responds by increasing red cell production. Reticulocytes are newly released cells, so they help us follow that response."
+      },
+      {
+        "title": "Aging and recycling",
+        "text": "Production is only half of the cycle. Macrophages remove aging erythrocytes, usually in the spleen. Globin is broken into amino acids, and the porphyrin portion of heme becomes bilirubin. Iron is recycled."
+      },
+      {
+        "title": "Transport versus storage",
+        "text": "Transferrin transports iron through plasma, while ferritin stores it within cells. Keep these roles separate: erythropoietin signals production, transferrin transports iron, and ferritin stores iron. The figure provides visual orientation. These tested relationships come from Chapter twenty eight, slides twelve, thirty eight, thirty nine, forty four, and forty five. The complete iron absorption pathway remains a textbook gap."
+      }
+    ],
+    "transcript": "Red cells connect oxygen delivery to a regulated production response. Start with the circulating erythrocyte. Its reversible deformability permits passage through narrow vessels. When oxygen availability falls, the kidney releases erythropoietin. The marrow responds by increasing red cell production. Reticulocytes are newly released cells, so they help us follow that response. Production is only half of the cycle. Macrophages remove aging erythrocytes, usually in the spleen. Globin is broken into amino acids, and the porphyrin portion of heme becomes bilirubin. Iron is recycled. Transferrin transports iron through plasma, while ferritin stores it within cells. Keep these roles separate: erythropoietin signals production, transferrin transports iron, and ferritin stores iron. The figure provides visual orientation. These tested relationships come from Chapter twenty eight, slides twelve, thirty eight, thirty nine, forty four, and forty five. The complete iron absorption pathway remains a textbook gap."
+  },
+  "29": {
+    "title": "DIC: clotting, consumption and bleeding",
+    "sources": [
+      "CH29S117",
+      "CH29S118",
+      "CH29S119",
+      "CH29S120"
+    ],
+    "stages": [
+      {
+        "title": "Local repair reference",
+        "text": "Normal clotting confines fibrin formation to a vessel injury. This scholarly repair figure provides the reference. Disseminated intravascular coagulation changes the location and extent of that process."
+      },
+      {
+        "title": "Widespread activation",
+        "text": "In DIC, widespread tissue factor exposure activates clotting. Thrombin and fibrin activity increase. Fibrin deposits inside small vessels impede blood flow, reducing organ perfusion."
+      },
+      {
+        "title": "Consumption and bleeding",
+        "text": "As clotting continues, platelets and coagulation factors are consumed. Accelerated fibrinolysis accompanies the process. The same patient can therefore have microvascular thrombosis and uncontrolled bleeding."
+      },
+      {
+        "title": "Treat the driver",
+        "text": "Treatment goals include eliminating the underlying pathology, restoring hemostasis and supporting failing organs. Component replacement alone does not remove the trigger. Chapter twenty nine, slides one hundred seventeen through one hundred twenty, support this sequence. The complete diagnostic laboratory pattern and specific treatment indications remain textbook gaps."
+      }
+    ],
+    "transcript": "Normal clotting confines fibrin formation to a vessel injury. This scholarly repair figure provides the reference. Disseminated intravascular coagulation changes the location and extent of that process. In DIC, widespread tissue factor exposure activates clotting. Thrombin and fibrin activity increase. Fibrin deposits inside small vessels impede blood flow, reducing organ perfusion. As clotting continues, platelets and coagulation factors are consumed. Accelerated fibrinolysis accompanies the process. The same patient can therefore have microvascular thrombosis and uncontrolled bleeding. Treatment goals include eliminating the underlying pathology, restoring hemostasis and supporting failing organs. Component replacement alone does not remove the trigger. Chapter twenty nine, slides one hundred seventeen through one hundred twenty, support this sequence. The complete diagnostic laboratory pattern and specific treatment indications remain textbook gaps."
+  },
+  "30": {
+    "title": "Sickling: flexibility, flow and distinct crises",
+    "sources": [
+      "CH30S23",
+      "CH30S24",
+      "CH30S26",
+      "CH30S27",
+      "CH30S29"
+    ],
+    "stages": [
+      {
+        "title": "Flexible red cells",
+        "text": "A red cell must deform to move through microcirculation. The normal cell and the sickle cell shown here are adapted from scholarly illustrations. The motion uses schematic time and scale."
+      },
+      {
+        "title": "Stiffening and obstruction",
+        "text": "In sickle cell disease, abnormal hemoglobin polymerization stiffens the cell. Hypoxia, dehydration and acidosis favor sickling in the packet. Stiff cells obstruct small vessels, causing pain and tissue injury."
+      },
+      {
+        "title": "Different crisis mechanisms",
+        "text": "Keep the crises distinct. Vasoocclusive crisis obstructs microcirculation. Aplastic crisis transiently stops production. Sequestration crisis pools blood in the spleen. Hyperhemolytic crisis increases red cell destruction."
+      },
+      {
+        "title": "Mechanism guides the decision",
+        "text": "The treatment slide links care to crisis prevention, pain and infection management, fluids and hydroxyurea. Supplemental oxygen is qualified by current hypoxia. Chapter thirty, slides twenty three, twenty four, twenty six, twenty seven and twenty nine, supply these claims. The contradictory amino acid substitution wording is excluded; definitive diagnostic testing remains missing."
+      }
+    ],
+    "transcript": "A red cell must deform to move through microcirculation. The normal cell and the sickle cell shown here are adapted from scholarly illustrations. The motion uses schematic time and scale. In sickle cell disease, abnormal hemoglobin polymerization stiffens the cell. Hypoxia, dehydration and acidosis favor sickling in the packet. Stiff cells obstruct small vessels, causing pain and tissue injury. Keep the crises distinct. Vasoocclusive crisis obstructs microcirculation. Aplastic crisis transiently stops production. Sequestration crisis pools blood in the spleen. Hyperhemolytic crisis increases red cell destruction. The treatment slide links care to crisis prevention, pain and infection management, fluids and hydroxyurea. Supplemental oxygen is qualified by current hypoxia. Chapter thirty, slides twenty three, twenty four, twenty six, twenty seven and twenty nine, supply these claims. The contradictory amino acid substitution wording is excluded; definitive diagnostic testing remains missing."
+  },
+  "31": {
+    "title": "The cardiac cycle: filling, closed valves and ejection",
+    "sources": [
+      "CH31S15",
+      "CH31S16",
+      "CH31S20",
+      "CH31S21",
+      "CH31S22",
+      "CH31S23"
+    ],
+    "stages": [
+      {
+        "title": "Filling",
+        "text": "Follow blood through the valves, using the original OpenStax heart as an anatomical reference. During passive ventricular filling, the atrioventricular valves are open and the semilunar valves are closed. Atrial systole completes filling."
+      },
+      {
+        "title": "Pressure without ejection",
+        "text": "The ventricles begin isovolumetric systole. Atrioventricular valves close, and all valves are briefly closed. Pressure rises while ventricular volume is unchanged."
+      },
+      {
+        "title": "Ejection",
+        "text": "When ventricular pressure exceeds outflow pressure, the semilunar valves open. The ventricles eject blood toward the pulmonary artery and aorta. The animation tracks movement rather than claiming a measured flow speed."
+      },
+      {
+        "title": "Relaxation and refilling",
+        "text": "Semilunar valves close during isovolumetric relaxation. All valves are again closed until ventricular pressure falls enough for atrioventricular opening and renewed filling. Chapter thirty one, slides fifteen, sixteen and twenty through twenty three, support this sequence. Numeric chamber pressures and complete abnormal tracing interpretation are not supplied."
+      }
+    ],
+    "transcript": "Follow blood through the valves, using the original OpenStax heart as an anatomical reference. During passive ventricular filling, the atrioventricular valves are open and the semilunar valves are closed. Atrial systole completes filling. The ventricles begin isovolumetric systole. Atrioventricular valves close, and all valves are briefly closed. Pressure rises while ventricular volume is unchanged. When ventricular pressure exceeds outflow pressure, the semilunar valves open. The ventricles eject blood toward the pulmonary artery and aorta. The animation tracks movement rather than claiming a measured flow speed. Semilunar valves close during isovolumetric relaxation. All valves are again closed until ventricular pressure falls enough for atrioventricular opening and renewed filling. Chapter thirty one, slides fifteen, sixteen and twenty through twenty three, support this sequence. Numeric chamber pressures and complete abnormal tracing interpretation are not supplied."
+  },
+  "32": {
+    "title": "Heart failure: contraction versus filling",
+    "sources": [
+      "CH32S89",
+      "CH32S90",
+      "CH32S92",
+      "CH32S93",
+      "CH32S94",
+      "CH32S95"
+    ],
+    "stages": [
+      {
+        "title": "Compare the mechanism",
+        "text": "Heart failure is a supply problem with different mechanical routes. We use the same scholarly ventricular anatomy for both comparisons. The moving volume markers are schematic, not measured chamber volumes."
+      },
+      {
+        "title": "Reduced ejection",
+        "text": "In systolic failure, impaired contraction reduces ejection. More blood remains after the beat, and stroke volume falls. The chapter connects reduced output with activation of compensatory systems."
+      },
+      {
+        "title": "Restricted filling",
+        "text": "In diastolic failure, relaxation and compliance are abnormal. Filling is restricted even when ejection fraction is preserved. A preserved fraction does not guarantee that enough blood enters and leaves the ventricle."
+      },
+      {
+        "title": "Locate congestion",
+        "text": "The slides distinguish pulmonary congestion in left failure from systemic venous congestion in right failure. Orthopnea and pulmonary edema belong to the pulmonary side; jugular venous distension and peripheral edema identify systemic congestion. Chapter thirty two, slides eighty nine, ninety and ninety two through ninety five, support the comparison. Specific diagnostic cutoffs and treatment selection require additional textbook evidence."
+      }
+    ],
+    "transcript": "Heart failure is a supply problem with different mechanical routes. We use the same scholarly ventricular anatomy for both comparisons. The moving volume markers are schematic, not measured chamber volumes. In systolic failure, impaired contraction reduces ejection. More blood remains after the beat, and stroke volume falls. The chapter connects reduced output with activation of compensatory systems. In diastolic failure, relaxation and compliance are abnormal. Filling is restricted even when ejection fraction is preserved. A preserved fraction does not guarantee that enough blood enters and leaves the ventricle. The slides distinguish pulmonary congestion in left failure from systemic venous congestion in right failure. Orthopnea and pulmonary edema belong to the pulmonary side; jugular venous distension and peripheral edema identify systemic congestion. Chapter thirty two, slides eighty nine, ninety and ninety two through ninety five, support the comparison. Specific diagnostic cutoffs and treatment selection require additional textbook evidence."
+  },
+  "33": {
+    "title": "VSD: a septal opening changes pulmonary flow",
+    "sources": [
+      "CH33S9",
+      "CH33S10",
+      "CH33S30",
+      "CH33S31",
+      "CH33S32"
+    ],
+    "stages": [
+      {
+        "title": "Normal separation",
+        "text": "The CDC figure compares a normal heart with a ventricular septal defect. The ventricular septum normally separates the two lower chambers. This institutional artwork is used for visualization, with no CDC endorsement of this study lab."
+      },
+      {
+        "title": "Left to right",
+        "text": "A ventricular septal defect leaves a communication. In the supplied postnatal pattern, higher left ventricular pressure sends additional blood toward the right ventricle and pulmonary circulation. Watch the added stream cross the septum."
+      },
+      {
+        "title": "Pulmonary burden",
+        "text": "A large shunt increases pulmonary flow. The chapter lists overcirculation and heart failure among possible consequences. This mechanism differs from an outflow obstruction or parallel circuits."
+      },
+      {
+        "title": "Growth and source limits",
+        "text": "Pediatric heart failure can cause poor feeding, sweating and inadequate growth. Nutritional support addresses the growth problem; medication and corrective procedures address their stated targets. Chapter thirty three, slides nine, ten and thirty through thirty two, support these points. Shifted released answer labels are marked separately. Complete murmur mapping and criteria for later cyanosis remain source gaps."
+      }
+    ],
+    "transcript": "The CDC figure compares a normal heart with a ventricular septal defect. The ventricular septum normally separates the two lower chambers. This institutional artwork is used for visualization, with no CDC endorsement of this study lab. A ventricular septal defect leaves a communication. In the supplied postnatal pattern, higher left ventricular pressure sends additional blood toward the right ventricle and pulmonary circulation. Watch the added stream cross the septum. A large shunt increases pulmonary flow. The chapter lists overcirculation and heart failure among possible consequences. This mechanism differs from an outflow obstruction or parallel circuits. Pediatric heart failure can cause poor feeding, sweating and inadequate growth. Nutritional support addresses the growth problem; medication and corrective procedures address their stated targets. Chapter thirty three, slides nine, ten and thirty through thirty two, support these points. Shifted released answer labels are marked separately. Complete murmur mapping and criteria for later cyanosis remain source gaps."
+  }
+}

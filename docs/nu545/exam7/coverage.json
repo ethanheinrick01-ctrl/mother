@@ -1,0 +1,3785 @@
+{
+  "components": {
+    "counts": {
+      "Direct": 133,
+      "Partial": 13,
+      "Missing": 20
+    },
+    "components": [
+      {
+        "prompt": 1,
+        "component": "Trisomy 21",
+        "status": "Direct",
+        "locators": "4:20,22,29",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 20",
+          "Chapter 4, slide 22",
+          "Chapter 4, slide 29"
+        ]
+      },
+      {
+        "prompt": 2,
+        "component": "Selected chromosomal and metabolic causes",
+        "status": "Partial",
+        "locators": "4:22,28,30,33;6:12,13,15",
+        "gap": "Complete etiologic classification not supplied.",
+        "exactLocators": [
+          "Chapter 4, slide 22",
+          "Chapter 4, slide 28",
+          "Chapter 4, slide 30",
+          "Chapter 4, slide 33",
+          "Chapter 6, slide 12",
+          "Chapter 6, slide 13",
+          "Chapter 6, slide 15"
+        ]
+      },
+      {
+        "prompt": 3,
+        "component": "Chloride-channel defect and recessive model",
+        "status": "Direct",
+        "locators": "4:45",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 45"
+        ]
+      },
+      {
+        "prompt": 3,
+        "component": "Named CF gene and mutation",
+        "status": "Missing",
+        "locators": "4:45",
+        "gap": "Obtain ninth-edition cystic fibrosis gene passage.",
+        "exactLocators": [
+          "Chapter 4, slide 45"
+        ]
+      },
+      {
+        "prompt": 4,
+        "component": "Two-allele recessive model",
+        "status": "Direct",
+        "locators": "4:45,46,47",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 45",
+          "Chapter 4, slide 46",
+          "Chapter 4, slide 47"
+        ]
+      },
+      {
+        "prompt": 4,
+        "component": "Carrier cross probabilities",
+        "status": "Direct",
+        "locators": "4:45,46,47",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 45",
+          "Chapter 4, slide 46",
+          "Chapter 4, slide 47"
+        ]
+      },
+      {
+        "prompt": 5,
+        "component": "Hemophilia A inheritance",
+        "status": "Missing",
+        "locators": "4:5,49,52,53",
+        "gap": "Objective names hemophilia but exact Hemophilia A association is absent.",
+        "exactLocators": [
+          "Chapter 4, slide 5",
+          "Chapter 4, slide 49",
+          "Chapter 4, slide 52",
+          "Chapter 4, slide 53"
+        ]
+      },
+      {
+        "prompt": 6,
+        "component": "Obesity and family history risk",
+        "status": "Direct",
+        "locators": "5:28,29,30N;13:14",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 28",
+          "Chapter 5, slide 29",
+          "Chapter 5, slide 30 speaker notes",
+          "Chapter 13, slide 14"
+        ]
+      },
+      {
+        "prompt": 6,
+        "component": "Obesity and insulin resistance",
+        "status": "Direct",
+        "locators": "5:28,29,30N;13:14",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 28",
+          "Chapter 5, slide 29",
+          "Chapter 5, slide 30 speaker notes",
+          "Chapter 13, slide 14"
+        ]
+      },
+      {
+        "prompt": 7,
+        "component": "Carcinoma definition",
+        "status": "Direct",
+        "locators": "12:12,13",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 12",
+          "Chapter 12, slide 13"
+        ]
+      },
+      {
+        "prompt": 8,
+        "component": "Matrix degradation",
+        "status": "Direct",
+        "locators": "12:38,39,40,41",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 38",
+          "Chapter 12, slide 39",
+          "Chapter 12, slide 40",
+          "Chapter 12, slide 41"
+        ]
+      },
+      {
+        "prompt": 8,
+        "component": "Invasion and vascular access",
+        "status": "Direct",
+        "locators": "12:38,39,40,41",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 38",
+          "Chapter 12, slide 39",
+          "Chapter 12, slide 40",
+          "Chapter 12, slide 41"
+        ]
+      },
+      {
+        "prompt": 9,
+        "component": "Adjuvant timing and purpose",
+        "status": "Direct",
+        "locators": "12:57",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 57"
+        ]
+      },
+      {
+        "prompt": 10,
+        "component": "Peak growth timing",
+        "status": "Direct",
+        "locators": "14:6,17N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 14, slide 6",
+          "Chapter 14, slide 17 speaker notes"
+        ]
+      },
+      {
+        "prompt": 10,
+        "component": "Embryonal subgroup timing",
+        "status": "Direct",
+        "locators": "14:6,17N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 14, slide 6",
+          "Chapter 14, slide 17 speaker notes"
+        ]
+      },
+      {
+        "prompt": 11,
+        "component": "Prenatal DES association",
+        "status": "Direct",
+        "locators": "13:8;14:11",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 13, slide 8",
+          "Chapter 14, slide 11"
+        ]
+      },
+      {
+        "prompt": 11,
+        "component": "Specific malignancy and mechanism",
+        "status": "Missing",
+        "locators": "13:8;14:11",
+        "gap": "Textbook passage on DES-exposed offspring needed.",
+        "exactLocators": [
+          "Chapter 13, slide 8",
+          "Chapter 14, slide 11"
+        ]
+      },
+      {
+        "prompt": 12,
+        "component": "Mesodermal and embryonal origins",
+        "status": "Direct",
+        "locators": "14:4,6",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 14, slide 4",
+          "Chapter 14, slide 6"
+        ]
+      },
+      {
+        "prompt": 13,
+        "component": "N-myc and neuroblastoma association",
+        "status": "Direct",
+        "locators": "14:10N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 14, slide 10 speaker notes"
+        ]
+      },
+      {
+        "prompt": 13,
+        "component": "N-myc mechanism",
+        "status": "Missing",
+        "locators": "14:10N",
+        "gap": "Amplification and significance not developed.",
+        "exactLocators": [
+          "Chapter 14, slide 10 speaker notes"
+        ]
+      },
+      {
+        "prompt": 14,
+        "component": "Eccrine cooling",
+        "status": "Direct",
+        "locators": "46:17,18N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 17",
+          "Chapter 46, slide 18 speaker notes"
+        ]
+      },
+      {
+        "prompt": 15,
+        "component": "Stage I–IV findings",
+        "status": "Direct",
+        "locators": "46:27,28,29,30",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 27",
+          "Chapter 46, slide 28",
+          "Chapter 46, slide 29",
+          "Chapter 46, slide 30"
+        ]
+      },
+      {
+        "prompt": 15,
+        "component": "Unstageable and deep tissue findings",
+        "status": "Direct",
+        "locators": "46:27,28,29,30",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 27",
+          "Chapter 46, slide 28",
+          "Chapter 46, slide 29",
+          "Chapter 46, slide 30"
+        ]
+      },
+      {
+        "prompt": 16,
+        "component": "Collagen and fibroblast mechanism",
+        "status": "Direct",
+        "locators": "46:24,31,32",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 24",
+          "Chapter 46, slide 31",
+          "Chapter 46, slide 32"
+        ]
+      },
+      {
+        "prompt": 16,
+        "component": "Keloid appearance and border contrast",
+        "status": "Direct",
+        "locators": "46:24,31,32",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 24",
+          "Chapter 46, slide 31",
+          "Chapter 46, slide 32"
+        ]
+      },
+      {
+        "prompt": 17,
+        "component": "Plaque, inverse, guttate, pustular, erythrodermic types",
+        "status": "Direct",
+        "locators": "46:43,44,45",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 43",
+          "Chapter 46, slide 44",
+          "Chapter 46, slide 45"
+        ]
+      },
+      {
+        "prompt": 18,
+        "component": "Varicella-zoster identity",
+        "status": "Direct",
+        "locators": "46:74;47:34,35,37",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 74",
+          "Chapter 47, slide 34",
+          "Chapter 47, slide 35",
+          "Chapter 47, slide 37"
+        ]
+      },
+      {
+        "prompt": 19,
+        "component": "Sclerosis and fibroblast mechanism",
+        "status": "Direct",
+        "locators": "46:84",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 84"
+        ]
+      },
+      {
+        "prompt": 19,
+        "component": "Supplied skin manifestations",
+        "status": "Direct",
+        "locators": "46:84",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 84"
+        ]
+      },
+      {
+        "prompt": 19,
+        "component": "Localized versus systemic definition",
+        "status": "Partial",
+        "locators": "46:84",
+        "gap": "Heading says morphea while body mentions internal organs; obtain clarification.",
+        "exactLocators": [
+          "Chapter 46, slide 84"
+        ]
+      },
+      {
+        "prompt": 20,
+        "component": "Named frostbite inflammatory mediators",
+        "status": "Missing",
+        "locators": "46:95,97,98",
+        "gap": "Inflammation/reperfusion are present but mediator names are absent.",
+        "exactLocators": [
+          "Chapter 46, slide 95",
+          "Chapter 46, slide 97",
+          "Chapter 46, slide 98"
+        ]
+      },
+      {
+        "prompt": 21,
+        "component": "Ibuprofen purpose in frostbite",
+        "status": "Missing",
+        "locators": "46:99",
+        "gap": "Analgesic class alone does not support drug-specific mechanism.",
+        "exactLocators": [
+          "Chapter 46, slide 99"
+        ]
+      },
+      {
+        "prompt": 22,
+        "component": "Barrier and immune pathophysiology",
+        "status": "Direct",
+        "locators": "47:9,10,11",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 9",
+          "Chapter 47, slide 10",
+          "Chapter 47, slide 11"
+        ]
+      },
+      {
+        "prompt": 22,
+        "component": "Age-dependent distribution",
+        "status": "Direct",
+        "locators": "47:9,10,11",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 9",
+          "Chapter 47, slide 10",
+          "Chapter 47, slide 11"
+        ]
+      },
+      {
+        "prompt": 22,
+        "component": "Pruritus and lichenification",
+        "status": "Direct",
+        "locators": "47:9,10,11",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 9",
+          "Chapter 47, slide 10",
+          "Chapter 47, slide 11"
+        ]
+      },
+      {
+        "prompt": 22,
+        "component": "Immunoglobulin",
+        "status": "Missing",
+        "locators": "47:9,10,11",
+        "gap": "Obtain the assigned atopic dermatitis Ig and laboratory passage.",
+        "exactLocators": [
+          "Chapter 47, slide 9",
+          "Chapter 47, slide 10",
+          "Chapter 47, slide 11"
+        ]
+      },
+      {
+        "prompt": 22,
+        "component": "Laboratory findings",
+        "status": "Missing",
+        "locators": "47:9,10,11",
+        "gap": "Obtain the assigned atopic dermatitis Ig and laboratory passage.",
+        "exactLocators": [
+          "Chapter 47, slide 9",
+          "Chapter 47, slide 10",
+          "Chapter 47, slide 11"
+        ]
+      },
+      {
+        "prompt": 23,
+        "component": "Candida complication and satellite lesions",
+        "status": "Direct",
+        "locators": "47:12,13,61N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 12",
+          "Chapter 47, slide 13",
+          "Chapter 47, slide 61 speaker notes"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Impetigo: definition",
+        "status": "Direct",
+        "locators": "47:15,16,17",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 15",
+          "Chapter 47, slide 16",
+          "Chapter 47, slide 17"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Impetigo: pathophysiology",
+        "status": "Direct",
+        "locators": "47:15,16,17",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 15",
+          "Chapter 47, slide 16",
+          "Chapter 47, slide 17"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Impetigo: manifestations",
+        "status": "Direct",
+        "locators": "47:15,16,17",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 15",
+          "Chapter 47, slide 16",
+          "Chapter 47, slide 17"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Impetigo: source of infection",
+        "status": "Direct",
+        "locators": "47:15,16,17",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 15",
+          "Chapter 47, slide 16",
+          "Chapter 47, slide 17"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Tinea: definition",
+        "status": "Direct",
+        "locators": "47:22,23,25,26",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 26"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Tinea: pathophysiology",
+        "status": "Direct",
+        "locators": "47:22,23,25,26",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 26"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Tinea: manifestations",
+        "status": "Direct",
+        "locators": "47:22,23,25,26",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 26"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Tinea: source of infection",
+        "status": "Direct",
+        "locators": "47:22,23,25,26",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 26"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Thrush: definition",
+        "status": "Direct",
+        "locators": "47:27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Thrush: pathophysiology",
+        "status": "Direct",
+        "locators": "47:27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Thrush: manifestations",
+        "status": "Direct",
+        "locators": "47:27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 24,
+        "component": "Thrush: source of infection",
+        "status": "Direct",
+        "locators": "47:27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 25,
+        "component": "Restore oxygen delivery and perfusion",
+        "status": "Direct",
+        "locators": "49:5,27,28,34,39",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 5",
+          "Chapter 49, slide 27",
+          "Chapter 49, slide 28",
+          "Chapter 49, slide 34",
+          "Chapter 49, slide 39"
+        ]
+      },
+      {
+        "prompt": 25,
+        "component": "Cause-specific treatment goals",
+        "status": "Direct",
+        "locators": "49:5,27,28,34,39",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 5",
+          "Chapter 49, slide 27",
+          "Chapter 49, slide 28",
+          "Chapter 49, slide 34",
+          "Chapter 49, slide 39"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult cardiogenic: mechanism",
+        "status": "Direct",
+        "locators": "48:9,10,11,12",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 9",
+          "Chapter 48, slide 10",
+          "Chapter 48, slide 11",
+          "Chapter 48, slide 12"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult cardiogenic: findings",
+        "status": "Direct",
+        "locators": "48:9,10,11,12",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 9",
+          "Chapter 48, slide 10",
+          "Chapter 48, slide 11",
+          "Chapter 48, slide 12"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult cardiogenic: supplied management",
+        "status": "Direct",
+        "locators": "48:9,10,11,12",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 9",
+          "Chapter 48, slide 10",
+          "Chapter 48, slide 11",
+          "Chapter 48, slide 12"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult hypovolemic: mechanism",
+        "status": "Direct",
+        "locators": "48:14,15",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 14",
+          "Chapter 48, slide 15"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult hypovolemic: findings",
+        "status": "Direct",
+        "locators": "48:14,15",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 14",
+          "Chapter 48, slide 15"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult hypovolemic: supplied management",
+        "status": "Direct",
+        "locators": "48:14,15",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 14",
+          "Chapter 48, slide 15"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult neurogenic: mechanism",
+        "status": "Direct",
+        "locators": "48:16,17,18",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 16",
+          "Chapter 48, slide 17",
+          "Chapter 48, slide 18"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult neurogenic: findings",
+        "status": "Direct",
+        "locators": "48:16,17,18",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 16",
+          "Chapter 48, slide 17",
+          "Chapter 48, slide 18"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult neurogenic: supplied management",
+        "status": "Partial",
+        "locators": "48:16,17,18",
+        "gap": "Adult management only briefly lists pain reduction; complete sequence missing.",
+        "exactLocators": [
+          "Chapter 48, slide 16",
+          "Chapter 48, slide 17",
+          "Chapter 48, slide 18"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult anaphylactic: mechanism",
+        "status": "Direct",
+        "locators": "48:19,20,21",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 19",
+          "Chapter 48, slide 20",
+          "Chapter 48, slide 21"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult anaphylactic: findings",
+        "status": "Direct",
+        "locators": "48:19,20,21",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 19",
+          "Chapter 48, slide 20",
+          "Chapter 48, slide 21"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult anaphylactic: supplied management",
+        "status": "Direct",
+        "locators": "48:19,20,21",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 19",
+          "Chapter 48, slide 20",
+          "Chapter 48, slide 21"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult septic: mechanism",
+        "status": "Direct",
+        "locators": "48:22,24",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 22",
+          "Chapter 48, slide 24"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult septic: findings",
+        "status": "Direct",
+        "locators": "48:22,24",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 22",
+          "Chapter 48, slide 24"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult septic: supplied management",
+        "status": "Direct",
+        "locators": "48:22,24",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 22",
+          "Chapter 48, slide 24"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric hypovolemic: mechanism",
+        "status": "Direct",
+        "locators": "49:24,25,26,27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 24",
+          "Chapter 49, slide 25",
+          "Chapter 49, slide 26",
+          "Chapter 49, slide 27"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric hypovolemic: findings",
+        "status": "Direct",
+        "locators": "49:24,25,26,27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 24",
+          "Chapter 49, slide 25",
+          "Chapter 49, slide 26",
+          "Chapter 49, slide 27"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric hypovolemic: supplied management",
+        "status": "Direct",
+        "locators": "49:24,25,26,27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 24",
+          "Chapter 49, slide 25",
+          "Chapter 49, slide 26",
+          "Chapter 49, slide 27"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric cardiogenic: mechanism",
+        "status": "Direct",
+        "locators": "49:28",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 28"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric cardiogenic: findings",
+        "status": "Direct",
+        "locators": "49:28",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 28"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric cardiogenic: supplied management",
+        "status": "Direct",
+        "locators": "49:28",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 28"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric septic: mechanism",
+        "status": "Direct",
+        "locators": "49:29,32,33,34",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 29",
+          "Chapter 49, slide 32",
+          "Chapter 49, slide 33",
+          "Chapter 49, slide 34"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric septic: findings",
+        "status": "Direct",
+        "locators": "49:29,32,33,34",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 29",
+          "Chapter 49, slide 32",
+          "Chapter 49, slide 33",
+          "Chapter 49, slide 34"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric septic: supplied management",
+        "status": "Direct",
+        "locators": "49:29,32,33,34",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 29",
+          "Chapter 49, slide 32",
+          "Chapter 49, slide 33",
+          "Chapter 49, slide 34"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric neurogenic: mechanism",
+        "status": "Direct",
+        "locators": "49:35",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 35"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric neurogenic: findings",
+        "status": "Direct",
+        "locators": "49:35",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 35"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric neurogenic: supplied management",
+        "status": "Direct",
+        "locators": "49:35",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 35"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric obstructive: mechanism",
+        "status": "Direct",
+        "locators": "49:11,37,38,39",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 11",
+          "Chapter 49, slide 37",
+          "Chapter 49, slide 38",
+          "Chapter 49, slide 39"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric obstructive: findings",
+        "status": "Direct",
+        "locators": "49:11,37,38,39",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 11",
+          "Chapter 49, slide 37",
+          "Chapter 49, slide 38",
+          "Chapter 49, slide 39"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric obstructive: supplied management",
+        "status": "Direct",
+        "locators": "49:11,37,38,39",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 11",
+          "Chapter 49, slide 37",
+          "Chapter 49, slide 38",
+          "Chapter 49, slide 39"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Adult obstructive mechanism, findings and management",
+        "status": "Missing",
+        "locators": "48:8;49:11,39",
+        "gap": "Adult-specific section not supplied; pediatric comparison available.",
+        "exactLocators": [
+          "Chapter 48, slide 8",
+          "Chapter 49, slide 11",
+          "Chapter 49, slide 39"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric anaphylaxis mechanism",
+        "status": "Partial",
+        "locators": "49:10",
+        "gap": "Named under distributive; full pediatric mechanism not developed.",
+        "exactLocators": [
+          "Chapter 49, slide 10"
+        ]
+      },
+      {
+        "prompt": 26,
+        "component": "Pediatric anaphylaxis findings and management",
+        "status": "Missing",
+        "locators": "49:10",
+        "gap": "No pediatric-specific passage.",
+        "exactLocators": [
+          "Chapter 49, slide 10"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Epidermal only: tissue destruction",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Epidermal only: clinical appearance",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Superficial dermal: tissue destruction",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Superficial dermal: clinical appearance",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Deep dermal: tissue destruction",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Deep dermal: clinical appearance",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Full thickness: tissue destruction",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Full thickness: clinical appearance",
+        "status": "Direct",
+        "locators": "48:43,44,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 43",
+          "Chapter 48, slide 44",
+          "Chapter 48, slide 51",
+          "Chapter 48, slide 52"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Adult and pediatric severity factors",
+        "status": "Direct",
+        "locators": "48:45;49:43,46",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 45",
+          "Chapter 49, slide 43",
+          "Chapter 49, slide 46"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Adult systemic pathophysiology",
+        "status": "Direct",
+        "locators": "48:46,47,48,49,50,54,55",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 46",
+          "Chapter 48, slide 47",
+          "Chapter 48, slide 48",
+          "Chapter 48, slide 49",
+          "Chapter 48, slide 50",
+          "Chapter 48, slide 54",
+          "Chapter 48, slide 55"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Adult complications",
+        "status": "Direct",
+        "locators": "48:46,47,48,49,50,54,55",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 46",
+          "Chapter 48, slide 47",
+          "Chapter 48, slide 48",
+          "Chapter 48, slide 49",
+          "Chapter 48, slide 50",
+          "Chapter 48, slide 54",
+          "Chapter 48, slide 55"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "General adult management",
+        "status": "Direct",
+        "locators": "48:46,47,48,49,50,54,55",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 46",
+          "Chapter 48, slide 47",
+          "Chapter 48, slide 48",
+          "Chapter 48, slide 49",
+          "Chapter 48, slide 50",
+          "Chapter 48, slide 54",
+          "Chapter 48, slide 55"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Pediatric systemic pathophysiology",
+        "status": "Direct",
+        "locators": "49:48,49,50,51,52,53,54,56,57,58,59,60,61,62,63,64,65,66",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 48",
+          "Chapter 49, slide 49",
+          "Chapter 49, slide 50",
+          "Chapter 49, slide 51",
+          "Chapter 49, slide 52",
+          "Chapter 49, slide 53",
+          "Chapter 49, slide 54",
+          "Chapter 49, slide 56",
+          "Chapter 49, slide 57",
+          "Chapter 49, slide 58",
+          "Chapter 49, slide 59",
+          "Chapter 49, slide 60",
+          "Chapter 49, slide 61",
+          "Chapter 49, slide 62",
+          "Chapter 49, slide 63",
+          "Chapter 49, slide 64",
+          "Chapter 49, slide 65",
+          "Chapter 49, slide 66"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Pediatric complications",
+        "status": "Direct",
+        "locators": "49:48,49,50,51,52,53,54,56,57,58,59,60,61,62,63,64,65,66",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 48",
+          "Chapter 49, slide 49",
+          "Chapter 49, slide 50",
+          "Chapter 49, slide 51",
+          "Chapter 49, slide 52",
+          "Chapter 49, slide 53",
+          "Chapter 49, slide 54",
+          "Chapter 49, slide 56",
+          "Chapter 49, slide 57",
+          "Chapter 49, slide 58",
+          "Chapter 49, slide 59",
+          "Chapter 49, slide 60",
+          "Chapter 49, slide 61",
+          "Chapter 49, slide 62",
+          "Chapter 49, slide 63",
+          "Chapter 49, slide 64",
+          "Chapter 49, slide 65",
+          "Chapter 49, slide 66"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Pediatric wound and rehabilitation management",
+        "status": "Direct",
+        "locators": "49:48,49,50,51,52,53,54,56,57,58,59,60,61,62,63,64,65,66",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 49, slide 48",
+          "Chapter 49, slide 49",
+          "Chapter 49, slide 50",
+          "Chapter 49, slide 51",
+          "Chapter 49, slide 52",
+          "Chapter 49, slide 53",
+          "Chapter 49, slide 54",
+          "Chapter 49, slide 56",
+          "Chapter 49, slide 57",
+          "Chapter 49, slide 58",
+          "Chapter 49, slide 59",
+          "Chapter 49, slide 60",
+          "Chapter 49, slide 61",
+          "Chapter 49, slide 62",
+          "Chapter 49, slide 63",
+          "Chapter 49, slide 64",
+          "Chapter 49, slide 65",
+          "Chapter 49, slide 66"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Body-surface calculation",
+        "status": "Partial",
+        "locators": "48:45;49:45",
+        "gap": "Methods named; validated chart, corrected percentages and worked problems absent.",
+        "exactLocators": [
+          "Chapter 48, slide 45",
+          "Chapter 49, slide 45"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Modified Parkland formula",
+        "status": "Missing",
+        "locators": "49:53",
+        "gap": "Formula named but not provided.",
+        "exactLocators": [
+          "Chapter 49, slide 53"
+        ]
+      },
+      {
+        "prompt": 27,
+        "component": "Complete depth-specific management",
+        "status": "Partial",
+        "locators": "48:54,55;49:62",
+        "gap": "General interventions supplied; complete protocols absent.",
+        "exactLocators": [
+          "Chapter 48, slide 54",
+          "Chapter 48, slide 55",
+          "Chapter 49, slide 62"
+        ]
+      },
+      {
+        "prompt": 28,
+        "component": "Capillary seal endpoint",
+        "status": "Direct",
+        "locators": "48:47",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 47"
+        ]
+      },
+      {
+        "prompt": 29,
+        "component": "Electrical-burn renal mechanism",
+        "status": "Missing",
+        "locators": "49:44,54",
+        "gap": "Only general burn renal changes supplied.",
+        "exactLocators": [
+          "Chapter 49, slide 44",
+          "Chapter 49, slide 54"
+        ]
+      },
+      {
+        "prompt": 30,
+        "component": "Klinefelter chromosome change",
+        "status": "Direct",
+        "locators": "4:24,25",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 24",
+          "Chapter 4, slide 25"
+        ]
+      },
+      {
+        "prompt": 30,
+        "component": "Klinefelter manifestations",
+        "status": "Direct",
+        "locators": "4:24,25",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 24",
+          "Chapter 4, slide 25"
+        ]
+      },
+      {
+        "prompt": 30,
+        "component": "Turner chromosome change",
+        "status": "Direct",
+        "locators": "4:24",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 24"
+        ]
+      },
+      {
+        "prompt": 30,
+        "component": "Turner manifestations",
+        "status": "Direct",
+        "locators": "4:24",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 24"
+        ]
+      },
+      {
+        "prompt": 30,
+        "component": "Cri du chat chromosome change",
+        "status": "Direct",
+        "locators": "4:28",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 28"
+        ]
+      },
+      {
+        "prompt": 30,
+        "component": "Cri du chat manifestations",
+        "status": "Direct",
+        "locators": "4:28",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 28"
+        ]
+      },
+      {
+        "prompt": 31,
+        "component": "Dermatophyte site names",
+        "status": "Direct",
+        "locators": "46:78,79,80,81;47:22,23,25,27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 78",
+          "Chapter 46, slide 79",
+          "Chapter 46, slide 80",
+          "Chapter 46, slide 81",
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 31,
+        "component": "Candida host conditions",
+        "status": "Direct",
+        "locators": "46:78,79,80,81;47:22,23,25,27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 78",
+          "Chapter 46, slide 79",
+          "Chapter 46, slide 80",
+          "Chapter 46, slide 81",
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 31,
+        "component": "KOH testing",
+        "status": "Direct",
+        "locators": "46:78,79,80,81;47:22,23,25,27",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 78",
+          "Chapter 46, slide 79",
+          "Chapter 46, slide 80",
+          "Chapter 46, slide 81",
+          "Chapter 47, slide 22",
+          "Chapter 47, slide 23",
+          "Chapter 47, slide 25",
+          "Chapter 47, slide 27"
+        ]
+      },
+      {
+        "prompt": 32,
+        "component": "Adipocytes and connective tissue",
+        "status": "Direct",
+        "locators": "46:16",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 16"
+        ]
+      },
+      {
+        "prompt": 33,
+        "component": "Marker definition",
+        "status": "Direct",
+        "locators": "12:50,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 50",
+          "Chapter 12, slide 51",
+          "Chapter 12, slide 52"
+        ]
+      },
+      {
+        "prompt": 33,
+        "component": "Marker examples and specificity limits",
+        "status": "Direct",
+        "locators": "12:50,51,52",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 50",
+          "Chapter 12, slide 51",
+          "Chapter 12, slide 52"
+        ]
+      },
+      {
+        "prompt": 34,
+        "component": "FAP and APC association",
+        "status": "Direct",
+        "locators": "5:22;12:54",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 22",
+          "Chapter 12, slide 54"
+        ]
+      },
+      {
+        "prompt": 34,
+        "component": "Polyp morphology, histology and manifestations",
+        "status": "Missing",
+        "locators": "5:22;12:54",
+        "gap": "FAP association is not full characterization of intestinal polyps.",
+        "exactLocators": [
+          "Chapter 5, slide 22",
+          "Chapter 12, slide 54"
+        ]
+      },
+      {
+        "prompt": 35,
+        "component": "Inflammatory proliferation and angiogenesis",
+        "status": "Direct",
+        "locators": "12:32,33,34;13:5",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 12, slide 32",
+          "Chapter 12, slide 33",
+          "Chapter 12, slide 34",
+          "Chapter 13, slide 5"
+        ]
+      },
+      {
+        "prompt": 36,
+        "component": "Positive smoking-related cancer list",
+        "status": "Direct",
+        "locators": "13:9",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 13, slide 9"
+        ]
+      },
+      {
+        "prompt": 37,
+        "component": "Trisomy 21 and leukemia",
+        "status": "Direct",
+        "locators": "14:9,10N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 14, slide 9",
+          "Chapter 14, slide 10 speaker notes"
+        ]
+      },
+      {
+        "prompt": 37,
+        "component": "Complete malformation/leukemia associations",
+        "status": "Partial",
+        "locators": "14:8,9",
+        "gap": "Only selected syndromes, not exhaustive mapping.",
+        "exactLocators": [
+          "Chapter 14, slide 8",
+          "Chapter 14, slide 9"
+        ]
+      },
+      {
+        "prompt": 38,
+        "component": "Dermal mast cells and histamine",
+        "status": "Direct",
+        "locators": "46:15,36,82,83",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 15",
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 82",
+          "Chapter 46, slide 83"
+        ]
+      },
+      {
+        "prompt": 38,
+        "component": "Type I urticaria",
+        "status": "Direct",
+        "locators": "46:15,36,82,83",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 15",
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 82",
+          "Chapter 46, slide 83"
+        ]
+      },
+      {
+        "prompt": 38,
+        "component": "Type IV contact dermatitis",
+        "status": "Direct",
+        "locators": "46:15,36,82,83",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 15",
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 82",
+          "Chapter 46, slide 83"
+        ]
+      },
+      {
+        "prompt": 38,
+        "component": "Immune-complex vasculitis",
+        "status": "Direct",
+        "locators": "46:15,36,82,83",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 15",
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 82",
+          "Chapter 46, slide 83"
+        ]
+      },
+      {
+        "prompt": 38,
+        "component": "Full reaction-layer-mediator comparison",
+        "status": "Partial",
+        "locators": "46:15,36,82,83",
+        "gap": "Named examples only.",
+        "exactLocators": [
+          "Chapter 46, slide 15",
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 82",
+          "Chapter 46, slide 83"
+        ]
+      },
+      {
+        "prompt": 39,
+        "component": "Antigen processing and T-cell sensitization",
+        "status": "Direct",
+        "locators": "46:36,37",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 37"
+        ]
+      },
+      {
+        "prompt": 40,
+        "component": "Latex immunoglobulin relationship",
+        "status": "Missing",
+        "locators": "46:36,83",
+        "gap": "General hypersensitivity classes do not establish latex-specific key.",
+        "exactLocators": [
+          "Chapter 46, slide 36",
+          "Chapter 46, slide 83"
+        ]
+      },
+      {
+        "prompt": 41,
+        "component": "Medication-induced psoriasis exacerbation",
+        "status": "Missing",
+        "locators": "46:43,44,45",
+        "gap": "Treatments are supplied; triggers are absent.",
+        "exactLocators": [
+          "Chapter 46, slide 43",
+          "Chapter 46, slide 44",
+          "Chapter 46, slide 45"
+        ]
+      },
+      {
+        "prompt": 42,
+        "component": "PTCH1 and TP53 association",
+        "status": "Direct",
+        "locators": "46:88,94N",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 46, slide 88",
+          "Chapter 46, slide 94 speaker notes"
+        ]
+      },
+      {
+        "prompt": 43,
+        "component": "MODS definition",
+        "status": "Direct",
+        "locators": "48:26,27,29,31,32,33,34,35,36,37,38,39,40;49:7,8,40,41",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 26",
+          "Chapter 48, slide 27",
+          "Chapter 48, slide 29",
+          "Chapter 48, slide 31",
+          "Chapter 48, slide 32",
+          "Chapter 48, slide 33",
+          "Chapter 48, slide 34",
+          "Chapter 48, slide 35",
+          "Chapter 48, slide 36",
+          "Chapter 48, slide 37",
+          "Chapter 48, slide 38",
+          "Chapter 48, slide 39",
+          "Chapter 48, slide 40",
+          "Chapter 49, slide 7",
+          "Chapter 49, slide 8",
+          "Chapter 49, slide 40",
+          "Chapter 49, slide 41"
+        ]
+      },
+      {
+        "prompt": 43,
+        "component": "Primary and secondary mechanism",
+        "status": "Direct",
+        "locators": "48:26,27,29,31,32,33,34,35,36,37,38,39,40;49:7,8,40,41",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 26",
+          "Chapter 48, slide 27",
+          "Chapter 48, slide 29",
+          "Chapter 48, slide 31",
+          "Chapter 48, slide 32",
+          "Chapter 48, slide 33",
+          "Chapter 48, slide 34",
+          "Chapter 48, slide 35",
+          "Chapter 48, slide 36",
+          "Chapter 48, slide 37",
+          "Chapter 48, slide 38",
+          "Chapter 48, slide 39",
+          "Chapter 48, slide 40",
+          "Chapter 49, slide 7",
+          "Chapter 49, slide 8",
+          "Chapter 49, slide 40",
+          "Chapter 49, slide 41"
+        ]
+      },
+      {
+        "prompt": 43,
+        "component": "Clinical organ manifestations",
+        "status": "Direct",
+        "locators": "48:26,27,29,31,32,33,34,35,36,37,38,39,40;49:7,8,40,41",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 26",
+          "Chapter 48, slide 27",
+          "Chapter 48, slide 29",
+          "Chapter 48, slide 31",
+          "Chapter 48, slide 32",
+          "Chapter 48, slide 33",
+          "Chapter 48, slide 34",
+          "Chapter 48, slide 35",
+          "Chapter 48, slide 36",
+          "Chapter 48, slide 37",
+          "Chapter 48, slide 38",
+          "Chapter 48, slide 39",
+          "Chapter 48, slide 40",
+          "Chapter 49, slide 7",
+          "Chapter 49, slide 8",
+          "Chapter 49, slide 40",
+          "Chapter 49, slide 41"
+        ]
+      },
+      {
+        "prompt": 43,
+        "component": "Management and prevention",
+        "status": "Direct",
+        "locators": "48:26,27,29,31,32,33,34,35,36,37,38,39,40;49:7,8,40,41",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 48, slide 26",
+          "Chapter 48, slide 27",
+          "Chapter 48, slide 29",
+          "Chapter 48, slide 31",
+          "Chapter 48, slide 32",
+          "Chapter 48, slide 33",
+          "Chapter 48, slide 34",
+          "Chapter 48, slide 35",
+          "Chapter 48, slide 36",
+          "Chapter 48, slide 37",
+          "Chapter 48, slide 38",
+          "Chapter 48, slide 39",
+          "Chapter 48, slide 40",
+          "Chapter 49, slide 7",
+          "Chapter 49, slide 8",
+          "Chapter 49, slide 40",
+          "Chapter 49, slide 41"
+        ]
+      },
+      {
+        "prompt": 44,
+        "component": "Transcription",
+        "status": "Direct",
+        "locators": "4:12,17,18,20,29",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 12",
+          "Chapter 4, slide 17",
+          "Chapter 4, slide 18",
+          "Chapter 4, slide 20",
+          "Chapter 4, slide 29"
+        ]
+      },
+      {
+        "prompt": 44,
+        "component": "Nondisjunction",
+        "status": "Direct",
+        "locators": "4:12,17,18,20,29",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 12",
+          "Chapter 4, slide 17",
+          "Chapter 4, slide 18",
+          "Chapter 4, slide 20",
+          "Chapter 4, slide 29"
+        ]
+      },
+      {
+        "prompt": 44,
+        "component": "Aneuploidy",
+        "status": "Direct",
+        "locators": "4:12,17,18,20,29",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 12",
+          "Chapter 4, slide 17",
+          "Chapter 4, slide 18",
+          "Chapter 4, slide 20",
+          "Chapter 4, slide 29"
+        ]
+      },
+      {
+        "prompt": 44,
+        "component": "Polyploidy",
+        "status": "Direct",
+        "locators": "4:12,17,18,20,29",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 12",
+          "Chapter 4, slide 17",
+          "Chapter 4, slide 18",
+          "Chapter 4, slide 20",
+          "Chapter 4, slide 29"
+        ]
+      },
+      {
+        "prompt": 44,
+        "component": "Translocation",
+        "status": "Direct",
+        "locators": "4:12,17,18,20,29",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 12",
+          "Chapter 4, slide 17",
+          "Chapter 4, slide 18",
+          "Chapter 4, slide 20",
+          "Chapter 4, slide 29"
+        ]
+      },
+      {
+        "prompt": 45,
+        "component": "ABO inheritance crosses",
+        "status": "Missing",
+        "locators": "4:34",
+        "gap": "Codominance definition is not ABO allele evidence.",
+        "exactLocators": [
+          "Chapter 4, slide 34"
+        ]
+      },
+      {
+        "prompt": 46,
+        "component": "Variable manifestations",
+        "status": "Direct",
+        "locators": "4:44",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 46,
+        "component": "Gene/protein pathophysiology",
+        "status": "Missing",
+        "locators": "4:44",
+        "gap": "Expressivity example is not a complete neurofibromatosis passage.",
+        "exactLocators": [
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 46,
+        "component": "Degrees or types",
+        "status": "Missing",
+        "locators": "4:44",
+        "gap": "Expressivity example is not a complete neurofibromatosis passage.",
+        "exactLocators": [
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 47,
+        "component": "Penetrance",
+        "status": "Direct",
+        "locators": "4:34,43,44",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 34",
+          "Chapter 4, slide 43",
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 47,
+        "component": "Expressivity",
+        "status": "Direct",
+        "locators": "4:34,43,44",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 34",
+          "Chapter 4, slide 43",
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 47,
+        "component": "Dominance",
+        "status": "Direct",
+        "locators": "4:34,43,44",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 34",
+          "Chapter 4, slide 43",
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 47,
+        "component": "Recessiveness",
+        "status": "Direct",
+        "locators": "4:34,43,44",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 34",
+          "Chapter 4, slide 43",
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 48,
+        "component": "Incidence",
+        "status": "Direct",
+        "locators": "5:5,6",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 5",
+          "Chapter 5, slide 6"
+        ]
+      },
+      {
+        "prompt": 48,
+        "component": "Prevalence",
+        "status": "Direct",
+        "locators": "5:5,6",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 5",
+          "Chapter 5, slide 6"
+        ]
+      },
+      {
+        "prompt": 48,
+        "component": "Relative risk",
+        "status": "Direct",
+        "locators": "5:5,6",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 5",
+          "Chapter 5, slide 6"
+        ]
+      },
+      {
+        "prompt": 49,
+        "component": "Breast and colorectal familial patterns",
+        "status": "Direct",
+        "locators": "5:19,20,22,23",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 19",
+          "Chapter 5, slide 20",
+          "Chapter 5, slide 22",
+          "Chapter 5, slide 23"
+        ]
+      },
+      {
+        "prompt": 49,
+        "component": "Prostate genetic risk mention",
+        "status": "Direct",
+        "locators": "5:19,20,22,23",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 19",
+          "Chapter 5, slide 20",
+          "Chapter 5, slide 22",
+          "Chapter 5, slide 23"
+        ]
+      },
+      {
+        "prompt": 49,
+        "component": "Exhaustive clustering list",
+        "status": "Partial",
+        "locators": "5:19,20,22,23",
+        "gap": "No comprehensive list is supplied.",
+        "exactLocators": [
+          "Chapter 5, slide 19",
+          "Chapter 5, slide 20",
+          "Chapter 5, slide 22",
+          "Chapter 5, slide 23"
+        ]
+      },
+      {
+        "prompt": 50,
+        "component": "BRCA1/BRCA2 chromosome mapping",
+        "status": "Direct",
+        "locators": "5:20,21N;12:54",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 20",
+          "Chapter 5, slide 21 speaker notes",
+          "Chapter 12, slide 54"
+        ]
+      },
+      {
+        "prompt": 50,
+        "component": "Breast and ovarian susceptibility",
+        "status": "Direct",
+        "locators": "5:20,21N;12:54",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 5, slide 20",
+          "Chapter 5, slide 21 speaker notes",
+          "Chapter 12, slide 54"
+        ]
+      },
+      {
+        "prompt": 50,
+        "component": "Mutation details and functional mechanisms",
+        "status": "Partial",
+        "locators": "5:20,21N;12:54",
+        "gap": "Association and mapping only; no mutation-by-mutation detail.",
+        "exactLocators": [
+          "Chapter 5, slide 20",
+          "Chapter 5, slide 21 speaker notes",
+          "Chapter 12, slide 54"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "Autosomal recessive rules",
+        "status": "Direct",
+        "locators": "4:45,46,47",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 45",
+          "Chapter 4, slide 46",
+          "Chapter 4, slide 47"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "Autosomal dominant rules",
+        "status": "Direct",
+        "locators": "4:38,39,40",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 38",
+          "Chapter 4, slide 39",
+          "Chapter 4, slide 40"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "X-linked recessive rules",
+        "status": "Direct",
+        "locators": "4:49,52,53",
+        "gap": "",
+        "exactLocators": [
+          "Chapter 4, slide 49",
+          "Chapter 4, slide 52",
+          "Chapter 4, slide 53"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "X-linked dominant rules",
+        "status": "Missing",
+        "locators": "4:36",
+        "gap": "Pattern named, but transmission rules not developed.",
+        "exactLocators": [
+          "Chapter 4, slide 36"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "Two autosomal recessive disease examples",
+        "status": "Partial",
+        "locators": "4:33,45",
+        "gap": "CF explicit; PKU genotype example lacks a direct recessive label here.",
+        "exactLocators": [
+          "Chapter 4, slide 33",
+          "Chapter 4, slide 45"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "Two autosomal dominant examples",
+        "status": "Partial",
+        "locators": "4:43,44",
+        "gap": "Von Recklinghausen explicitly labeled; Huntington appears as age-dependent penetrance without an explicit dominant label in that passage.",
+        "exactLocators": [
+          "Chapter 4, slide 43",
+          "Chapter 4, slide 44"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "Two X-linked recessive examples",
+        "status": "Partial",
+        "locators": "4:49,52,53,54",
+        "gap": "Duchenne supplied explicitly; second mapped disease missing.",
+        "exactLocators": [
+          "Chapter 4, slide 49",
+          "Chapter 4, slide 52",
+          "Chapter 4, slide 53",
+          "Chapter 4, slide 54"
+        ]
+      },
+      {
+        "prompt": 51,
+        "component": "Two X-linked dominant examples",
+        "status": "Missing",
+        "locators": "4:36",
+        "gap": "Pattern named without the two requested disease examples.",
+        "exactLocators": [
+          "Chapter 4, slide 36"
+        ]
+      }
+    ]
+  },
+  "prompts": [
+    {
+      "studyGuidePrompt": 1,
+      "promptVerbatim": "Describe the specific chromosomal abnormality responsible for Down syndrome.",
+      "teachingTitle": "Down syndrome",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        4
+      ],
+      "status": "Direct",
+      "supported": "Down syndrome is trisomy 21. Nondisjunction is failure of chromosomes or chromatids to separate; the deck also describes Robertsonian translocation involving fused long arms. Keep a chromosome-number change distinct from a structural rearrangement.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C4S20",
+          "locator": "Chapter 4, slide 20"
+        },
+        {
+          "sourceId": "C4S22",
+          "locator": "Chapter 4, slide 22"
+        },
+        {
+          "sourceId": "C4S29",
+          "locator": "Chapter 4, slide 29"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 2,
+      "promptVerbatim": "Causes of mental retardation",
+      "teachingTitle": "Intellectual disability: supplied examples",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        4,
+        6
+      ],
+      "status": "Partial",
+      "supported": "The packet associates cognitive impairment with Down syndrome, cri du chat, fragile X, untreated PKU, Prader-Willi and Angelman syndromes. PKU illustrates why genotype does not alone determine phenotype: treatment changes the expressed outcome without removing the genotype.",
+      "remainingGapOrLimit": "Complete etiologic classification, mechanisms and diagnostic distinctions beyond these selected examples.",
+      "sources": [
+        {
+          "sourceId": "C4S22",
+          "locator": "Chapter 4, slide 22"
+        },
+        {
+          "sourceId": "C4S28",
+          "locator": "Chapter 4, slide 28"
+        },
+        {
+          "sourceId": "C4S30",
+          "locator": "Chapter 4, slide 30"
+        },
+        {
+          "sourceId": "C4S33",
+          "locator": "Chapter 4, slide 33"
+        },
+        {
+          "sourceId": "C6S12",
+          "locator": "Chapter 6, slide 12"
+        },
+        {
+          "sourceId": "C6S13",
+          "locator": "Chapter 6, slide 13"
+        },
+        {
+          "sourceId": "C6S15",
+          "locator": "Chapter 6, slide 15"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 3,
+      "promptVerbatim": "What gene abnormality causes cystic fibrosis",
+      "teachingTitle": "Cystic fibrosis",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        4
+      ],
+      "status": "Partial",
+      "supported": "The supplied mechanism is defective chloride-channel transport, salt imbalance, and thick dehydrated mucus affecting lungs and pancreas. It is an autosomal recessive example. The slide's absolute survival statement is excluded as a dated claim.",
+      "remainingGapOrLimit": "The requested named gene and precise mutation details are not supplied; obtain the ninth-edition CF passage.",
+      "sources": [
+        {
+          "sourceId": "C4S45",
+          "locator": "Chapter 4, slide 45"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 4,
+      "promptVerbatim": "How is a recessive disease inherited",
+      "teachingTitle": "Recessive inheritance",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        4
+      ],
+      "status": "Direct",
+      "supported": "A recessive disease requires two abnormal alleles in the supplied autosomal model. Two heterozygous carriers have, for each pregnancy, 25% affected offspring, 50% carriers and 25% unaffected noncarriers. Both sexes can be affected.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C4S45",
+          "locator": "Chapter 4, slide 45"
+        },
+        {
+          "sourceId": "C4S46",
+          "locator": "Chapter 4, slide 46"
+        },
+        {
+          "sourceId": "C4S47",
+          "locator": "Chapter 4, slide 47"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 5,
+      "promptVerbatim": "Inheritance of Hemophilia A",
+      "teachingTitle": "Hemophilia A",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        4
+      ],
+      "status": "Missing",
+      "supported": "The chapter objective names hemophilia, and the deck teaches general X-linked recessive rules. It does not explicitly connect Hemophilia A to a pattern or provide its molecular defect. General inheritance teaching appears below; the Hemophilia-specific key is gated.",
+      "remainingGapOrLimit": "Hemophilia A inheritance, factor defect and recurrence examples from the assigned textbook.",
+      "sources": [
+        {
+          "sourceId": "C4S5",
+          "locator": "Chapter 4, slide 5"
+        },
+        {
+          "sourceId": "C4S49",
+          "locator": "Chapter 4, slide 49"
+        },
+        {
+          "sourceId": "C4S52",
+          "locator": "Chapter 4, slide 52"
+        },
+        {
+          "sourceId": "C4S53",
+          "locator": "Chapter 4, slide 53"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 6,
+      "promptVerbatim": "Risk factors for DM II; why is obesity an important risk factor in DM II?",
+      "teachingTitle": "Type 2 diabetes and obesity",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        5,
+        13
+      ],
+      "status": "Direct",
+      "supported": "Risk factors include obesity and family history. Obesity increases insulin resistance: cells have difficulty using the insulin present. Production can also diminish. Exercise has a preventive effect in the supplied deck. Do not substitute the autoimmune beta-cell destruction described for type 1 diabetes.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C5S28",
+          "locator": "Chapter 5, slide 28"
+        },
+        {
+          "sourceId": "C5S29",
+          "locator": "Chapter 5, slide 29"
+        },
+        {
+          "sourceId": "C5S30N",
+          "locator": "Chapter 5, slide 30 speaker notes"
+        },
+        {
+          "sourceId": "C13S14",
+          "locator": "Chapter 13, slide 14"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 7,
+      "promptVerbatim": "Definition of carcinoma",
+      "teachingTitle": "Naming malignant tumors",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        12
+      ],
+      "status": "Direct",
+      "supported": "Carcinoma means a malignant epithelial tumor; adenocarcinoma specifies ducts or glands. Sarcoma identifies malignant connective tissue, lymphoma lymphatic tissue, and leukemia blood-forming cells. Benign growth is well differentiated, noninvasive and nonmetastatic in the supplied contrast.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C12S12",
+          "locator": "Chapter 12, slide 12"
+        },
+        {
+          "sourceId": "C12S13",
+          "locator": "Chapter 12, slide 13"
+        },
+        {
+          "sourceId": "C12S14",
+          "locator": "Chapter 12, slide 14"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 8,
+      "promptVerbatim": "How do cancer cells gain access to the circulation?",
+      "teachingTitle": "Access to circulation",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        12
+      ],
+      "status": "Direct",
+      "supported": "Invasion precedes metastasis. Cancer cells secrete proteases that digest extracellular matrix and basement membranes, opening pathways for movement. Cells must then survive travel through blood or lymph and grow in a receptive distant environment. Epithelial-mesenchymal transition reduces adhesion and increases migration and resistance to apoptosis.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C12S38",
+          "locator": "Chapter 12, slide 38"
+        },
+        {
+          "sourceId": "C12S39",
+          "locator": "Chapter 12, slide 39"
+        },
+        {
+          "sourceId": "C12S40",
+          "locator": "Chapter 12, slide 40"
+        },
+        {
+          "sourceId": "C12S41",
+          "locator": "Chapter 12, slide 41"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 9,
+      "promptVerbatim": "What is adjuvant chemotherapy?",
+      "teachingTitle": "Treatment timing",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        12
+      ],
+      "status": "Direct",
+      "supported": "Adjuvant chemotherapy follows surgical excision to eliminate micrometastases. Neoadjuvant chemotherapy precedes local surgery or radiation. Induction chemotherapy aims at shrinkage or disappearance of tumors. Timing and purpose are different classification axes.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C12S57",
+          "locator": "Chapter 12, slide 57"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 10,
+      "promptVerbatim": "Most common time childhood cancers are diagnosed",
+      "teachingTitle": "Childhood cancer timing",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        14
+      ],
+      "status": "Direct",
+      "supported": "Childhood cancers are often diagnosed during peak physical growth. The notes specify that embryonal tumors begin during intrauterine life and are typically diagnosed by age five. This latter age statement describes embryonal tumors, not every childhood cancer.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C14S6",
+          "locator": "Chapter 14, slide 6"
+        },
+        {
+          "sourceId": "C14S17N",
+          "locator": "Chapter 14, slide 17 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 11,
+      "promptVerbatim": "DES exposure prenatally",
+      "teachingTitle": "Prenatal DES exposure",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        13,
+        14
+      ],
+      "status": "Partial",
+      "supported": "Both decks identify prenatal DES exposure among exposures associated with childhood cancer susceptibility. Exposure is a risk association, not proof that an individual child will develop cancer.",
+      "remainingGapOrLimit": "Specific DES-related tumor, exposed population, mechanism and latency are absent.",
+      "sources": [
+        {
+          "sourceId": "C13S8",
+          "locator": "Chapter 13, slide 8"
+        },
+        {
+          "sourceId": "C14S11",
+          "locator": "Chapter 14, slide 11"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 12,
+      "promptVerbatim": "Where do most childhood cancers arise from?",
+      "teachingTitle": "Origins of childhood tumors",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        14
+      ],
+      "status": "Direct",
+      "supported": "Most childhood cancers arise from the mesodermal germ layer, which produces connective tissue, bone, cartilage, muscle, blood, vessels, gonads, kidneys and lymphatic tissue. Embryonal tumors reflect immature tissue that fails to mature or differentiate.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C14S4",
+          "locator": "Chapter 14, slide 4"
+        },
+        {
+          "sourceId": "C14S6",
+          "locator": "Chapter 14, slide 6"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 13,
+      "promptVerbatim": "Pediatric cancers and the N-myc oncogene",
+      "teachingTitle": "N-myc",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        14
+      ],
+      "status": "Partial",
+      "supported": "The speaker notes explicitly associate N-myc with neuroblastoma. The same notes distinguish Down syndrome and leukemia, tuberous sclerosis and glial tumors, and Gorlin syndrome and medulloblastoma.",
+      "remainingGapOrLimit": "Amplification mechanism, prognostic meaning and treatment implications are not supplied.",
+      "sources": [
+        {
+          "sourceId": "C14S10N",
+          "locator": "Chapter 14, slide 10 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 14,
+      "promptVerbatim": "Gland responsible for thermoregulation and cooling",
+      "teachingTitle": "Cooling and skin appendages",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "Eccrine sweat glands cool the body through evaporation. Sebaceous glands secrete sebum. The dermis contains vessels, nerves, follicles and glands; fibroblasts make connective matrix and collagen, while mast cells release histamine. Subcutaneous tissue contains adipocytes and connective tissue.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S14",
+          "locator": "Chapter 46, slide 14"
+        },
+        {
+          "sourceId": "C46S15",
+          "locator": "Chapter 46, slide 15"
+        },
+        {
+          "sourceId": "C46S16",
+          "locator": "Chapter 46, slide 16"
+        },
+        {
+          "sourceId": "C46S17",
+          "locator": "Chapter 46, slide 17"
+        },
+        {
+          "sourceId": "C46S18N",
+          "locator": "Chapter 46, slide 18 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 15,
+      "promptVerbatim": "Clinical manifestations of pressure ulcers",
+      "teachingTitle": "Pressure injury",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "Unrelieved pressure occludes capillary flow and causes ischemia and necrosis. Stage I has nonblanchable redness with intact skin; stage II partial skin loss; stage III full skin loss reaching subcutaneous tissue; stage IV damage to muscle, bone or supporting structures. A slough-covered base is unstageable; deep red or purple intact skin can signal deep tissue injury. Repositioning, pressure relief and moisture control address contributing forces.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S27",
+          "locator": "Chapter 46, slide 27"
+        },
+        {
+          "sourceId": "C46S28",
+          "locator": "Chapter 46, slide 28"
+        },
+        {
+          "sourceId": "C46S29",
+          "locator": "Chapter 46, slide 29"
+        },
+        {
+          "sourceId": "C46S30",
+          "locator": "Chapter 46, slide 30"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 16,
+      "promptVerbatim": "Keloids: patho and clinical manifestations",
+      "teachingTitle": "Keloid and hypertrophic scar",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "Excess collagen and abnormal fibroblast activity create a keloid. It is elevated, firm and progressively extends beyond the original injury. A hypertrophic scar remains inside the injury border. The boundary is the useful discriminator, rather than elevation alone.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S24",
+          "locator": "Chapter 46, slide 24"
+        },
+        {
+          "sourceId": "C46S31",
+          "locator": "Chapter 46, slide 31"
+        },
+        {
+          "sourceId": "C46S32",
+          "locator": "Chapter 46, slide 32"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 17,
+      "promptVerbatim": "Types of psoriasis",
+      "teachingTitle": "Psoriasis patterns",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "Psoriasis is a relapsing T-cell-mediated proliferative disorder. Epidermal turnover shortens from 26–30 to 3–4 days, leaving inadequate time for maturation. Plaque is most common; inverse is rare; guttate is more common in children; pustular develops pus; erythrodermic produces widespread red scaling. Arthritis and nail disease are listed systemic complications. Treatment ranges from emollients and topical agents to phototherapy and systemic agents according to severity.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S43",
+          "locator": "Chapter 46, slide 43"
+        },
+        {
+          "sourceId": "C46S44",
+          "locator": "Chapter 46, slide 44"
+        },
+        {
+          "sourceId": "C46S45",
+          "locator": "Chapter 46, slide 45"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 18,
+      "promptVerbatim": "Chicken pox virus",
+      "teachingTitle": "Varicella and zoster",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46,
+        47
+      ],
+      "status": "Direct",
+      "supported": "Varicella-zoster virus causes both chickenpox and shingles. Chickenpox shows lesions at different stages together and spreads through contact or airborne droplets. Reactivation produces vesicles along a sensory nerve distribution. Do not confuse initial widespread infection with the later dermatomal eruption.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S74",
+          "locator": "Chapter 46, slide 74"
+        },
+        {
+          "sourceId": "C47S34",
+          "locator": "Chapter 47, slide 34"
+        },
+        {
+          "sourceId": "C47S35",
+          "locator": "Chapter 47, slide 35"
+        },
+        {
+          "sourceId": "C47S37",
+          "locator": "Chapter 47, slide 37"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 19,
+      "promptVerbatim": "Scleroderma definition, patho and clinical manifestations",
+      "teachingTitle": "Scleroderma",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Partial",
+      "supported": "The slide describes sclerosis, fibroblast proliferation and fibrosis associated with T-helper cells and cytokines. Skin is hard, hypopigmented, taut and shiny. Its heading says localized morphea but its text also mentions internal-organ progression; this subtype boundary needs clarification before scoring.",
+      "remainingGapOrLimit": "Clarify localized versus systemic scleroderma and the full manifestations and pathophysiology in the ninth edition. No subtype-progression key is used.",
+      "sources": [
+        {
+          "sourceId": "C46S84",
+          "locator": "Chapter 46, slide 84"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 20,
+      "promptVerbatim": "Inflammatory mediators in frostbite",
+      "teachingTitle": "Frostbite inflammation",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Partial",
+      "supported": "Cold injury involves inflammation and reperfusion. Frostbite freezes tissue with ice-crystal formation, progressing from distal to proximal areas. Skin may be white or yellowish, waxy and firm.",
+      "remainingGapOrLimit": "Named inflammatory mediators and their roles in frostbite are absent.",
+      "sources": [
+        {
+          "sourceId": "C46S95",
+          "locator": "Chapter 46, slide 95"
+        },
+        {
+          "sourceId": "C46S97",
+          "locator": "Chapter 46, slide 97"
+        },
+        {
+          "sourceId": "C46S98",
+          "locator": "Chapter 46, slide 98"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 21,
+      "promptVerbatim": "Ibuprofen in frostbite",
+      "teachingTitle": "Ibuprofen in frostbite",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Missing",
+      "supported": "The frostbite treatment slide lists analgesics but does not identify ibuprofen or its mechanism. Ibuprofen appears elsewhere for burn metabolism; that does not establish a frostbite-specific claim.",
+      "remainingGapOrLimit": "Assigned textbook passage linking ibuprofen to frostbite inflammatory mediators, purpose and regimen.",
+      "sources": [
+        {
+          "sourceId": "C46S99",
+          "locator": "Chapter 46, slide 99"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 22,
+      "promptVerbatim": "Atopic dermatitis: which Ig, clinical manifestations, patho, lab results",
+      "teachingTitle": "Atopic dermatitis",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        47
+      ],
+      "status": "Partial",
+      "supported": "Two explanatory models connect immune dysregulation and epidermal barrier failure. Filaggrin alteration weakens the barrier. Severe itching is the hallmark; redness, edema, scaling and scratching-related lichenification occur. Infants commonly have face, scalp, trunk and extensor lesions, while older children favor flexures. Hydration, emollients and trigger avoidance support barrier care.",
+      "remainingGapOrLimit": "Requested immunoglobulin and laboratory findings are absent; obtain exact Ig/lab passage.",
+      "sources": [
+        {
+          "sourceId": "C47S9",
+          "locator": "Chapter 47, slide 9"
+        },
+        {
+          "sourceId": "C47S10",
+          "locator": "Chapter 47, slide 10"
+        },
+        {
+          "sourceId": "C47S11",
+          "locator": "Chapter 47, slide 11"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 23,
+      "promptVerbatim": "Complications of diaper dermatitis",
+      "teachingTitle": "Diaper dermatitis",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        47
+      ],
+      "status": "Direct",
+      "supported": "Prolonged urine/feces exposure, wet friction and occlusion irritate skin. Secondary Candida infection produces strongly erythematous, sharply bounded lesions with pustulovesicular satellites. Frequent changes, air exposure and barrier protection reduce irritation; candidal involvement adds a topical antifungal in the supplied treatment.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C47S12",
+          "locator": "Chapter 47, slide 12"
+        },
+        {
+          "sourceId": "C47S13",
+          "locator": "Chapter 47, slide 13"
+        },
+        {
+          "sourceId": "C47S61N",
+          "locator": "Chapter 47, slide 61 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 24,
+      "promptVerbatim": "Impetigo, Tinea, Thrush: patho, clinical manifestations, source of infection and definition",
+      "teachingTitle": "Impetigo, tinea and thrush",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        47
+      ],
+      "status": "Direct",
+      "supported": "Impetigo is a superficial bacterial infection transmitted by direct or indirect contact. Nonbullous lesions form honey-colored crusts; bullous disease involves staphylococcal exfoliative toxin disrupting adhesion. Dermatophytes thrive on keratin; their infections are called tinea. Capitis affects scalp and breaks hair; corporis expands outward with central clearing, often following kitten or puppy contact. Candida causes oral thrush with white plaques and shallow ulcers. The deck lists KOH examination for tinea and antifungal treatment for tinea and thrush.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C47S15",
+          "locator": "Chapter 47, slide 15"
+        },
+        {
+          "sourceId": "C47S16",
+          "locator": "Chapter 47, slide 16"
+        },
+        {
+          "sourceId": "C47S17",
+          "locator": "Chapter 47, slide 17"
+        },
+        {
+          "sourceId": "C47S22",
+          "locator": "Chapter 47, slide 22"
+        },
+        {
+          "sourceId": "C47S23",
+          "locator": "Chapter 47, slide 23"
+        },
+        {
+          "sourceId": "C47S25",
+          "locator": "Chapter 47, slide 25"
+        },
+        {
+          "sourceId": "C47S26",
+          "locator": "Chapter 47, slide 26"
+        },
+        {
+          "sourceId": "C47S27",
+          "locator": "Chapter 47, slide 27"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 25,
+      "promptVerbatim": "Goals in treatment of shock in children",
+      "teachingTitle": "Goals of pediatric shock care",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        49
+      ],
+      "status": "Direct",
+      "supported": "Restore oxygen delivery and tissue perfusion while treating the cause. Volume support addresses hypovolemia; myocardial support addresses cardiogenic shock; eliminating obstruction addresses obstructive shock. Airway, oxygenation and ventilation remain central. Normal systolic pressure alone does not establish adequate perfusion.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C49S5",
+          "locator": "Chapter 49, slide 5"
+        },
+        {
+          "sourceId": "C49S27",
+          "locator": "Chapter 49, slide 27"
+        },
+        {
+          "sourceId": "C49S28",
+          "locator": "Chapter 49, slide 28"
+        },
+        {
+          "sourceId": "C49S34",
+          "locator": "Chapter 49, slide 34"
+        },
+        {
+          "sourceId": "C49S39",
+          "locator": "Chapter 49, slide 39"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 26,
+      "promptVerbatim": "Know all types of shock in adults and children-pathophysiology, clinical manifestations and management",
+      "teachingTitle": "Shock types: mechanism, findings and management",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        48,
+        49
+      ],
+      "status": "Partial",
+      "supported": "Cardiogenic shock is pump failure despite available volume; hypovolemic shock is inadequate circulating volume; neurogenic shock loses vascular tone; anaphylaxis creates vasodilation and fluid shift after an allergen; sepsis causes inflammatory maldistribution; obstruction physically impedes blood flow. Adult neurogenic findings include bradycardia and low vascular resistance. Pediatric compensated shock retains age-appropriate systolic pressure despite poor perfusion. The detailed comparison card separates treatment goals and supplied findings.",
+      "remainingGapOrLimit": "Exhaustive adult obstructive shock and pediatric anaphylaxis management, complete dosing/sequencing, and current protocol clarification are absent. Neurogenic adult treatment is only briefly listed. Pediatric lactate units and sepsis table wording need correction.",
+      "sources": [
+        {
+          "sourceId": "C48S4",
+          "locator": "Chapter 48, slide 4"
+        },
+        {
+          "sourceId": "C48S5",
+          "locator": "Chapter 48, slide 5"
+        },
+        {
+          "sourceId": "C48S8",
+          "locator": "Chapter 48, slide 8"
+        },
+        {
+          "sourceId": "C48S9",
+          "locator": "Chapter 48, slide 9"
+        },
+        {
+          "sourceId": "C48S10",
+          "locator": "Chapter 48, slide 10"
+        },
+        {
+          "sourceId": "C48S11",
+          "locator": "Chapter 48, slide 11"
+        },
+        {
+          "sourceId": "C48S12",
+          "locator": "Chapter 48, slide 12"
+        },
+        {
+          "sourceId": "C48S14",
+          "locator": "Chapter 48, slide 14"
+        },
+        {
+          "sourceId": "C48S15",
+          "locator": "Chapter 48, slide 15"
+        },
+        {
+          "sourceId": "C48S16",
+          "locator": "Chapter 48, slide 16"
+        },
+        {
+          "sourceId": "C48S17",
+          "locator": "Chapter 48, slide 17"
+        },
+        {
+          "sourceId": "C48S18",
+          "locator": "Chapter 48, slide 18"
+        },
+        {
+          "sourceId": "C48S19",
+          "locator": "Chapter 48, slide 19"
+        },
+        {
+          "sourceId": "C48S20",
+          "locator": "Chapter 48, slide 20"
+        },
+        {
+          "sourceId": "C48S21",
+          "locator": "Chapter 48, slide 21"
+        },
+        {
+          "sourceId": "C48S22",
+          "locator": "Chapter 48, slide 22"
+        },
+        {
+          "sourceId": "C48S24",
+          "locator": "Chapter 48, slide 24"
+        },
+        {
+          "sourceId": "C49S6",
+          "locator": "Chapter 49, slide 6"
+        },
+        {
+          "sourceId": "C49S9",
+          "locator": "Chapter 49, slide 9"
+        },
+        {
+          "sourceId": "C49S10",
+          "locator": "Chapter 49, slide 10"
+        },
+        {
+          "sourceId": "C49S11",
+          "locator": "Chapter 49, slide 11"
+        },
+        {
+          "sourceId": "C49S24",
+          "locator": "Chapter 49, slide 24"
+        },
+        {
+          "sourceId": "C49S25",
+          "locator": "Chapter 49, slide 25"
+        },
+        {
+          "sourceId": "C49S26",
+          "locator": "Chapter 49, slide 26"
+        },
+        {
+          "sourceId": "C49S27",
+          "locator": "Chapter 49, slide 27"
+        },
+        {
+          "sourceId": "C49S28",
+          "locator": "Chapter 49, slide 28"
+        },
+        {
+          "sourceId": "C49S29",
+          "locator": "Chapter 49, slide 29"
+        },
+        {
+          "sourceId": "C49S32",
+          "locator": "Chapter 49, slide 32"
+        },
+        {
+          "sourceId": "C49S33",
+          "locator": "Chapter 49, slide 33"
+        },
+        {
+          "sourceId": "C49S34",
+          "locator": "Chapter 49, slide 34"
+        },
+        {
+          "sourceId": "C49S35",
+          "locator": "Chapter 49, slide 35"
+        },
+        {
+          "sourceId": "C49S37",
+          "locator": "Chapter 49, slide 37"
+        },
+        {
+          "sourceId": "C49S38",
+          "locator": "Chapter 49, slide 38"
+        },
+        {
+          "sourceId": "C49S39",
+          "locator": "Chapter 49, slide 39"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 27,
+      "promptVerbatim": "Burns all levels in adults and children-pathophysiology, definitions, clinical manifestations, determination of severity, calculation of body surface burned and management, complications",
+      "teachingTitle": "Burns: depths, severity, calculation and care",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        48,
+        49
+      ],
+      "status": "Partial",
+      "supported": "Burn injury can be thermal, chemical or electrical. Epidermal-only, partial dermal and full-thickness destruction differ in preserved barriers and appendages. Full-thickness injury destroys nerve endings and may be painless; superficial dermal injury is painful and blistering. Age, site, depth and extent determine severity. Children lose more fluid per unit weight because of a larger surface-area-to-weight ratio. Urine output monitors resuscitation. Airway compromise, infection, hypermetabolism, scarring and contracture complicate recovery. Age-adjusted charts are needed for children.",
+      "remainingGapOrLimit": "Validated adult rule-of-nines diagram, corrected pediatric percentages, calculation examples, modified Parkland formula, complete depth-specific management and dose protocols are missing. Chapter 49 slide 45 lower-extremity percentage is quarantined. Chapter 48 uses inconsistent first-degree/partial-thickness terminology; teach tissue depth explicitly.",
+      "sources": [
+        {
+          "sourceId": "C48S42",
+          "locator": "Chapter 48, slide 42"
+        },
+        {
+          "sourceId": "C48S43",
+          "locator": "Chapter 48, slide 43"
+        },
+        {
+          "sourceId": "C48S44",
+          "locator": "Chapter 48, slide 44"
+        },
+        {
+          "sourceId": "C48S45",
+          "locator": "Chapter 48, slide 45"
+        },
+        {
+          "sourceId": "C48S46",
+          "locator": "Chapter 48, slide 46"
+        },
+        {
+          "sourceId": "C48S47",
+          "locator": "Chapter 48, slide 47"
+        },
+        {
+          "sourceId": "C48S48",
+          "locator": "Chapter 48, slide 48"
+        },
+        {
+          "sourceId": "C48S49",
+          "locator": "Chapter 48, slide 49"
+        },
+        {
+          "sourceId": "C48S50",
+          "locator": "Chapter 48, slide 50"
+        },
+        {
+          "sourceId": "C48S51",
+          "locator": "Chapter 48, slide 51"
+        },
+        {
+          "sourceId": "C48S52",
+          "locator": "Chapter 48, slide 52"
+        },
+        {
+          "sourceId": "C48S54",
+          "locator": "Chapter 48, slide 54"
+        },
+        {
+          "sourceId": "C48S55",
+          "locator": "Chapter 48, slide 55"
+        },
+        {
+          "sourceId": "C49S43",
+          "locator": "Chapter 49, slide 43"
+        },
+        {
+          "sourceId": "C49S44",
+          "locator": "Chapter 49, slide 44"
+        },
+        {
+          "sourceId": "C49S45",
+          "locator": "Chapter 49, slide 45"
+        },
+        {
+          "sourceId": "C49S46",
+          "locator": "Chapter 49, slide 46"
+        },
+        {
+          "sourceId": "C49S48",
+          "locator": "Chapter 49, slide 48"
+        },
+        {
+          "sourceId": "C49S49",
+          "locator": "Chapter 49, slide 49"
+        },
+        {
+          "sourceId": "C49S50",
+          "locator": "Chapter 49, slide 50"
+        },
+        {
+          "sourceId": "C49S51",
+          "locator": "Chapter 49, slide 51"
+        },
+        {
+          "sourceId": "C49S52",
+          "locator": "Chapter 49, slide 52"
+        },
+        {
+          "sourceId": "C49S53",
+          "locator": "Chapter 49, slide 53"
+        },
+        {
+          "sourceId": "C49S54",
+          "locator": "Chapter 49, slide 54"
+        },
+        {
+          "sourceId": "C49S56",
+          "locator": "Chapter 49, slide 56"
+        },
+        {
+          "sourceId": "C49S57",
+          "locator": "Chapter 49, slide 57"
+        },
+        {
+          "sourceId": "C49S58",
+          "locator": "Chapter 49, slide 58"
+        },
+        {
+          "sourceId": "C49S59",
+          "locator": "Chapter 49, slide 59"
+        },
+        {
+          "sourceId": "C49S60",
+          "locator": "Chapter 49, slide 60"
+        },
+        {
+          "sourceId": "C49S61",
+          "locator": "Chapter 49, slide 61"
+        },
+        {
+          "sourceId": "C49S62",
+          "locator": "Chapter 49, slide 62"
+        },
+        {
+          "sourceId": "C49S63",
+          "locator": "Chapter 49, slide 63"
+        },
+        {
+          "sourceId": "C49S64",
+          "locator": "Chapter 49, slide 64"
+        },
+        {
+          "sourceId": "C49S65",
+          "locator": "Chapter 49, slide 65"
+        },
+        {
+          "sourceId": "C49S66",
+          "locator": "Chapter 49, slide 66"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 28,
+      "promptVerbatim": "End point of burn shock",
+      "teachingTitle": "End of burn shock",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        48
+      ],
+      "status": "Direct",
+      "supported": "The supplied marker for the end of burn shock is capillary seal. Distinguish this event from a bedside measure of adequate fluid resuscitation, for which the deck identifies urine output.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C48S47",
+          "locator": "Chapter 48, slide 47"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 29,
+      "promptVerbatim": "Renal failure in electrical burns in children",
+      "teachingTitle": "Electrical burns and renal failure",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        49
+      ],
+      "status": "Missing",
+      "supported": "The packet names electrical burns and describes renal changes after burns generally, but supplies no electrical-burn-specific renal failure mechanism.",
+      "remainingGapOrLimit": "Electrical injury, muscle breakdown/pigment injury and renal failure passage from the assigned textbook; no inferred key.",
+      "sources": [
+        {
+          "sourceId": "C49S44",
+          "locator": "Chapter 49, slide 44"
+        },
+        {
+          "sourceId": "C49S54",
+          "locator": "Chapter 49, slide 54"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 30,
+      "promptVerbatim": "Characteristics of Klinefelter syndrome, Turner syndrome, Cri du chat syndrome",
+      "teachingTitle": "Chromosomal syndrome comparison",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        4
+      ],
+      "status": "Direct",
+      "supported": "Turner syndrome is 45,X with short stature, neck webbing, widely spaced nipples and ovarian absence in the deck. Klinefelter includes at least one Y and two X chromosomes, small testes, sparse body hair and gynecomastia. Cri du chat is a deletion syndrome with low birth weight, microcephaly and cognitive impairment.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C4S24",
+          "locator": "Chapter 4, slide 24"
+        },
+        {
+          "sourceId": "C4S25",
+          "locator": "Chapter 4, slide 25"
+        },
+        {
+          "sourceId": "C4S28",
+          "locator": "Chapter 4, slide 28"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 31,
+      "promptVerbatim": "Characteristics of mycotic dermal infections",
+      "teachingTitle": "Mycotic dermal infections",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46,
+        47
+      ],
+      "status": "Direct",
+      "supported": "Mycosis means fungal disease; tinea specifically denotes dermatophyte disease. Site labels matter: capitis scalp, pedis foot, corporis body, cruris groin and unguium nail. Candida can shift from commensal organism to pathogen in warm moist conditions and in listed host-risk states. KOH scrapings can reveal fungal hyphae.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S78",
+          "locator": "Chapter 46, slide 78"
+        },
+        {
+          "sourceId": "C46S79",
+          "locator": "Chapter 46, slide 79"
+        },
+        {
+          "sourceId": "C46S80",
+          "locator": "Chapter 46, slide 80"
+        },
+        {
+          "sourceId": "C46S81",
+          "locator": "Chapter 46, slide 81"
+        },
+        {
+          "sourceId": "C47S22",
+          "locator": "Chapter 47, slide 22"
+        },
+        {
+          "sourceId": "C47S23",
+          "locator": "Chapter 47, slide 23"
+        },
+        {
+          "sourceId": "C47S25",
+          "locator": "Chapter 47, slide 25"
+        },
+        {
+          "sourceId": "C47S27",
+          "locator": "Chapter 47, slide 27"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 32,
+      "promptVerbatim": "characteristics of subcutaneous tissue",
+      "teachingTitle": "Subcutaneous tissue",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "The subcutaneous layer contains adipocytes and connective tissue, with collagen continuous with dermal collagen. Keep this layer distinct from the outer epidermis and the gland-, vessel- and nerve-containing dermis.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S16",
+          "locator": "Chapter 46, slide 16"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 33,
+      "promptVerbatim": "What are tumor cell markers??",
+      "teachingTitle": "Tumor cell markers",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        12
+      ],
+      "status": "Direct",
+      "supported": "Markers are substances produced by benign or malignant cells, found in/on cells or in fluids such as blood, urine or spinal fluid. Examples include hormones, enzymes, genes and antigens. AFP is associated with liver/germ-cell tumors and PSA with prostate tumors. A marker can support screening, diagnosis or course monitoring without being uniquely cancer-specific.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C12S50",
+          "locator": "Chapter 12, slide 50"
+        },
+        {
+          "sourceId": "C12S51",
+          "locator": "Chapter 12, slide 51"
+        },
+        {
+          "sourceId": "C12S52",
+          "locator": "Chapter 12, slide 52"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 34,
+      "promptVerbatim": "characteristics of intestinal polyps",
+      "teachingTitle": "Intestinal polyps",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        5,
+        12
+      ],
+      "status": "Partial",
+      "supported": "The packet links inherited APC mutation with familial adenomatous polyposis and discusses preventive colectomy in the high-risk condition. It also distinguishes hereditary nonpolyposis colorectal cancer.",
+      "remainingGapOrLimit": "Polyp morphology, histologic categories, clinical manifestations and malignant-potential comparison are not supplied.",
+      "sources": [
+        {
+          "sourceId": "C5S22",
+          "locator": "Chapter 5, slide 22"
+        },
+        {
+          "sourceId": "C12S54",
+          "locator": "Chapter 12, slide 54"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 35,
+      "promptVerbatim": "cancer and chronic inflammation",
+      "teachingTitle": "Chronic inflammation and cancer",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        12,
+        13
+      ],
+      "status": "Direct",
+      "supported": "Chronic inflammation can promote proliferation and new-vessel growth as part of a persistent wound-healing response. Tumor-associated macrophages can inhibit cytotoxic immune function and produce growth-promoting cytokines and angiogenic factors. This connects tissue repair signals with tumor survival rather than making every inflammation a cancer diagnosis.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C12S32",
+          "locator": "Chapter 12, slide 32"
+        },
+        {
+          "sourceId": "C12S33",
+          "locator": "Chapter 12, slide 33"
+        },
+        {
+          "sourceId": "C12S34",
+          "locator": "Chapter 12, slide 34"
+        },
+        {
+          "sourceId": "C13S5",
+          "locator": "Chapter 13, slide 5"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 36,
+      "promptVerbatim": "Smoking associated with what cancers??",
+      "teachingTitle": "Smoking associations",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        13
+      ],
+      "status": "Direct",
+      "supported": "The deck links smoking to cancers of lung, mouth, lips, nasal cavity/sinuses, larynx, pharynx, esophagus, pancreas, kidney, uterus, cervix, colon/rectum, liver and acute leukemia. Secondhand smoke is linked to lung cancer. These are the supplied positive associations; omissions are not proof of no association.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C13S9",
+          "locator": "Chapter 13, slide 9"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 37,
+      "promptVerbatim": "Congenital malformations and acute leukemia in children??",
+      "teachingTitle": "Congenital factors and leukemia",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        14
+      ],
+      "status": "Partial",
+      "supported": "The deck identifies chromosomal abnormalities, hereditary syndromes, immune deficiency and congenital malformation syndromes as etiologic factors. Down syndrome/trisomy 21 is explicitly linked to leukemia.",
+      "remainingGapOrLimit": "Complete malformation-by-malignancy association table and mechanisms beyond the supplied examples.",
+      "sources": [
+        {
+          "sourceId": "C14S8",
+          "locator": "Chapter 14, slide 8"
+        },
+        {
+          "sourceId": "C14S9",
+          "locator": "Chapter 14, slide 9"
+        },
+        {
+          "sourceId": "C14S10N",
+          "locator": "Chapter 14, slide 10 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 38,
+      "promptVerbatim": "Hypersensitivity reactions and the dermis",
+      "teachingTitle": "Hypersensitivity and dermis",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Partial",
+      "supported": "Dermal mast cells release histamine. Urticaria is presented as type I hypersensitivity: histamine promotes vascular fluid leakage and transient raised wheals. Allergic contact dermatitis is T-cell-mediated delayed type IV disease. Cutaneous vasculitis involves small-vessel immune complexes and complement.",
+      "remainingGapOrLimit": "Full reaction-by-layer comparison and detailed mediator sequence beyond the named examples.",
+      "sources": [
+        {
+          "sourceId": "C46S15",
+          "locator": "Chapter 46, slide 15"
+        },
+        {
+          "sourceId": "C46S36",
+          "locator": "Chapter 46, slide 36"
+        },
+        {
+          "sourceId": "C46S82",
+          "locator": "Chapter 46, slide 82"
+        },
+        {
+          "sourceId": "C46S83",
+          "locator": "Chapter 46, slide 83"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 39,
+      "promptVerbatim": "patho of allergic contact dermatitis",
+      "teachingTitle": "Allergic contact dermatitis",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "An allergen binds a carrier protein and becomes a sensitizing antigen. Langerhans cells process it and present it to T cells. The delayed type IV response produces erythema, swelling, itching and vesicles. Irritant contact dermatitis is nonimmunologic injury; similar appearance does not establish the same mechanism.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S36",
+          "locator": "Chapter 46, slide 36"
+        },
+        {
+          "sourceId": "C46S37",
+          "locator": "Chapter 46, slide 37"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 40,
+      "promptVerbatim": "Latex allergies and immunoglobulins",
+      "teachingTitle": "Latex allergy",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 1",
+      "chapters": [
+        46
+      ],
+      "status": "Missing",
+      "supported": "General type I and type IV skin reactions are supplied, but latex and its immunoglobulin relationship are not explicitly taught.",
+      "remainingGapOrLimit": "Latex protein allergy versus additive contact sensitivity, relevant immunoglobulin and reaction types from the textbook.",
+      "sources": [
+        {
+          "sourceId": "C46S36",
+          "locator": "Chapter 46, slide 36"
+        },
+        {
+          "sourceId": "C46S83",
+          "locator": "Chapter 46, slide 83"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 41,
+      "promptVerbatim": "Psoriasis exacerbation and medication",
+      "teachingTitle": "Psoriasis exacerbating medications",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        46
+      ],
+      "status": "Missing",
+      "supported": "The deck lists treatments and manifestations. It does not identify medications that exacerbate psoriasis; treatment lists cannot be reversed into an exacerbation key.",
+      "remainingGapOrLimit": "Named exacerbating medications, mechanisms and relevant withdrawal effects.",
+      "sources": [
+        {
+          "sourceId": "C46S43",
+          "locator": "Chapter 46, slide 43"
+        },
+        {
+          "sourceId": "C46S44",
+          "locator": "Chapter 46, slide 44"
+        },
+        {
+          "sourceId": "C46S45",
+          "locator": "Chapter 46, slide 45"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 42,
+      "promptVerbatim": "basal cell carcinoma and gene alteration",
+      "teachingTitle": "Basal cell carcinoma genes",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        46
+      ],
+      "status": "Direct",
+      "supported": "The deck associates basal cell carcinoma with TP53 and PTCH1 mutations. The lesion is pearly or ivory with a depressed center and rolled borders. Notes distinguish BRAF/RAS associations in cutaneous melanoma.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C46S88",
+          "locator": "Chapter 46, slide 88"
+        },
+        {
+          "sourceId": "C46S94N",
+          "locator": "Chapter 46, slide 94 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 43,
+      "promptVerbatim": "MODS-patho, definition, clinical manifestations management",
+      "teachingTitle": "MODS",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        48,
+        49
+      ],
+      "status": "Direct",
+      "supported": "MODS involves at least two failing organ systems after severe illness or injury. Primary MODS follows the direct insult; secondary MODS reflects an amplified host response, often after another insult. Primed leukocytes, endothelial damage, permeability changes, blood-flow maldistribution and a net procoagulant state impair organs. Confusion, lung dysfunction and renal/hepatic failure are supplied manifestations. Prevention controls the trigger and avoids second insults; support includes oxygenation, nutrition, volume restoration and organ-specific support.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C48S26",
+          "locator": "Chapter 48, slide 26"
+        },
+        {
+          "sourceId": "C48S27",
+          "locator": "Chapter 48, slide 27"
+        },
+        {
+          "sourceId": "C48S29",
+          "locator": "Chapter 48, slide 29"
+        },
+        {
+          "sourceId": "C48S31",
+          "locator": "Chapter 48, slide 31"
+        },
+        {
+          "sourceId": "C48S32",
+          "locator": "Chapter 48, slide 32"
+        },
+        {
+          "sourceId": "C48S33",
+          "locator": "Chapter 48, slide 33"
+        },
+        {
+          "sourceId": "C48S34",
+          "locator": "Chapter 48, slide 34"
+        },
+        {
+          "sourceId": "C48S35",
+          "locator": "Chapter 48, slide 35"
+        },
+        {
+          "sourceId": "C48S36",
+          "locator": "Chapter 48, slide 36"
+        },
+        {
+          "sourceId": "C48S37",
+          "locator": "Chapter 48, slide 37"
+        },
+        {
+          "sourceId": "C48S38",
+          "locator": "Chapter 48, slide 38"
+        },
+        {
+          "sourceId": "C48S39",
+          "locator": "Chapter 48, slide 39"
+        },
+        {
+          "sourceId": "C48S40",
+          "locator": "Chapter 48, slide 40"
+        },
+        {
+          "sourceId": "C49S7",
+          "locator": "Chapter 49, slide 7"
+        },
+        {
+          "sourceId": "C49S8",
+          "locator": "Chapter 49, slide 8"
+        },
+        {
+          "sourceId": "C49S40",
+          "locator": "Chapter 49, slide 40"
+        },
+        {
+          "sourceId": "C49S41",
+          "locator": "Chapter 49, slide 41"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 44,
+      "promptVerbatim": "What is transcription? What is nondisjunction?? What is aneuploidy?? What is polyploidy? What is translocation??",
+      "teachingTitle": "Molecular and chromosome vocabulary",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        4
+      ],
+      "status": "Direct",
+      "supported": "Transcription synthesizes RNA from DNA. Nondisjunction is failed chromosome/chromatid separation. Aneuploidy changes individual chromosome number; polyploidy adds complete chromosome sets beyond diploidy. Translocation interchanges material between nonhomologous chromosomes. Do not equate a copied RNA message with a chromosome-number error.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C4S12",
+          "locator": "Chapter 4, slide 12"
+        },
+        {
+          "sourceId": "C4S17",
+          "locator": "Chapter 4, slide 17"
+        },
+        {
+          "sourceId": "C4S18",
+          "locator": "Chapter 4, slide 18"
+        },
+        {
+          "sourceId": "C4S20",
+          "locator": "Chapter 4, slide 20"
+        },
+        {
+          "sourceId": "C4S29",
+          "locator": "Chapter 4, slide 29"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 45,
+      "promptVerbatim": "inheritance of Blood types",
+      "teachingTitle": "Blood-group inheritance",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        4
+      ],
+      "status": "Missing",
+      "supported": "Codominance is defined as expression of both alleles, but ABO alleles and blood-group crosses are absent.",
+      "remainingGapOrLimit": "ABO genotype/phenotype table, dominance relationships and worked inheritance crosses.",
+      "sources": [
+        {
+          "sourceId": "C4S34",
+          "locator": "Chapter 4, slide 34"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 46,
+      "promptVerbatim": "Neurofibromatosis-patho, clinical manifestations, degrees of",
+      "teachingTitle": "Neurofibromatosis",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        4
+      ],
+      "status": "Partial",
+      "supported": "The expressivity example, von Recklinghausen disease, is autosomal dominant and ranges from brown skin spots to tumors, scoliosis, gliomas and neuromas. This teaches variation in expression, not a complete disease classification.",
+      "remainingGapOrLimit": "Named gene/protein mechanism, disease types or degrees and diagnostic criteria.",
+      "sources": [
+        {
+          "sourceId": "C4S44",
+          "locator": "Chapter 4, slide 44"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 47,
+      "promptVerbatim": "What is penetrance? Expressivity? Dominance? Recessiveness?",
+      "teachingTitle": "Penetrance, expressivity and dominance",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        4
+      ],
+      "status": "Direct",
+      "supported": "Penetrance measures the fraction with a genotype who show its expected phenotype. Expressivity describes variation in the phenotype. Dominance means one allele's effect is visible with another present; recessiveness means that effect is hidden in the heterozygote. A carrier can transmit a disease allele while remaining phenotypically normal.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C4S34",
+          "locator": "Chapter 4, slide 34"
+        },
+        {
+          "sourceId": "C4S43",
+          "locator": "Chapter 4, slide 43"
+        },
+        {
+          "sourceId": "C4S44",
+          "locator": "Chapter 4, slide 44"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 48,
+      "promptVerbatim": "Understand incidence, prevalence, risk",
+      "teachingTitle": "Incidence, prevalence and risk",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        5
+      ],
+      "status": "Direct",
+      "supported": "Incidence counts new cases over a specified period in a population. Prevalence describes the affected fraction at a point in time. Relative risk divides incidence in an exposed group by incidence in an unexposed group. A snapshot of existing disease cannot substitute for the rate of new cases.",
+      "remainingGapOrLimit": "",
+      "sources": [
+        {
+          "sourceId": "C5S5",
+          "locator": "Chapter 5, slide 5"
+        },
+        {
+          "sourceId": "C5S6",
+          "locator": "Chapter 5, slide 6"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 49,
+      "promptVerbatim": "which are cancers that cluster in families?",
+      "teachingTitle": "Familial cancer patterns",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        5
+      ],
+      "status": "Partial",
+      "supported": "Breast and colorectal familial patterns are directly described. Earlier onset and bilateral breast disease strengthen the supplied familial signal. APC mutation is linked with familial adenomatous polyposis. Prostate cancer risk-associated genetic variation is listed without the same recurrence detail.",
+      "remainingGapOrLimit": "Exhaustive familial cancer list and syndrome-specific inheritance beyond the supplied examples.",
+      "sources": [
+        {
+          "sourceId": "C5S19",
+          "locator": "Chapter 5, slide 19"
+        },
+        {
+          "sourceId": "C5S20",
+          "locator": "Chapter 5, slide 20"
+        },
+        {
+          "sourceId": "C5S22",
+          "locator": "Chapter 5, slide 22"
+        },
+        {
+          "sourceId": "C5S23",
+          "locator": "Chapter 5, slide 23"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 50,
+      "promptVerbatim": "Know the BRAC1 and BRAC2 mutations",
+      "teachingTitle": "BRCA1 and BRCA2",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        5,
+        12
+      ],
+      "status": "Partial",
+      "supported": "The guide's BRAC spelling is rendered BRCA in teaching, following the decks. BRCA1 maps to chromosome 17 and BRCA2 to chromosome 13. The inherited form increases breast and ovarian cancer risk, and the packet discusses preventive surgery for high-risk mutation carriers.",
+      "remainingGapOrLimit": "Specific mutation types, molecular DNA-repair mechanism and individualized risk interpretation are not supplied.",
+      "sources": [
+        {
+          "sourceId": "C5S20",
+          "locator": "Chapter 5, slide 20"
+        },
+        {
+          "sourceId": "C5S21N",
+          "locator": "Chapter 5, slide 21 speaker notes"
+        },
+        {
+          "sourceId": "C12S54",
+          "locator": "Chapter 12, slide 54"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 51,
+      "promptVerbatim": "Describe the following patterns of inheritance and identify at least two pathological conditions associated with each pattern: a) autosomal recessive b) autosomal dominant c) sex-linked recessive d) sex-linked dominant",
+      "teachingTitle": "Four inheritance patterns",
+      "studyGuideLocator": "Unit 7 Study Guide.pdf, page 2",
+      "chapters": [
+        4
+      ],
+      "status": "Partial",
+      "supported": "Autosomal dominant inheritance can pass through successive generations in either sex. Autosomal recessive disease appears when both alleles are abnormal. X-linked recessive transmission has no father-to-son route because fathers supply sons with a Y. The packet gives Huntington/von Recklinghausen examples, cystic fibrosis and Duchenne muscular dystrophy; it names X-linked dominant inheritance without teaching it in depth.",
+      "remainingGapOrLimit": "Two explicitly supported pathological examples for each requested pattern, especially X-linked dominant and the second recessive examples; complete X-linked dominant rules.",
+      "sources": [
+        {
+          "sourceId": "C4S34",
+          "locator": "Chapter 4, slide 34"
+        },
+        {
+          "sourceId": "C4S36",
+          "locator": "Chapter 4, slide 36"
+        },
+        {
+          "sourceId": "C4S38",
+          "locator": "Chapter 4, slide 38"
+        },
+        {
+          "sourceId": "C4S39",
+          "locator": "Chapter 4, slide 39"
+        },
+        {
+          "sourceId": "C4S40",
+          "locator": "Chapter 4, slide 40"
+        },
+        {
+          "sourceId": "C4S43",
+          "locator": "Chapter 4, slide 43"
+        },
+        {
+          "sourceId": "C4S44",
+          "locator": "Chapter 4, slide 44"
+        },
+        {
+          "sourceId": "C4S45",
+          "locator": "Chapter 4, slide 45"
+        },
+        {
+          "sourceId": "C4S46",
+          "locator": "Chapter 4, slide 46"
+        },
+        {
+          "sourceId": "C4S47",
+          "locator": "Chapter 4, slide 47"
+        },
+        {
+          "sourceId": "C4S49",
+          "locator": "Chapter 4, slide 49"
+        },
+        {
+          "sourceId": "C4S52",
+          "locator": "Chapter 4, slide 52"
+        },
+        {
+          "sourceId": "C4S53",
+          "locator": "Chapter 4, slide 53"
+        },
+        {
+          "sourceId": "C4S54",
+          "locator": "Chapter 4, slide 54"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "Direct": 29,
+    "Partial": 16,
+    "Missing": 6
+  },
+  "sourceDepth": "Supplied slide and note depth; textbook not supplied"
+}
