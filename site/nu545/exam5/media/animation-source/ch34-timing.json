@@ -1,0 +1,768 @@
+{
+  "title": "Alveoli, surfactant and exchange",
+  "sources": [
+    "CH34S14",
+    "CH34S33",
+    "CH34S37N",
+    "CH34S40",
+    "CH34S42",
+    "CH36S19"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Exchange surface",
+      "text": "In the pulmonary system, an open alveolus provides a surface for gas exchange."
+    },
+    {
+      "start": 5.34,
+      "title": "Cell roles",
+      "text": "Type one alveolar cells provide structure. Type two cells secrete surfactant."
+    },
+    {
+      "start": 11.0,
+      "title": "Surface tension",
+      "text": "Notice the inner air surface during expiration. Surfactant lowers surface tension and helps prevent collapse."
+    },
+    {
+      "start": 17.5,
+      "title": "Deficiency and collapse",
+      "text": "Without enough surfactant, alveoli can collapse and ventilation falls. This is especially important in premature infants whose lungs have not developed adequate production and secretion."
+    },
+    {
+      "start": 28.22,
+      "title": "Diffusion and perfusion",
+      "text": "Now follow oxygen across the alveolar and capillary walls. Diffusion depends on a thin membrane, a large surface area, and a partial pressure gradient. Blood flow then carries oxygen toward the tissues. Ventilation, diffusion, and perfusion are related, but they are different steps. A change in one step can disrupt exchange even when the others remain intact."
+    }
+  ],
+  "words": [
+    {
+      "text": "In",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.12
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 0.12,
+      "end": 0.247
+    },
+    {
+      "text": "pulmonary",
+      "stage": 0,
+      "start": 0.22,
+      "end": 0.6
+    },
+    {
+      "text": "system,",
+      "stage": 0,
+      "start": 0.58,
+      "end": 1.073
+    },
+    {
+      "text": "an",
+      "stage": 0,
+      "start": 1.26,
+      "end": 1.36
+    },
+    {
+      "text": "open",
+      "stage": 0,
+      "start": 1.34,
+      "end": 1.61
+    },
+    {
+      "text": "alveolus",
+      "stage": 0,
+      "start": 1.62,
+      "end": 2.24
+    },
+    {
+      "text": "provides",
+      "stage": 0,
+      "start": 2.26,
+      "end": 2.6
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 2.58,
+      "end": 2.64
+    },
+    {
+      "text": "surface",
+      "stage": 0,
+      "start": 2.8,
+      "end": 3.117
+    },
+    {
+      "text": "for",
+      "stage": 0,
+      "start": 3.1,
+      "end": 3.333
+    },
+    {
+      "text": "gas",
+      "stage": 0,
+      "start": 3.36,
+      "end": 3.527
+    },
+    {
+      "text": "exchange.",
+      "stage": 0,
+      "start": 3.52,
+      "end": 4.122
+    },
+    {
+      "text": "Type",
+      "stage": 1,
+      "start": 5.34,
+      "end": 5.505
+    },
+    {
+      "text": "one",
+      "stage": 1,
+      "start": 5.529,
+      "end": 5.756
+    },
+    {
+      "text": "alveolar",
+      "stage": 1,
+      "start": 5.78,
+      "end": 6.295
+    },
+    {
+      "text": "cells",
+      "stage": 1,
+      "start": 6.3,
+      "end": 6.632
+    },
+    {
+      "text": "provide",
+      "stage": 1,
+      "start": 6.64,
+      "end": 7.026
+    },
+    {
+      "text": "structure.",
+      "stage": 1,
+      "start": 7.02,
+      "end": 7.56
+    },
+    {
+      "text": "Type",
+      "stage": 1,
+      "start": 8.28,
+      "end": 8.445
+    },
+    {
+      "text": "two",
+      "stage": 1,
+      "start": 8.484,
+      "end": 8.741
+    },
+    {
+      "text": "cells",
+      "stage": 1,
+      "start": 8.78,
+      "end": 9.224
+    },
+    {
+      "text": "secrete",
+      "stage": 1,
+      "start": 9.26,
+      "end": 9.714
+    },
+    {
+      "text": "surfactant.",
+      "stage": 1,
+      "start": 9.72,
+      "end": 10.392
+    },
+    {
+      "text": "Notice",
+      "stage": 2,
+      "start": 11.0,
+      "end": 11.243
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 11.22,
+      "end": 11.427
+    },
+    {
+      "text": "inner",
+      "stage": 2,
+      "start": 11.44,
+      "end": 11.676
+    },
+    {
+      "text": "air",
+      "stage": 2,
+      "start": 11.66,
+      "end": 11.853
+    },
+    {
+      "text": "surface",
+      "stage": 2,
+      "start": 11.86,
+      "end": 12.28
+    },
+    {
+      "text": "during",
+      "stage": 2,
+      "start": 12.28,
+      "end": 12.607
+    },
+    {
+      "text": "expiration.",
+      "stage": 2,
+      "start": 12.6,
+      "end": 13.2
+    },
+    {
+      "text": "Surfactant",
+      "stage": 2,
+      "start": 14.16,
+      "end": 14.688
+    },
+    {
+      "text": "lowers",
+      "stage": 2,
+      "start": 14.68,
+      "end": 14.94
+    },
+    {
+      "text": "surface",
+      "stage": 2,
+      "start": 14.92,
+      "end": 15.357
+    },
+    {
+      "text": "tension",
+      "stage": 2,
+      "start": 15.36,
+      "end": 15.711
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 15.7,
+      "end": 15.987
+    },
+    {
+      "text": "helps",
+      "stage": 2,
+      "start": 16.04,
+      "end": 16.244
+    },
+    {
+      "text": "prevent",
+      "stage": 2,
+      "start": 16.22,
+      "end": 16.64
+    },
+    {
+      "text": "collapse.",
+      "stage": 2,
+      "start": 16.64,
+      "end": 16.98
+    },
+    {
+      "text": "Without",
+      "stage": 3,
+      "start": 17.5,
+      "end": 17.783
+    },
+    {
+      "text": "enough",
+      "stage": 3,
+      "start": 17.76,
+      "end": 17.97
+    },
+    {
+      "text": "surfactant,",
+      "stage": 3,
+      "start": 17.94,
+      "end": 18.738
+    },
+    {
+      "text": "alveoli",
+      "stage": 3,
+      "start": 19.02,
+      "end": 19.389
+    },
+    {
+      "text": "can",
+      "stage": 3,
+      "start": 19.38,
+      "end": 19.587
+    },
+    {
+      "text": "collapse",
+      "stage": 3,
+      "start": 19.6,
+      "end": 19.957
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 19.94,
+      "end": 20.173
+    },
+    {
+      "text": "ventilation",
+      "stage": 3,
+      "start": 20.2,
+      "end": 20.551
+    },
+    {
+      "text": "falls.",
+      "stage": 3,
+      "start": 20.52,
+      "end": 20.98
+    },
+    {
+      "text": "This",
+      "stage": 3,
+      "start": 21.84,
+      "end": 22.11
+    },
+    {
+      "text": "is",
+      "stage": 3,
+      "start": 22.12,
+      "end": 22.23
+    },
+    {
+      "text": "especially",
+      "stage": 3,
+      "start": 22.22,
+      "end": 22.622
+    },
+    {
+      "text": "important",
+      "stage": 3,
+      "start": 22.6,
+      "end": 23.229
+    },
+    {
+      "text": "in",
+      "stage": 3,
+      "start": 23.24,
+      "end": 23.41
+    },
+    {
+      "text": "premature",
+      "stage": 3,
+      "start": 23.46,
+      "end": 23.858
+    },
+    {
+      "text": "infants",
+      "stage": 3,
+      "start": 23.84,
+      "end": 24.277
+    },
+    {
+      "text": "whose",
+      "stage": 3,
+      "start": 24.28,
+      "end": 24.564
+    },
+    {
+      "text": "lungs",
+      "stage": 3,
+      "start": 24.56,
+      "end": 24.796
+    },
+    {
+      "text": "have",
+      "stage": 3,
+      "start": 24.78,
+      "end": 25.005
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 25.0,
+      "end": 25.18
+    },
+    {
+      "text": "developed",
+      "stage": 3,
+      "start": 25.18,
+      "end": 25.702
+    },
+    {
+      "text": "adequate",
+      "stage": 3,
+      "start": 25.7,
+      "end": 26.04
+    },
+    {
+      "text": "production",
+      "stage": 3,
+      "start": 26.02,
+      "end": 26.656
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 26.66,
+      "end": 26.907
+    },
+    {
+      "text": "secretion.",
+      "stage": 3,
+      "start": 26.94,
+      "end": 27.498
+    },
+    {
+      "text": "Now",
+      "stage": 4,
+      "start": 28.22,
+      "end": 28.493
+    },
+    {
+      "text": "follow",
+      "stage": 4,
+      "start": 28.54,
+      "end": 28.917
+    },
+    {
+      "text": "oxygen",
+      "stage": 4,
+      "start": 28.92,
+      "end": 29.347
+    },
+    {
+      "text": "across",
+      "stage": 4,
+      "start": 29.36,
+      "end": 29.853
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 29.88,
+      "end": 30.113
+    },
+    {
+      "text": "alveolar",
+      "stage": 4,
+      "start": 30.14,
+      "end": 30.567
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 30.56,
+      "end": 30.753
+    },
+    {
+      "text": "capillary",
+      "stage": 4,
+      "start": 30.76,
+      "end": 31.229
+    },
+    {
+      "text": "walls.",
+      "stage": 4,
+      "start": 31.22,
+      "end": 31.616
+    },
+    {
+      "text": "Diffusion",
+      "stage": 4,
+      "start": 32.34,
+      "end": 32.756
+    },
+    {
+      "text": "depends",
+      "stage": 4,
+      "start": 32.74,
+      "end": 33.074
+    },
+    {
+      "text": "on",
+      "stage": 4,
+      "start": 33.06,
+      "end": 33.23
+    },
+    {
+      "text": "a",
+      "stage": 4,
+      "start": 33.28,
+      "end": 33.34
+    },
+    {
+      "text": "thin",
+      "stage": 4,
+      "start": 33.4,
+      "end": 33.595
+    },
+    {
+      "text": "membrane,",
+      "stage": 4,
+      "start": 33.58,
+      "end": 34.025
+    },
+    {
+      "text": "a",
+      "stage": 4,
+      "start": 34.5,
+      "end": 34.56
+    },
+    {
+      "text": "large",
+      "stage": 4,
+      "start": 34.58,
+      "end": 34.864
+    },
+    {
+      "text": "surface",
+      "stage": 4,
+      "start": 34.86,
+      "end": 35.194
+    },
+    {
+      "text": "area,",
+      "stage": 4,
+      "start": 35.18,
+      "end": 35.54
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 35.84,
+      "end": 36.06
+    },
+    {
+      "text": "a",
+      "stage": 4,
+      "start": 36.08,
+      "end": 36.14
+    },
+    {
+      "text": "partial",
+      "stage": 4,
+      "start": 36.18,
+      "end": 36.514
+    },
+    {
+      "text": "pressure",
+      "stage": 4,
+      "start": 36.5,
+      "end": 36.928
+    },
+    {
+      "text": "gradient.",
+      "stage": 4,
+      "start": 36.92,
+      "end": 37.383
+    },
+    {
+      "text": "Blood",
+      "stage": 4,
+      "start": 38.06,
+      "end": 38.232
+    },
+    {
+      "text": "flow",
+      "stage": 4,
+      "start": 38.2,
+      "end": 38.44
+    },
+    {
+      "text": "then",
+      "stage": 4,
+      "start": 38.44,
+      "end": 38.68
+    },
+    {
+      "text": "carries",
+      "stage": 4,
+      "start": 38.68,
+      "end": 38.997
+    },
+    {
+      "text": "oxygen",
+      "stage": 4,
+      "start": 38.98,
+      "end": 39.44
+    },
+    {
+      "text": "toward",
+      "stage": 4,
+      "start": 39.46,
+      "end": 39.787
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 39.78,
+      "end": 39.947
+    },
+    {
+      "text": "tissues.",
+      "stage": 4,
+      "start": 39.94,
+      "end": 40.274
+    },
+    {
+      "text": "Ventilation,",
+      "stage": 4,
+      "start": 40.86,
+      "end": 41.393
+    },
+    {
+      "text": "diffusion,",
+      "stage": 4,
+      "start": 41.82,
+      "end": 42.253
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 42.5,
+      "end": 42.613
+    },
+    {
+      "text": "perfusion",
+      "stage": 4,
+      "start": 42.58,
+      "end": 43.049
+    },
+    {
+      "text": "are",
+      "stage": 4,
+      "start": 43.04,
+      "end": 43.22
+    },
+    {
+      "text": "related,",
+      "stage": 4,
+      "start": 43.22,
+      "end": 43.64
+    },
+    {
+      "text": "but",
+      "stage": 4,
+      "start": 44.0,
+      "end": 44.247
+    },
+    {
+      "text": "they",
+      "stage": 4,
+      "start": 44.28,
+      "end": 44.46
+    },
+    {
+      "text": "are",
+      "stage": 4,
+      "start": 44.44,
+      "end": 44.553
+    },
+    {
+      "text": "different",
+      "stage": 4,
+      "start": 44.52,
+      "end": 44.793
+    },
+    {
+      "text": "steps.",
+      "stage": 4,
+      "start": 44.76,
+      "end": 45.22
+    },
+    {
+      "text": "A",
+      "stage": 4,
+      "start": 45.86,
+      "end": 45.92
+    },
+    {
+      "text": "change",
+      "stage": 4,
+      "start": 45.96,
+      "end": 46.187
+    },
+    {
+      "text": "in",
+      "stage": 4,
+      "start": 46.16,
+      "end": 46.33
+    },
+    {
+      "text": "one",
+      "stage": 4,
+      "start": 46.38,
+      "end": 46.547
+    },
+    {
+      "text": "step",
+      "stage": 4,
+      "start": 46.54,
+      "end": 46.87
+    },
+    {
+      "text": "can",
+      "stage": 4,
+      "start": 46.9,
+      "end": 47.107
+    },
+    {
+      "text": "disrupt",
+      "stage": 4,
+      "start": 47.12,
+      "end": 47.42
+    },
+    {
+      "text": "exchange",
+      "stage": 4,
+      "start": 47.4,
+      "end": 47.845
+    },
+    {
+      "text": "even",
+      "stage": 4,
+      "start": 47.84,
+      "end": 48.35
+    },
+    {
+      "text": "when",
+      "stage": 4,
+      "start": 48.44,
+      "end": 48.665
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 48.66,
+      "end": 48.8
+    },
+    {
+      "text": "others",
+      "stage": 4,
+      "start": 48.78,
+      "end": 49.057
+    },
+    {
+      "text": "remain",
+      "stage": 4,
+      "start": 49.04,
+      "end": 49.383
+    },
+    {
+      "text": "intact.",
+      "stage": 4,
+      "start": 49.38,
+      "end": 49.773
+    }
+  ],
+  "duration": 50.616,
+  "recognitionAgreement": 0.9941
+}

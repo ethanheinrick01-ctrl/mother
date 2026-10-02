@@ -1,0 +1,624 @@
+{
+  "title": "From calcium release to relaxation",
+  "sources": [
+    "CH43S53",
+    "CH43S54",
+    "CH43S55",
+    "CH43S56"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Excitation and coupling",
+      "text": "Muscle contraction begins with electrical excitation. The supplied sequence reaches voltage-sensitive receptors in the transverse tubules and opens ryanodine channels. Released calcium enables actin to bind myosin."
+    },
+    {
+      "start": 13.72,
+      "title": "Filament sliding",
+      "text": "Now watch thin filaments move inward relative to thick filaments. Their overlap increases and the sarcomere shortens. The motion represents cross-bridge activity, not shortening of the individual filaments. The packet identifies a continuing requirement for ATP and phosphocreatine."
+    },
+    {
+      "start": 31.14,
+      "title": "Relaxation",
+      "text": "During relaxation, calcium returns to the sarcoplasmic reticulum, cross-bridges detach, and the sarcomere lengthens. Follow the reverse motion. This film uses a textbook figure with schematic motion to separate excitation, coupling, contraction, and relaxation."
+    }
+  ],
+  "words": [
+    {
+      "text": "Muscle",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.277
+    },
+    {
+      "text": "contraction",
+      "stage": 0,
+      "start": 0.26,
+      "end": 0.52
+    },
+    {
+      "text": "begins",
+      "stage": 0,
+      "start": 0.48,
+      "end": 1.123
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 1.18,
+      "end": 1.555
+    },
+    {
+      "text": "electrical",
+      "stage": 0,
+      "start": 1.6,
+      "end": 1.84
+    },
+    {
+      "text": "excitation.",
+      "stage": 0,
+      "start": 1.8,
+      "end": 2.688
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 3.52,
+      "end": 3.633
+    },
+    {
+      "text": "supplied",
+      "stage": 0,
+      "start": 3.6,
+      "end": 3.922
+    },
+    {
+      "text": "sequence",
+      "stage": 0,
+      "start": 3.9,
+      "end": 4.31
+    },
+    {
+      "text": "reaches",
+      "stage": 0,
+      "start": 4.3,
+      "end": 4.823
+    },
+    {
+      "text": "voltage-sensitive",
+      "stage": 0,
+      "start": 4.84,
+      "end": 5.733
+    },
+    {
+      "text": "receptors",
+      "stage": 0,
+      "start": 5.74,
+      "end": 6.102
+    },
+    {
+      "text": "in",
+      "stage": 0,
+      "start": 6.28,
+      "end": 6.54
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 6.68,
+      "end": 6.78
+    },
+    {
+      "text": "transverse",
+      "stage": 0,
+      "start": 6.74,
+      "end": 7.268
+    },
+    {
+      "text": "tubules",
+      "stage": 0,
+      "start": 7.26,
+      "end": 7.783
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 7.8,
+      "end": 8.047
+    },
+    {
+      "text": "opens",
+      "stage": 0,
+      "start": 8.08,
+      "end": 8.38
+    },
+    {
+      "text": "ryanodine",
+      "stage": 0,
+      "start": 8.38,
+      "end": 9.142
+    },
+    {
+      "text": "channels.",
+      "stage": 0,
+      "start": 9.16,
+      "end": 9.377
+    },
+    {
+      "text": "Released",
+      "stage": 0,
+      "start": 10.24,
+      "end": 10.527
+    },
+    {
+      "text": "calcium",
+      "stage": 0,
+      "start": 10.5,
+      "end": 10.834
+    },
+    {
+      "text": "enables",
+      "stage": 0,
+      "start": 10.82,
+      "end": 11.549
+    },
+    {
+      "text": "actin",
+      "stage": 0,
+      "start": 11.6,
+      "end": 12.012
+    },
+    {
+      "text": "to",
+      "stage": 0,
+      "start": 12.04,
+      "end": 12.16
+    },
+    {
+      "text": "bind",
+      "stage": 0,
+      "start": 12.16,
+      "end": 12.355
+    },
+    {
+      "text": "myosin.",
+      "stage": 0,
+      "start": 12.34,
+      "end": 12.9
+    },
+    {
+      "text": "Now",
+      "stage": 1,
+      "start": 13.72,
+      "end": 13.967
+    },
+    {
+      "text": "watch",
+      "stage": 1,
+      "start": 14.0,
+      "end": 14.22
+    },
+    {
+      "text": "thin",
+      "stage": 1,
+      "start": 14.2,
+      "end": 14.5
+    },
+    {
+      "text": "filaments",
+      "stage": 1,
+      "start": 14.52,
+      "end": 14.936
+    },
+    {
+      "text": "move",
+      "stage": 1,
+      "start": 14.92,
+      "end": 15.235
+    },
+    {
+      "text": "inward",
+      "stage": 1,
+      "start": 15.26,
+      "end": 15.537
+    },
+    {
+      "text": "relative",
+      "stage": 1,
+      "start": 15.52,
+      "end": 16.017
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 16.02,
+      "end": 16.22
+    },
+    {
+      "text": "thick",
+      "stage": 1,
+      "start": 16.3,
+      "end": 16.472
+    },
+    {
+      "text": "filaments.",
+      "stage": 1,
+      "start": 16.44,
+      "end": 16.856
+    },
+    {
+      "text": "Their",
+      "stage": 1,
+      "start": 17.8,
+      "end": 17.892
+    },
+    {
+      "text": "overlap",
+      "stage": 1,
+      "start": 17.84,
+      "end": 18.294
+    },
+    {
+      "text": "increases",
+      "stage": 1,
+      "start": 18.3,
+      "end": 18.822
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 18.82,
+      "end": 19.2
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 19.3,
+      "end": 19.44
+    },
+    {
+      "text": "sarcomere",
+      "stage": 1,
+      "start": 19.42,
+      "end": 19.853
+    },
+    {
+      "text": "shortens.",
+      "stage": 1,
+      "start": 19.84,
+      "end": 20.25
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 20.98,
+      "end": 21.093
+    },
+    {
+      "text": "motion",
+      "stage": 1,
+      "start": 21.06,
+      "end": 21.237
+    },
+    {
+      "text": "represents",
+      "stage": 1,
+      "start": 21.2,
+      "end": 21.728
+    },
+    {
+      "text": "cross-bridge",
+      "stage": 1,
+      "start": 21.72,
+      "end": 22.373
+    },
+    {
+      "text": "activity,",
+      "stage": 1,
+      "start": 22.36,
+      "end": 22.84
+    },
+    {
+      "text": "not",
+      "stage": 1,
+      "start": 23.24,
+      "end": 23.473
+    },
+    {
+      "text": "shortening",
+      "stage": 1,
+      "start": 23.5,
+      "end": 24.046
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 24.04,
+      "end": 24.31
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 24.46,
+      "end": 24.587
+    },
+    {
+      "text": "individual",
+      "stage": 1,
+      "start": 24.56,
+      "end": 24.89
+    },
+    {
+      "text": "filaments.",
+      "stage": 1,
+      "start": 24.86,
+      "end": 25.418
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 26.26,
+      "end": 26.373
+    },
+    {
+      "text": "packet",
+      "stage": 1,
+      "start": 26.34,
+      "end": 26.583
+    },
+    {
+      "text": "identifies",
+      "stage": 1,
+      "start": 26.56,
+      "end": 27.016
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 27.0,
+      "end": 27.06
+    },
+    {
+      "text": "continuing",
+      "stage": 1,
+      "start": 27.46,
+      "end": 27.862
+    },
+    {
+      "text": "requirement",
+      "stage": 1,
+      "start": 27.84,
+      "end": 28.391
+    },
+    {
+      "text": "for",
+      "stage": 1,
+      "start": 28.38,
+      "end": 28.76
+    },
+    {
+      "text": "ATP",
+      "stage": 1,
+      "start": 28.86,
+      "end": 29.147
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 29.2,
+      "end": 29.58
+    },
+    {
+      "text": "phosphocreatine.",
+      "stage": 1,
+      "start": 29.68,
+      "end": 30.58
+    },
+    {
+      "text": "During",
+      "stage": 2,
+      "start": 31.14,
+      "end": 31.383
+    },
+    {
+      "text": "relaxation,",
+      "stage": 2,
+      "start": 31.36,
+      "end": 31.726
+    },
+    {
+      "text": "calcium",
+      "stage": 2,
+      "start": 32.3,
+      "end": 32.48
+    },
+    {
+      "text": "returns",
+      "stage": 2,
+      "start": 32.44,
+      "end": 32.929
+    },
+    {
+      "text": "to",
+      "stage": 2,
+      "start": 32.94,
+      "end": 33.16
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 33.26,
+      "end": 33.373
+    },
+    {
+      "text": "sarcoplasmic",
+      "stage": 2,
+      "start": 33.34,
+      "end": 34.042
+    },
+    {
+      "text": "reticulum,",
+      "stage": 2,
+      "start": 34.04,
+      "end": 34.562
+    },
+    {
+      "text": "cross-bridges",
+      "stage": 2,
+      "start": 34.9,
+      "end": 35.34
+    },
+    {
+      "text": "detach,",
+      "stage": 2,
+      "start": 35.34,
+      "end": 35.6
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 35.58,
+      "end": 36.04
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 36.18,
+      "end": 36.307
+    },
+    {
+      "text": "sarcomere",
+      "stage": 2,
+      "start": 36.28,
+      "end": 36.749
+    },
+    {
+      "text": "lengthens.",
+      "stage": 2,
+      "start": 36.74,
+      "end": 37.209
+    },
+    {
+      "text": "Follow",
+      "stage": 2,
+      "start": 38.06,
+      "end": 38.287
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 38.26,
+      "end": 38.44
+    },
+    {
+      "text": "reverse",
+      "stage": 2,
+      "start": 38.44,
+      "end": 38.654
+    },
+    {
+      "text": "motion.",
+      "stage": 2,
+      "start": 38.62,
+      "end": 39.013
+    },
+    {
+      "text": "This",
+      "stage": 2,
+      "start": 39.92,
+      "end": 40.085
+    },
+    {
+      "text": "film",
+      "stage": 2,
+      "start": 40.06,
+      "end": 40.33
+    },
+    {
+      "text": "uses",
+      "stage": 2,
+      "start": 40.34,
+      "end": 40.655
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 40.68,
+      "end": 40.74
+    },
+    {
+      "text": "textbook",
+      "stage": 2,
+      "start": 40.96,
+      "end": 41.23
+    },
+    {
+      "text": "figure",
+      "stage": 2,
+      "start": 41.2,
+      "end": 41.71
+    },
+    {
+      "text": "with",
+      "stage": 2,
+      "start": 41.74,
+      "end": 41.935
+    },
+    {
+      "text": "schematic",
+      "stage": 2,
+      "start": 41.92,
+      "end": 42.176
+    },
+    {
+      "text": "motion",
+      "stage": 2,
+      "start": 42.14,
+      "end": 42.55
+    },
+    {
+      "text": "to",
+      "stage": 2,
+      "start": 42.56,
+      "end": 42.8
+    },
+    {
+      "text": "separate",
+      "stage": 2,
+      "start": 42.92,
+      "end": 43.278
+    },
+    {
+      "text": "excitation,",
+      "stage": 2,
+      "start": 43.26,
+      "end": 43.914
+    },
+    {
+      "text": "coupling,",
+      "stage": 2,
+      "start": 44.36,
+      "end": 44.648
+    },
+    {
+      "text": "contraction,",
+      "stage": 2,
+      "start": 45.02,
+      "end": 45.353
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 45.8,
+      "end": 45.9
+    },
+    {
+      "text": "relaxation.",
+      "stage": 2,
+      "start": 45.86,
+      "end": 46.19
+    }
+  ],
+  "duration": 47.04,
+  "recognitionAgreement": 0.9961
+}

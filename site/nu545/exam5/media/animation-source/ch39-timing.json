@@ -1,0 +1,826 @@
+{
+  "title": "Reflux: reverse flow and infection",
+  "sources": [
+    "CH37S22",
+    "CH38S30",
+    "CH39S39",
+    "CH39S40"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Identify the junction",
+      "text": "Vesicoureteral reflux reverses the normal direction of urinary flow. Begin at the bladder and identify where each ureter enters."
+    },
+    {
+      "start": 8.84,
+      "title": "Normal protection",
+      "text": "The normal junction helps prevent urine from moving backward during bladder emptying."
+    },
+    {
+      "start": 13.24,
+      "title": "Retrograde flow",
+      "text": "In reflux, a congenital junction abnormality or abnormal ureteral insertion can allow urine to travel back toward the ureter and kidney. Watch the direction change along the same anatomy."
+    },
+    {
+      "start": 25.37,
+      "title": "Ascending infection",
+      "text": "When the bladder urine is infected, reflux can carry that infection upward and encourage repeated pyelonephritis."
+    },
+    {
+      "start": 32.87,
+      "title": "Findings and limits",
+      "text": "The supplied chapter describes silent cases as well as recurrent urinary infections, unexplained fever, and poor growth. It lists prompt treatment of infection and intervention for recurrent or high-grade reflux. This visualization shows the direction and consequence of reflux. It does not invent the missing grade-by-grade criteria, and its flow speed and volume are schematic."
+    }
+  ],
+  "words": [
+    {
+      "text": "Vesicoureteral",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.654
+    },
+    {
+      "text": "reflux",
+      "stage": 0,
+      "start": 0.66,
+      "end": 1.153
+    },
+    {
+      "text": "reverses",
+      "stage": 0,
+      "start": 1.18,
+      "end": 1.835
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 1.86,
+      "end": 2.027
+    },
+    {
+      "text": "normal",
+      "stage": 0,
+      "start": 2.02,
+      "end": 2.247
+    },
+    {
+      "text": "direction",
+      "stage": 0,
+      "start": 2.22,
+      "end": 2.689
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 2.68,
+      "end": 2.86
+    },
+    {
+      "text": "urinary",
+      "stage": 0,
+      "start": 2.92,
+      "end": 3.237
+    },
+    {
+      "text": "flow.",
+      "stage": 0,
+      "start": 3.22,
+      "end": 3.64
+    },
+    {
+      "text": "Begin",
+      "stage": 0,
+      "start": 4.56,
+      "end": 5.116
+    },
+    {
+      "text": "at",
+      "stage": 0,
+      "start": 5.18,
+      "end": 5.34
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 5.38,
+      "end": 5.493
+    },
+    {
+      "text": "bladder",
+      "stage": 0,
+      "start": 5.46,
+      "end": 5.726
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 5.7,
+      "end": 6.107
+    },
+    {
+      "text": "identify",
+      "stage": 0,
+      "start": 6.22,
+      "end": 6.7
+    },
+    {
+      "text": "where",
+      "stage": 0,
+      "start": 6.7,
+      "end": 6.984
+    },
+    {
+      "text": "each",
+      "stage": 0,
+      "start": 6.98,
+      "end": 7.31
+    },
+    {
+      "text": "ureter",
+      "stage": 0,
+      "start": 7.34,
+      "end": 7.617
+    },
+    {
+      "text": "enters.",
+      "stage": 0,
+      "start": 7.6,
+      "end": 7.91
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 8.84,
+      "end": 8.98
+    },
+    {
+      "text": "normal",
+      "stage": 1,
+      "start": 8.96,
+      "end": 9.253
+    },
+    {
+      "text": "junction",
+      "stage": 1,
+      "start": 9.24,
+      "end": 9.615
+    },
+    {
+      "text": "helps",
+      "stage": 1,
+      "start": 9.6,
+      "end": 9.884
+    },
+    {
+      "text": "prevent",
+      "stage": 1,
+      "start": 9.88,
+      "end": 10.249
+    },
+    {
+      "text": "urine",
+      "stage": 1,
+      "start": 10.24,
+      "end": 10.476
+    },
+    {
+      "text": "from",
+      "stage": 1,
+      "start": 10.46,
+      "end": 10.655
+    },
+    {
+      "text": "moving",
+      "stage": 1,
+      "start": 10.64,
+      "end": 10.9
+    },
+    {
+      "text": "backward",
+      "stage": 1,
+      "start": 10.88,
+      "end": 11.343
+    },
+    {
+      "text": "during",
+      "stage": 1,
+      "start": 11.34,
+      "end": 11.65
+    },
+    {
+      "text": "bladder",
+      "stage": 1,
+      "start": 11.64,
+      "end": 11.957
+    },
+    {
+      "text": "emptying.",
+      "stage": 1,
+      "start": 11.94,
+      "end": 12.525
+    },
+    {
+      "text": "In",
+      "stage": 2,
+      "start": 13.24,
+      "end": 13.39
+    },
+    {
+      "text": "reflux,",
+      "stage": 2,
+      "start": 13.42,
+      "end": 14.047
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 14.56,
+      "end": 14.62
+    },
+    {
+      "text": "congenital",
+      "stage": 2,
+      "start": 14.64,
+      "end": 15.132
+    },
+    {
+      "text": "junction",
+      "stage": 2,
+      "start": 15.12,
+      "end": 15.495
+    },
+    {
+      "text": "abnormality",
+      "stage": 2,
+      "start": 15.48,
+      "end": 16.267
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 16.28,
+      "end": 16.65
+    },
+    {
+      "text": "abnormal",
+      "stage": 2,
+      "start": 16.9,
+      "end": 17.362
+    },
+    {
+      "text": "ureteral",
+      "stage": 2,
+      "start": 17.36,
+      "end": 17.98
+    },
+    {
+      "text": "insertion",
+      "stage": 2,
+      "start": 18.0,
+      "end": 18.629
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 18.64,
+      "end": 18.967
+    },
+    {
+      "text": "allow",
+      "stage": 2,
+      "start": 19.04,
+      "end": 19.276
+    },
+    {
+      "text": "urine",
+      "stage": 2,
+      "start": 19.26,
+      "end": 19.544
+    },
+    {
+      "text": "to",
+      "stage": 2,
+      "start": 19.54,
+      "end": 19.68
+    },
+    {
+      "text": "travel",
+      "stage": 2,
+      "start": 19.7,
+      "end": 19.993
+    },
+    {
+      "text": "back",
+      "stage": 2,
+      "start": 19.98,
+      "end": 20.265
+    },
+    {
+      "text": "toward",
+      "stage": 2,
+      "start": 20.28,
+      "end": 20.607
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 20.6,
+      "end": 20.767
+    },
+    {
+      "text": "ureter",
+      "stage": 2,
+      "start": 20.76,
+      "end": 21.087
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 21.08,
+      "end": 21.3
+    },
+    {
+      "text": "kidney.",
+      "stage": 2,
+      "start": 21.32,
+      "end": 21.68
+    },
+    {
+      "text": "Watch",
+      "stage": 2,
+      "start": 22.5,
+      "end": 22.72
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 22.7,
+      "end": 22.933
+    },
+    {
+      "text": "direction",
+      "stage": 2,
+      "start": 22.96,
+      "end": 23.287
+    },
+    {
+      "text": "change",
+      "stage": 2,
+      "start": 23.26,
+      "end": 23.67
+    },
+    {
+      "text": "along",
+      "stage": 2,
+      "start": 23.68,
+      "end": 23.9
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 23.88,
+      "end": 24.047
+    },
+    {
+      "text": "same",
+      "stage": 2,
+      "start": 24.04,
+      "end": 24.28
+    },
+    {
+      "text": "anatomy.",
+      "stage": 2,
+      "start": 24.28,
+      "end": 24.683
+    },
+    {
+      "text": "When",
+      "stage": 3,
+      "start": 25.37,
+      "end": 25.738
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 25.78,
+      "end": 25.933
+    },
+    {
+      "text": "bladder",
+      "stage": 3,
+      "start": 25.92,
+      "end": 26.237
+    },
+    {
+      "text": "urine",
+      "stage": 3,
+      "start": 26.22,
+      "end": 26.568
+    },
+    {
+      "text": "is",
+      "stage": 3,
+      "start": 26.58,
+      "end": 26.74
+    },
+    {
+      "text": "infected,",
+      "stage": 3,
+      "start": 26.78,
+      "end": 27.26
+    },
+    {
+      "text": "reflux",
+      "stage": 3,
+      "start": 27.64,
+      "end": 28.083
+    },
+    {
+      "text": "can",
+      "stage": 3,
+      "start": 28.1,
+      "end": 28.36
+    },
+    {
+      "text": "carry",
+      "stage": 3,
+      "start": 28.4,
+      "end": 28.716
+    },
+    {
+      "text": "that",
+      "stage": 3,
+      "start": 28.72,
+      "end": 28.915
+    },
+    {
+      "text": "infection",
+      "stage": 3,
+      "start": 28.9,
+      "end": 29.351
+    },
+    {
+      "text": "upward",
+      "stage": 3,
+      "start": 29.34,
+      "end": 29.767
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 29.78,
+      "end": 30.16
+    },
+    {
+      "text": "encourage",
+      "stage": 3,
+      "start": 30.26,
+      "end": 30.676
+    },
+    {
+      "text": "repeated",
+      "stage": 3,
+      "start": 30.66,
+      "end": 31.175
+    },
+    {
+      "text": "pyelonephritis.",
+      "stage": 3,
+      "start": 31.18,
+      "end": 31.937
+    },
+    {
+      "text": "The",
+      "stage": 4,
+      "start": 32.87,
+      "end": 33.203
+    },
+    {
+      "text": "supplied",
+      "stage": 4,
+      "start": 33.28,
+      "end": 33.638
+    },
+    {
+      "text": "chapter",
+      "stage": 4,
+      "start": 33.62,
+      "end": 34.057
+    },
+    {
+      "text": "describes",
+      "stage": 4,
+      "start": 34.06,
+      "end": 34.511
+    },
+    {
+      "text": "silent",
+      "stage": 4,
+      "start": 34.5,
+      "end": 34.927
+    },
+    {
+      "text": "cases",
+      "stage": 4,
+      "start": 34.94,
+      "end": 35.336
+    },
+    {
+      "text": "as",
+      "stage": 4,
+      "start": 35.36,
+      "end": 35.62
+    },
+    {
+      "text": "well",
+      "stage": 4,
+      "start": 35.76,
+      "end": 35.955
+    },
+    {
+      "text": "as",
+      "stage": 4,
+      "start": 35.94,
+      "end": 36.1
+    },
+    {
+      "text": "recurrent",
+      "stage": 4,
+      "start": 36.14,
+      "end": 36.573
+    },
+    {
+      "text": "urinary",
+      "stage": 4,
+      "start": 36.56,
+      "end": 36.877
+    },
+    {
+      "text": "infections,",
+      "stage": 4,
+      "start": 36.86,
+      "end": 37.406
+    },
+    {
+      "text": "unexplained",
+      "stage": 4,
+      "start": 37.82,
+      "end": 38.407
+    },
+    {
+      "text": "fever,",
+      "stage": 4,
+      "start": 38.4,
+      "end": 38.684
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 38.68,
+      "end": 39.073
+    },
+    {
+      "text": "poor",
+      "stage": 4,
+      "start": 39.18,
+      "end": 39.405
+    },
+    {
+      "text": "growth.",
+      "stage": 4,
+      "start": 39.4,
+      "end": 39.86
+    },
+    {
+      "text": "It",
+      "stage": 4,
+      "start": 40.42,
+      "end": 40.57
+    },
+    {
+      "text": "lists",
+      "stage": 4,
+      "start": 40.6,
+      "end": 40.916
+    },
+    {
+      "text": "prompt",
+      "stage": 4,
+      "start": 40.92,
+      "end": 41.33
+    },
+    {
+      "text": "treatment",
+      "stage": 4,
+      "start": 41.34,
+      "end": 41.791
+    },
+    {
+      "text": "of",
+      "stage": 4,
+      "start": 41.78,
+      "end": 41.92
+    },
+    {
+      "text": "infection",
+      "stage": 4,
+      "start": 41.94,
+      "end": 42.391
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 42.38,
+      "end": 42.747
+    },
+    {
+      "text": "intervention",
+      "stage": 4,
+      "start": 42.84,
+      "end": 43.377
+    },
+    {
+      "text": "for",
+      "stage": 4,
+      "start": 43.36,
+      "end": 43.673
+    },
+    {
+      "text": "recurrent",
+      "stage": 4,
+      "start": 43.74,
+      "end": 44.244
+    },
+    {
+      "text": "or",
+      "stage": 4,
+      "start": 44.24,
+      "end": 44.37
+    },
+    {
+      "text": "high-grade",
+      "stage": 4,
+      "start": 44.38,
+      "end": 44.792
+    },
+    {
+      "text": "reflux.",
+      "stage": 4,
+      "start": 44.78,
+      "end": 45.273
+    },
+    {
+      "text": "This",
+      "stage": 4,
+      "start": 45.92,
+      "end": 46.175
+    },
+    {
+      "text": "visualization",
+      "stage": 4,
+      "start": 46.18,
+      "end": 46.72
+    },
+    {
+      "text": "shows",
+      "stage": 4,
+      "start": 46.7,
+      "end": 47.24
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 47.3,
+      "end": 47.507
+    },
+    {
+      "text": "direction",
+      "stage": 4,
+      "start": 47.52,
+      "end": 47.936
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 47.92,
+      "end": 48.167
+    },
+    {
+      "text": "consequence",
+      "stage": 4,
+      "start": 48.2,
+      "end": 48.751
+    },
+    {
+      "text": "of",
+      "stage": 4,
+      "start": 48.74,
+      "end": 48.96
+    },
+    {
+      "text": "reflux.",
+      "stage": 4,
+      "start": 49.06,
+      "end": 49.57
+    },
+    {
+      "text": "It",
+      "stage": 4,
+      "start": 50.1,
+      "end": 50.27
+    },
+    {
+      "text": "does",
+      "stage": 4,
+      "start": 50.32,
+      "end": 50.5
+    },
+    {
+      "text": "not",
+      "stage": 4,
+      "start": 50.48,
+      "end": 50.713
+    },
+    {
+      "text": "invent",
+      "stage": 4,
+      "start": 50.74,
+      "end": 51.217
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 51.24,
+      "end": 51.473
+    },
+    {
+      "text": "missing",
+      "stage": 4,
+      "start": 51.5,
+      "end": 51.783
+    },
+    {
+      "text": "grade-by-grade",
+      "stage": 4,
+      "start": 51.76,
+      "end": 52.544
+    },
+    {
+      "text": "criteria,",
+      "stage": 4,
+      "start": 52.54,
+      "end": 53.16
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 53.18,
+      "end": 53.573
+    },
+    {
+      "text": "its",
+      "stage": 4,
+      "start": 53.68,
+      "end": 53.86
+    },
+    {
+      "text": "flow",
+      "stage": 4,
+      "start": 53.86,
+      "end": 54.1
+    },
+    {
+      "text": "speed",
+      "stage": 4,
+      "start": 54.1,
+      "end": 54.416
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 54.42,
+      "end": 54.627
+    },
+    {
+      "text": "volume",
+      "stage": 4,
+      "start": 54.64,
+      "end": 55.017
+    },
+    {
+      "text": "are",
+      "stage": 4,
+      "start": 55.02,
+      "end": 55.307
+    },
+    {
+      "text": "schematic.",
+      "stage": 4,
+      "start": 55.36,
+      "end": 55.829
+    }
+  ],
+  "duration": 56.184,
+  "recognitionAgreement": 0.9893
+}

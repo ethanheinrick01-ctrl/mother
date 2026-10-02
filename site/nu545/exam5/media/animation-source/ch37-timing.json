@@ -1,0 +1,851 @@
+{
+  "title": "Countercurrent concentration and ADH",
+  "sources": [
+    "CH37S45",
+    "CH37S46",
+    "CH37S52",
+    "CH37S53",
+    "CH37S55"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Opposite limbs",
+      "text": "Follow the filtrate through the loop of Henle. Its two limbs run beside each other, but they do not handle water and solute in the same way."
+    },
+    {
+      "start": 8.38,
+      "title": "Build the gradient",
+      "text": "The supplied chapter describes active sodium and chloride transport from the thick ascending limb into the medullary interstitium. This helps create a concentrated environment around the loop."
+    },
+    {
+      "start": 21.22,
+      "title": "Descending water loss",
+      "text": "Water can then leave the water-permeable descending limb, concentrating the fluid that remains inside."
+    },
+    {
+      "start": 27.32,
+      "title": "Ascending dilution",
+      "text": "In the ascending limb, solute leaves while water is retained, so the tubular fluid becomes more dilute."
+    },
+    {
+      "start": 33.9,
+      "title": "Final ADH adjustment",
+      "text": "Finally, follow the fluid toward the collecting duct. Antidiuretic hormone increases water permeability there. More water returns to the body, and final urine volume decreases. Keep the two ideas separate: the loop builds the concentration gradient, while antidiuretic hormone regulates the final water adjustment. Motion, colors, and quantities are schematic."
+    }
+  ],
+  "words": [
+    {
+      "text": "Follow",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.293
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 0.28,
+      "end": 0.487
+    },
+    {
+      "text": "filtrate",
+      "stage": 0,
+      "start": 0.5,
+      "end": 0.927
+    },
+    {
+      "text": "through",
+      "stage": 0,
+      "start": 0.92,
+      "end": 1.22
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 1.2,
+      "end": 1.353
+    },
+    {
+      "text": "loop",
+      "stage": 0,
+      "start": 1.34,
+      "end": 1.52
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 1.5,
+      "end": 1.68
+    },
+    {
+      "text": "Henle.",
+      "stage": 0,
+      "start": 1.74,
+      "end": 2.42
+    },
+    {
+      "text": "Its",
+      "stage": 0,
+      "start": 2.8,
+      "end": 3.073
+    },
+    {
+      "text": "two",
+      "stage": 0,
+      "start": 3.12,
+      "end": 3.34
+    },
+    {
+      "text": "limbs",
+      "stage": 0,
+      "start": 3.36,
+      "end": 3.596
+    },
+    {
+      "text": "run",
+      "stage": 0,
+      "start": 3.58,
+      "end": 3.92
+    },
+    {
+      "text": "beside",
+      "stage": 0,
+      "start": 4.0,
+      "end": 4.36
+    },
+    {
+      "text": "each",
+      "stage": 0,
+      "start": 4.36,
+      "end": 4.645
+    },
+    {
+      "text": "other,",
+      "stage": 0,
+      "start": 4.66,
+      "end": 4.896
+    },
+    {
+      "text": "but",
+      "stage": 0,
+      "start": 5.06,
+      "end": 5.227
+    },
+    {
+      "text": "they",
+      "stage": 0,
+      "start": 5.22,
+      "end": 5.4
+    },
+    {
+      "text": "do",
+      "stage": 0,
+      "start": 5.38,
+      "end": 5.51
+    },
+    {
+      "text": "not",
+      "stage": 0,
+      "start": 5.52,
+      "end": 5.713
+    },
+    {
+      "text": "handle",
+      "stage": 0,
+      "start": 5.72,
+      "end": 6.047
+    },
+    {
+      "text": "water",
+      "stage": 0,
+      "start": 6.04,
+      "end": 6.34
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 6.34,
+      "end": 6.573
+    },
+    {
+      "text": "solute",
+      "stage": 0,
+      "start": 6.6,
+      "end": 7.027
+    },
+    {
+      "text": "in",
+      "stage": 0,
+      "start": 7.04,
+      "end": 7.18
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 7.2,
+      "end": 7.327
+    },
+    {
+      "text": "same",
+      "stage": 0,
+      "start": 7.3,
+      "end": 7.51
+    },
+    {
+      "text": "way.",
+      "stage": 0,
+      "start": 7.5,
+      "end": 7.733
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 8.38,
+      "end": 8.587
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 8.6,
+      "end": 9.045
+    },
+    {
+      "text": "chapter",
+      "stage": 1,
+      "start": 9.04,
+      "end": 9.546
+    },
+    {
+      "text": "describes",
+      "stage": 1,
+      "start": 9.56,
+      "end": 10.189
+    },
+    {
+      "text": "active",
+      "stage": 1,
+      "start": 10.2,
+      "end": 10.743
+    },
+    {
+      "text": "sodium",
+      "stage": 1,
+      "start": 10.78,
+      "end": 11.173
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 11.18,
+      "end": 11.44
+    },
+    {
+      "text": "chloride",
+      "stage": 1,
+      "start": 11.48,
+      "end": 11.838
+    },
+    {
+      "text": "transport",
+      "stage": 1,
+      "start": 11.82,
+      "end": 12.431
+    },
+    {
+      "text": "from",
+      "stage": 1,
+      "start": 12.44,
+      "end": 12.905
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 12.98,
+      "end": 13.147
+    },
+    {
+      "text": "thick",
+      "stage": 1,
+      "start": 13.14,
+      "end": 13.472
+    },
+    {
+      "text": "ascending",
+      "stage": 1,
+      "start": 13.48,
+      "end": 14.002
+    },
+    {
+      "text": "limb",
+      "stage": 1,
+      "start": 14.0,
+      "end": 14.255
+    },
+    {
+      "text": "into",
+      "stage": 1,
+      "start": 14.26,
+      "end": 14.785
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 14.88,
+      "end": 15.06
+    },
+    {
+      "text": "medullary",
+      "stage": 1,
+      "start": 15.06,
+      "end": 15.564
+    },
+    {
+      "text": "interstitium.",
+      "stage": 1,
+      "start": 15.56,
+      "end": 16.188
+    },
+    {
+      "text": "This",
+      "stage": 1,
+      "start": 16.86,
+      "end": 17.385
+    },
+    {
+      "text": "helps",
+      "stage": 1,
+      "start": 17.48,
+      "end": 17.748
+    },
+    {
+      "text": "create",
+      "stage": 1,
+      "start": 17.74,
+      "end": 18.183
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 18.2,
+      "end": 18.26
+    },
+    {
+      "text": "concentrated",
+      "stage": 1,
+      "start": 18.54,
+      "end": 19.058
+    },
+    {
+      "text": "environment",
+      "stage": 1,
+      "start": 19.04,
+      "end": 19.736
+    },
+    {
+      "text": "around",
+      "stage": 1,
+      "start": 19.74,
+      "end": 20.083
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 20.08,
+      "end": 20.247
+    },
+    {
+      "text": "loop.",
+      "stage": 1,
+      "start": 20.24,
+      "end": 20.435
+    },
+    {
+      "text": "Water",
+      "stage": 2,
+      "start": 21.22,
+      "end": 21.44
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 21.42,
+      "end": 21.613
+    },
+    {
+      "text": "then",
+      "stage": 2,
+      "start": 21.62,
+      "end": 21.86
+    },
+    {
+      "text": "leave",
+      "stage": 2,
+      "start": 21.86,
+      "end": 22.176
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 22.18,
+      "end": 22.427
+    },
+    {
+      "text": "water-permeable",
+      "stage": 2,
+      "start": 22.46,
+      "end": 23.236
+    },
+    {
+      "text": "descending",
+      "stage": 2,
+      "start": 23.24,
+      "end": 23.642
+    },
+    {
+      "text": "limb,",
+      "stage": 2,
+      "start": 23.62,
+      "end": 23.965
+    },
+    {
+      "text": "concentrating",
+      "stage": 2,
+      "start": 24.46,
+      "end": 24.889
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 24.86,
+      "end": 25.133
+    },
+    {
+      "text": "fluid",
+      "stage": 2,
+      "start": 25.18,
+      "end": 25.448
+    },
+    {
+      "text": "that",
+      "stage": 2,
+      "start": 25.44,
+      "end": 25.665
+    },
+    {
+      "text": "remains",
+      "stage": 2,
+      "start": 25.66,
+      "end": 25.943
+    },
+    {
+      "text": "inside.",
+      "stage": 2,
+      "start": 25.92,
+      "end": 26.43
+    },
+    {
+      "text": "In",
+      "stage": 3,
+      "start": 27.32,
+      "end": 27.54
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 27.64,
+      "end": 27.793
+    },
+    {
+      "text": "ascending",
+      "stage": 3,
+      "start": 27.78,
+      "end": 28.196
+    },
+    {
+      "text": "limb,",
+      "stage": 3,
+      "start": 28.18,
+      "end": 28.48
+    },
+    {
+      "text": "solute",
+      "stage": 3,
+      "start": 28.84,
+      "end": 29.1
+    },
+    {
+      "text": "leaves",
+      "stage": 3,
+      "start": 29.08,
+      "end": 29.34
+    },
+    {
+      "text": "while",
+      "stage": 3,
+      "start": 29.32,
+      "end": 29.588
+    },
+    {
+      "text": "water",
+      "stage": 3,
+      "start": 29.58,
+      "end": 29.896
+    },
+    {
+      "text": "is",
+      "stage": 3,
+      "start": 29.9,
+      "end": 30.05
+    },
+    {
+      "text": "retained,",
+      "stage": 3,
+      "start": 30.08,
+      "end": 30.455
+    },
+    {
+      "text": "so",
+      "stage": 3,
+      "start": 30.98,
+      "end": 31.13
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 31.16,
+      "end": 31.313
+    },
+    {
+      "text": "tubular",
+      "stage": 3,
+      "start": 31.3,
+      "end": 31.686
+    },
+    {
+      "text": "fluid",
+      "stage": 3,
+      "start": 31.68,
+      "end": 31.948
+    },
+    {
+      "text": "becomes",
+      "stage": 3,
+      "start": 31.94,
+      "end": 32.309
+    },
+    {
+      "text": "more",
+      "stage": 3,
+      "start": 32.3,
+      "end": 32.615
+    },
+    {
+      "text": "dilute.",
+      "stage": 3,
+      "start": 32.64,
+      "end": 33.1
+    },
+    {
+      "text": "Finally,",
+      "stage": 4,
+      "start": 33.9,
+      "end": 34.389
+    },
+    {
+      "text": "follow",
+      "stage": 4,
+      "start": 34.76,
+      "end": 34.987
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 34.96,
+      "end": 35.127
+    },
+    {
+      "text": "fluid",
+      "stage": 4,
+      "start": 35.12,
+      "end": 35.356
+    },
+    {
+      "text": "toward",
+      "stage": 4,
+      "start": 35.34,
+      "end": 35.633
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 35.62,
+      "end": 35.787
+    },
+    {
+      "text": "collecting",
+      "stage": 4,
+      "start": 35.78,
+      "end": 36.128
+    },
+    {
+      "text": "duct.",
+      "stage": 4,
+      "start": 36.1,
+      "end": 36.385
+    },
+    {
+      "text": "Antidiuretic",
+      "stage": 4,
+      "start": 37.28,
+      "end": 37.98
+    },
+    {
+      "text": "hormone",
+      "stage": 4,
+      "start": 37.98,
+      "end": 38.314
+    },
+    {
+      "text": "increases",
+      "stage": 4,
+      "start": 38.3,
+      "end": 38.893
+    },
+    {
+      "text": "water",
+      "stage": 4,
+      "start": 38.9,
+      "end": 39.296
+    },
+    {
+      "text": "permeability",
+      "stage": 4,
+      "start": 39.32,
+      "end": 39.948
+    },
+    {
+      "text": "there.",
+      "stage": 4,
+      "start": 39.94,
+      "end": 40.272
+    },
+    {
+      "text": "More",
+      "stage": 4,
+      "start": 40.8,
+      "end": 40.935
+    },
+    {
+      "text": "water",
+      "stage": 4,
+      "start": 40.9,
+      "end": 41.232
+    },
+    {
+      "text": "returns",
+      "stage": 4,
+      "start": 41.24,
+      "end": 41.574
+    },
+    {
+      "text": "to",
+      "stage": 4,
+      "start": 41.56,
+      "end": 41.73
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 41.78,
+      "end": 41.907
+    },
+    {
+      "text": "body,",
+      "stage": 4,
+      "start": 41.88,
+      "end": 42.15
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 42.16,
+      "end": 42.473
+    },
+    {
+      "text": "final",
+      "stage": 4,
+      "start": 42.54,
+      "end": 42.856
+    },
+    {
+      "text": "urine",
+      "stage": 4,
+      "start": 42.86,
+      "end": 43.048
+    },
+    {
+      "text": "volume",
+      "stage": 4,
+      "start": 43.02,
+      "end": 43.33
+    },
+    {
+      "text": "decreases.",
+      "stage": 4,
+      "start": 43.32,
+      "end": 43.807
+    },
+    {
+      "text": "Keep",
+      "stage": 4,
+      "start": 44.62,
+      "end": 44.815
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 44.8,
+      "end": 44.98
+    },
+    {
+      "text": "two",
+      "stage": 4,
+      "start": 44.98,
+      "end": 45.147
+    },
+    {
+      "text": "ideas",
+      "stage": 4,
+      "start": 45.14,
+      "end": 45.472
+    },
+    {
+      "text": "separate:",
+      "stage": 4,
+      "start": 45.48,
+      "end": 45.943
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 46.48,
+      "end": 46.673
+    },
+    {
+      "text": "loop",
+      "stage": 4,
+      "start": 46.68,
+      "end": 46.89
+    },
+    {
+      "text": "builds",
+      "stage": 4,
+      "start": 46.88,
+      "end": 47.273
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 47.28,
+      "end": 47.433
+    },
+    {
+      "text": "concentration",
+      "stage": 4,
+      "start": 47.42,
+      "end": 47.997
+    },
+    {
+      "text": "gradient,",
+      "stage": 4,
+      "start": 47.98,
+      "end": 48.477
+    },
+    {
+      "text": "while",
+      "stage": 4,
+      "start": 48.48,
+      "end": 48.972
+    },
+    {
+      "text": "antidiuretic",
+      "stage": 4,
+      "start": 49.02,
+      "end": 49.807
+    },
+    {
+      "text": "hormone",
+      "stage": 4,
+      "start": 49.8,
+      "end": 50.169
+    },
+    {
+      "text": "regulates",
+      "stage": 4,
+      "start": 50.16,
+      "end": 50.878
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 50.9,
+      "end": 51.067
+    },
+    {
+      "text": "final",
+      "stage": 4,
+      "start": 51.06,
+      "end": 51.344
+    },
+    {
+      "text": "water",
+      "stage": 4,
+      "start": 51.34,
+      "end": 51.656
+    },
+    {
+      "text": "adjustment.",
+      "stage": 4,
+      "start": 51.66,
+      "end": 52.17
+    },
+    {
+      "text": "Motion,",
+      "stage": 4,
+      "start": 52.98,
+      "end": 53.54
+    },
+    {
+      "text": "colors,",
+      "stage": 4,
+      "start": 53.98,
+      "end": 54.207
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 54.46,
+      "end": 54.547
+    },
+    {
+      "text": "quantities",
+      "stage": 4,
+      "start": 54.5,
+      "end": 54.92
+    },
+    {
+      "text": "are",
+      "stage": 4,
+      "start": 54.9,
+      "end": 55.093
+    },
+    {
+      "text": "schematic.",
+      "stage": 4,
+      "start": 55.1,
+      "end": 55.569
+    }
+  ],
+  "duration": 55.848,
+  "recognitionAgreement": 0.9946
+}

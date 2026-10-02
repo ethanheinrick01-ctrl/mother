@@ -1,0 +1,5 @@
+Muscle contraction begins with electrical excitation. The supplied sequence reaches voltage-sensitive receptors in the transverse tubules and opens ryanodine channels. Released calcium enables actin to bind myosin.
+
+Now watch thin filaments move inward relative to thick filaments. Their overlap increases and the sarcomere shortens. The motion represents cross-bridge activity, not shortening of the individual filaments. The packet identifies a continuing requirement for ATP and phosphocreatine.
+
+During relaxation, calcium returns to the sarcoplasmic reticulum, cross-bridges detach, and the sarcomere lengthens. Follow the reverse motion. This film uses a textbook figure with schematic motion to separate excitation, coupling, contraction, and relaxation.

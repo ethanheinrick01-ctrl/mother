@@ -1,0 +1,201 @@
+{
+  "34": {
+    "title": "Alveoli, surfactant and exchange",
+    "sources": [
+      "CH34S14",
+      "CH34S33",
+      "CH34S37N",
+      "CH34S40",
+      "CH34S42",
+      "CH36S19"
+    ],
+    "voice": "AI Voice Generator · Clear",
+    "stages": [
+      {
+        "title": "Exchange surface",
+        "text": "In the pulmonary system, an open alveolus provides a surface for gas exchange."
+      },
+      {
+        "title": "Cell roles",
+        "text": "Type one alveolar cells provide structure. Type two cells secrete surfactant."
+      },
+      {
+        "title": "Surface tension",
+        "text": "Notice the inner air surface during expiration. Surfactant lowers surface tension and helps prevent collapse."
+      },
+      {
+        "title": "Deficiency and collapse",
+        "text": "Without enough surfactant, alveoli can collapse and ventilation falls. This is especially important in premature infants whose lungs have not developed adequate production and secretion."
+      },
+      {
+        "title": "Diffusion and perfusion",
+        "text": "Now follow oxygen across the alveolar and capillary walls. Diffusion depends on a thin membrane, a large surface area, and a partial pressure gradient. Blood flow then carries oxygen toward the tissues. Ventilation, diffusion, and perfusion are related, but they are different steps. A change in one step can disrupt exchange even when the others remain intact."
+      }
+    ]
+  },
+  "35": {
+    "title": "ARDS: injury through remodeling",
+    "sources": [
+      "CH35S44",
+      "CH35S45",
+      "CH35S46",
+      "CH35S47",
+      "CH35S48",
+      "CH35S53"
+    ],
+    "voice": "AI Voice Generator · Clear",
+    "stages": [
+      {
+        "title": "Alveolar injury",
+        "text": "Alveolar injury changes both the barrier and the airspace."
+      },
+      {
+        "title": "Leak and collapse",
+        "text": "In the exudative phase of acute respiratory distress syndrome, damage increases permeability of the alveolar and capillary membrane. Fluid crosses into the lung, and surfactant becomes inactivated. Watch the airspace shrink as fluid accumulates. Oxygen exchange is now impaired by more than a shortage of inspired air."
+      },
+      {
+        "title": "Repair and proliferation",
+        "text": "The next view shows repair and proliferation. The supplied chapter describes type two pneumocytes, fibroblasts, and myofibroblasts during this phase."
+      },
+      {
+        "title": "Remodeling",
+        "text": "In a fibrotic phase, remodeling and alveolar destruction further disrupt the exchange surface. These are source-described stages, with overlapping time ranges, not an inevitable clock for every patient."
+      },
+      {
+        "title": "Airway contrast",
+        "text": "Keep this process separate from bronchial asthma: asthma narrows the conducting airway through smooth muscle contraction, swelling, and mucus. ARDS damages the alveolar and capillary exchange region."
+      }
+    ]
+  },
+  "36": {
+    "title": "CF: dehydration and impaired clearance",
+    "sources": [
+      "CH36S40",
+      "CH36S42",
+      "CH36S43",
+      "CH36S47N",
+      "CH36S19"
+    ],
+    "voice": "AI Voice Generator · Clear",
+    "stages": [
+      {
+        "title": "Ion transport",
+        "text": "In cystic fibrosis, the airway problem begins with abnormal epithelial ion transport. The supplied chapter describes defective chloride transport and exaggerated sodium absorption, which deplete airway surface liquid."
+      },
+      {
+        "title": "Impaired clearance",
+        "text": "Watch the mucus layer lose water and become harder to move. Cilia cannot clear the adherent secretions effectively, and bacteria remain in the airway."
+      },
+      {
+        "title": "Inflammation and viscosity",
+        "text": "Inflammation then amplifies the problem. Degraded neutrophils release DNA and filamentous actin, adding to mucus viscosity."
+      },
+      {
+        "title": "Structural injury",
+        "text": "Thick secretions obstruct small airways, while chronic inflammation can lead to bronchiectasis and fibrosis. The drawing shows a mechanism, not a scaled measurement of mucus thickness or a prediction for an individual child."
+      },
+      {
+        "title": "Newborn RDS contrast",
+        "text": "Distinguish this process from newborn respiratory distress syndrome. In that disorder, inadequate surfactant in the immature lung promotes alveolar collapse. Both can impair breathing, but the initiating defect and the affected surface are different."
+      }
+    ]
+  },
+  "37": {
+    "title": "Countercurrent concentration and ADH",
+    "sources": [
+      "CH37S45",
+      "CH37S46",
+      "CH37S52",
+      "CH37S53",
+      "CH37S55"
+    ],
+    "voice": "AI Voice Generator · Clear",
+    "stages": [
+      {
+        "title": "Opposite limbs",
+        "text": "Follow the filtrate through the loop of Henle. Its two limbs run beside each other, but they do not handle water and solute in the same way."
+      },
+      {
+        "title": "Build the gradient",
+        "text": "The supplied chapter describes active sodium and chloride transport from the thick ascending limb into the medullary interstitium. This helps create a concentrated environment around the loop."
+      },
+      {
+        "title": "Descending water loss",
+        "text": "Water can then leave the water-permeable descending limb, concentrating the fluid that remains inside."
+      },
+      {
+        "title": "Ascending dilution",
+        "text": "In the ascending limb, solute leaves while water is retained, so the tubular fluid becomes more dilute."
+      },
+      {
+        "title": "Final ADH adjustment",
+        "text": "Finally, follow the fluid toward the collecting duct. Antidiuretic hormone increases water permeability there. More water returns to the body, and final urine volume decreases. Keep the two ideas separate: the loop builds the concentration gradient, while antidiuretic hormone regulates the final water adjustment. Motion, colors, and quantities are schematic."
+      }
+    ]
+  },
+  "38": {
+    "title": "Obstruction, dilation and relief",
+    "sources": [
+      "CH37S9",
+      "CH37S22",
+      "CH38S7",
+      "CH38S8",
+      "CH38S9"
+    ],
+    "voice": "AI Voice Generator · Clear",
+    "stages": [
+      {
+        "title": "Normal outflow",
+        "text": "An obstruction changes what happens upstream. In this urinary tract illustration, urine normally moves from the renal pelvis through the ureter toward the bladder."
+      },
+      {
+        "title": "Obstruction",
+        "text": "Now a narrowing interrupts that outflow. The supplied chapter distinguishes hydroureter, dilation of the ureter, from hydronephrosis, dilation of the renal pelvis and calyces."
+      },
+      {
+        "title": "Upstream dilation",
+        "text": "Watch the collecting spaces expand upstream of the obstruction. Severity depends on its location, completeness, duration, and whether one or both upper tracts are involved. Prolonged damage can produce fibrosis and loss of nephrons."
+      },
+      {
+        "title": "Relief and diuresis",
+        "text": "When obstruction is relieved, increased urine output may follow. The chapter calls this postobstructive diuresis and warns of fluid and electrolyte imbalance."
+      },
+      {
+        "title": "Unresolved scope",
+        "text": "This film does not supply the missing explanation of how unilateral obstruction causes hypertension. That requested guide component remains explicitly marked as a textbook gap."
+      }
+    ]
+  },
+  "39": {
+    "title": "Reflux: reverse flow and infection",
+    "sources": [
+      "CH37S22",
+      "CH38S30",
+      "CH39S39",
+      "CH39S40"
+    ],
+    "voice": "AI Voice Generator · Clear",
+    "stages": [
+      {
+        "title": "Identify the junction",
+        "text": "Vesicoureteral reflux reverses the normal direction of urinary flow. Begin at the bladder and identify where each ureter enters."
+      },
+      {
+        "title": "Normal protection",
+        "text": "The normal junction helps prevent urine from moving backward during bladder emptying."
+      },
+      {
+        "title": "Retrograde flow",
+        "text": "In reflux, a congenital junction abnormality or abnormal ureteral insertion can allow urine to travel back toward the ureter and kidney. Watch the direction change along the same anatomy."
+      },
+      {
+        "title": "Ascending infection",
+        "text": "When the bladder urine is infected, reflux can carry that infection upward and encourage repeated pyelonephritis."
+      },
+      {
+        "title": "Findings and limits",
+        "text": "The supplied chapter describes silent cases as well as recurrent urinary infections, unexplained fever, and poor growth. It lists prompt treatment of infection and intervention for recurrent or high-grade reflux. This visualization shows the direction and consequence of reflux. It does not invent the missing grade-by-grade criteria, and its flow speed and volume are schematic."
+      }
+    ]
+  }
+}

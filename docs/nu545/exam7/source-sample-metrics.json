@@ -1,0 +1,246 @@
+[
+  {
+    "id": "U7-C4-Q1",
+    "path": "Chapter 4 - Genes and Genetic Diseases/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 7,
+    "choiceWords": [
+      7,
+      6,
+      4,
+      7
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C4-Q2",
+    "path": "Chapter 4 - Genes and Genetic Diseases/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 6,
+    "choiceWords": [
+      5,
+      6,
+      4,
+      6
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C4-Q3",
+    "path": "Chapter 4 - Genes and Genetic Diseases/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 9,
+    "choiceWords": [
+      13,
+      8,
+      5,
+      9
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C5-Q1",
+    "path": "Chapter 5 - Genes, Environment-Lifestyle, and Common Diseases/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 23,
+    "choiceWords": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C5-Q2",
+    "path": "Chapter 5 - Genes, Environment-Lifestyle, and Common Diseases/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 7,
+    "choiceWords": [
+      15,
+      12,
+      10,
+      12
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C6-Q1",
+    "path": "Chapter 6 - Epigenetics and Disease/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 17,
+    "choiceWords": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C6-Q2",
+    "path": "Chapter 6 - Epigenetics and Disease/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 10,
+    "choiceWords": [
+      2,
+      2,
+      2,
+      5
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C12-Q1",
+    "path": "Chapter 12 - Cancer Biology/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 46,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C12-Q2",
+    "path": "Chapter 12 - Cancer Biology/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 43,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C12-Q3",
+    "path": "Chapter 12 - Cancer Biology/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 8,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C14-Q1",
+    "path": "Chapter 14 - Cancer in Children/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 24,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C14-Q2",
+    "path": "Chapter 14 - Cancer in Children/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 9,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C14-Q3",
+    "path": "Chapter 14 - Cancer in Children/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 27,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C46-Q1",
+    "path": "Chapter 46 - Structure, Function, and Disorders of the Integument/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 23,
+    "choiceWords": [
+      3,
+      7,
+      2,
+      2
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C46-Q2",
+    "path": "Chapter 46 - Structure, Function, and Disorders of the Integument/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 41,
+    "choiceWords": [
+      3,
+      3,
+      2,
+      2
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C47-Q1",
+    "path": "Chapter 47 - Alterations of the Integument in Children/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 8,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C47-Q2",
+    "path": "Chapter 47 - Alterations of the Integument in Children/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 5,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C48-Q1",
+    "path": "Chapter 48 - Shock, Multiple Organ Dysfunction Syndrome, and Burns in Adults/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 11,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C48-Q2",
+    "path": "Chapter 48 - Shock, Multiple Organ Dysfunction Syndrome, and Burns in Adults/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 9,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C48-Q3",
+    "path": "Chapter 48 - Shock, Multiple Organ Dysfunction Syndrome, and Burns in Adults/Case Study Questions and Answers.md",
+    "type": "prose",
+    "stemWords": 44,
+    "choiceWords": [],
+    "choices": 0
+  },
+  {
+    "id": "U7-C49-Q1",
+    "path": "Chapter 49 - Shock, Multiple Organ Dysfunction Syndrome, and Burns in Children/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 9,
+    "choiceWords": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C49-Q2",
+    "path": "Chapter 49 - Shock, Multiple Organ Dysfunction Syndrome, and Burns in Children/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 10,
+    "choiceWords": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "choices": 4
+  },
+  {
+    "id": "U7-C49-Q3",
+    "path": "Chapter 49 - Shock, Multiple Organ Dysfunction Syndrome, and Burns in Children/Case Study Questions and Answers.md",
+    "type": "MC",
+    "stemWords": 12,
+    "choiceWords": [
+      1,
+      1,
+      2,
+      1
+    ],
+    "choices": 4
+  }
+]

@@ -1,0 +1,641 @@
+{
+  "title": "Celiac injury and absorptive surface",
+  "sources": [
+    "CH42S37",
+    "CH42S40",
+    "CH42S41"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Villus surface",
+      "text": "The small intestine presents an extensive epithelial surface to the lumen. These projecting villi provide the geometry needed to understand the course packet\u2019s celiac disease explanation."
+    },
+    {
+      "start": 11.66,
+      "title": "Immune injury",
+      "text": "In the supplied mechanism, gluten ingestion triggers immune injury to the villous epithelium. T-cell infiltration accompanies inflammation and mucosal destruction. Watch the projections shorten and flatten. The loss of surface connects tissue injury with impaired absorption."
+    },
+    {
+      "start": 27.86,
+      "title": "Healing distinction",
+      "text": "The packet calls for permanent gluten exclusion. It separately permits lactose reintroduction after villous healing. These are different instructions: recovery does not end gluten avoidance. This schematic deformation shows a mechanism, not a measured healing time or a diagnostic biopsy."
+    }
+  ],
+  "words": [
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.14
+    },
+    {
+      "text": "small",
+      "stage": 0,
+      "start": 0.12,
+      "end": 0.356
+    },
+    {
+      "text": "intestine",
+      "stage": 0,
+      "start": 0.34,
+      "end": 0.649
+    },
+    {
+      "text": "presents",
+      "stage": 0,
+      "start": 0.62,
+      "end": 1.135
+    },
+    {
+      "text": "an",
+      "stage": 0,
+      "start": 1.14,
+      "end": 1.34
+    },
+    {
+      "text": "extensive",
+      "stage": 0,
+      "start": 1.42,
+      "end": 1.871
+    },
+    {
+      "text": "epithelial",
+      "stage": 0,
+      "start": 1.86,
+      "end": 2.604
+    },
+    {
+      "text": "surface",
+      "stage": 0,
+      "start": 2.62,
+      "end": 3.04
+    },
+    {
+      "text": "to",
+      "stage": 0,
+      "start": 3.04,
+      "end": 3.36
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 3.56,
+      "end": 3.687
+    },
+    {
+      "text": "lumen.",
+      "stage": 0,
+      "start": 3.66,
+      "end": 3.976
+    },
+    {
+      "text": "These",
+      "stage": 0,
+      "start": 4.98,
+      "end": 5.152
+    },
+    {
+      "text": "projecting",
+      "stage": 0,
+      "start": 5.12,
+      "end": 5.594
+    },
+    {
+      "text": "villi",
+      "stage": 0,
+      "start": 5.58,
+      "end": 6.136
+    },
+    {
+      "text": "provide",
+      "stage": 0,
+      "start": 6.2,
+      "end": 6.5
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 6.48,
+      "end": 6.753
+    },
+    {
+      "text": "geometry",
+      "stage": 0,
+      "start": 6.8,
+      "end": 7.245
+    },
+    {
+      "text": "needed",
+      "stage": 0,
+      "start": 7.24,
+      "end": 7.617
+    },
+    {
+      "text": "to",
+      "stage": 0,
+      "start": 7.62,
+      "end": 7.83
+    },
+    {
+      "text": "understand",
+      "stage": 0,
+      "start": 7.92,
+      "end": 8.25
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 8.22,
+      "end": 8.493
+    },
+    {
+      "text": "course",
+      "stage": 0,
+      "start": 8.54,
+      "end": 8.783
+    },
+    {
+      "text": "packet\u2019s",
+      "stage": 0,
+      "start": 8.76,
+      "end": 9.18
+    },
+    {
+      "text": "celiac",
+      "stage": 0,
+      "start": 9.18,
+      "end": 9.79
+    },
+    {
+      "text": "disease",
+      "stage": 0,
+      "start": 9.84,
+      "end": 10.174
+    },
+    {
+      "text": "explanation.",
+      "stage": 0,
+      "start": 10.16,
+      "end": 10.656
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 11.66,
+      "end": 11.75
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 11.72,
+      "end": 11.86
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 11.84,
+      "end": 12.18
+    },
+    {
+      "text": "mechanism,",
+      "stage": 1,
+      "start": 12.16,
+      "end": 12.682
+    },
+    {
+      "text": "gluten",
+      "stage": 1,
+      "start": 13.06,
+      "end": 13.237
+    },
+    {
+      "text": "ingestion",
+      "stage": 1,
+      "start": 13.2,
+      "end": 13.669
+    },
+    {
+      "text": "triggers",
+      "stage": 1,
+      "start": 13.66,
+      "end": 14.262
+    },
+    {
+      "text": "immune",
+      "stage": 1,
+      "start": 14.28,
+      "end": 14.573
+    },
+    {
+      "text": "injury",
+      "stage": 1,
+      "start": 14.56,
+      "end": 15.087
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 15.12,
+      "end": 15.32
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 15.4,
+      "end": 15.527
+    },
+    {
+      "text": "villous",
+      "stage": 1,
+      "start": 15.5,
+      "end": 15.86
+    },
+    {
+      "text": "epithelium.",
+      "stage": 1,
+      "start": 15.86,
+      "end": 16.658
+    },
+    {
+      "text": "T-cell",
+      "stage": 1,
+      "start": 17.28,
+      "end": 17.595
+    },
+    {
+      "text": "infiltration",
+      "stage": 1,
+      "start": 17.6,
+      "end": 18.173
+    },
+    {
+      "text": "accompanies",
+      "stage": 1,
+      "start": 18.16,
+      "end": 18.638
+    },
+    {
+      "text": "inflammation",
+      "stage": 1,
+      "start": 18.62,
+      "end": 19.432
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 19.44,
+      "end": 19.86
+    },
+    {
+      "text": "mucosal",
+      "stage": 1,
+      "start": 19.98,
+      "end": 20.331
+    },
+    {
+      "text": "destruction.",
+      "stage": 1,
+      "start": 20.32,
+      "end": 20.871
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 22.06,
+      "end": 22.264
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 22.24,
+      "end": 22.447
+    },
+    {
+      "text": "projections",
+      "stage": 1,
+      "start": 22.46,
+      "end": 22.811
+    },
+    {
+      "text": "shorten",
+      "stage": 1,
+      "start": 22.78,
+      "end": 23.217
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 23.22,
+      "end": 23.547
+    },
+    {
+      "text": "flatten.",
+      "stage": 1,
+      "start": 23.62,
+      "end": 24.126
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 24.64,
+      "end": 24.767
+    },
+    {
+      "text": "loss",
+      "stage": 1,
+      "start": 24.74,
+      "end": 24.98
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 24.98,
+      "end": 25.18
+    },
+    {
+      "text": "surface",
+      "stage": 1,
+      "start": 25.26,
+      "end": 25.663
+    },
+    {
+      "text": "connects",
+      "stage": 1,
+      "start": 25.66,
+      "end": 25.948
+    },
+    {
+      "text": "tissue",
+      "stage": 1,
+      "start": 25.92,
+      "end": 26.413
+    },
+    {
+      "text": "injury",
+      "stage": 1,
+      "start": 26.44,
+      "end": 26.733
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 26.72,
+      "end": 27.14
+    },
+    {
+      "text": "impaired",
+      "stage": 1,
+      "start": 27.2,
+      "end": 27.592
+    },
+    {
+      "text": "absorption.",
+      "stage": 1,
+      "start": 27.58,
+      "end": 27.892
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 27.86,
+      "end": 28.733
+    },
+    {
+      "text": "packet",
+      "stage": 2,
+      "start": 29.08,
+      "end": 29.323
+    },
+    {
+      "text": "calls",
+      "stage": 2,
+      "start": 29.3,
+      "end": 29.632
+    },
+    {
+      "text": "for",
+      "stage": 2,
+      "start": 29.64,
+      "end": 29.873
+    },
+    {
+      "text": "permanent",
+      "stage": 2,
+      "start": 29.9,
+      "end": 30.316
+    },
+    {
+      "text": "gluten",
+      "stage": 2,
+      "start": 30.3,
+      "end": 30.577
+    },
+    {
+      "text": "exclusion.",
+      "stage": 2,
+      "start": 30.56,
+      "end": 31.1
+    },
+    {
+      "text": "It",
+      "stage": 2,
+      "start": 31.94,
+      "end": 32.05
+    },
+    {
+      "text": "separately",
+      "stage": 2,
+      "start": 32.04,
+      "end": 32.406
+    },
+    {
+      "text": "permits",
+      "stage": 2,
+      "start": 32.38,
+      "end": 32.817
+    },
+    {
+      "text": "lactose",
+      "stage": 2,
+      "start": 32.82,
+      "end": 33.36
+    },
+    {
+      "text": "reintroduction",
+      "stage": 2,
+      "start": 33.38,
+      "end": 34.22
+    },
+    {
+      "text": "after",
+      "stage": 2,
+      "start": 34.22,
+      "end": 34.52
+    },
+    {
+      "text": "villous",
+      "stage": 2,
+      "start": 34.52,
+      "end": 34.863
+    },
+    {
+      "text": "healing.",
+      "stage": 2,
+      "start": 34.86,
+      "end": 35.074
+    },
+    {
+      "text": "These",
+      "stage": 2,
+      "start": 36.14,
+      "end": 36.392
+    },
+    {
+      "text": "are",
+      "stage": 2,
+      "start": 36.38,
+      "end": 36.533
+    },
+    {
+      "text": "different",
+      "stage": 2,
+      "start": 36.52,
+      "end": 36.776
+    },
+    {
+      "text": "instructions:",
+      "stage": 2,
+      "start": 36.74,
+      "end": 37.112
+    },
+    {
+      "text": "recovery",
+      "stage": 2,
+      "start": 38.04,
+      "end": 38.275
+    },
+    {
+      "text": "does",
+      "stage": 2,
+      "start": 38.24,
+      "end": 38.57
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 38.6,
+      "end": 38.807
+    },
+    {
+      "text": "end",
+      "stage": 2,
+      "start": 38.82,
+      "end": 39.093
+    },
+    {
+      "text": "gluten",
+      "stage": 2,
+      "start": 39.14,
+      "end": 39.4
+    },
+    {
+      "text": "avoidance.",
+      "stage": 2,
+      "start": 39.38,
+      "end": 39.724
+    },
+    {
+      "text": "This",
+      "stage": 2,
+      "start": 40.72,
+      "end": 40.84
+    },
+    {
+      "text": "schematic",
+      "stage": 2,
+      "start": 40.8,
+      "end": 41.18
+    },
+    {
+      "text": "deformation",
+      "stage": 2,
+      "start": 41.16,
+      "end": 41.693
+    },
+    {
+      "text": "shows",
+      "stage": 2,
+      "start": 41.68,
+      "end": 42.204
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 42.26,
+      "end": 42.32
+    },
+    {
+      "text": "mechanism,",
+      "stage": 2,
+      "start": 42.42,
+      "end": 42.729
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 43.18,
+      "end": 43.373
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 43.38,
+      "end": 43.44
+    },
+    {
+      "text": "measured",
+      "stage": 2,
+      "start": 43.48,
+      "end": 43.75
+    },
+    {
+      "text": "healing",
+      "stage": 2,
+      "start": 43.72,
+      "end": 44.037
+    },
+    {
+      "text": "time",
+      "stage": 2,
+      "start": 44.02,
+      "end": 44.395
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 44.44,
+      "end": 44.67
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 44.78,
+      "end": 44.84
+    },
+    {
+      "text": "diagnostic",
+      "stage": 2,
+      "start": 44.86,
+      "end": 45.298
+    },
+    {
+      "text": "biopsy.",
+      "stage": 2,
+      "start": 45.28,
+      "end": 45.823
+    }
+  ],
+  "duration": 47.016,
+  "recognitionAgreement": 0.9984
+}

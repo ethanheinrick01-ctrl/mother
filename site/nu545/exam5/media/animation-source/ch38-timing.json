@@ -1,0 +1,815 @@
+{
+  "title": "Obstruction, dilation and relief",
+  "sources": [
+    "CH37S9",
+    "CH37S22",
+    "CH38S7",
+    "CH38S8",
+    "CH38S9"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Normal outflow",
+      "text": "An obstruction changes what happens upstream. In this urinary tract illustration, urine normally moves from the renal pelvis through the ureter toward the bladder."
+    },
+    {
+      "start": 9.5,
+      "title": "Obstruction",
+      "text": "Now a narrowing interrupts that outflow. The supplied chapter distinguishes hydroureter, dilation of the ureter, from hydronephrosis, dilation of the renal pelvis and calyces."
+    },
+    {
+      "start": 20.26,
+      "title": "Upstream dilation",
+      "text": "Watch the collecting spaces expand upstream of the obstruction. Severity depends on its location, completeness, duration, and whether one or both upper tracts are involved. Prolonged damage can produce fibrosis and loss of nephrons."
+    },
+    {
+      "start": 35.26,
+      "title": "Relief and diuresis",
+      "text": "When obstruction is relieved, increased urine output may follow. The chapter calls this postobstructive diuresis and warns of fluid and electrolyte imbalance."
+    },
+    {
+      "start": 45.34,
+      "title": "Unresolved scope",
+      "text": "This film does not supply the missing explanation of how unilateral obstruction causes hypertension. That requested guide component remains explicitly marked as a textbook gap."
+    }
+  ],
+  "words": [
+    {
+      "text": "An",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.1
+    },
+    {
+      "text": "obstruction",
+      "stage": 0,
+      "start": 0.12,
+      "end": 0.58
+    },
+    {
+      "text": "changes",
+      "stage": 0,
+      "start": 0.56,
+      "end": 1.203
+    },
+    {
+      "text": "what",
+      "stage": 0,
+      "start": 1.24,
+      "end": 1.525
+    },
+    {
+      "text": "happens",
+      "stage": 0,
+      "start": 1.54,
+      "end": 1.909
+    },
+    {
+      "text": "upstream.",
+      "stage": 0,
+      "start": 1.9,
+      "end": 2.38
+    },
+    {
+      "text": "In",
+      "stage": 0,
+      "start": 3.1,
+      "end": 3.23
+    },
+    {
+      "text": "this",
+      "stage": 0,
+      "start": 3.24,
+      "end": 3.465
+    },
+    {
+      "text": "urinary",
+      "stage": 0,
+      "start": 3.46,
+      "end": 3.777
+    },
+    {
+      "text": "tract",
+      "stage": 0,
+      "start": 3.76,
+      "end": 4.076
+    },
+    {
+      "text": "illustration,",
+      "stage": 0,
+      "start": 4.08,
+      "end": 4.745
+    },
+    {
+      "text": "urine",
+      "stage": 0,
+      "start": 5.2,
+      "end": 5.34
+    },
+    {
+      "text": "normally",
+      "stage": 0,
+      "start": 5.3,
+      "end": 5.692
+    },
+    {
+      "text": "moves",
+      "stage": 0,
+      "start": 5.68,
+      "end": 5.996
+    },
+    {
+      "text": "from",
+      "stage": 0,
+      "start": 6.0,
+      "end": 6.225
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 6.22,
+      "end": 6.36
+    },
+    {
+      "text": "renal",
+      "stage": 0,
+      "start": 6.34,
+      "end": 6.624
+    },
+    {
+      "text": "pelvis",
+      "stage": 0,
+      "start": 6.62,
+      "end": 6.98
+    },
+    {
+      "text": "through",
+      "stage": 0,
+      "start": 6.98,
+      "end": 7.434
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 7.44,
+      "end": 7.62
+    },
+    {
+      "text": "ureter",
+      "stage": 0,
+      "start": 7.62,
+      "end": 7.93
+    },
+    {
+      "text": "toward",
+      "stage": 0,
+      "start": 7.92,
+      "end": 8.297
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 8.3,
+      "end": 8.48
+    },
+    {
+      "text": "bladder.",
+      "stage": 0,
+      "start": 8.48,
+      "end": 8.78
+    },
+    {
+      "text": "Now",
+      "stage": 1,
+      "start": 9.5,
+      "end": 9.76
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 9.8,
+      "end": 9.86
+    },
+    {
+      "text": "narrowing",
+      "stage": 1,
+      "start": 9.92,
+      "end": 10.371
+    },
+    {
+      "text": "interrupts",
+      "stage": 1,
+      "start": 10.36,
+      "end": 10.888
+    },
+    {
+      "text": "that",
+      "stage": 1,
+      "start": 10.88,
+      "end": 11.015
+    },
+    {
+      "text": "outflow.",
+      "stage": 1,
+      "start": 10.98,
+      "end": 11.417
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 12.08,
+      "end": 12.34
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 12.38,
+      "end": 12.703
+    },
+    {
+      "text": "chapter",
+      "stage": 1,
+      "start": 12.68,
+      "end": 13.117
+    },
+    {
+      "text": "distinguishes",
+      "stage": 1,
+      "start": 13.12,
+      "end": 13.789
+    },
+    {
+      "text": "hydroureter,",
+      "stage": 1,
+      "start": 13.78,
+      "end": 14.434
+    },
+    {
+      "text": "dilation",
+      "stage": 1,
+      "start": 14.9,
+      "end": 15.328
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 15.32,
+      "end": 15.46
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 15.48,
+      "end": 15.607
+    },
+    {
+      "text": "ureter,",
+      "stage": 1,
+      "start": 15.58,
+      "end": 15.89
+    },
+    {
+      "text": "from",
+      "stage": 1,
+      "start": 15.88,
+      "end": 16.315
+    },
+    {
+      "text": "hydronephrosis,",
+      "stage": 1,
+      "start": 16.38,
+      "end": 17.294
+    },
+    {
+      "text": "dilation",
+      "stage": 1,
+      "start": 17.64,
+      "end": 18.032
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 18.02,
+      "end": 18.15
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 18.16,
+      "end": 18.287
+    },
+    {
+      "text": "renal",
+      "stage": 1,
+      "start": 18.26,
+      "end": 18.512
+    },
+    {
+      "text": "pelvis",
+      "stage": 1,
+      "start": 18.5,
+      "end": 18.86
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 18.86,
+      "end": 19.187
+    },
+    {
+      "text": "calyces.",
+      "stage": 1,
+      "start": 19.26,
+      "end": 19.793
+    },
+    {
+      "text": "Watch",
+      "stage": 2,
+      "start": 20.26,
+      "end": 20.496
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 20.48,
+      "end": 20.687
+    },
+    {
+      "text": "collecting",
+      "stage": 2,
+      "start": 20.7,
+      "end": 21.066
+    },
+    {
+      "text": "spaces",
+      "stage": 2,
+      "start": 21.04,
+      "end": 21.467
+    },
+    {
+      "text": "expand",
+      "stage": 2,
+      "start": 21.48,
+      "end": 21.973
+    },
+    {
+      "text": "upstream",
+      "stage": 2,
+      "start": 22.0,
+      "end": 22.532
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 22.54,
+      "end": 22.76
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 22.86,
+      "end": 22.987
+    },
+    {
+      "text": "obstruction.",
+      "stage": 2,
+      "start": 22.96,
+      "end": 23.456
+    },
+    {
+      "text": "Severity",
+      "stage": 2,
+      "start": 24.32,
+      "end": 24.712
+    },
+    {
+      "text": "depends",
+      "stage": 2,
+      "start": 24.7,
+      "end": 25.017
+    },
+    {
+      "text": "on",
+      "stage": 2,
+      "start": 25.0,
+      "end": 25.19
+    },
+    {
+      "text": "its",
+      "stage": 2,
+      "start": 25.26,
+      "end": 25.44
+    },
+    {
+      "text": "location,",
+      "stage": 2,
+      "start": 25.44,
+      "end": 25.955
+    },
+    {
+      "text": "completeness,",
+      "stage": 2,
+      "start": 26.5,
+      "end": 27.147
+    },
+    {
+      "text": "duration,",
+      "stage": 2,
+      "start": 27.62,
+      "end": 28.065
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 28.06,
+      "end": 28.347
+    },
+    {
+      "text": "whether",
+      "stage": 2,
+      "start": 28.4,
+      "end": 28.683
+    },
+    {
+      "text": "one",
+      "stage": 2,
+      "start": 28.66,
+      "end": 28.92
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 28.96,
+      "end": 29.17
+    },
+    {
+      "text": "both",
+      "stage": 2,
+      "start": 29.26,
+      "end": 29.59
+    },
+    {
+      "text": "upper",
+      "stage": 2,
+      "start": 29.62,
+      "end": 29.92
+    },
+    {
+      "text": "tracts",
+      "stage": 2,
+      "start": 29.92,
+      "end": 30.18
+    },
+    {
+      "text": "are",
+      "stage": 2,
+      "start": 30.16,
+      "end": 30.473
+    },
+    {
+      "text": "involved.",
+      "stage": 2,
+      "start": 30.54,
+      "end": 31.107
+    },
+    {
+      "text": "Prolonged",
+      "stage": 2,
+      "start": 31.48,
+      "end": 31.865
+    },
+    {
+      "text": "damage",
+      "stage": 2,
+      "start": 31.82,
+      "end": 32.263
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 32.28,
+      "end": 32.473
+    },
+    {
+      "text": "produce",
+      "stage": 2,
+      "start": 32.48,
+      "end": 32.814
+    },
+    {
+      "text": "fibrosis",
+      "stage": 2,
+      "start": 32.8,
+      "end": 33.403
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 33.42,
+      "end": 33.747
+    },
+    {
+      "text": "loss",
+      "stage": 2,
+      "start": 33.82,
+      "end": 34.015
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 34.0,
+      "end": 34.18
+    },
+    {
+      "text": "nephrons.",
+      "stage": 2,
+      "start": 34.24,
+      "end": 34.703
+    },
+    {
+      "text": "When",
+      "stage": 3,
+      "start": 35.26,
+      "end": 35.395
+    },
+    {
+      "text": "obstruction",
+      "stage": 3,
+      "start": 35.36,
+      "end": 35.765
+    },
+    {
+      "text": "is",
+      "stage": 3,
+      "start": 35.74,
+      "end": 35.93
+    },
+    {
+      "text": "relieved,",
+      "stage": 3,
+      "start": 36.0,
+      "end": 36.322
+    },
+    {
+      "text": "increased",
+      "stage": 3,
+      "start": 36.88,
+      "end": 37.26
+    },
+    {
+      "text": "urine",
+      "stage": 3,
+      "start": 37.24,
+      "end": 37.492
+    },
+    {
+      "text": "output",
+      "stage": 3,
+      "start": 37.48,
+      "end": 37.873
+    },
+    {
+      "text": "may",
+      "stage": 3,
+      "start": 37.88,
+      "end": 38.14
+    },
+    {
+      "text": "follow.",
+      "stage": 3,
+      "start": 38.18,
+      "end": 38.573
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 39.2,
+      "end": 39.313
+    },
+    {
+      "text": "chapter",
+      "stage": 3,
+      "start": 39.28,
+      "end": 39.597
+    },
+    {
+      "text": "calls",
+      "stage": 3,
+      "start": 39.58,
+      "end": 39.896
+    },
+    {
+      "text": "this",
+      "stage": 3,
+      "start": 39.9,
+      "end": 40.125
+    },
+    {
+      "text": "postobstructive",
+      "stage": 3,
+      "start": 40.12,
+      "end": 41.222
+    },
+    {
+      "text": "diuresis",
+      "stage": 3,
+      "start": 41.22,
+      "end": 42.015
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 42.06,
+      "end": 42.493
+    },
+    {
+      "text": "warns",
+      "stage": 3,
+      "start": 42.62,
+      "end": 43.0
+    },
+    {
+      "text": "of",
+      "stage": 3,
+      "start": 43.02,
+      "end": 43.12
+    },
+    {
+      "text": "fluid",
+      "stage": 3,
+      "start": 43.1,
+      "end": 43.464
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 43.48,
+      "end": 43.713
+    },
+    {
+      "text": "electrolyte",
+      "stage": 3,
+      "start": 43.74,
+      "end": 44.364
+    },
+    {
+      "text": "imbalance.",
+      "stage": 3,
+      "start": 44.36,
+      "end": 44.687
+    },
+    {
+      "text": "This",
+      "stage": 4,
+      "start": 45.34,
+      "end": 45.595
+    },
+    {
+      "text": "film",
+      "stage": 4,
+      "start": 45.6,
+      "end": 45.915
+    },
+    {
+      "text": "does",
+      "stage": 4,
+      "start": 45.94,
+      "end": 46.105
+    },
+    {
+      "text": "not",
+      "stage": 4,
+      "start": 46.08,
+      "end": 46.3
+    },
+    {
+      "text": "supply",
+      "stage": 4,
+      "start": 46.32,
+      "end": 46.697
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 46.7,
+      "end": 46.893
+    },
+    {
+      "text": "missing",
+      "stage": 4,
+      "start": 46.9,
+      "end": 47.183
+    },
+    {
+      "text": "explanation",
+      "stage": 4,
+      "start": 47.16,
+      "end": 47.875
+    },
+    {
+      "text": "of",
+      "stage": 4,
+      "start": 47.88,
+      "end": 48.11
+    },
+    {
+      "text": "how",
+      "stage": 4,
+      "start": 48.22,
+      "end": 48.4
+    },
+    {
+      "text": "unilateral",
+      "stage": 4,
+      "start": 48.4,
+      "end": 48.946
+    },
+    {
+      "text": "obstruction",
+      "stage": 4,
+      "start": 48.94,
+      "end": 49.564
+    },
+    {
+      "text": "causes",
+      "stage": 4,
+      "start": 49.56,
+      "end": 49.97
+    },
+    {
+      "text": "hypertension.",
+      "stage": 4,
+      "start": 49.98,
+      "end": 50.572
+    },
+    {
+      "text": "That",
+      "stage": 4,
+      "start": 51.46,
+      "end": 51.745
+    },
+    {
+      "text": "requested",
+      "stage": 4,
+      "start": 51.76,
+      "end": 52.247
+    },
+    {
+      "text": "guide",
+      "stage": 4,
+      "start": 52.24,
+      "end": 52.524
+    },
+    {
+      "text": "component",
+      "stage": 4,
+      "start": 52.52,
+      "end": 53.096
+    },
+    {
+      "text": "remains",
+      "stage": 4,
+      "start": 53.1,
+      "end": 53.64
+    },
+    {
+      "text": "explicitly",
+      "stage": 4,
+      "start": 53.66,
+      "end": 54.35
+    },
+    {
+      "text": "marked",
+      "stage": 4,
+      "start": 54.36,
+      "end": 54.737
+    },
+    {
+      "text": "as",
+      "stage": 4,
+      "start": 54.74,
+      "end": 54.89
+    },
+    {
+      "text": "a",
+      "stage": 4,
+      "start": 54.92,
+      "end": 54.98
+    },
+    {
+      "text": "textbook",
+      "stage": 4,
+      "start": 55.02,
+      "end": 55.395
+    },
+    {
+      "text": "gap.",
+      "stage": 4,
+      "start": 55.38,
+      "end": 55.627
+    }
+  ],
+  "duration": 56.16,
+  "recognitionAgreement": 0.9875
+}
