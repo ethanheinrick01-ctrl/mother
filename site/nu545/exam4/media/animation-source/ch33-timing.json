@@ -1,0 +1,948 @@
+{
+  "title": "VSD: a septal opening changes pulmonary flow",
+  "sources": [
+    "CH33S9",
+    "CH33S10",
+    "CH33S30",
+    "CH33S31",
+    "CH33S32"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Normal separation",
+      "text": "The CDC figure compares a normal heart with a ventricular septal defect. The ventricular septum normally separates the two lower chambers. This institutional artwork is used for visualization, with no CDC endorsement of this study lab."
+    },
+    {
+      "start": 15.74,
+      "title": "Left to right",
+      "text": "A ventricular septal defect leaves a communication. In the supplied postnatal pattern, higher left ventricular pressure sends additional blood toward the right ventricle and pulmonary circulation. Watch the added stream cross the septum."
+    },
+    {
+      "start": 29.28,
+      "title": "Pulmonary burden",
+      "text": "A large shunt increases pulmonary flow. The chapter lists overcirculation and heart failure among possible consequences. This mechanism differs from an outflow obstruction or parallel circuits."
+    },
+    {
+      "start": 41.54,
+      "title": "Growth and source limits",
+      "text": "Pediatric heart failure can cause poor feeding, sweating and inadequate growth. Nutritional support addresses the growth problem; medication and corrective procedures address their stated targets. Chapter thirty three, slides nine, ten and thirty through thirty two, support these points. Shifted released answer labels are marked separately. Complete murmur mapping and criteria for later cyanosis remain source gaps."
+    }
+  ],
+  "words": [
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.153
+    },
+    {
+      "text": "CDC",
+      "stage": 0,
+      "start": 0.14,
+      "end": 0.4
+    },
+    {
+      "text": "figure",
+      "stage": 0,
+      "start": 0.44,
+      "end": 1.0
+    },
+    {
+      "text": "compares",
+      "stage": 0,
+      "start": 1.04,
+      "end": 1.485
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 1.48,
+      "end": 1.54
+    },
+    {
+      "text": "normal",
+      "stage": 0,
+      "start": 1.62,
+      "end": 1.947
+    },
+    {
+      "text": "heart",
+      "stage": 0,
+      "start": 1.94,
+      "end": 2.288
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 2.3,
+      "end": 2.75
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 2.82,
+      "end": 2.88
+    },
+    {
+      "text": "ventricular",
+      "stage": 0,
+      "start": 2.9,
+      "end": 3.415
+    },
+    {
+      "text": "septal",
+      "stage": 0,
+      "start": 3.4,
+      "end": 3.843
+    },
+    {
+      "text": "defect.",
+      "stage": 0,
+      "start": 3.86,
+      "end": 4.203
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 4.78,
+      "end": 5.0
+    },
+    {
+      "text": "ventricular",
+      "stage": 0,
+      "start": 5.02,
+      "end": 5.498
+    },
+    {
+      "text": "septum",
+      "stage": 0,
+      "start": 5.48,
+      "end": 5.94
+    },
+    {
+      "text": "normally",
+      "stage": 0,
+      "start": 5.96,
+      "end": 6.37
+    },
+    {
+      "text": "separates",
+      "stage": 0,
+      "start": 6.36,
+      "end": 6.971
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 6.98,
+      "end": 7.293
+    },
+    {
+      "text": "two",
+      "stage": 0,
+      "start": 7.36,
+      "end": 7.567
+    },
+    {
+      "text": "lower",
+      "stage": 0,
+      "start": 7.58,
+      "end": 7.864
+    },
+    {
+      "text": "chambers.",
+      "stage": 0,
+      "start": 7.86,
+      "end": 8.287
+    },
+    {
+      "text": "This",
+      "stage": 0,
+      "start": 9.38,
+      "end": 9.68
+    },
+    {
+      "text": "institutional",
+      "stage": 0,
+      "start": 9.7,
+      "end": 10.388
+    },
+    {
+      "text": "artwork",
+      "stage": 0,
+      "start": 10.38,
+      "end": 10.8
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 10.8,
+      "end": 11.03
+    },
+    {
+      "text": "used",
+      "stage": 0,
+      "start": 11.14,
+      "end": 11.365
+    },
+    {
+      "text": "for",
+      "stage": 0,
+      "start": 11.36,
+      "end": 11.527
+    },
+    {
+      "text": "visualization,",
+      "stage": 0,
+      "start": 11.52,
+      "end": 12.097
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 12.58,
+      "end": 12.925
+    },
+    {
+      "text": "no",
+      "stage": 0,
+      "start": 12.96,
+      "end": 13.14
+    },
+    {
+      "text": "CDC",
+      "stage": 0,
+      "start": 13.2,
+      "end": 13.527
+    },
+    {
+      "text": "endorsement",
+      "stage": 0,
+      "start": 13.6,
+      "end": 14.351
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 14.36,
+      "end": 14.47
+    },
+    {
+      "text": "this",
+      "stage": 0,
+      "start": 14.46,
+      "end": 14.625
+    },
+    {
+      "text": "study",
+      "stage": 0,
+      "start": 14.6,
+      "end": 14.9
+    },
+    {
+      "text": "lab.",
+      "stage": 0,
+      "start": 14.9,
+      "end": 15.147
+    },
+    {
+      "text": "A",
+      "stage": 1,
+      "start": 15.74,
+      "end": 15.8
+    },
+    {
+      "text": "ventricular",
+      "stage": 1,
+      "start": 15.86,
+      "end": 16.356
+    },
+    {
+      "text": "septal",
+      "stage": 1,
+      "start": 16.34,
+      "end": 16.75
+    },
+    {
+      "text": "defect",
+      "stage": 1,
+      "start": 16.76,
+      "end": 17.137
+    },
+    {
+      "text": "leaves",
+      "stage": 1,
+      "start": 17.14,
+      "end": 17.533
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 17.54,
+      "end": 17.6
+    },
+    {
+      "text": "communication.",
+      "stage": 1,
+      "start": 17.72,
+      "end": 18.408
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 19.12,
+      "end": 19.26
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 19.28,
+      "end": 19.42
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 19.4,
+      "end": 19.775
+    },
+    {
+      "text": "postnatal",
+      "stage": 1,
+      "start": 19.76,
+      "end": 20.389
+    },
+    {
+      "text": "pattern,",
+      "stage": 1,
+      "start": 20.4,
+      "end": 20.786
+    },
+    {
+      "text": "higher",
+      "stage": 1,
+      "start": 21.22,
+      "end": 21.397
+    },
+    {
+      "text": "left",
+      "stage": 1,
+      "start": 21.36,
+      "end": 21.57
+    },
+    {
+      "text": "ventricular",
+      "stage": 1,
+      "start": 21.56,
+      "end": 22.165
+    },
+    {
+      "text": "pressure",
+      "stage": 1,
+      "start": 22.16,
+      "end": 22.64
+    },
+    {
+      "text": "sends",
+      "stage": 1,
+      "start": 22.64,
+      "end": 23.004
+    },
+    {
+      "text": "additional",
+      "stage": 1,
+      "start": 23.02,
+      "end": 23.458
+    },
+    {
+      "text": "blood",
+      "stage": 1,
+      "start": 23.44,
+      "end": 23.724
+    },
+    {
+      "text": "toward",
+      "stage": 1,
+      "start": 23.72,
+      "end": 23.98
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 23.96,
+      "end": 24.127
+    },
+    {
+      "text": "right",
+      "stage": 1,
+      "start": 24.12,
+      "end": 24.324
+    },
+    {
+      "text": "ventricle",
+      "stage": 1,
+      "start": 24.3,
+      "end": 24.911
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 24.92,
+      "end": 25.14
+    },
+    {
+      "text": "pulmonary",
+      "stage": 1,
+      "start": 25.16,
+      "end": 25.576
+    },
+    {
+      "text": "circulation.",
+      "stage": 1,
+      "start": 25.56,
+      "end": 26.384
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 26.86,
+      "end": 27.128
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 27.12,
+      "end": 27.34
+    },
+    {
+      "text": "added",
+      "stage": 1,
+      "start": 27.36,
+      "end": 27.628
+    },
+    {
+      "text": "stream",
+      "stage": 1,
+      "start": 27.62,
+      "end": 27.98
+    },
+    {
+      "text": "cross",
+      "stage": 1,
+      "start": 27.98,
+      "end": 28.344
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 28.36,
+      "end": 28.567
+    },
+    {
+      "text": "septum.",
+      "stage": 1,
+      "start": 28.58,
+      "end": 29.007
+    },
+    {
+      "text": "A",
+      "stage": 2,
+      "start": 29.28,
+      "end": 29.34
+    },
+    {
+      "text": "large",
+      "stage": 2,
+      "start": 29.7,
+      "end": 29.968
+    },
+    {
+      "text": "shunt",
+      "stage": 2,
+      "start": 29.96,
+      "end": 30.276
+    },
+    {
+      "text": "increases",
+      "stage": 2,
+      "start": 30.28,
+      "end": 30.784
+    },
+    {
+      "text": "pulmonary",
+      "stage": 2,
+      "start": 30.78,
+      "end": 31.213
+    },
+    {
+      "text": "flow.",
+      "stage": 2,
+      "start": 31.2,
+      "end": 31.62
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 32.28,
+      "end": 32.58
+    },
+    {
+      "text": "chapter",
+      "stage": 2,
+      "start": 32.64,
+      "end": 32.974
+    },
+    {
+      "text": "lists",
+      "stage": 2,
+      "start": 32.96,
+      "end": 33.292
+    },
+    {
+      "text": "overcirculation",
+      "stage": 2,
+      "start": 33.3,
+      "end": 34.084
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 34.06,
+      "end": 34.413
+    },
+    {
+      "text": "heart",
+      "stage": 2,
+      "start": 34.5,
+      "end": 34.672
+    },
+    {
+      "text": "failure",
+      "stage": 2,
+      "start": 34.64,
+      "end": 34.906
+    },
+    {
+      "text": "among",
+      "stage": 2,
+      "start": 34.88,
+      "end": 35.212
+    },
+    {
+      "text": "possible",
+      "stage": 2,
+      "start": 35.22,
+      "end": 35.683
+    },
+    {
+      "text": "consequences.",
+      "stage": 2,
+      "start": 35.68,
+      "end": 36.363
+    },
+    {
+      "text": "This",
+      "stage": 2,
+      "start": 36.98,
+      "end": 37.205
+    },
+    {
+      "text": "mechanism",
+      "stage": 2,
+      "start": 37.2,
+      "end": 37.616
+    },
+    {
+      "text": "differs",
+      "stage": 2,
+      "start": 37.6,
+      "end": 38.054
+    },
+    {
+      "text": "from",
+      "stage": 2,
+      "start": 38.06,
+      "end": 38.345
+    },
+    {
+      "text": "an",
+      "stage": 2,
+      "start": 38.36,
+      "end": 38.47
+    },
+    {
+      "text": "outflow",
+      "stage": 2,
+      "start": 38.46,
+      "end": 38.88
+    },
+    {
+      "text": "obstruction",
+      "stage": 2,
+      "start": 38.88,
+      "end": 39.431
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 39.42,
+      "end": 39.73
+    },
+    {
+      "text": "parallel",
+      "stage": 2,
+      "start": 39.92,
+      "end": 40.33
+    },
+    {
+      "text": "circuits.",
+      "stage": 2,
+      "start": 40.32,
+      "end": 40.87
+    },
+    {
+      "text": "Pediatric",
+      "stage": 3,
+      "start": 41.54,
+      "end": 41.867
+    },
+    {
+      "text": "heart",
+      "stage": 3,
+      "start": 41.84,
+      "end": 42.172
+    },
+    {
+      "text": "failure",
+      "stage": 3,
+      "start": 42.18,
+      "end": 42.549
+    },
+    {
+      "text": "can",
+      "stage": 3,
+      "start": 42.54,
+      "end": 42.733
+    },
+    {
+      "text": "cause",
+      "stage": 3,
+      "start": 42.74,
+      "end": 43.024
+    },
+    {
+      "text": "poor",
+      "stage": 3,
+      "start": 43.02,
+      "end": 43.275
+    },
+    {
+      "text": "feeding,",
+      "stage": 3,
+      "start": 43.28,
+      "end": 43.649
+    },
+    {
+      "text": "sweating",
+      "stage": 3,
+      "start": 44.26,
+      "end": 44.513
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 44.48,
+      "end": 44.793
+    },
+    {
+      "text": "inadequate",
+      "stage": 3,
+      "start": 44.86,
+      "end": 45.352
+    },
+    {
+      "text": "growth.",
+      "stage": 3,
+      "start": 45.34,
+      "end": 45.917
+    },
+    {
+      "text": "Nutritional",
+      "stage": 3,
+      "start": 46.54,
+      "end": 47.0
+    },
+    {
+      "text": "support",
+      "stage": 3,
+      "start": 46.98,
+      "end": 47.349
+    },
+    {
+      "text": "addresses",
+      "stage": 3,
+      "start": 47.34,
+      "end": 47.791
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 47.78,
+      "end": 48.0
+    },
+    {
+      "text": "growth",
+      "stage": 3,
+      "start": 48.02,
+      "end": 48.263
+    },
+    {
+      "text": "problem;",
+      "stage": 3,
+      "start": 48.24,
+      "end": 48.746
+    },
+    {
+      "text": "medication",
+      "stage": 3,
+      "start": 49.36,
+      "end": 49.852
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 49.84,
+      "end": 50.047
+    },
+    {
+      "text": "corrective",
+      "stage": 3,
+      "start": 50.06,
+      "end": 50.534
+    },
+    {
+      "text": "procedures",
+      "stage": 3,
+      "start": 50.52,
+      "end": 50.976
+    },
+    {
+      "text": "address",
+      "stage": 3,
+      "start": 50.96,
+      "end": 51.62
+    },
+    {
+      "text": "their",
+      "stage": 3,
+      "start": 51.66,
+      "end": 51.928
+    },
+    {
+      "text": "stated",
+      "stage": 3,
+      "start": 51.92,
+      "end": 52.247
+    },
+    {
+      "text": "targets.",
+      "stage": 3,
+      "start": 52.24,
+      "end": 52.746
+    },
+    {
+      "text": "Chapter",
+      "stage": 3,
+      "start": 53.4,
+      "end": 54.094
+    },
+    {
+      "text": "thirty",
+      "stage": 3,
+      "start": 54.091,
+      "end": 54.437
+    },
+    {
+      "text": "three,",
+      "stage": 3,
+      "start": 54.434,
+      "end": 54.723
+    },
+    {
+      "text": "slides",
+      "stage": 3,
+      "start": 54.72,
+      "end": 55.513
+    },
+    {
+      "text": "nine,",
+      "stage": 3,
+      "start": 55.6,
+      "end": 56.08
+    },
+    {
+      "text": "ten",
+      "stage": 3,
+      "start": 56.24,
+      "end": 56.74
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 56.9,
+      "end": 57.067
+    },
+    {
+      "text": "thirty",
+      "stage": 3,
+      "start": 57.054,
+      "end": 57.352
+    },
+    {
+      "text": "through",
+      "stage": 3,
+      "start": 57.34,
+      "end": 57.571
+    },
+    {
+      "text": "thirty",
+      "stage": 3,
+      "start": 57.564,
+      "end": 57.889
+    },
+    {
+      "text": "two,",
+      "stage": 3,
+      "start": 57.881,
+      "end": 58.047
+    },
+    {
+      "text": "support",
+      "stage": 3,
+      "start": 58.04,
+      "end": 58.666
+    },
+    {
+      "text": "these",
+      "stage": 3,
+      "start": 58.7,
+      "end": 59.032
+    },
+    {
+      "text": "points.",
+      "stage": 3,
+      "start": 59.04,
+      "end": 59.4
+    },
+    {
+      "text": "Shifted",
+      "stage": 3,
+      "start": 60.3,
+      "end": 60.771
+    },
+    {
+      "text": "released",
+      "stage": 3,
+      "start": 60.78,
+      "end": 61.068
+    },
+    {
+      "text": "answer",
+      "stage": 3,
+      "start": 61.04,
+      "end": 61.517
+    },
+    {
+      "text": "labels",
+      "stage": 3,
+      "start": 61.54,
+      "end": 61.917
+    },
+    {
+      "text": "are",
+      "stage": 3,
+      "start": 61.92,
+      "end": 62.14
+    },
+    {
+      "text": "marked",
+      "stage": 3,
+      "start": 62.16,
+      "end": 62.487
+    },
+    {
+      "text": "separately.",
+      "stage": 3,
+      "start": 62.48,
+      "end": 63.044
+    },
+    {
+      "text": "Complete",
+      "stage": 3,
+      "start": 63.62,
+      "end": 63.943
+    },
+    {
+      "text": "murmur",
+      "stage": 3,
+      "start": 63.92,
+      "end": 64.28
+    },
+    {
+      "text": "mapping",
+      "stage": 3,
+      "start": 64.28,
+      "end": 64.563
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 64.54,
+      "end": 64.76
+    },
+    {
+      "text": "criteria",
+      "stage": 3,
+      "start": 64.78,
+      "end": 65.26
+    },
+    {
+      "text": "for",
+      "stage": 3,
+      "start": 65.26,
+      "end": 65.547
+    },
+    {
+      "text": "later",
+      "stage": 3,
+      "start": 65.6,
+      "end": 65.884
+    },
+    {
+      "text": "cyanosis",
+      "stage": 3,
+      "start": 65.88,
+      "end": 66.5
+    },
+    {
+      "text": "remain",
+      "stage": 3,
+      "start": 66.52,
+      "end": 66.88
+    },
+    {
+      "text": "source",
+      "stage": 3,
+      "start": 66.88,
+      "end": 67.223
+    },
+    {
+      "text": "gaps.",
+      "stage": 3,
+      "start": 67.22,
+      "end": 67.49
+    }
+  ],
+  "duration": 67.92,
+  "recognitionAgreement": 0.9795
+}

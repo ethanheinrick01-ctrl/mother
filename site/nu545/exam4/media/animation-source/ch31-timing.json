@@ -1,0 +1,829 @@
+{
+  "title": "The cardiac cycle: filling, closed valves and ejection",
+  "sources": [
+    "CH31S15",
+    "CH31S16",
+    "CH31S20",
+    "CH31S21",
+    "CH31S22",
+    "CH31S23"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Filling",
+      "text": "Follow blood through the valves, using the original OpenStax heart as an anatomical reference. During passive ventricular filling, the atrioventricular valves are open and the semilunar valves are closed. Atrial systole completes filling."
+    },
+    {
+      "start": 15.0,
+      "title": "Pressure without ejection",
+      "text": "The ventricles begin isovolumetric systole. Atrioventricular valves close, and all valves are briefly closed. Pressure rises while ventricular volume is unchanged."
+    },
+    {
+      "start": 25.7,
+      "title": "Ejection",
+      "text": "When ventricular pressure exceeds outflow pressure, the semilunar valves open. The ventricles eject blood toward the pulmonary artery and aorta. The animation tracks movement rather than claiming a measured flow speed."
+    },
+    {
+      "start": 38.64,
+      "title": "Relaxation and refilling",
+      "text": "Semilunar valves close during isovolumetric relaxation. All valves are again closed until ventricular pressure falls enough for atrioventricular opening and renewed filling. Chapter thirty one, slides fifteen, sixteen and twenty through twenty three, support this sequence. Numeric chamber pressures and complete abnormal tracing interpretation are not supplied."
+    }
+  ],
+  "words": [
+    {
+      "text": "Follow",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.327
+    },
+    {
+      "text": "blood",
+      "stage": 0,
+      "start": 0.32,
+      "end": 0.636
+    },
+    {
+      "text": "through",
+      "stage": 0,
+      "start": 0.64,
+      "end": 0.906
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 0.88,
+      "end": 1.033
+    },
+    {
+      "text": "valves,",
+      "stage": 0,
+      "start": 1.02,
+      "end": 1.263
+    },
+    {
+      "text": "using",
+      "stage": 0,
+      "start": 1.24,
+      "end": 1.812
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 1.88,
+      "end": 2.073
+    },
+    {
+      "text": "original",
+      "stage": 0,
+      "start": 2.08,
+      "end": 2.455
+    },
+    {
+      "text": "OpenStax",
+      "stage": 0,
+      "start": 2.44,
+      "end": 2.987
+    },
+    {
+      "text": "heart",
+      "stage": 0,
+      "start": 3.02,
+      "end": 3.288
+    },
+    {
+      "text": "as",
+      "stage": 0,
+      "start": 3.28,
+      "end": 3.57
+    },
+    {
+      "text": "an",
+      "stage": 0,
+      "start": 3.74,
+      "end": 3.88
+    },
+    {
+      "text": "anatomical",
+      "stage": 0,
+      "start": 3.9,
+      "end": 4.554
+    },
+    {
+      "text": "reference.",
+      "stage": 0,
+      "start": 4.56,
+      "end": 4.976
+    },
+    {
+      "text": "During",
+      "stage": 0,
+      "start": 5.8,
+      "end": 6.01
+    },
+    {
+      "text": "passive",
+      "stage": 0,
+      "start": 5.98,
+      "end": 6.4
+    },
+    {
+      "text": "ventricular",
+      "stage": 0,
+      "start": 6.4,
+      "end": 6.896
+    },
+    {
+      "text": "filling,",
+      "stage": 0,
+      "start": 6.88,
+      "end": 7.249
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 7.72,
+      "end": 7.833
+    },
+    {
+      "text": "atrioventricular",
+      "stage": 0,
+      "start": 7.8,
+      "end": 8.573
+    },
+    {
+      "text": "valves",
+      "stage": 0,
+      "start": 8.56,
+      "end": 9.037
+    },
+    {
+      "text": "are",
+      "stage": 0,
+      "start": 9.06,
+      "end": 9.227
+    },
+    {
+      "text": "open",
+      "stage": 0,
+      "start": 9.22,
+      "end": 9.55
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 9.58,
+      "end": 9.933
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 10.02,
+      "end": 10.16
+    },
+    {
+      "text": "semilunar",
+      "stage": 0,
+      "start": 10.14,
+      "end": 10.627
+    },
+    {
+      "text": "valves",
+      "stage": 0,
+      "start": 10.62,
+      "end": 10.947
+    },
+    {
+      "text": "are",
+      "stage": 0,
+      "start": 10.94,
+      "end": 11.067
+    },
+    {
+      "text": "closed.",
+      "stage": 0,
+      "start": 11.04,
+      "end": 11.367
+    },
+    {
+      "text": "Atrial",
+      "stage": 0,
+      "start": 12.4,
+      "end": 12.71
+    },
+    {
+      "text": "systole",
+      "stage": 0,
+      "start": 12.7,
+      "end": 13.137
+    },
+    {
+      "text": "completes",
+      "stage": 0,
+      "start": 13.14,
+      "end": 13.52
+    },
+    {
+      "text": "filling.",
+      "stage": 0,
+      "start": 13.5,
+      "end": 13.971
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 15.0,
+      "end": 15.14
+    },
+    {
+      "text": "ventricles",
+      "stage": 1,
+      "start": 15.12,
+      "end": 15.558
+    },
+    {
+      "text": "begin",
+      "stage": 1,
+      "start": 15.54,
+      "end": 15.856
+    },
+    {
+      "text": "isovolumetric",
+      "stage": 1,
+      "start": 15.86,
+      "end": 16.825
+    },
+    {
+      "text": "systole.",
+      "stage": 1,
+      "start": 16.84,
+      "end": 17.311
+    },
+    {
+      "text": "Atrioventricular",
+      "stage": 1,
+      "start": 18.74,
+      "end": 19.494
+    },
+    {
+      "text": "valves",
+      "stage": 1,
+      "start": 19.48,
+      "end": 19.857
+    },
+    {
+      "text": "close,",
+      "stage": 1,
+      "start": 19.86,
+      "end": 20.144
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 20.14,
+      "end": 20.493
+    },
+    {
+      "text": "all",
+      "stage": 1,
+      "start": 20.58,
+      "end": 20.8
+    },
+    {
+      "text": "valves",
+      "stage": 1,
+      "start": 20.82,
+      "end": 21.13
+    },
+    {
+      "text": "are",
+      "stage": 1,
+      "start": 21.12,
+      "end": 21.273
+    },
+    {
+      "text": "briefly",
+      "stage": 1,
+      "start": 21.26,
+      "end": 21.509
+    },
+    {
+      "text": "closed.",
+      "stage": 1,
+      "start": 21.48,
+      "end": 22.023
+    },
+    {
+      "text": "Pressure",
+      "stage": 1,
+      "start": 22.7,
+      "end": 23.022
+    },
+    {
+      "text": "rises",
+      "stage": 1,
+      "start": 23.0,
+      "end": 23.316
+    },
+    {
+      "text": "while",
+      "stage": 1,
+      "start": 23.32,
+      "end": 23.588
+    },
+    {
+      "text": "ventricular",
+      "stage": 1,
+      "start": 23.58,
+      "end": 24.058
+    },
+    {
+      "text": "volume",
+      "stage": 1,
+      "start": 24.04,
+      "end": 24.45
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 24.46,
+      "end": 24.62
+    },
+    {
+      "text": "unchanged.",
+      "stage": 1,
+      "start": 24.66,
+      "end": 25.164
+    },
+    {
+      "text": "When",
+      "stage": 2,
+      "start": 25.7,
+      "end": 25.925
+    },
+    {
+      "text": "ventricular",
+      "stage": 2,
+      "start": 25.92,
+      "end": 26.453
+    },
+    {
+      "text": "pressure",
+      "stage": 2,
+      "start": 26.44,
+      "end": 26.832
+    },
+    {
+      "text": "exceeds",
+      "stage": 2,
+      "start": 26.82,
+      "end": 27.206
+    },
+    {
+      "text": "outflow",
+      "stage": 2,
+      "start": 27.2,
+      "end": 27.671
+    },
+    {
+      "text": "pressure,",
+      "stage": 2,
+      "start": 27.68,
+      "end": 28.09
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 28.4,
+      "end": 28.5
+    },
+    {
+      "text": "semilunar",
+      "stage": 2,
+      "start": 28.46,
+      "end": 28.968
+    },
+    {
+      "text": "valves",
+      "stage": 2,
+      "start": 28.964,
+      "end": 29.304
+    },
+    {
+      "text": "open.",
+      "stage": 2,
+      "start": 29.3,
+      "end": 29.555
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 30.0,
+      "end": 30.193
+    },
+    {
+      "text": "ventricles",
+      "stage": 2,
+      "start": 30.2,
+      "end": 30.71
+    },
+    {
+      "text": "eject",
+      "stage": 2,
+      "start": 30.7,
+      "end": 30.968
+    },
+    {
+      "text": "blood",
+      "stage": 2,
+      "start": 30.96,
+      "end": 31.292
+    },
+    {
+      "text": "toward",
+      "stage": 2,
+      "start": 31.3,
+      "end": 31.693
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 31.7,
+      "end": 31.893
+    },
+    {
+      "text": "pulmonary",
+      "stage": 2,
+      "start": 31.9,
+      "end": 32.316
+    },
+    {
+      "text": "artery",
+      "stage": 2,
+      "start": 32.3,
+      "end": 32.777
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 32.8,
+      "end": 33.167
+    },
+    {
+      "text": "aorta.",
+      "stage": 2,
+      "start": 33.26,
+      "end": 33.624
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 34.28,
+      "end": 34.407
+    },
+    {
+      "text": "animation",
+      "stage": 2,
+      "start": 34.38,
+      "end": 34.742
+    },
+    {
+      "text": "tracks",
+      "stage": 2,
+      "start": 34.72,
+      "end": 35.13
+    },
+    {
+      "text": "movement",
+      "stage": 2,
+      "start": 35.14,
+      "end": 35.708
+    },
+    {
+      "text": "rather",
+      "stage": 2,
+      "start": 35.72,
+      "end": 36.28
+    },
+    {
+      "text": "than",
+      "stage": 2,
+      "start": 36.32,
+      "end": 36.575
+    },
+    {
+      "text": "claiming",
+      "stage": 2,
+      "start": 36.58,
+      "end": 36.903
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 36.88,
+      "end": 36.94
+    },
+    {
+      "text": "measured",
+      "stage": 2,
+      "start": 37.08,
+      "end": 37.385
+    },
+    {
+      "text": "flow",
+      "stage": 2,
+      "start": 37.36,
+      "end": 37.645
+    },
+    {
+      "text": "speed.",
+      "stage": 2,
+      "start": 37.66,
+      "end": 38.072
+    },
+    {
+      "text": "Semilunar",
+      "stage": 3,
+      "start": 38.64,
+      "end": 39.105
+    },
+    {
+      "text": "valves",
+      "stage": 3,
+      "start": 39.096,
+      "end": 39.409
+    },
+    {
+      "text": "close",
+      "stage": 3,
+      "start": 39.4,
+      "end": 39.636
+    },
+    {
+      "text": "during",
+      "stage": 3,
+      "start": 39.62,
+      "end": 39.997
+    },
+    {
+      "text": "isovolumetric",
+      "stage": 3,
+      "start": 40.0,
+      "end": 41.112
+    },
+    {
+      "text": "relaxation.",
+      "stage": 3,
+      "start": 41.14,
+      "end": 41.902
+    },
+    {
+      "text": "All",
+      "stage": 3,
+      "start": 42.62,
+      "end": 42.88
+    },
+    {
+      "text": "valves",
+      "stage": 3,
+      "start": 42.92,
+      "end": 43.263
+    },
+    {
+      "text": "are",
+      "stage": 3,
+      "start": 43.26,
+      "end": 43.413
+    },
+    {
+      "text": "again",
+      "stage": 3,
+      "start": 43.4,
+      "end": 43.668
+    },
+    {
+      "text": "closed",
+      "stage": 3,
+      "start": 43.66,
+      "end": 44.053
+    },
+    {
+      "text": "until",
+      "stage": 3,
+      "start": 44.06,
+      "end": 44.472
+    },
+    {
+      "text": "ventricular",
+      "stage": 3,
+      "start": 44.5,
+      "end": 44.978
+    },
+    {
+      "text": "pressure",
+      "stage": 3,
+      "start": 44.96,
+      "end": 45.37
+    },
+    {
+      "text": "falls",
+      "stage": 3,
+      "start": 45.36,
+      "end": 45.676
+    },
+    {
+      "text": "enough",
+      "stage": 3,
+      "start": 45.68,
+      "end": 46.007
+    },
+    {
+      "text": "for",
+      "stage": 3,
+      "start": 46.0,
+      "end": 46.22
+    },
+    {
+      "text": "atrioventricular",
+      "stage": 3,
+      "start": 46.24,
+      "end": 47.181
+    },
+    {
+      "text": "opening",
+      "stage": 3,
+      "start": 47.18,
+      "end": 47.669
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 47.68,
+      "end": 47.913
+    },
+    {
+      "text": "renewed",
+      "stage": 3,
+      "start": 47.94,
+      "end": 48.223
+    },
+    {
+      "text": "filling.",
+      "stage": 3,
+      "start": 48.2,
+      "end": 48.62
+    },
+    {
+      "text": "Chapter",
+      "stage": 3,
+      "start": 49.68,
+      "end": 49.843
+    },
+    {
+      "text": "thirty",
+      "stage": 3,
+      "start": 49.847,
+      "end": 50.225
+    },
+    {
+      "text": "one,",
+      "stage": 3,
+      "start": 50.229,
+      "end": 50.416
+    },
+    {
+      "text": "slides",
+      "stage": 3,
+      "start": 50.42,
+      "end": 50.98
+    },
+    {
+      "text": "fifteen,",
+      "stage": 3,
+      "start": 51.015,
+      "end": 51.643
+    },
+    {
+      "text": "sixteen",
+      "stage": 3,
+      "start": 51.677,
+      "end": 52.305
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 52.34,
+      "end": 52.52
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 52.506,
+      "end": 52.794
+    },
+    {
+      "text": "through",
+      "stage": 3,
+      "start": 52.78,
+      "end": 53.011
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 52.999,
+      "end": 53.296
+    },
+    {
+      "text": "three,",
+      "stage": 3,
+      "start": 53.283,
+      "end": 53.533
+    },
+    {
+      "text": "support",
+      "stage": 3,
+      "start": 53.52,
+      "end": 54.3
+    },
+    {
+      "text": "this",
+      "stage": 3,
+      "start": 54.36,
+      "end": 54.615
+    },
+    {
+      "text": "sequence.",
+      "stage": 3,
+      "start": 54.62,
+      "end": 55.17
+    },
+    {
+      "text": "Numeric",
+      "stage": 3,
+      "start": 55.94,
+      "end": 56.394
+    },
+    {
+      "text": "chamber",
+      "stage": 3,
+      "start": 56.4,
+      "end": 56.7
+    },
+    {
+      "text": "pressures",
+      "stage": 3,
+      "start": 56.68,
+      "end": 57.096
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 57.08,
+      "end": 57.54
+    },
+    {
+      "text": "complete",
+      "stage": 3,
+      "start": 57.68,
+      "end": 58.055
+    },
+    {
+      "text": "abnormal",
+      "stage": 3,
+      "start": 58.04,
+      "end": 58.485
+    },
+    {
+      "text": "tracing",
+      "stage": 3,
+      "start": 58.48,
+      "end": 59.003
+    },
+    {
+      "text": "interpretation",
+      "stage": 3,
+      "start": 59.02,
+      "end": 59.823
+    },
+    {
+      "text": "are",
+      "stage": 3,
+      "start": 59.82,
+      "end": 60.173
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 60.26,
+      "end": 60.467
+    },
+    {
+      "text": "supplied.",
+      "stage": 3,
+      "start": 60.48,
+      "end": 60.977
+    }
+  ],
+  "duration": 61.56,
+  "recognitionAgreement": 0.9634
+}

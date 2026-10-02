@@ -1,0 +1,96 @@
+{
+  "exam": "nu545-exam4",
+  "reviewed": "2026-10-02",
+  "baseline": "9c058c6",
+  "contentRevision": "bank-e12ab7d68c6f473e",
+  "tests": {
+    "passed": 74,
+    "failed": 0,
+    "command": "node --test tests/*.test.cjs"
+  },
+  "hydratedValidator": {
+    "mode": "hydrated",
+    "sections": 6,
+    "concepts": 29,
+    "guideCards": 33,
+    "items": 159,
+    "cases": 26,
+    "bosses": 1,
+    "mocks": 1,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "browser": {
+    "chapters": 6,
+    "guideCards": 33,
+    "originalFiguresOpened": 9,
+    "filmsPlayed": 6,
+    "successfulStageJumps": 24,
+    "nativeControls": true,
+    "autoplay": false,
+    "captions": "English track loaded and shown during actual playback",
+    "mockFormsFinished": 3,
+    "mockQuestionsChecked": 75,
+    "completedBossQuestionsChecked": 25,
+    "confidenceGuard": true,
+    "firstWrongFeedbackColors": {
+      "correct": "#4cd07d",
+      "wrong": "#ff6b6b",
+      "unselectedCorrectRadioStayedUnselected": true
+    },
+    "savedCorrectionSeparate": true,
+    "draftsAndNotesSurvivedReload": true,
+    "crossTabNotesMerged": true,
+    "staleCrossTabAnswerPreservedFirstResponse": true,
+    "pasteImport": {
+      "validFixtureCharacters": 52438,
+      "idempotent": true,
+      "wrongExamRejected": true,
+      "futureSchemaRejected": true,
+      "malformedRejected": true
+    },
+    "archivedSavedKeySurvivedReload": true,
+    "expiredMock": "completed, 0/25, 25 unanswered after reload",
+    "keyboard": "Enter starts/checks; Space selects answer and confidence; Tab reaches rationale disclosure",
+    "phone": {
+      "cssViewport": 390,
+      "height": 844,
+      "chapters": 6,
+      "caseChapters": 6,
+      "assessmentRuns": 11,
+      "topLevelModes": 9,
+      "pageWideOverflow": false
+    }
+  },
+  "fullBackupEngineRoundTrip": {
+    "transport": "offline accepted store imports exact complete browser-created QA export",
+    "characters": 896024,
+    "attempts": 114,
+    "runs": 15,
+    "firstResponse": false,
+    "corrections": 1,
+    "idempotent": true
+  },
+  "pending": {
+    "nativeJsonFileDownload": "Click attempted twice with small and large exports; no downloaded-file receipt returned.",
+    "nativeFileChooserImport": "Chrome extension requires Allow access to file URLs; permission not expanded.",
+    "singleLargeBrowserPaste": "896024-character fill/copy-paste interrupts browser automation; smaller browser import and complete engine roundtrip verified.",
+    "directFileUrlBrowser": "Browser control supports http/https; direct file:// launch not verified."
+  },
+  "syntax": {
+    "runtimeFilesChecked": 6,
+    "passed": true
+  },
+  "publicPrivacyScan": {
+    "files": 75,
+    "textFilesScanned": 52,
+    "issues": 0
+  },
+  "scope": {
+    "stagedFiles": 78,
+    "onlyExam4Paths": true,
+    "existingExamsAndSharedTrackedFilesUnchanged": true,
+    "method": "Scoped staged diff inspected before the local commit; not a permanent assertion against other exam integration."
+  }
+}

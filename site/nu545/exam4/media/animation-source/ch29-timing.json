@@ -1,0 +1,773 @@
+{
+  "title": "DIC: clotting, consumption and bleeding",
+  "sources": [
+    "CH29S117",
+    "CH29S118",
+    "CH29S119",
+    "CH29S120"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Local repair reference",
+      "text": "Normal clotting confines fibrin formation to a vessel injury. This scholarly repair figure provides the reference. Disseminated intravascular coagulation changes the location and extent of that process."
+    },
+    {
+      "start": 12.64,
+      "title": "Widespread activation",
+      "text": "In DIC, widespread tissue factor exposure activates clotting. Thrombin and fibrin activity increase. Fibrin deposits inside small vessels impede blood flow, reducing organ perfusion."
+    },
+    {
+      "start": 24.28,
+      "title": "Consumption and bleeding",
+      "text": "As clotting continues, platelets and coagulation factors are consumed. Accelerated fibrinolysis accompanies the process. The same patient can therefore have microvascular thrombosis and uncontrolled bleeding."
+    },
+    {
+      "start": 37.08,
+      "title": "Treat the driver",
+      "text": "Treatment goals include eliminating the underlying pathology, restoring hemostasis and supporting failing organs. Component replacement alone does not remove the trigger. Chapter twenty nine, slides one hundred seventeen through one hundred twenty, support this sequence. The complete diagnostic laboratory pattern and specific treatment indications remain textbook gaps."
+    }
+  ],
+  "words": [
+    {
+      "text": "Normal",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.293
+    },
+    {
+      "text": "clotting",
+      "stage": 0,
+      "start": 0.28,
+      "end": 0.812
+    },
+    {
+      "text": "confines",
+      "stage": 0,
+      "start": 0.82,
+      "end": 1.353
+    },
+    {
+      "text": "fibrin",
+      "stage": 0,
+      "start": 1.36,
+      "end": 1.82
+    },
+    {
+      "text": "formation",
+      "stage": 0,
+      "start": 1.84,
+      "end": 2.256
+    },
+    {
+      "text": "to",
+      "stage": 0,
+      "start": 2.24,
+      "end": 2.5
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 2.64,
+      "end": 2.7
+    },
+    {
+      "text": "vessel",
+      "stage": 0,
+      "start": 2.78,
+      "end": 3.04
+    },
+    {
+      "text": "injury.",
+      "stage": 0,
+      "start": 3.02,
+      "end": 3.43
+    },
+    {
+      "text": "This",
+      "stage": 0,
+      "start": 3.9,
+      "end": 4.08
+    },
+    {
+      "text": "scholarly",
+      "stage": 0,
+      "start": 4.06,
+      "end": 4.493
+    },
+    {
+      "text": "repair",
+      "stage": 0,
+      "start": 4.48,
+      "end": 4.89
+    },
+    {
+      "text": "figure",
+      "stage": 0,
+      "start": 4.9,
+      "end": 5.293
+    },
+    {
+      "text": "provides",
+      "stage": 0,
+      "start": 5.3,
+      "end": 5.675
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 5.66,
+      "end": 5.88
+    },
+    {
+      "text": "reference.",
+      "stage": 0,
+      "start": 5.9,
+      "end": 6.298
+    },
+    {
+      "text": "Disseminated",
+      "stage": 0,
+      "start": 6.94,
+      "end": 7.532
+    },
+    {
+      "text": "intravascular",
+      "stage": 0,
+      "start": 7.52,
+      "end": 8.208
+    },
+    {
+      "text": "coagulation",
+      "stage": 0,
+      "start": 8.2,
+      "end": 9.005
+    },
+    {
+      "text": "changes",
+      "stage": 0,
+      "start": 9.02,
+      "end": 9.526
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 9.54,
+      "end": 9.773
+    },
+    {
+      "text": "location",
+      "stage": 0,
+      "start": 9.8,
+      "end": 10.175
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 10.16,
+      "end": 10.567
+    },
+    {
+      "text": "extent",
+      "stage": 0,
+      "start": 10.68,
+      "end": 11.04
+    },
+    {
+      "text": "of",
+      "stage": 0,
+      "start": 11.04,
+      "end": 11.24
+    },
+    {
+      "text": "that",
+      "stage": 0,
+      "start": 11.32,
+      "end": 11.455
+    },
+    {
+      "text": "process.",
+      "stage": 0,
+      "start": 11.42,
+      "end": 11.891
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 12.64,
+      "end": 12.74
+    },
+    {
+      "text": "DIC,",
+      "stage": 1,
+      "start": 12.72,
+      "end": 13.06
+    },
+    {
+      "text": "widespread",
+      "stage": 1,
+      "start": 13.48,
+      "end": 13.756
+    },
+    {
+      "text": "tissue",
+      "stage": 1,
+      "start": 13.72,
+      "end": 14.063
+    },
+    {
+      "text": "factor",
+      "stage": 1,
+      "start": 14.06,
+      "end": 14.403
+    },
+    {
+      "text": "exposure",
+      "stage": 1,
+      "start": 14.4,
+      "end": 14.775
+    },
+    {
+      "text": "activates",
+      "stage": 1,
+      "start": 14.76,
+      "end": 15.371
+    },
+    {
+      "text": "clotting.",
+      "stage": 1,
+      "start": 15.38,
+      "end": 16.0
+    },
+    {
+      "text": "Thrombin",
+      "stage": 1,
+      "start": 16.34,
+      "end": 16.75
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 16.74,
+      "end": 17.0
+    },
+    {
+      "text": "fibrin",
+      "stage": 1,
+      "start": 17.04,
+      "end": 17.5
+    },
+    {
+      "text": "activity",
+      "stage": 1,
+      "start": 17.52,
+      "end": 17.842
+    },
+    {
+      "text": "increase.",
+      "stage": 1,
+      "start": 17.82,
+      "end": 18.422
+    },
+    {
+      "text": "Fibrin",
+      "stage": 1,
+      "start": 19.06,
+      "end": 19.403
+    },
+    {
+      "text": "deposits",
+      "stage": 1,
+      "start": 19.4,
+      "end": 19.827
+    },
+    {
+      "text": "inside",
+      "stage": 1,
+      "start": 19.82,
+      "end": 20.263
+    },
+    {
+      "text": "small",
+      "stage": 1,
+      "start": 20.28,
+      "end": 20.676
+    },
+    {
+      "text": "vessels",
+      "stage": 1,
+      "start": 20.7,
+      "end": 21.034
+    },
+    {
+      "text": "impede",
+      "stage": 1,
+      "start": 21.02,
+      "end": 21.563
+    },
+    {
+      "text": "blood",
+      "stage": 1,
+      "start": 21.6,
+      "end": 21.836
+    },
+    {
+      "text": "flow,",
+      "stage": 1,
+      "start": 21.82,
+      "end": 22.105
+    },
+    {
+      "text": "reducing",
+      "stage": 1,
+      "start": 22.42,
+      "end": 22.777
+    },
+    {
+      "text": "organ",
+      "stage": 1,
+      "start": 22.76,
+      "end": 23.124
+    },
+    {
+      "text": "perfusion.",
+      "stage": 1,
+      "start": 23.14,
+      "end": 23.716
+    },
+    {
+      "text": "As",
+      "stage": 2,
+      "start": 24.28,
+      "end": 24.41
+    },
+    {
+      "text": "clotting",
+      "stage": 2,
+      "start": 24.42,
+      "end": 24.795
+    },
+    {
+      "text": "continues,",
+      "stage": 2,
+      "start": 24.78,
+      "end": 25.356
+    },
+    {
+      "text": "platelets",
+      "stage": 2,
+      "start": 25.8,
+      "end": 26.073
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 26.04,
+      "end": 26.233
+    },
+    {
+      "text": "coagulation",
+      "stage": 2,
+      "start": 26.24,
+      "end": 26.882
+    },
+    {
+      "text": "factors",
+      "stage": 2,
+      "start": 26.88,
+      "end": 27.3
+    },
+    {
+      "text": "are",
+      "stage": 2,
+      "start": 27.3,
+      "end": 27.493
+    },
+    {
+      "text": "consumed.",
+      "stage": 2,
+      "start": 27.5,
+      "end": 27.962
+    },
+    {
+      "text": "Accelerated",
+      "stage": 2,
+      "start": 28.52,
+      "end": 29.235
+    },
+    {
+      "text": "fibrinolysis",
+      "stage": 2,
+      "start": 29.24,
+      "end": 30.052
+    },
+    {
+      "text": "accompanies",
+      "stage": 2,
+      "start": 30.06,
+      "end": 30.829
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 30.84,
+      "end": 30.993
+    },
+    {
+      "text": "process.",
+      "stage": 2,
+      "start": 30.98,
+      "end": 31.417
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 31.86,
+      "end": 32.133
+    },
+    {
+      "text": "same",
+      "stage": 2,
+      "start": 32.18,
+      "end": 32.39
+    },
+    {
+      "text": "patient",
+      "stage": 2,
+      "start": 32.38,
+      "end": 32.8
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 32.8,
+      "end": 33.02
+    },
+    {
+      "text": "therefore",
+      "stage": 2,
+      "start": 33.04,
+      "end": 33.384
+    },
+    {
+      "text": "have",
+      "stage": 2,
+      "start": 33.36,
+      "end": 33.675
+    },
+    {
+      "text": "microvascular",
+      "stage": 2,
+      "start": 33.7,
+      "end": 34.72
+    },
+    {
+      "text": "thrombosis",
+      "stage": 2,
+      "start": 34.74,
+      "end": 35.466
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 35.48,
+      "end": 35.767
+    },
+    {
+      "text": "uncontrolled",
+      "stage": 2,
+      "start": 35.82,
+      "end": 36.283
+    },
+    {
+      "text": "bleeding.",
+      "stage": 2,
+      "start": 36.26,
+      "end": 36.6
+    },
+    {
+      "text": "Treatment",
+      "stage": 3,
+      "start": 37.08,
+      "end": 37.371
+    },
+    {
+      "text": "goals",
+      "stage": 3,
+      "start": 37.34,
+      "end": 37.576
+    },
+    {
+      "text": "include",
+      "stage": 3,
+      "start": 37.56,
+      "end": 38.031
+    },
+    {
+      "text": "eliminating",
+      "stage": 3,
+      "start": 38.04,
+      "end": 38.845
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 38.86,
+      "end": 39.12
+    },
+    {
+      "text": "underlying",
+      "stage": 3,
+      "start": 39.16,
+      "end": 39.58
+    },
+    {
+      "text": "pathology,",
+      "stage": 3,
+      "start": 39.56,
+      "end": 40.367
+    },
+    {
+      "text": "restoring",
+      "stage": 3,
+      "start": 40.98,
+      "end": 41.307
+    },
+    {
+      "text": "hemostasis",
+      "stage": 3,
+      "start": 41.28,
+      "end": 41.916
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 41.92,
+      "end": 42.287
+    },
+    {
+      "text": "supporting",
+      "stage": 3,
+      "start": 42.38,
+      "end": 42.782
+    },
+    {
+      "text": "failing",
+      "stage": 3,
+      "start": 42.76,
+      "end": 43.146
+    },
+    {
+      "text": "organs.",
+      "stage": 3,
+      "start": 43.14,
+      "end": 43.583
+    },
+    {
+      "text": "Component",
+      "stage": 3,
+      "start": 44.24,
+      "end": 44.638
+    },
+    {
+      "text": "replacement",
+      "stage": 3,
+      "start": 44.62,
+      "end": 45.116
+    },
+    {
+      "text": "alone",
+      "stage": 3,
+      "start": 45.1,
+      "end": 45.576
+    },
+    {
+      "text": "does",
+      "stage": 3,
+      "start": 45.62,
+      "end": 46.055
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 46.12,
+      "end": 46.327
+    },
+    {
+      "text": "remove",
+      "stage": 3,
+      "start": 46.34,
+      "end": 46.667
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 46.66,
+      "end": 46.867
+    },
+    {
+      "text": "trigger.",
+      "stage": 3,
+      "start": 46.88,
+      "end": 47.163
+    },
+    {
+      "text": "Chapter",
+      "stage": 3,
+      "start": 48.52,
+      "end": 48.717
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 48.719,
+      "end": 49.09
+    },
+    {
+      "text": "nine,",
+      "stage": 3,
+      "start": 49.092,
+      "end": 49.338
+    },
+    {
+      "text": "slides",
+      "stage": 3,
+      "start": 49.34,
+      "end": 49.967
+    },
+    {
+      "text": "one",
+      "stage": 3,
+      "start": 49.958,
+      "end": 50.122
+    },
+    {
+      "text": "hundred",
+      "stage": 3,
+      "start": 50.113,
+      "end": 50.483
+    },
+    {
+      "text": "seventeen",
+      "stage": 3,
+      "start": 50.475,
+      "end": 50.948
+    },
+    {
+      "text": "through",
+      "stage": 3,
+      "start": 50.94,
+      "end": 51.257
+    },
+    {
+      "text": "one",
+      "stage": 3,
+      "start": 51.241,
+      "end": 51.388
+    },
+    {
+      "text": "hundred",
+      "stage": 3,
+      "start": 51.372,
+      "end": 51.694
+    },
+    {
+      "text": "twenty,",
+      "stage": 3,
+      "start": 51.678,
+      "end": 51.956
+    },
+    {
+      "text": "support",
+      "stage": 3,
+      "start": 51.94,
+      "end": 52.411
+    },
+    {
+      "text": "this",
+      "stage": 3,
+      "start": 52.42,
+      "end": 52.675
+    },
+    {
+      "text": "sequence.",
+      "stage": 3,
+      "start": 52.68,
+      "end": 53.178
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 53.68,
+      "end": 54.127
+    },
+    {
+      "text": "complete",
+      "stage": 3,
+      "start": 54.26,
+      "end": 54.67
+    },
+    {
+      "text": "diagnostic",
+      "stage": 3,
+      "start": 54.66,
+      "end": 55.224
+    },
+    {
+      "text": "laboratory",
+      "stage": 3,
+      "start": 55.22,
+      "end": 55.838
+    },
+    {
+      "text": "pattern",
+      "stage": 3,
+      "start": 55.84,
+      "end": 56.38
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 56.4,
+      "end": 56.66
+    },
+    {
+      "text": "specific",
+      "stage": 3,
+      "start": 56.7,
+      "end": 57.127
+    },
+    {
+      "text": "treatment",
+      "stage": 3,
+      "start": 57.12,
+      "end": 57.589
+    },
+    {
+      "text": "indications",
+      "stage": 3,
+      "start": 57.58,
+      "end": 58.149
+    },
+    {
+      "text": "remain",
+      "stage": 3,
+      "start": 58.14,
+      "end": 58.667
+    },
+    {
+      "text": "textbook",
+      "stage": 3,
+      "start": 58.7,
+      "end": 59.39
+    },
+    {
+      "text": "gaps.",
+      "stage": 3,
+      "start": 59.42,
+      "end": 59.765
+    }
+  ],
+  "duration": 60.264,
+  "recognitionAgreement": 0.9659
+}

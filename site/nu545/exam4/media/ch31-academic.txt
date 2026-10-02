@@ -1,0 +1,7 @@
+Follow blood through the valves, using the original OpenStax heart as an anatomical reference. During passive ventricular filling, the atrioventricular valves are open and the semilunar valves are closed. Atrial systole completes filling.
+
+The ventricles begin isovolumetric systole. Atrioventricular valves close, and all valves are briefly closed. Pressure rises while ventricular volume is unchanged.
+
+When ventricular pressure exceeds outflow pressure, the semilunar valves open. The ventricles eject blood toward the pulmonary artery and aorta. The animation tracks movement rather than claiming a measured flow speed.
+
+Semilunar valves close during isovolumetric relaxation. All valves are again closed until ventricular pressure falls enough for atrioventricular opening and renewed filling. Chapter thirty one, slides fifteen, sixteen and twenty through twenty three, support this sequence. Numeric chamber pressures and complete abnormal tracing interpretation are not supplied.

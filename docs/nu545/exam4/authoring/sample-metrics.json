@@ -1,0 +1,460 @@
+{
+  "dnaRevision": "u4-personal-2026-10-01-r1",
+  "releasedCount": 26,
+  "mcCount": 6,
+  "proseCount": 20,
+  "matchingCount": 0,
+  "mcStemWords": {
+    "min": 10,
+    "median": 27.5,
+    "max": 75
+  },
+  "mcChoiceWords": {
+    "min": 1,
+    "median": 2.5,
+    "max": 10
+  },
+  "proseWords": {
+    "min": 4,
+    "median": 12.5,
+    "max": 51
+  },
+  "method": "Counts from selected released example text; excludes separate shared introductions from stem statistics. No claim of instructor authorship or recurrence.",
+  "samples": [
+    {
+      "sampleId": "u4-c28-q01",
+      "sourceIds": [
+        "U4-C28-Q01"
+      ],
+      "format": "four-choice MC",
+      "stemWords": 52,
+      "choiceWords": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "stemEnding": ":",
+      "choicePunctuation": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sharedContextWords": 5,
+      "sharedCaseId": "u4-c28-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c28-q02",
+      "sourceIds": [
+        "U4-C28-Q02"
+      ],
+      "format": "four-choice MC",
+      "stemWords": 12,
+      "choiceWords": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "stemEnding": ":",
+      "choicePunctuation": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sharedContextWords": 5,
+      "sharedCaseId": "u4-c28-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c29r-q01",
+      "sourceIds": [
+        "U4-C29R-Q01"
+      ],
+      "format": "prose",
+      "stemWords": 11,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 56,
+      "sharedCaseId": "u4-c29r-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c29r-q02",
+      "sourceIds": [
+        "U4-C29R-Q02"
+      ],
+      "format": "prose",
+      "stemWords": 13,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 56,
+      "sharedCaseId": "u4-c29r-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c29r-q03",
+      "sourceIds": [
+        "U4-C29R-Q03"
+      ],
+      "format": "prose",
+      "stemWords": 4,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 56,
+      "sharedCaseId": "u4-c29r-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c29r-q04",
+      "sourceIds": [
+        "U4-C29R-Q04"
+      ],
+      "format": "prose",
+      "stemWords": 15,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 56,
+      "sharedCaseId": "u4-c29r-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c29l-q01",
+      "sourceIds": [
+        "U4-C29L-Q01"
+      ],
+      "format": "four-choice MC",
+      "stemWords": 10,
+      "choiceWords": [
+        5,
+        10,
+        5,
+        6
+      ],
+      "stemEnding": ":",
+      "choicePunctuation": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sharedContextWords": 108,
+      "sharedCaseId": "u4-c29l-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c29l-q02",
+      "sourceIds": [
+        "U4-C29L-Q02"
+      ],
+      "format": "four-choice MC",
+      "stemWords": 75,
+      "choiceWords": [
+        2,
+        4,
+        4,
+        2
+      ],
+      "stemEnding": ":",
+      "choicePunctuation": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sharedContextWords": 108,
+      "sharedCaseId": "u4-c29l-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c30-q01",
+      "sourceIds": [
+        "U4-C30-Q01"
+      ],
+      "format": "prose",
+      "stemWords": 8,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 101,
+      "sharedCaseId": "u4-c30-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c30-q02",
+      "sourceIds": [
+        "U4-C30-Q02"
+      ],
+      "format": "prose",
+      "stemWords": 4,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 101,
+      "sharedCaseId": "u4-c30-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c30-q03",
+      "sourceIds": [
+        "U4-C30-Q03"
+      ],
+      "format": "prose",
+      "stemWords": 8,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 101,
+      "sharedCaseId": "u4-c30-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c31-q01",
+      "sourceIds": [
+        "U4-C31-Q01"
+      ],
+      "format": "four-choice MC",
+      "stemWords": 18,
+      "choiceWords": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "stemEnding": ":",
+      "choicePunctuation": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sharedContextWords": 170,
+      "sharedCaseId": "u4-c31-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c31-q02",
+      "sourceIds": [
+        "U4-C31-Q02",
+        "CH31S29"
+      ],
+      "format": "four-choice MC",
+      "stemWords": 37,
+      "choiceWords": [
+        3,
+        2,
+        2,
+        3
+      ],
+      "stemEnding": ":",
+      "choicePunctuation": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "sharedContextWords": 170,
+      "sharedCaseId": "u4-c31-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q01",
+      "sourceIds": [
+        "U4-C32-Q01"
+      ],
+      "format": "prose",
+      "stemWords": 11,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q02",
+      "sourceIds": [
+        "U4-C32-Q02"
+      ],
+      "format": "prose",
+      "stemWords": 23,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q03",
+      "sourceIds": [
+        "U4-C32-Q03"
+      ],
+      "format": "prose",
+      "stemWords": 19,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q04",
+      "sourceIds": [
+        "U4-C32-Q04"
+      ],
+      "format": "prose",
+      "stemWords": 8,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q05",
+      "sourceIds": [
+        "U4-C32-Q05"
+      ],
+      "format": "prose",
+      "stemWords": 14,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q06",
+      "sourceIds": [
+        "U4-C32-Q06"
+      ],
+      "format": "prose",
+      "stemWords": 22,
+      "choiceWords": [],
+      "stemEnding": ".",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q07",
+      "sourceIds": [
+        "U4-C32-Q07"
+      ],
+      "format": "prose",
+      "stemWords": 12,
+      "choiceWords": [],
+      "stemEnding": ".",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q08",
+      "sourceIds": [
+        "U4-C32-Q08"
+      ],
+      "format": "prose",
+      "stemWords": 16,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c32-q09",
+      "sourceIds": [
+        "U4-C32-Q09"
+      ],
+      "format": "prose",
+      "stemWords": 18,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 65,
+      "sharedCaseId": "u4-c32-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c33-q01",
+      "sourceIds": [
+        "U4-C33-Q01",
+        "CH33S9",
+        "CH33S10"
+      ],
+      "format": "prose",
+      "stemWords": 51,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 5,
+      "sharedCaseId": "u4-c33-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c33-q02",
+      "sourceIds": [
+        "U4-C33-Q02",
+        "CH33S17N"
+      ],
+      "format": "prose",
+      "stemWords": 19,
+      "choiceWords": [],
+      "stemEnding": " ",
+      "choicePunctuation": [],
+      "sharedContextWords": 5,
+      "sharedCaseId": "u4-c33-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c33-q03",
+      "sourceIds": [
+        "U4-C33-Q03",
+        "CH33S22",
+        "CH33S23",
+        "CH33S25",
+        "CH33S26",
+        "CH33S27"
+      ],
+      "format": "prose",
+      "stemWords": 10,
+      "choiceWords": [],
+      "stemEnding": " ",
+      "choicePunctuation": [],
+      "sharedContextWords": 5,
+      "sharedCaseId": "u4-c33-shared",
+      "observedStyleOnly": true
+    },
+    {
+      "sampleId": "u4-c33-q04",
+      "sourceIds": [
+        "U4-C33-Q04",
+        "CH33S23",
+        "CH33S24"
+      ],
+      "format": "prose",
+      "stemWords": 9,
+      "choiceWords": [],
+      "stemEnding": "?",
+      "choicePunctuation": [],
+      "sharedContextWords": 5,
+      "sharedCaseId": "u4-c33-shared",
+      "observedStyleOnly": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Red cells connect oxygen delivery to a regulated production response. Start with the circulating erythrocyte. Its reversible deformability permits passage through narrow vessels.
+
+When oxygen availability falls, the kidney releases erythropoietin. The marrow responds by increasing red cell production. Reticulocytes are newly released cells, so they help us follow that response.
+
+Production is only half of the cycle. Macrophages remove aging erythrocytes, usually in the spleen. Globin is broken into amino acids, and the porphyrin portion of heme becomes bilirubin. Iron is recycled.
+
+Transferrin transports iron through plasma, while ferritin stores it within cells. Keep these roles separate: erythropoietin signals production, transferrin transports iron, and ferritin stores iron. The figure provides visual orientation. These tested relationships come from Chapter twenty eight, slides twelve, thirty eight, thirty nine, forty four, and forty five. The complete iron absorption pathway remains a textbook gap.

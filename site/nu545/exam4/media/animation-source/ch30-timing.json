@@ -1,0 +1,858 @@
+{
+  "title": "Sickling: flexibility, flow and distinct crises",
+  "sources": [
+    "CH30S23",
+    "CH30S24",
+    "CH30S26",
+    "CH30S27",
+    "CH30S29"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Flexible red cells",
+      "text": "A red cell must deform to move through microcirculation. The normal cell and the sickle cell shown here are adapted from scholarly illustrations. The motion uses schematic time and scale."
+    },
+    {
+      "start": 11.1,
+      "title": "Stiffening and obstruction",
+      "text": "In sickle cell disease, abnormal hemoglobin polymerization stiffens the cell. Hypoxia, dehydration and acidosis favor sickling in the packet. Stiff cells obstruct small vessels, causing pain and tissue injury."
+    },
+    {
+      "start": 24.58,
+      "title": "Different crisis mechanisms",
+      "text": "Keep the crises distinct. Vasoocclusive crisis obstructs microcirculation. Aplastic crisis transiently stops production. Sequestration crisis pools blood in the spleen. Hyperhemolytic crisis increases red cell destruction."
+    },
+    {
+      "start": 39.58,
+      "title": "Mechanism guides the decision",
+      "text": "The treatment slide links care to crisis prevention, pain and infection management, fluids and hydroxyurea. Supplemental oxygen is qualified by current hypoxia. Chapter thirty, slides twenty three, twenty four, twenty six, twenty seven and twenty nine, supply these claims. The contradictory amino acid substitution wording is excluded; definitive diagnostic testing remains missing."
+    }
+  ],
+  "words": [
+    {
+      "text": "A",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "text": "red",
+      "stage": 0,
+      "start": 0.12,
+      "end": 0.287
+    },
+    {
+      "text": "cell",
+      "stage": 0,
+      "start": 0.28,
+      "end": 0.535
+    },
+    {
+      "text": "must",
+      "stage": 0,
+      "start": 0.54,
+      "end": 0.735
+    },
+    {
+      "text": "deform",
+      "stage": 0,
+      "start": 0.72,
+      "end": 1.113
+    },
+    {
+      "text": "to",
+      "stage": 0,
+      "start": 1.12,
+      "end": 1.3
+    },
+    {
+      "text": "move",
+      "stage": 0,
+      "start": 1.36,
+      "end": 1.555
+    },
+    {
+      "text": "through",
+      "stage": 0,
+      "start": 1.54,
+      "end": 1.789
+    },
+    {
+      "text": "microcirculation.",
+      "stage": 0,
+      "start": 1.76,
+      "end": 2.795
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 3.14,
+      "end": 3.307
+    },
+    {
+      "text": "normal",
+      "stage": 0,
+      "start": 3.3,
+      "end": 3.577
+    },
+    {
+      "text": "cell",
+      "stage": 0,
+      "start": 3.56,
+      "end": 3.845
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 3.86,
+      "end": 4.067
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 4.08,
+      "end": 4.207
+    },
+    {
+      "text": "sickle",
+      "stage": 0,
+      "start": 4.18,
+      "end": 4.473
+    },
+    {
+      "text": "cell",
+      "stage": 0,
+      "start": 4.46,
+      "end": 4.67
+    },
+    {
+      "text": "shown",
+      "stage": 0,
+      "start": 4.66,
+      "end": 4.96
+    },
+    {
+      "text": "here",
+      "stage": 0,
+      "start": 4.96,
+      "end": 5.23
+    },
+    {
+      "text": "are",
+      "stage": 0,
+      "start": 5.24,
+      "end": 5.473
+    },
+    {
+      "text": "adapted",
+      "stage": 0,
+      "start": 5.5,
+      "end": 5.886
+    },
+    {
+      "text": "from",
+      "stage": 0,
+      "start": 5.88,
+      "end": 6.18
+    },
+    {
+      "text": "scholarly",
+      "stage": 0,
+      "start": 6.2,
+      "end": 6.669
+    },
+    {
+      "text": "illustrations.",
+      "stage": 0,
+      "start": 6.66,
+      "end": 7.366
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 8.2,
+      "end": 8.353
+    },
+    {
+      "text": "motion",
+      "stage": 0,
+      "start": 8.34,
+      "end": 8.633
+    },
+    {
+      "text": "uses",
+      "stage": 0,
+      "start": 8.62,
+      "end": 8.95
+    },
+    {
+      "text": "schematic",
+      "stage": 0,
+      "start": 8.98,
+      "end": 9.378
+    },
+    {
+      "text": "time",
+      "stage": 0,
+      "start": 9.36,
+      "end": 9.705
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 9.74,
+      "end": 9.92
+    },
+    {
+      "text": "scale.",
+      "stage": 0,
+      "start": 9.92,
+      "end": 10.284
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 11.1,
+      "end": 11.21
+    },
+    {
+      "text": "sickle",
+      "stage": 1,
+      "start": 11.2,
+      "end": 11.527
+    },
+    {
+      "text": "cell",
+      "stage": 1,
+      "start": 11.52,
+      "end": 11.745
+    },
+    {
+      "text": "disease,",
+      "stage": 1,
+      "start": 11.74,
+      "end": 12.091
+    },
+    {
+      "text": "abnormal",
+      "stage": 1,
+      "start": 12.44,
+      "end": 12.727
+    },
+    {
+      "text": "hemoglobin",
+      "stage": 1,
+      "start": 12.7,
+      "end": 13.408
+    },
+    {
+      "text": "polymerization",
+      "stage": 1,
+      "start": 13.42,
+      "end": 14.13
+    },
+    {
+      "text": "stiffens",
+      "stage": 1,
+      "start": 14.12,
+      "end": 14.652
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 14.66,
+      "end": 14.84
+    },
+    {
+      "text": "cell.",
+      "stage": 1,
+      "start": 14.84,
+      "end": 15.095
+    },
+    {
+      "text": "Hypoxia,",
+      "stage": 1,
+      "start": 15.76,
+      "end": 16.369
+    },
+    {
+      "text": "dehydration",
+      "stage": 1,
+      "start": 16.7,
+      "end": 17.324
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 17.52,
+      "end": 17.633
+    },
+    {
+      "text": "acidosis",
+      "stage": 1,
+      "start": 17.6,
+      "end": 18.202
+    },
+    {
+      "text": "favor",
+      "stage": 1,
+      "start": 18.22,
+      "end": 18.536
+    },
+    {
+      "text": "sickling",
+      "stage": 1,
+      "start": 18.54,
+      "end": 19.055
+    },
+    {
+      "text": "in",
+      "stage": 1,
+      "start": 19.06,
+      "end": 19.18
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 19.18,
+      "end": 19.307
+    },
+    {
+      "text": "packet.",
+      "stage": 1,
+      "start": 19.28,
+      "end": 19.64
+    },
+    {
+      "text": "Stiff",
+      "stage": 1,
+      "start": 20.38,
+      "end": 20.616
+    },
+    {
+      "text": "cells",
+      "stage": 1,
+      "start": 20.6,
+      "end": 20.98
+    },
+    {
+      "text": "obstruct",
+      "stage": 1,
+      "start": 21.0,
+      "end": 21.392
+    },
+    {
+      "text": "small",
+      "stage": 1,
+      "start": 21.38,
+      "end": 21.792
+    },
+    {
+      "text": "vessels,",
+      "stage": 1,
+      "start": 21.82,
+      "end": 22.12
+    },
+    {
+      "text": "causing",
+      "stage": 1,
+      "start": 22.1,
+      "end": 22.589
+    },
+    {
+      "text": "pain",
+      "stage": 1,
+      "start": 22.6,
+      "end": 22.885
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 22.9,
+      "end": 23.12
+    },
+    {
+      "text": "tissue",
+      "stage": 1,
+      "start": 23.14,
+      "end": 23.467
+    },
+    {
+      "text": "injury.",
+      "stage": 1,
+      "start": 23.46,
+      "end": 23.82
+    },
+    {
+      "text": "Keep",
+      "stage": 2,
+      "start": 24.58,
+      "end": 24.82
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 24.82,
+      "end": 25.0
+    },
+    {
+      "text": "crises",
+      "stage": 2,
+      "start": 25.0,
+      "end": 25.31
+    },
+    {
+      "text": "distinct.",
+      "stage": 2,
+      "start": 25.3,
+      "end": 25.902
+    },
+    {
+      "text": "Vasoocclusive",
+      "stage": 2,
+      "start": 26.52,
+      "end": 27.22
+    },
+    {
+      "text": "crisis",
+      "stage": 2,
+      "start": 27.2,
+      "end": 27.56
+    },
+    {
+      "text": "obstructs",
+      "stage": 2,
+      "start": 27.56,
+      "end": 28.242
+    },
+    {
+      "text": "microcirculation.",
+      "stage": 2,
+      "start": 28.26,
+      "end": 29.22
+    },
+    {
+      "text": "Aplastic",
+      "stage": 2,
+      "start": 29.22,
+      "end": 29.911
+    },
+    {
+      "text": "crisis",
+      "stage": 2,
+      "start": 29.9,
+      "end": 30.327
+    },
+    {
+      "text": "transiently",
+      "stage": 2,
+      "start": 30.34,
+      "end": 31.127
+    },
+    {
+      "text": "stops",
+      "stage": 2,
+      "start": 31.14,
+      "end": 31.44
+    },
+    {
+      "text": "production.",
+      "stage": 2,
+      "start": 31.44,
+      "end": 32.13
+    },
+    {
+      "text": "Sequestration",
+      "stage": 2,
+      "start": 32.68,
+      "end": 33.294
+    },
+    {
+      "text": "crisis",
+      "stage": 2,
+      "start": 33.28,
+      "end": 33.657
+    },
+    {
+      "text": "pools",
+      "stage": 2,
+      "start": 33.66,
+      "end": 33.992
+    },
+    {
+      "text": "blood",
+      "stage": 2,
+      "start": 34.0,
+      "end": 34.364
+    },
+    {
+      "text": "in",
+      "stage": 2,
+      "start": 34.38,
+      "end": 34.52
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 34.54,
+      "end": 34.667
+    },
+    {
+      "text": "spleen.",
+      "stage": 2,
+      "start": 34.64,
+      "end": 35.033
+    },
+    {
+      "text": "Hyperhemolytic",
+      "stage": 2,
+      "start": 35.68,
+      "end": 36.409
+    },
+    {
+      "text": "crisis",
+      "stage": 2,
+      "start": 36.4,
+      "end": 36.827
+    },
+    {
+      "text": "increases",
+      "stage": 2,
+      "start": 36.84,
+      "end": 37.54
+    },
+    {
+      "text": "red",
+      "stage": 2,
+      "start": 37.56,
+      "end": 37.833
+    },
+    {
+      "text": "cell",
+      "stage": 2,
+      "start": 37.88,
+      "end": 38.15
+    },
+    {
+      "text": "destruction.",
+      "stage": 2,
+      "start": 38.16,
+      "end": 38.784
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 39.58,
+      "end": 39.693
+    },
+    {
+      "text": "treatment",
+      "stage": 3,
+      "start": 39.66,
+      "end": 39.987
+    },
+    {
+      "text": "slide",
+      "stage": 3,
+      "start": 39.96,
+      "end": 40.372
+    },
+    {
+      "text": "links",
+      "stage": 3,
+      "start": 40.4,
+      "end": 40.732
+    },
+    {
+      "text": "care",
+      "stage": 3,
+      "start": 40.74,
+      "end": 41.115
+    },
+    {
+      "text": "to",
+      "stage": 3,
+      "start": 41.16,
+      "end": 41.32
+    },
+    {
+      "text": "crisis",
+      "stage": 3,
+      "start": 41.36,
+      "end": 41.687
+    },
+    {
+      "text": "prevention,",
+      "stage": 3,
+      "start": 41.68,
+      "end": 42.316
+    },
+    {
+      "text": "pain",
+      "stage": 3,
+      "start": 42.66,
+      "end": 42.84
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 42.82,
+      "end": 42.973
+    },
+    {
+      "text": "infection",
+      "stage": 3,
+      "start": 42.96,
+      "end": 43.34
+    },
+    {
+      "text": "management,",
+      "stage": 3,
+      "start": 43.32,
+      "end": 43.902
+    },
+    {
+      "text": "fluids",
+      "stage": 3,
+      "start": 44.3,
+      "end": 44.527
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 44.72,
+      "end": 44.86
+    },
+    {
+      "text": "hydroxyurea.",
+      "stage": 3,
+      "start": 44.84,
+      "end": 45.573
+    },
+    {
+      "text": "Supplemental",
+      "stage": 3,
+      "start": 46.28,
+      "end": 46.725
+    },
+    {
+      "text": "oxygen",
+      "stage": 3,
+      "start": 46.7,
+      "end": 47.043
+    },
+    {
+      "text": "is",
+      "stage": 3,
+      "start": 47.04,
+      "end": 47.21
+    },
+    {
+      "text": "qualified",
+      "stage": 3,
+      "start": 47.26,
+      "end": 47.764
+    },
+    {
+      "text": "by",
+      "stage": 3,
+      "start": 47.76,
+      "end": 47.97
+    },
+    {
+      "text": "current",
+      "stage": 3,
+      "start": 48.06,
+      "end": 48.411
+    },
+    {
+      "text": "hypoxia.",
+      "stage": 3,
+      "start": 48.4,
+      "end": 49.129
+    },
+    {
+      "text": "Chapter",
+      "stage": 3,
+      "start": 49.92,
+      "end": 50.151
+    },
+    {
+      "text": "thirty,",
+      "stage": 3,
+      "start": 50.15,
+      "end": 50.502
+    },
+    {
+      "text": "slides",
+      "stage": 3,
+      "start": 50.5,
+      "end": 50.793
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 50.791,
+      "end": 51.14
+    },
+    {
+      "text": "three,",
+      "stage": 3,
+      "start": 51.138,
+      "end": 51.429
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 51.427,
+      "end": 51.776
+    },
+    {
+      "text": "four,",
+      "stage": 3,
+      "start": 51.773,
+      "end": 52.007
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 52.004,
+      "end": 52.353
+    },
+    {
+      "text": "six,",
+      "stage": 3,
+      "start": 52.351,
+      "end": 52.527
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 52.524,
+      "end": 52.873
+    },
+    {
+      "text": "seven",
+      "stage": 3,
+      "start": 52.871,
+      "end": 53.162
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 53.16,
+      "end": 53.38
+    },
+    {
+      "text": "twenty",
+      "stage": 3,
+      "start": 53.411,
+      "end": 53.925
+    },
+    {
+      "text": "nine,",
+      "stage": 3,
+      "start": 53.956,
+      "end": 54.289
+    },
+    {
+      "text": "supply",
+      "stage": 3,
+      "start": 54.32,
+      "end": 54.63
+    },
+    {
+      "text": "these",
+      "stage": 3,
+      "start": 54.62,
+      "end": 54.856
+    },
+    {
+      "text": "claims.",
+      "stage": 3,
+      "start": 54.84,
+      "end": 55.2
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 55.2,
+      "end": 55.54
+    },
+    {
+      "text": "contradictory",
+      "stage": 3,
+      "start": 55.62,
+      "end": 56.123
+    },
+    {
+      "text": "amino",
+      "stage": 3,
+      "start": 56.1,
+      "end": 56.528
+    },
+    {
+      "text": "acid",
+      "stage": 3,
+      "start": 56.56,
+      "end": 56.875
+    },
+    {
+      "text": "substitution",
+      "stage": 3,
+      "start": 56.9,
+      "end": 57.455
+    },
+    {
+      "text": "wording",
+      "stage": 3,
+      "start": 57.44,
+      "end": 57.929
+    },
+    {
+      "text": "is",
+      "stage": 3,
+      "start": 57.94,
+      "end": 58.14
+    },
+    {
+      "text": "excluded;",
+      "stage": 3,
+      "start": 58.22,
+      "end": 58.7
+    },
+    {
+      "text": "definitive",
+      "stage": 3,
+      "start": 59.22,
+      "end": 59.748
+    },
+    {
+      "text": "diagnostic",
+      "stage": 3,
+      "start": 59.74,
+      "end": 60.196
+    },
+    {
+      "text": "testing",
+      "stage": 3,
+      "start": 60.18,
+      "end": 60.806
+    },
+    {
+      "text": "remains",
+      "stage": 3,
+      "start": 60.84,
+      "end": 61.311
+    },
+    {
+      "text": "missing.",
+      "stage": 3,
+      "start": 61.32,
+      "end": 61.774
+    }
+  ],
+  "duration": 62.112,
+  "recognitionAgreement": 0.9555
+}
