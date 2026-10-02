@@ -31,3 +31,15 @@
 
 /* Long component labels must wrap inside the phone coverage cards. */
 .coverage-row strong{overflow-wrap:anywhere}
+
+/* Guide emphasis + exam back button (presentation only) */
+mark.em{background:transparent;font-weight:600;border-radius:4px;padding:0 .12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+mark.em-gold{color:#ffd166;background:rgba(255,209,102,.13);box-shadow:inset 0 -2px 0 rgba(255,209,102,.55)}
+mark.em-cyan{color:#5eead4;background:rgba(94,234,212,.11);box-shadow:inset 0 -2px 0 rgba(94,234,212,.45)}
+.em-key{margin:0 0 14px;color:var(--mute)}
+.em-swatch{display:inline-block;padding:0 .4em;border-radius:4px;font-weight:700}
+.em-swatch.em-gold{color:#ffd166;background:rgba(255,209,102,.13)}
+.em-swatch.em-cyan{color:#5eead4;background:rgba(94,234,212,.11)}
+.back-exams{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:7px 14px;border:1px solid var(--line);border-radius:10px;background:var(--panel2);color:var(--ink);text-decoration:none;font-weight:600;font-size:.9rem;white-space:nowrap;flex:none}
+.back-exams:hover{border-color:var(--acc);color:var(--acc)}
+@media(max-width:640px){.bar{gap:10px;padding:10px 12px}.back-exams{padding:7px 10px}.brand small{display:none}}
