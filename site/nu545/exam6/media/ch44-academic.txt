@@ -1,0 +1,5 @@
+Bone strength depends on its supporting architecture. This OpenStax figure provides a view of the trabecular network. It is a structural reference, not a patient specimen from this course.
+
+Chapter forty-four describes osteoporosis as reduced bone mass with an imbalance between resorption and formation. Watch the supporting connections thin in this schematic adaptation. The supplied glucocorticoid pathway increases RANK ligand and inhibits osteoprotegerin, favoring lower bone density.
+
+Less supporting bone means less structural integrity. Keep that concept separate from inadequate mineralization of osteoid in osteomalacia. The osteoporosis slides contain conflicting mineralization wording, so this film follows the explicit reduced-mass description on slide thirty-three. The amount and speed of bone loss shown are illustrative.

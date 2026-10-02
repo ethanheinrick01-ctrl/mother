@@ -1,0 +1,665 @@
+{
+  "title": "When intestinal flow stops",
+  "sources": [
+    "CH41S33",
+    "CH41S36",
+    "CH41S37"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Normal movement",
+      "text": "Intestinal contents normally move along the lumen. Here, the moving contraction advances material through an open segment."
+    },
+    {
+      "start": 8.04,
+      "title": "Mechanical obstruction",
+      "text": "A mechanical obstruction places a lesion in that route. Incoming contents collect upstream. Watch the proximal segment expand while material fails to pass the narrowed region. Chapter forty-one explains that a lower small-bowel obstruction can produce more distention because a greater length of bowel lies upstream."
+    },
+    {
+      "start": 26.98,
+      "title": "Functional failure",
+      "text": "Paralytic ileus is different. The packet describes failure of motility, especially after surgery, without an obstructing lesion. The lumen remains open, but the propulsive wave stops. The animation compares these mechanisms schematically; its dimensions do not represent a patient or a clinical threshold."
+    }
+  ],
+  "words": [
+    {
+      "text": "Intestinal",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.438
+    },
+    {
+      "text": "contents",
+      "stage": 0,
+      "start": 0.42,
+      "end": 0.865
+    },
+    {
+      "text": "normally",
+      "stage": 0,
+      "start": 0.86,
+      "end": 1.305
+    },
+    {
+      "text": "move",
+      "stage": 0,
+      "start": 1.3,
+      "end": 1.75
+    },
+    {
+      "text": "along",
+      "stage": 0,
+      "start": 1.82,
+      "end": 2.12
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 2.12,
+      "end": 2.3
+    },
+    {
+      "text": "lumen.",
+      "stage": 0,
+      "start": 2.3,
+      "end": 2.6
+    },
+    {
+      "text": "Here,",
+      "stage": 0,
+      "start": 3.3,
+      "end": 3.66
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 4.2,
+      "end": 4.367
+    },
+    {
+      "text": "moving",
+      "stage": 0,
+      "start": 4.36,
+      "end": 4.62
+    },
+    {
+      "text": "contraction",
+      "stage": 0,
+      "start": 4.6,
+      "end": 4.987
+    },
+    {
+      "text": "advances",
+      "stage": 0,
+      "start": 4.96,
+      "end": 5.562
+    },
+    {
+      "text": "material",
+      "stage": 0,
+      "start": 5.58,
+      "end": 6.218
+    },
+    {
+      "text": "through",
+      "stage": 0,
+      "start": 6.24,
+      "end": 6.694
+    },
+    {
+      "text": "an",
+      "stage": 0,
+      "start": 6.7,
+      "end": 6.82
+    },
+    {
+      "text": "open",
+      "stage": 0,
+      "start": 6.82,
+      "end": 6.97
+    },
+    {
+      "text": "segment.",
+      "stage": 0,
+      "start": 6.94,
+      "end": 7.326
+    },
+    {
+      "text": "A",
+      "stage": 1,
+      "start": 8.04,
+      "end": 8.1
+    },
+    {
+      "text": "mechanical",
+      "stage": 1,
+      "start": 8.06,
+      "end": 8.39
+    },
+    {
+      "text": "obstruction",
+      "stage": 1,
+      "start": 8.36,
+      "end": 8.984
+    },
+    {
+      "text": "places",
+      "stage": 1,
+      "start": 8.98,
+      "end": 9.49
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 9.52,
+      "end": 9.58
+    },
+    {
+      "text": "lesion",
+      "stage": 1,
+      "start": 9.82,
+      "end": 10.18
+    },
+    {
+      "text": "in",
+      "stage": 1,
+      "start": 10.18,
+      "end": 10.3
+    },
+    {
+      "text": "that",
+      "stage": 1,
+      "start": 10.3,
+      "end": 10.495
+    },
+    {
+      "text": "route.",
+      "stage": 1,
+      "start": 10.48,
+      "end": 10.716
+    },
+    {
+      "text": "Incoming",
+      "stage": 1,
+      "start": 11.52,
+      "end": 11.843
+    },
+    {
+      "text": "contents",
+      "stage": 1,
+      "start": 11.82,
+      "end": 12.318
+    },
+    {
+      "text": "collect",
+      "stage": 1,
+      "start": 12.32,
+      "end": 12.757
+    },
+    {
+      "text": "upstream.",
+      "stage": 1,
+      "start": 12.76,
+      "end": 13.293
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 13.92,
+      "end": 14.028
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 13.98,
+      "end": 14.2
+    },
+    {
+      "text": "proximal",
+      "stage": 1,
+      "start": 14.22,
+      "end": 14.683
+    },
+    {
+      "text": "segment",
+      "stage": 1,
+      "start": 14.68,
+      "end": 15.031
+    },
+    {
+      "text": "expand",
+      "stage": 1,
+      "start": 15.02,
+      "end": 15.43
+    },
+    {
+      "text": "while",
+      "stage": 1,
+      "start": 16.02,
+      "end": 16.208
+    },
+    {
+      "text": "material",
+      "stage": 1,
+      "start": 16.18,
+      "end": 16.537
+    },
+    {
+      "text": "fails",
+      "stage": 1,
+      "start": 16.52,
+      "end": 16.948
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 16.98,
+      "end": 17.17
+    },
+    {
+      "text": "pass",
+      "stage": 1,
+      "start": 17.24,
+      "end": 17.45
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 17.44,
+      "end": 17.687
+    },
+    {
+      "text": "narrowed",
+      "stage": 1,
+      "start": 17.72,
+      "end": 17.955
+    },
+    {
+      "text": "region.",
+      "stage": 1,
+      "start": 17.92,
+      "end": 18.247
+    },
+    {
+      "text": "Chapter",
+      "stage": 1,
+      "start": 19.2,
+      "end": 19.363
+    },
+    {
+      "text": "forty-one",
+      "stage": 1,
+      "start": 19.367,
+      "end": 19.876
+    },
+    {
+      "text": "explains",
+      "stage": 1,
+      "start": 19.88,
+      "end": 20.342
+    },
+    {
+      "text": "that",
+      "stage": 1,
+      "start": 20.34,
+      "end": 20.625
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 20.64,
+      "end": 20.7
+    },
+    {
+      "text": "lower",
+      "stage": 1,
+      "start": 20.74,
+      "end": 21.008
+    },
+    {
+      "text": "small-bowel",
+      "stage": 1,
+      "start": 21.0,
+      "end": 21.568
+    },
+    {
+      "text": "obstruction",
+      "stage": 1,
+      "start": 21.56,
+      "end": 22.075
+    },
+    {
+      "text": "can",
+      "stage": 1,
+      "start": 22.06,
+      "end": 22.387
+    },
+    {
+      "text": "produce",
+      "stage": 1,
+      "start": 22.46,
+      "end": 22.743
+    },
+    {
+      "text": "more",
+      "stage": 1,
+      "start": 22.72,
+      "end": 23.05
+    },
+    {
+      "text": "distention",
+      "stage": 1,
+      "start": 23.08,
+      "end": 23.59
+    },
+    {
+      "text": "because",
+      "stage": 1,
+      "start": 23.58,
+      "end": 23.966
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 23.96,
+      "end": 24.02
+    },
+    {
+      "text": "greater",
+      "stage": 1,
+      "start": 24.08,
+      "end": 24.38
+    },
+    {
+      "text": "length",
+      "stage": 1,
+      "start": 24.36,
+      "end": 24.77
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 24.78,
+      "end": 24.93
+    },
+    {
+      "text": "bowel",
+      "stage": 1,
+      "start": 24.96,
+      "end": 25.244
+    },
+    {
+      "text": "lies",
+      "stage": 1,
+      "start": 25.24,
+      "end": 25.615
+    },
+    {
+      "text": "upstream.",
+      "stage": 1,
+      "start": 25.66,
+      "end": 25.912
+    },
+    {
+      "text": "Paralytic",
+      "stage": 2,
+      "start": 26.98,
+      "end": 27.396
+    },
+    {
+      "text": "ileus",
+      "stage": 2,
+      "start": 27.38,
+      "end": 27.872
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 27.92,
+      "end": 28.05
+    },
+    {
+      "text": "different.",
+      "stage": 2,
+      "start": 28.06,
+      "end": 28.404
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 29.18,
+      "end": 29.493
+    },
+    {
+      "text": "packet",
+      "stage": 2,
+      "start": 29.56,
+      "end": 29.837
+    },
+    {
+      "text": "describes",
+      "stage": 2,
+      "start": 29.82,
+      "end": 30.236
+    },
+    {
+      "text": "failure",
+      "stage": 2,
+      "start": 30.22,
+      "end": 30.76
+    },
+    {
+      "text": "of",
+      "stage": 2,
+      "start": 30.78,
+      "end": 31.0
+    },
+    {
+      "text": "motility,",
+      "stage": 2,
+      "start": 31.1,
+      "end": 31.492
+    },
+    {
+      "text": "especially",
+      "stage": 2,
+      "start": 32.02,
+      "end": 32.44
+    },
+    {
+      "text": "after",
+      "stage": 2,
+      "start": 32.42,
+      "end": 32.816
+    },
+    {
+      "text": "surgery,",
+      "stage": 2,
+      "start": 32.84,
+      "end": 33.311
+    },
+    {
+      "text": "without",
+      "stage": 2,
+      "start": 33.32,
+      "end": 33.774
+    },
+    {
+      "text": "an",
+      "stage": 2,
+      "start": 33.78,
+      "end": 34.0
+    },
+    {
+      "text": "obstructing",
+      "stage": 2,
+      "start": 34.1,
+      "end": 34.669
+    },
+    {
+      "text": "lesion.",
+      "stage": 2,
+      "start": 34.66,
+      "end": 35.02
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 35.76,
+      "end": 35.833
+    },
+    {
+      "text": "lumen",
+      "stage": 2,
+      "start": 35.78,
+      "end": 36.048
+    },
+    {
+      "text": "remains",
+      "stage": 2,
+      "start": 36.04,
+      "end": 36.426
+    },
+    {
+      "text": "open,",
+      "stage": 2,
+      "start": 36.42,
+      "end": 36.69
+    },
+    {
+      "text": "but",
+      "stage": 2,
+      "start": 37.02,
+      "end": 37.16
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 37.14,
+      "end": 37.28
+    },
+    {
+      "text": "propulsive",
+      "stage": 2,
+      "start": 37.26,
+      "end": 37.68
+    },
+    {
+      "text": "wave",
+      "stage": 2,
+      "start": 37.66,
+      "end": 37.96
+    },
+    {
+      "text": "stops.",
+      "stage": 2,
+      "start": 37.98,
+      "end": 38.392
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 39.3,
+      "end": 39.413
+    },
+    {
+      "text": "animation",
+      "stage": 2,
+      "start": 39.38,
+      "end": 39.689
+    },
+    {
+      "text": "compares",
+      "stage": 2,
+      "start": 39.66,
+      "end": 40.228
+    },
+    {
+      "text": "these",
+      "stage": 2,
+      "start": 40.24,
+      "end": 40.572
+    },
+    {
+      "text": "mechanisms",
+      "stage": 2,
+      "start": 40.58,
+      "end": 41.036
+    },
+    {
+      "text": "schematically;",
+      "stage": 2,
+      "start": 41.02,
+      "end": 41.763
+    },
+    {
+      "text": "its",
+      "stage": 2,
+      "start": 42.44,
+      "end": 42.527
+    },
+    {
+      "text": "dimensions",
+      "stage": 2,
+      "start": 42.48,
+      "end": 42.792
+    },
+    {
+      "text": "do",
+      "stage": 2,
+      "start": 42.76,
+      "end": 43.08
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 43.28,
+      "end": 43.473
+    },
+    {
+      "text": "represent",
+      "stage": 2,
+      "start": 43.48,
+      "end": 43.913
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 43.9,
+      "end": 43.96
+    },
+    {
+      "text": "patient",
+      "stage": 2,
+      "start": 44.14,
+      "end": 44.509
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 44.5,
+      "end": 44.76
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 44.9,
+      "end": 44.96
+    },
+    {
+      "text": "clinical",
+      "stage": 2,
+      "start": 44.98,
+      "end": 45.233
+    },
+    {
+      "text": "threshold.",
+      "stage": 2,
+      "start": 45.2,
+      "end": 45.687
+    }
+  ],
+  "duration": 46.296,
+  "recognitionAgreement": 0.9887
+}
