@@ -1,0 +1,419 @@
+[
+  {
+    "id": "case-u7-case-c4-synthesis",
+    "title": "Chapter 4 synthesis case",
+    "dom": "genes",
+    "stem": "A genetic counseling learner confuses whether a trait appears with how strongly it appears.",
+    "src": [
+      "C4S43",
+      "C4S44"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c4-synthesis",
+        "rootId": "u7-case-c4-synthesis",
+        "c": "u7-c4-chromosomes",
+        "sec": "ch4",
+        "dom": "genes",
+        "t": "teach",
+        "q": "Explain penetrance versus expressivity and use the supplied variation in neurofibromatosis as your comparison.",
+        "model": "Penetrance describes the fraction expressing a phenotype. Expressivity describes variation among people with the genotype. The supplied neurofibromatosis example varies from skin spots to more extensive disease.",
+        "rubric": [
+          "Penetrance describes the fraction expressing a phenotype",
+          "Expressivity describes variation among people with the genotype",
+          "The supplied neurofibromatosis example varies from skin spots to more extensive disease."
+        ],
+        "s": [
+          "C4S43",
+          "C4S44"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "Penetrance describes the fraction expressing a phenotype. Expressivity describes variation among people with the genotype. The supplied neurofibromatosis example varies from skin spots to more extensive disease.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C4S43: Penetrance and Expressivity\n(1 of 2)\nPenetrance is the percentage of individuals with a specific genotype who also express the expected phenotype.\nIncomplete penetrance\nIndividual who has the gene for a disease but does not express the disease \nExample: Retinoblastoma (eye tumor in children) (90%)\nAge-dependent penetrance\nDoes not express a disease until a certain age is reached.\nExample: Huntington disease\n43\n\nC4S44: Penetrance and Expressivity\n(2 of 2)\nExpressivity is a variation in a phenotype associated with a particular genotype.\nCan be caused by modifier genes, environmental factors, and mutations.\nExample: von Recklinghausen disease\nIs autosomal dominant.\nExpressivity varies from brown spots on the skin to malignant tumors, scoliosis, gliomas, and neuromas.\n44"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c5-synthesis",
+    "title": "Chapter 5 synthesis case",
+    "dom": "genes",
+    "stem": "Two surveys use the same town: one measures new diagnoses over a year; the other measures all affected people on one date.",
+    "src": [
+      "C5S5",
+      "C5S6"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c5-synthesis",
+        "rootId": "u7-case-c5-synthesis",
+        "c": "u7-c5-risk",
+        "sec": "ch5",
+        "dom": "genes",
+        "t": "teach",
+        "q": "Explain why the two results cannot be labeled with the same epidemiologic measure.",
+        "model": "The first measures incidence over an interval; the second measures prevalence at a point in time. Relative risk would require comparable incidence in exposed and unexposed groups.",
+        "rubric": [
+          "The first measures incidence over an interval; the second measures prevalence at a point in time",
+          "Relative risk would require comparable incidence in exposed and unexposed groups."
+        ],
+        "s": [
+          "C5S5",
+          "C5S6"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "The first measures incidence over an interval; the second measures prevalence at a point in time. Relative risk would require comparable incidence in exposed and unexposed groups.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C5S5: Concepts of Incidence and Prevalence\nIncidence Rate\nIs the number of new cases of a disease reported during a specific period (typically 1 year) divided by the number of individuals in the population.\nPrevalence Rate\nIs the proportion of the population affected by a disease at a specific point in time.\nVaries from population to population.\n5\n\nC5S6: Analysis of Risk Factors\n(1 of 2)\nRelative risk\nIs the increased rate of a disease among individuals exposed to a risk factor divided by the incidence rate of the disease among individuals not exposed to a risk factor. \nMany factors, including age, gender, diet, exercise, and family history of the disease, can influence the risk. \nComplex interactions occur among genetic and \nnongenetic\n factors; each factor can be quantified in terms of relative risks. \n6"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c6-synthesis",
+    "title": "Chapter 6 synthesis case",
+    "dom": "genes",
+    "stem": "A gene sequence is unchanged, but its promoter becomes heavily methylated.",
+    "src": [
+      "C6S4",
+      "C6S29"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c6-synthesis",
+        "rootId": "u7-case-c6-synthesis",
+        "c": "u7-c6-methylation",
+        "sec": "ch6",
+        "dom": "genes",
+        "t": "teach",
+        "q": "Explain the expected expression change and distinguish it from deletion of the gene.",
+        "model": "Promoter methylation can reduce transcription while leaving the DNA sequence present. Deletion removes genetic material. Epigenetic regulation changes expression.",
+        "rubric": [
+          "Promoter methylation can reduce transcription while leaving the DNA sequence present",
+          "Deletion removes genetic material",
+          "Epigenetic regulation changes expression."
+        ],
+        "s": [
+          "C6S4",
+          "C6S29"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "Promoter methylation can reduce transcription while leaving the DNA sequence present. Deletion removes genetic material. Epigenetic regulation changes expression.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C6S4: Epigenetic Mechanisms\n(1 of 3)\nDNA methylation\nIs the attachment of a methyl group to a cytosine base that is followed by a guanine base; also known as CpG dinucleotide.\nCauses a gene to become transcriptionally inactive or silent.\nWhen DNA sequence in the promoter region of a gene becomes heavily methylated, DNA is less likely to be transcribed into messenger RNA (mRNA).\nAberrant methylation: Is the silencing of tumor-suppressor genes in cancer development. \nIs a key component of X-inactivation.\n4\n\nC6S29: Epigenetics and Cancer\n(4 of 5)\nStrategies for treating epigenetic disease\nEpigenetic modifications can be reversed.\nDemethylating agent: 5-azacytidine is used as the treatment of leukemia and myelodysplastic syndrome.\n Histone deacetylase (HDAC) inhibitors: Counteracts the removal of acetyl groups from histone proteins, which can silence the activity of tumor-suppressor genes.\nAre used in the treatment of T-cell lymphomas.\nMajor challenge: Is to develop drugs that target only the genes responsible for a specific cancer.\n29"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c12-synthesis",
+    "title": "Chapter 12 synthesis case",
+    "dom": "cancer",
+    "stem": "A cancer cell leaves a primary mass and enters circulation, but no distant colony develops.",
+    "src": [
+      "C12S38",
+      "C12S39",
+      "C12S40"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c12-synthesis",
+        "rootId": "u7-case-c12-synthesis",
+        "c": "u7-c12-invasion",
+        "sec": "ch12",
+        "dom": "cancer",
+        "t": "teach",
+        "q": "Explain why entry into circulation does not alone complete metastasis.",
+        "model": "The cell must cross tissue barriers, survive transport and survive and proliferate in a receptive distant environment. Proteases aid matrix/basement-membrane passage.",
+        "rubric": [
+          "The cell must cross tissue barriers, survive transport and survive and proliferate in a receptive distant environment",
+          "Proteases aid matrix/basement-membrane passage."
+        ],
+        "s": [
+          "C12S38",
+          "C12S39",
+          "C12S40"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "The cell must cross tissue barriers, survive transport and survive and proliferate in a receptive distant environment. Proteases aid matrix/basement-membrane passage.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C12S38: Activating Invasion and Metastasis\n(1 of 5)\nMetastasis: Is the spread of cancer cells from the site of the original tumor to distant tissues and organs through the body.\nIs a complex process that requires cells to have many new abilities.\nSpread\nSurvive\nProliferate in distant locations \nDestination must be receptive to growth of cancer\n38\n\nC12S39: Activating Invasion and Metastasis\n(2 of 5)\nInvasion: Local spread\nIs a prerequisite for metastasis and the first step in the metastatic process.\nCancer often spreads first to regional lymph nodes through the lymphatic system and then to distant organs through the bloodstream.\nInvasion then requires that the cancer attach to specific receptors and survive in the specific environment.\n39\n\nC12S40: Activating Invasion and Metastasis\n(3 of 5)\nCancer cells secrete protease.\nProteases digest the extracellular matrix and basement membranes.\nCreate pathways through which cells can move.\nMetastatic cells must be able to withstand the physiologic stresses of travel in the blood and lymphatic circulation.\nMetastatic cells must then survive in a new environment.\n40"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c13-synthesis",
+    "title": "Chapter 13 synthesis case",
+    "dom": "cancer",
+    "stem": "Two people share an exposure but differ in DNA repair, inflammatory activity and metabolism.",
+    "src": [
+      "C13S5",
+      "C13S6"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c13-synthesis",
+        "rootId": "u7-case-c13-synthesis",
+        "c": "u7-c13-exposure",
+        "sec": "ch13",
+        "dom": "cancer",
+        "t": "teach",
+        "q": "Use the packet to explain why exposure alone cannot fix an individual outcome.",
+        "model": "The source includes genetic, epigenetic, local tissue, immune and metabolic contributors. Similar exposure need not imply identical susceptibility.",
+        "rubric": [
+          "The source includes genetic, epigenetic, local tissue, immune and metabolic contributors",
+          "Similar exposure need not imply identical susceptibility."
+        ],
+        "s": [
+          "C13S5",
+          "C13S6"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "The source includes genetic, epigenetic, local tissue, immune and metabolic contributors. Similar exposure need not imply identical susceptibility.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C13S5: Genetics, Epigenetics, Tumor Microenvironment, and Cellular Signaling in Cancer\n(1 of 3)\nEnvironmental–lifestyle behaviors and genetic factors contribute to cancers. \nCancer is driven by genetic alterations and changes in epigenetic regulation.\nCancer development and progression involve tissue microenvironment or stroma.\nInfiltrating immune cells cause chronic inflammation, creating a permissive tumor-progressing environment.\n5\n\nC13S6: Genetics, Epigenetics, Tumor Microenvironment, and Cellular Signaling in Cancer\n(2 of 3)\nEpigenetic processes influence cancer initiation, progression, and treatment.\nFactors that influence cancer risk\nDetoxifying enzymes\nDNA repair genes\nImmune/inflammatory systems\nCell’s immediate environment\nMetabolic/hormonal factors\n6"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c14-synthesis",
+    "title": "Chapter 14 synthesis case",
+    "dom": "cancer",
+    "stem": "A learner treats every childhood tumor as an adult epithelial tumor occurring early.",
+    "src": [
+      "C14S4",
+      "C14S6"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c14-synthesis",
+        "rootId": "u7-case-c14-synthesis",
+        "c": "u7-c14-origins",
+        "sec": "ch14",
+        "dom": "cancer",
+        "t": "teach",
+        "q": "Contrast the supplied developmental and tissue-origin framework with that assumption.",
+        "model": "The deck emphasizes mesodermal origins and embryonal tumors from immature tissue. Embryonal tumors begin prenatally; this developmental category cannot be reduced to an adult epithelial pattern.",
+        "rubric": [
+          "The deck emphasizes mesodermal origins and embryonal tumors from immature tissue",
+          "Embryonal tumors begin prenatally; this developmental category cannot be reduced to an adult epithelial pattern."
+        ],
+        "s": [
+          "C14S4",
+          "C14S6"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "The deck emphasizes mesodermal origins and embryonal tumors from immature tissue. Embryonal tumors begin prenatally; this developmental category cannot be reduced to an adult epithelial pattern.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C14S4: Incidence and Types of Childhood Cancer\n(1 of 4) \nMost common childhood cancers are central nervous tremors and \nleukemias\n.\nMost common adolescent cancers are lymphomas (including Hodgkin and non-Hodgkin)\nSarcomas and embryonic tumors\nEmbryonal tumors originate during intrauterine life.\nImmature embryonic tissue is unable to mature or differentiate into fully developed cells.\nEmbryonal tumors are commonly named with the suffix, -blast.\n4\n\nC14S6: Incidence and Types of Childhood Cancer\n(3 of 4) \nMost childhood cancers originate from the mesodermal germ layer.\nThis layer gives rise to connective tissue, bone, cartilage, muscle, blood, blood vessels, gonads, kidneys, and lymphatic system.\nChildhood cancers are often diagnosed during peak times of physical growth.\nChildhood cancers are usually fast growing and have metastasized before a diagnosis is made.\nBoys are affected more than girls.\n6"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c46-synthesis",
+    "title": "Chapter 46 synthesis case",
+    "dom": "skin",
+    "stem": "A healed wound becomes raised and firm. Another lesion is a pressure injury with a covered base.",
+    "src": [
+      "C46S29",
+      "C46S31",
+      "C46S32"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c46-synthesis",
+        "rootId": "u7-case-c46-synthesis",
+        "c": "u7-c46-barrier",
+        "sec": "ch46",
+        "dom": "skin",
+        "t": "teach",
+        "q": "Explain which additional observation distinguishes a keloid from a hypertrophic scar, and why the covered pressure injury cannot be staged from depth alone.",
+        "model": "Extension beyond the original wound favors keloid; hypertrophic scars remain within it. A base covered by slough/eschar is unstageable until depth can be assessed.",
+        "rubric": [
+          "Extension beyond the original wound favors keloid; hypertrophic scars remain within it",
+          "A base covered by slough/eschar is unstageable until depth can be assessed."
+        ],
+        "s": [
+          "C46S29",
+          "C46S31",
+          "C46S32"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "Extension beyond the original wound favors keloid; hypertrophic scars remain within it. A base covered by slough/eschar is unstageable until depth can be assessed.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C46S29: Clinical Manifestations of Skin Dysfunction\n(10 of 15)\nPressure injury (cont.)\nDeep-tissue pressure injury: Localized in an area of deep red, purple, or maroon discolored intact skin or a blood-filled blister caused by underlying soft tissue damage from pressure and/or shearing\nUnstageable: Full-thickness tissue loss with the base of the ulcer covered by slough or eschar, or both, in the wound bed\nSacrum, heels, ischia, and greater trochanters: Most common sites \nPredicting ulcers: Braden scale\n29\n\nC46S31: Clinical Manifestations of Skin Dysfunction\n(12 of 15)\nKeloids\nElevated, rounded, and firm\nClawlike margins that extend beyond the original site \nHypertrophic scars: Elevated erythematous fibrous lesions that do not expand beyond the injury border \n31\n\nC46S32: Clinical Manifestations of Skin Dysfunction\n(13 of 15)\nKeloids (cont.)\nExcessive collagen formation and abnormal fibroblast activity\nCommon in darkly pigmented skin types Treatment: \nIntralesional\n corticosteroids and interferon, 5-FU, cryotherapy, radiotherapy, surgical and laser procedures, silicone gel sheeting, onion-extract preparations\n32"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c47-synthesis",
+    "title": "Chapter 47 synthesis case",
+    "dom": "skin",
+    "stem": "An infant has itchy eczema. Later a wet diaper area develops sharply bounded satellite lesions.",
+    "src": [
+      "C47S9",
+      "C47S10",
+      "C47S12",
+      "C47S61N"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c47-synthesis",
+        "rootId": "u7-case-c47-synthesis",
+        "c": "u7-c47-dermatitis",
+        "sec": "ch47",
+        "dom": "skin",
+        "t": "teach",
+        "q": "Separate barrier/inflammatory disease from the new infectious complication.",
+        "model": "Atopic dermatitis involves barrier and immune dysfunction. Satellite pustulovesicular lesions in diaper dermatitis support secondary Candida involvement in the supplied notes.",
+        "rubric": [
+          "Atopic dermatitis involves barrier and immune dysfunction",
+          "Satellite pustulovesicular lesions in diaper dermatitis support secondary Candida involvement in the supplied notes."
+        ],
+        "s": [
+          "C47S9",
+          "C47S10",
+          "C47S12",
+          "C47S61N"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "Atopic dermatitis involves barrier and immune dysfunction. Satellite pustulovesicular lesions in diaper dermatitis support secondary Candida involvement in the supplied notes.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C47S9: Atopic Dermatitis\n(1 of 3)\nCause is unknown, but genetics play a role.\nPathophysiology\n“Inside-out” or immunologic dysregulation, leading to an epidermal barrier abnormality\n“Outside-in” explanation with primary barrier dysfunction as the cause \nAlterations in filaggrin protein: Defect of the epidermal barrier\n9\n\nC47S10: Atopic Dermatitis\n(2 of 3)\nClinical manifestations\nFrequent exacerbations, severe pruritus (itching—the hallmark sign), and characteristic eczematoid appearance with redness, edema, and scaling \nInfants\nRash (red scaly lesions) appearing on the face, scalp, trunk, and extensor surfaces of the arms and legs\nChildren and adults\nTendency of rash to appear on the neck, antecubital and popliteal fossae, hands, and feet\nLichenification: Thickening of the epidermis from constant scratching \nCommon in adults with chronic eczema\n10\n\nC47S12: Irritant Contact Dermatitis\n(1 of 2)\nAlso known as diaper dermatitis\nInflammation from prolonged exposure to irritation by urine and feces, friction by wet diapers, airtight plastic diaper covers\nClinical manifestations\nErythematous with \npustulovesicular\n satellite lesions \nCandidal\n infection\n12\n\nC47S61N: ANS: A\nDiaper dermatitis is often secondarily infected with \nCandida \nalbicans\n. \nCandidal\n (\nmonilial\n) diaper dermatitis is usually very erythematous, with sharp margination and \npustulovesicular\n satellite lesions affecting the lower aspect of the abdomen, genitalia, buttock, and upper portion of the thigh.\n \nStaphylococcus aureus\n (\nS. aureus\n) and, less commonly, \nStreptococcus pyogenes\n cause impetigo. \nPropionibacterium acnes\n contributes to acne.\n61"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c48-synthesis",
+    "title": "Chapter 48 synthesis case",
+    "dom": "shock",
+    "stem": "An extensively burned adult has tissue swelling while intravascular volume is inadequate.",
+    "src": [
+      "C48S46",
+      "C48S48",
+      "C48S54"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c48-synthesis",
+        "rootId": "u7-case-c48-synthesis",
+        "c": "u7-c48-shock",
+        "sec": "ch48",
+        "dom": "shock",
+        "t": "teach",
+        "q": "Explain the apparent contradiction and identify the supplied resuscitation monitor without repeating the disputed released explanation.",
+        "model": "Edema and intravascular depletion can coexist after fluid shifts and loss. Replacement restores circulating volume; urine output monitors adequacy. Increasing permeability is not the supported purpose.",
+        "rubric": [
+          "Edema and intravascular depletion can coexist after fluid shifts and loss",
+          "Replacement restores circulating volume; urine output monitors adequacy",
+          "Increasing permeability is not the supported purpose."
+        ],
+        "s": [
+          "C48S46",
+          "C48S48",
+          "C48S54"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "Edema and intravascular depletion can coexist after fluid shifts and loss. Replacement restores circulating volume; urine output monitors adequacy. Increasing permeability is not the supported purpose.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C48S46: Thermal Injury and Burns\n(5 of 16)\nBurns exceeding 20% of TBSA in most adults\nAre considered major burn injuries.\nAre associated with massive evaporative water losses and flux of large amounts of fluid and electrolytes.\nGeneralized edema\nCirculatory hypovolemia\n46\n\nC48S48: Thermal Injury and Burns\n(7 of 16)\nPathophysiology (cont.)\nSystemic response\nMassive edema associated with burn shock is inevitable with fluid resuscitation.\nFailure to administer fluid resuscitation results in irreversible hypovolemic shock and death.\nEdema develops in unburned, as well as in burned areas \nEdema often leads to mechanical airway obstruction, necessitating tracheal intubation, and increased severity of the interstitial pulmonary edema associated with inhalation injury.\n48\n\nC48S54: Thermal Injury and Burns\n(13 of 16)\nTreatment\nFirst-degree burns: Usually no treatment\nBurn units\nMeticulous wound management\nAdequate fluids \nMassive amounts of IV fluid are needed.\nFluid resuscitation, with lactated Ringer solution, involves the infusion of fluids at a rate faster than the loss of circulating volume.\nUrine output is the most reliable criterion for adequate fluid resuscitation.\n54"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  },
+  {
+    "id": "case-u7-case-c49-synthesis",
+    "title": "Chapter 49 synthesis case",
+    "dom": "shock",
+    "stem": "A child has poor perfusion with normal systolic pressure; another has an age-related risk of high evaporative losses after burns.",
+    "src": [
+      "C49S5",
+      "C49S6",
+      "C49S18",
+      "C49S53"
+    ],
+    "items": [
+      {
+        "id": "u7-case-c49-synthesis",
+        "rootId": "u7-case-c49-synthesis",
+        "c": "u7-c49-perfusion",
+        "sec": "ch49",
+        "dom": "shock",
+        "t": "teach",
+        "q": "Explain why normal pressure does not exclude shock and why burn replacement needs differ with body proportions.",
+        "model": "Compensated shock may preserve pressure despite impaired perfusion. Greater surface area relative to weight increases evaporative water loss in children.",
+        "rubric": [
+          "Compensated shock may preserve pressure despite impaired perfusion",
+          "Greater surface area relative to weight increases evaporative water loss in children."
+        ],
+        "s": [
+          "C49S5",
+          "C49S6",
+          "C49S18",
+          "C49S53"
+        ],
+        "tier": 1,
+        "pool": "case",
+        "eligible": false,
+        "explain": "Compensated shock may preserve pressure despite impaired perfusion. Greater surface area relative to weight increases evaporative water loss in children.",
+        "provenance": "Original source-supported synthesis case; self-rated, no automatic mastery",
+        "contentRevision": "e7-d6bc6213b61b",
+        "editorialRevision": "e7-dna-20261001-r1",
+        "reviewer": "Codex root; separate authorship and source-key passes completed 2026-10-02",
+        "evidenceExcerpt": "C49S5: Shock and Multiple Organ Dysfunction Syndrome\n(1 of 4)\nShock\nIs a condition of acute and progressive circulatory dysfunction that results in inadequate delivery of oxygen and nutrients to the tissues. \nIs commonly the result of hemorrhage, severe dehydration, progressive heart failure, or sepsis.\nIs present when signs of poor systemic perfusion, regardless of blood pressure, are evident.\n5\n\nC49S6: Shock and Multiple Organ Dysfunction Syndrome\n(2 of 4)\nHypotensive shock\nSystolic hypotension\nis associated with inadequate tissue perfusion. \nCompensated shock\nSystolic blood pressure is adequate for age, but signs of inadequate tissue perfusion are evident.\n6\n\nC49S18: Assessment of Shock\n(7 of 12)\nBlood pressure\nShock may be present, despite a systolic blood pressure within the normal range for the age of the child.\nSystolic hypotension develops, or the mean arterial pressure falls.\nIndicates hypotensive shock. \nUrgent treatment is needed.\n18\n\nC49S53: Pathophysiology, Clinical Manifestations, and Treatment\n(6 of 19)\nFluid resuscitation\nChildren require fluid resuscitation for smaller burns than do adults.\nChild’s relatively greater ratio of body surface area to weight results in increased evaporative water losses and proportionately more fluid during resuscitation.\nFluid resuscitation is generally required for children after thermal injuries in excess of 10% to 15% of their TBSA.\nUse modified Parkland formula.\n53"
+      }
+    ],
+    "scopeNote": "Original case; released course examples are separately catalogued in the DNA record. No automatic prose grade."
+  }
+]

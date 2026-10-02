@@ -1,0 +1,427 @@
+{
+  "title": "Invasion: crossing a tissue boundary",
+  "sources": "12:38,39,40,41",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Boundary",
+      "text": "A tumor can enlarge without yet establishing a distant deposit. First examine its boundary with surrounding tissue."
+    },
+    {
+      "start": 6.94,
+      "title": "Invasion",
+      "text": "Watch protease activity open a path through extracellular matrix and basement membrane. Reduced adhesion and increased migration help cells leave the original site."
+    },
+    {
+      "start": 17.28,
+      "title": "Metastasis",
+      "text": "Entry into blood or lymph is not enough. Cells must survive transport and grow in a receptive distant environment. Local invasion and successful metastasis are separate steps."
+    }
+  ],
+  "words": [
+    {
+      "text": "A",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.06
+    },
+    {
+      "text": "tumor",
+      "stage": 0,
+      "start": 0.14,
+      "end": 0.376
+    },
+    {
+      "text": "can",
+      "stage": 0,
+      "start": 0.36,
+      "end": 0.553
+    },
+    {
+      "text": "enlarge",
+      "stage": 0,
+      "start": 0.56,
+      "end": 1.066
+    },
+    {
+      "text": "without",
+      "stage": 0,
+      "start": 1.08,
+      "end": 1.294
+    },
+    {
+      "text": "yet",
+      "stage": 0,
+      "start": 1.26,
+      "end": 1.467
+    },
+    {
+      "text": "establishing",
+      "stage": 0,
+      "start": 1.48,
+      "end": 2.035
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 2.02,
+      "end": 2.08
+    },
+    {
+      "text": "distant",
+      "stage": 0,
+      "start": 2.24,
+      "end": 2.523
+    },
+    {
+      "text": "deposit.",
+      "stage": 0,
+      "start": 2.5,
+      "end": 3.006
+    },
+    {
+      "text": "First",
+      "stage": 0,
+      "start": 3.88,
+      "end": 4.068
+    },
+    {
+      "text": "examine",
+      "stage": 0,
+      "start": 4.04,
+      "end": 4.409
+    },
+    {
+      "text": "its",
+      "stage": 0,
+      "start": 4.4,
+      "end": 4.647
+    },
+    {
+      "text": "boundary",
+      "stage": 0,
+      "start": 4.68,
+      "end": 5.037
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 5.02,
+      "end": 5.26
+    },
+    {
+      "text": "surrounding",
+      "stage": 0,
+      "start": 5.26,
+      "end": 5.684
+    },
+    {
+      "text": "tissue.",
+      "stage": 0,
+      "start": 5.66,
+      "end": 6.07
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 6.94,
+      "end": 7.4
+    },
+    {
+      "text": "protease",
+      "stage": 1,
+      "start": 7.44,
+      "end": 7.92
+    },
+    {
+      "text": "activity",
+      "stage": 1,
+      "start": 7.92,
+      "end": 8.435
+    },
+    {
+      "text": "open",
+      "stage": 1,
+      "start": 8.44,
+      "end": 8.83
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 8.88,
+      "end": 8.94
+    },
+    {
+      "text": "path",
+      "stage": 1,
+      "start": 9.06,
+      "end": 9.27
+    },
+    {
+      "text": "through",
+      "stage": 1,
+      "start": 9.26,
+      "end": 9.577
+    },
+    {
+      "text": "extracellular",
+      "stage": 1,
+      "start": 9.56,
+      "end": 10.248
+    },
+    {
+      "text": "matrix",
+      "stage": 1,
+      "start": 10.24,
+      "end": 10.617
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 10.62,
+      "end": 11.0
+    },
+    {
+      "text": "basement",
+      "stage": 1,
+      "start": 11.1,
+      "end": 11.475
+    },
+    {
+      "text": "membrane.",
+      "stage": 1,
+      "start": 11.46,
+      "end": 11.94
+    },
+    {
+      "text": "Reduced",
+      "stage": 1,
+      "start": 12.46,
+      "end": 12.794
+    },
+    {
+      "text": "adhesion",
+      "stage": 1,
+      "start": 12.78,
+      "end": 13.277
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 13.28,
+      "end": 13.553
+    },
+    {
+      "text": "increased",
+      "stage": 1,
+      "start": 13.6,
+      "end": 13.944
+    },
+    {
+      "text": "migration",
+      "stage": 1,
+      "start": 13.92,
+      "end": 14.549
+    },
+    {
+      "text": "help",
+      "stage": 1,
+      "start": 14.56,
+      "end": 14.845
+    },
+    {
+      "text": "cells",
+      "stage": 1,
+      "start": 14.86,
+      "end": 15.16
+    },
+    {
+      "text": "leave",
+      "stage": 1,
+      "start": 15.16,
+      "end": 15.508
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 15.52,
+      "end": 15.753
+    },
+    {
+      "text": "original",
+      "stage": 1,
+      "start": 15.78,
+      "end": 16.137
+    },
+    {
+      "text": "site.",
+      "stage": 1,
+      "start": 16.12,
+      "end": 16.48
+    },
+    {
+      "text": "Entry",
+      "stage": 2,
+      "start": 17.28,
+      "end": 17.564
+    },
+    {
+      "text": "into",
+      "stage": 2,
+      "start": 17.56,
+      "end": 17.77
+    },
+    {
+      "text": "blood",
+      "stage": 2,
+      "start": 17.76,
+      "end": 18.06
+    },
+    {
+      "text": "or",
+      "stage": 2,
+      "start": 18.06,
+      "end": 18.21
+    },
+    {
+      "text": "lymph",
+      "stage": 2,
+      "start": 18.24,
+      "end": 18.476
+    },
+    {
+      "text": "is",
+      "stage": 2,
+      "start": 18.46,
+      "end": 18.64
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 18.7,
+      "end": 18.88
+    },
+    {
+      "text": "enough.",
+      "stage": 2,
+      "start": 18.88,
+      "end": 19.207
+    },
+    {
+      "text": "Cells",
+      "stage": 2,
+      "start": 19.94,
+      "end": 20.176
+    },
+    {
+      "text": "must",
+      "stage": 2,
+      "start": 20.16,
+      "end": 20.355
+    },
+    {
+      "text": "survive",
+      "stage": 2,
+      "start": 20.34,
+      "end": 20.691
+    },
+    {
+      "text": "transport",
+      "stage": 2,
+      "start": 20.68,
+      "end": 21.238
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 21.24,
+      "end": 21.473
+    },
+    {
+      "text": "grow",
+      "stage": 2,
+      "start": 21.5,
+      "end": 21.725
+    },
+    {
+      "text": "in",
+      "stage": 2,
+      "start": 21.72,
+      "end": 21.86
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 21.88,
+      "end": 21.94
+    },
+    {
+      "text": "receptive",
+      "stage": 2,
+      "start": 21.94,
+      "end": 22.356
+    },
+    {
+      "text": "distant",
+      "stage": 2,
+      "start": 22.34,
+      "end": 22.743
+    },
+    {
+      "text": "environment.",
+      "stage": 2,
+      "start": 22.74,
+      "end": 23.364
+    },
+    {
+      "text": "Local",
+      "stage": 2,
+      "start": 24.06,
+      "end": 24.344
+    },
+    {
+      "text": "invasion",
+      "stage": 2,
+      "start": 24.34,
+      "end": 24.837
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 24.84,
+      "end": 25.02
+    },
+    {
+      "text": "successful",
+      "stage": 2,
+      "start": 25.02,
+      "end": 25.53
+    },
+    {
+      "text": "metastasis",
+      "stage": 2,
+      "start": 25.52,
+      "end": 26.192
+    },
+    {
+      "text": "are",
+      "stage": 2,
+      "start": 26.2,
+      "end": 26.513
+    },
+    {
+      "text": "separate",
+      "stage": 2,
+      "start": 26.58,
+      "end": 26.973
+    },
+    {
+      "text": "steps.",
+      "stage": 2,
+      "start": 26.96,
+      "end": 27.356
+    }
+  ],
+  "duration": 28.728,
+  "recognitionAgreement": 1.0
+}

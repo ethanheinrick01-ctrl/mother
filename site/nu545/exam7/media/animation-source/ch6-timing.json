@@ -1,0 +1,385 @@
+{
+  "title": "Epigenetics: changing access",
+  "sources": "6:4,6,10,26",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Chromatin",
+      "text": "DNA wraps around histone proteins. Tight packing is heterochromatin; loose packing is euchromatin."
+    },
+    {
+      "start": 7.38,
+      "title": "Silencing",
+      "text": "Now add methyl groups at a promoter. The supplied cancer example links heavy promoter methylation with reduced tumor-suppressor transcription. The base sequence need not change."
+    },
+    {
+      "start": 18.16,
+      "title": "Different outcomes",
+      "text": "A chemical modification can change gene activity. Different expression patterns help cells acquire different identities, even when they carry the same DNA."
+    }
+  ],
+  "words": [
+    {
+      "text": "DNA",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.3
+    },
+    {
+      "text": "wraps",
+      "stage": 0,
+      "start": 0.36,
+      "end": 0.772
+    },
+    {
+      "text": "around",
+      "stage": 0,
+      "start": 0.8,
+      "end": 1.093
+    },
+    {
+      "text": "histone",
+      "stage": 0,
+      "start": 1.08,
+      "end": 1.483
+    },
+    {
+      "text": "proteins.",
+      "stage": 0,
+      "start": 1.48,
+      "end": 1.925
+    },
+    {
+      "text": "Tight",
+      "stage": 0,
+      "start": 2.82,
+      "end": 3.168
+    },
+    {
+      "text": "packing",
+      "stage": 0,
+      "start": 3.18,
+      "end": 3.566
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 3.56,
+      "end": 3.72
+    },
+    {
+      "text": "heterochromatin;",
+      "stage": 0,
+      "start": 3.76,
+      "end": 4.492
+    },
+    {
+      "text": "loose",
+      "stage": 0,
+      "start": 5.0,
+      "end": 5.236
+    },
+    {
+      "text": "packing",
+      "stage": 0,
+      "start": 5.22,
+      "end": 5.503
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 5.48,
+      "end": 5.7
+    },
+    {
+      "text": "euchromatin.",
+      "stage": 0,
+      "start": 5.8,
+      "end": 6.382
+    },
+    {
+      "text": "Now",
+      "stage": 1,
+      "start": 7.38,
+      "end": 7.68
+    },
+    {
+      "text": "add",
+      "stage": 1,
+      "start": 7.74,
+      "end": 7.947
+    },
+    {
+      "text": "methyl",
+      "stage": 1,
+      "start": 7.96,
+      "end": 8.237
+    },
+    {
+      "text": "groups",
+      "stage": 1,
+      "start": 8.22,
+      "end": 8.513
+    },
+    {
+      "text": "at",
+      "stage": 1,
+      "start": 8.5,
+      "end": 8.67
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 8.72,
+      "end": 8.78
+    },
+    {
+      "text": "promoter.",
+      "stage": 1,
+      "start": 8.84,
+      "end": 9.303
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 10.2,
+      "end": 10.38
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 10.38,
+      "end": 10.738
+    },
+    {
+      "text": "cancer",
+      "stage": 1,
+      "start": 10.72,
+      "end": 11.113
+    },
+    {
+      "text": "example",
+      "stage": 1,
+      "start": 11.12,
+      "end": 11.643
+    },
+    {
+      "text": "links",
+      "stage": 1,
+      "start": 11.66,
+      "end": 11.992
+    },
+    {
+      "text": "heavy",
+      "stage": 1,
+      "start": 12.0,
+      "end": 12.284
+    },
+    {
+      "text": "promoter",
+      "stage": 1,
+      "start": 12.28,
+      "end": 12.777
+    },
+    {
+      "text": "methylation",
+      "stage": 1,
+      "start": 12.78,
+      "end": 13.458
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 13.46,
+      "end": 13.7
+    },
+    {
+      "text": "reduced",
+      "stage": 1,
+      "start": 13.7,
+      "end": 14.069
+    },
+    {
+      "text": "tumor-suppressor",
+      "stage": 1,
+      "start": 14.06,
+      "end": 14.974
+    },
+    {
+      "text": "transcription.",
+      "stage": 1,
+      "start": 14.96,
+      "end": 15.5
+    },
+    {
+      "text": "The",
+      "stage": 1,
+      "start": 16.0,
+      "end": 16.113
+    },
+    {
+      "text": "base",
+      "stage": 1,
+      "start": 16.08,
+      "end": 16.275
+    },
+    {
+      "text": "sequence",
+      "stage": 1,
+      "start": 16.26,
+      "end": 16.652
+    },
+    {
+      "text": "need",
+      "stage": 1,
+      "start": 16.64,
+      "end": 16.925
+    },
+    {
+      "text": "not",
+      "stage": 1,
+      "start": 16.94,
+      "end": 17.16
+    },
+    {
+      "text": "change.",
+      "stage": 1,
+      "start": 17.18,
+      "end": 17.573
+    },
+    {
+      "text": "A",
+      "stage": 2,
+      "start": 18.16,
+      "end": 18.22
+    },
+    {
+      "text": "chemical",
+      "stage": 2,
+      "start": 18.26,
+      "end": 18.565
+    },
+    {
+      "text": "modification",
+      "stage": 2,
+      "start": 18.54,
+      "end": 19.315
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 19.32,
+      "end": 19.593
+    },
+    {
+      "text": "change",
+      "stage": 2,
+      "start": 19.64,
+      "end": 20.05
+    },
+    {
+      "text": "gene",
+      "stage": 2,
+      "start": 20.06,
+      "end": 20.3
+    },
+    {
+      "text": "activity.",
+      "stage": 2,
+      "start": 20.3,
+      "end": 20.832
+    },
+    {
+      "text": "Different",
+      "stage": 2,
+      "start": 21.6,
+      "end": 21.891
+    },
+    {
+      "text": "expression",
+      "stage": 2,
+      "start": 21.86,
+      "end": 22.388
+    },
+    {
+      "text": "patterns",
+      "stage": 2,
+      "start": 22.38,
+      "end": 22.773
+    },
+    {
+      "text": "help",
+      "stage": 2,
+      "start": 22.76,
+      "end": 23.03
+    },
+    {
+      "text": "cells",
+      "stage": 2,
+      "start": 23.04,
+      "end": 23.324
+    },
+    {
+      "text": "acquire",
+      "stage": 2,
+      "start": 23.32,
+      "end": 23.689
+    },
+    {
+      "text": "different",
+      "stage": 2,
+      "start": 23.68,
+      "end": 24.131
+    },
+    {
+      "text": "identities,",
+      "stage": 2,
+      "start": 24.12,
+      "end": 24.648
+    },
+    {
+      "text": "even",
+      "stage": 2,
+      "start": 24.64,
+      "end": 25.135
+    },
+    {
+      "text": "when",
+      "stage": 2,
+      "start": 25.22,
+      "end": 25.43
+    },
+    {
+      "text": "they",
+      "stage": 2,
+      "start": 25.42,
+      "end": 25.585
+    },
+    {
+      "text": "carry",
+      "stage": 2,
+      "start": 25.56,
+      "end": 25.828
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 25.82,
+      "end": 26.013
+    },
+    {
+      "text": "same",
+      "stage": 2,
+      "start": 26.02,
+      "end": 26.32
+    },
+    {
+      "text": "DNA.",
+      "stage": 2,
+      "start": 26.34,
+      "end": 26.667
+    }
+  ],
+  "duration": 27.024,
+  "recognitionAgreement": 0.9986
+}

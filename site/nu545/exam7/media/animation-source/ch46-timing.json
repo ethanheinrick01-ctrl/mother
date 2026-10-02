@@ -1,0 +1,433 @@
+{
+  "title": "Pressure: from compression to ischemia",
+  "sources": "46:27,28,29,30",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Compression",
+      "text": "Pressure over a bony prominence can compress the local capillary bed. Watch flow diminish as the tissue is compressed."
+    },
+    {
+      "start": 7.58,
+      "title": "Ischemia",
+      "text": "Unrelieved pressure reduces oxygen delivery and can cause ischemia and necrosis. Depth matters: injury can extend from skin into deeper supporting tissues."
+    },
+    {
+      "start": 17.42,
+      "title": "Relief",
+      "text": "Pressure relief and repositioning address the initiating force. An intact red surface and an exposed deep wound represent different findings; a covered wound base may prevent staging."
+    }
+  ],
+  "words": [
+    {
+      "text": "Pressure",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.393
+    },
+    {
+      "text": "over",
+      "stage": 0,
+      "start": 0.38,
+      "end": 0.65
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 0.66,
+      "end": 0.72
+    },
+    {
+      "text": "bony",
+      "stage": 0,
+      "start": 0.82,
+      "end": 1.075
+    },
+    {
+      "text": "prominence",
+      "stage": 0,
+      "start": 1.08,
+      "end": 1.788
+    },
+    {
+      "text": "can",
+      "stage": 0,
+      "start": 1.8,
+      "end": 2.02
+    },
+    {
+      "text": "compress",
+      "stage": 0,
+      "start": 2.04,
+      "end": 2.415
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 2.4,
+      "end": 2.647
+    },
+    {
+      "text": "local",
+      "stage": 0,
+      "start": 2.68,
+      "end": 2.932
+    },
+    {
+      "text": "capillary",
+      "stage": 0,
+      "start": 2.92,
+      "end": 3.424
+    },
+    {
+      "text": "bed.",
+      "stage": 0,
+      "start": 3.42,
+      "end": 3.72
+    },
+    {
+      "text": "Watch",
+      "stage": 0,
+      "start": 4.46,
+      "end": 4.664
+    },
+    {
+      "text": "flow",
+      "stage": 0,
+      "start": 4.64,
+      "end": 4.865
+    },
+    {
+      "text": "diminish",
+      "stage": 0,
+      "start": 4.86,
+      "end": 5.252
+    },
+    {
+      "text": "as",
+      "stage": 0,
+      "start": 5.24,
+      "end": 5.52
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 5.68,
+      "end": 5.833
+    },
+    {
+      "text": "tissue",
+      "stage": 0,
+      "start": 5.82,
+      "end": 6.097
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 6.08,
+      "end": 6.24
+    },
+    {
+      "text": "compressed.",
+      "stage": 0,
+      "start": 6.28,
+      "end": 6.7
+    },
+    {
+      "text": "Unrelieved",
+      "stage": 1,
+      "start": 7.58,
+      "end": 8.072
+    },
+    {
+      "text": "pressure",
+      "stage": 1,
+      "start": 8.06,
+      "end": 8.47
+    },
+    {
+      "text": "reduces",
+      "stage": 1,
+      "start": 8.46,
+      "end": 8.897
+    },
+    {
+      "text": "oxygen",
+      "stage": 1,
+      "start": 8.9,
+      "end": 9.343
+    },
+    {
+      "text": "delivery",
+      "stage": 1,
+      "start": 9.36,
+      "end": 9.84
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 9.84,
+      "end": 10.207
+    },
+    {
+      "text": "can",
+      "stage": 1,
+      "start": 10.3,
+      "end": 10.453
+    },
+    {
+      "text": "cause",
+      "stage": 1,
+      "start": 10.44,
+      "end": 10.724
+    },
+    {
+      "text": "ischemia",
+      "stage": 1,
+      "start": 10.72,
+      "end": 11.218
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 11.22,
+      "end": 11.56
+    },
+    {
+      "text": "necrosis.",
+      "stage": 1,
+      "start": 11.64,
+      "end": 12.138
+    },
+    {
+      "text": "Depth",
+      "stage": 1,
+      "start": 12.9,
+      "end": 13.168
+    },
+    {
+      "text": "matters:",
+      "stage": 1,
+      "start": 13.16,
+      "end": 13.46
+    },
+    {
+      "text": "injury",
+      "stage": 1,
+      "start": 13.8,
+      "end": 14.043
+    },
+    {
+      "text": "can",
+      "stage": 1,
+      "start": 14.02,
+      "end": 14.227
+    },
+    {
+      "text": "extend",
+      "stage": 1,
+      "start": 14.24,
+      "end": 14.55
+    },
+    {
+      "text": "from",
+      "stage": 1,
+      "start": 14.54,
+      "end": 14.795
+    },
+    {
+      "text": "skin",
+      "stage": 1,
+      "start": 14.8,
+      "end": 15.115
+    },
+    {
+      "text": "into",
+      "stage": 1,
+      "start": 15.14,
+      "end": 15.485
+    },
+    {
+      "text": "deeper",
+      "stage": 1,
+      "start": 15.52,
+      "end": 15.847
+    },
+    {
+      "text": "supporting",
+      "stage": 1,
+      "start": 15.84,
+      "end": 16.332
+    },
+    {
+      "text": "tissues.",
+      "stage": 1,
+      "start": 16.32,
+      "end": 16.757
+    },
+    {
+      "text": "Pressure",
+      "stage": 2,
+      "start": 17.42,
+      "end": 17.76
+    },
+    {
+      "text": "relief",
+      "stage": 2,
+      "start": 17.74,
+      "end": 18.0
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 17.98,
+      "end": 18.2
+    },
+    {
+      "text": "repositioning",
+      "stage": 2,
+      "start": 18.22,
+      "end": 19.037
+    },
+    {
+      "text": "address",
+      "stage": 2,
+      "start": 19.04,
+      "end": 19.306
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 19.28,
+      "end": 19.527
+    },
+    {
+      "text": "initiating",
+      "stage": 2,
+      "start": 19.56,
+      "end": 20.124
+    },
+    {
+      "text": "force.",
+      "stage": 2,
+      "start": 20.12,
+      "end": 20.42
+    },
+    {
+      "text": "An",
+      "stage": 2,
+      "start": 21.18,
+      "end": 21.29
+    },
+    {
+      "text": "intact",
+      "stage": 2,
+      "start": 21.28,
+      "end": 21.607
+    },
+    {
+      "text": "red",
+      "stage": 2,
+      "start": 21.6,
+      "end": 21.873
+    },
+    {
+      "text": "surface",
+      "stage": 2,
+      "start": 21.92,
+      "end": 22.357
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 22.36,
+      "end": 22.62
+    },
+    {
+      "text": "an",
+      "stage": 2,
+      "start": 22.66,
+      "end": 22.78
+    },
+    {
+      "text": "exposed",
+      "stage": 2,
+      "start": 22.78,
+      "end": 23.08
+    },
+    {
+      "text": "deep",
+      "stage": 2,
+      "start": 23.06,
+      "end": 23.45
+    },
+    {
+      "text": "wound",
+      "stage": 2,
+      "start": 23.5,
+      "end": 23.784
+    },
+    {
+      "text": "represent",
+      "stage": 2,
+      "start": 23.78,
+      "end": 24.284
+    },
+    {
+      "text": "different",
+      "stage": 2,
+      "start": 24.28,
+      "end": 24.713
+    },
+    {
+      "text": "findings;",
+      "stage": 2,
+      "start": 24.7,
+      "end": 25.18
+    },
+    {
+      "text": "a",
+      "stage": 2,
+      "start": 25.74,
+      "end": 25.8
+    },
+    {
+      "text": "covered",
+      "stage": 2,
+      "start": 25.94,
+      "end": 26.223
+    },
+    {
+      "text": "wound",
+      "stage": 2,
+      "start": 26.2,
+      "end": 26.532
+    },
+    {
+      "text": "base",
+      "stage": 2,
+      "start": 26.54,
+      "end": 26.825
+    },
+    {
+      "text": "may",
+      "stage": 2,
+      "start": 26.84,
+      "end": 27.18
+    },
+    {
+      "text": "prevent",
+      "stage": 2,
+      "start": 27.26,
+      "end": 27.646
+    },
+    {
+      "text": "staging.",
+      "stage": 2,
+      "start": 27.64,
+      "end": 28.197
+    }
+  ],
+  "duration": 28.656,
+  "recognitionAgreement": 1.0
+}

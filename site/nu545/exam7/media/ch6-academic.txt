@@ -1,0 +1,5 @@
+DNA wraps around histone proteins. Tight packing is heterochromatin; loose packing is euchromatin.
+
+Now add methyl groups at a promoter. The supplied cancer example links heavy promoter methylation with reduced tumor-suppressor transcription. The base sequence need not change.
+
+A chemical modification can change gene activity. Different expression patterns help cells acquire different identities, even when they carry the same DNA.

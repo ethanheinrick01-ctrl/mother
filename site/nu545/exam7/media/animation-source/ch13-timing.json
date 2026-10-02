@@ -1,0 +1,397 @@
+{
+  "title": "Adipose tissue and cancer risk",
+  "sources": "13:14,17",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Active tissue",
+      "text": "Adipose tissue is an active participant in the cancer-risk model. It releases adipokines."
+    },
+    {
+      "start": 6.0,
+      "title": "Interacting pathways",
+      "text": "With obesity, the supplied deck links insulin resistance and hyperinsulinemia. Watch signaling increase around the tissue. This is a risk mechanism, not proof that a tumor will develop."
+    },
+    {
+      "start": 18.1,
+      "title": "Activity",
+      "text": "Physical activity can reduce inflammatory mediators and insulin-like growth factors. The packet describes protection for selected cancers even without weight loss."
+    }
+  ],
+  "words": [
+    {
+      "text": "Adipose",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.437
+    },
+    {
+      "text": "tissue",
+      "stage": 0,
+      "start": 0.44,
+      "end": 0.817
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 0.82,
+      "end": 1.03
+    },
+    {
+      "text": "an",
+      "stage": 0,
+      "start": 1.12,
+      "end": 1.24
+    },
+    {
+      "text": "active",
+      "stage": 0,
+      "start": 1.24,
+      "end": 1.6
+    },
+    {
+      "text": "participant",
+      "stage": 0,
+      "start": 1.6,
+      "end": 2.224
+    },
+    {
+      "text": "in",
+      "stage": 0,
+      "start": 2.22,
+      "end": 2.4
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 2.46,
+      "end": 2.6
+    },
+    {
+      "text": "cancer-risk",
+      "stage": 0,
+      "start": 2.58,
+      "end": 3.15
+    },
+    {
+      "text": "model.",
+      "stage": 0,
+      "start": 3.16,
+      "end": 3.556
+    },
+    {
+      "text": "It",
+      "stage": 0,
+      "start": 3.84,
+      "end": 4.12
+    },
+    {
+      "text": "releases",
+      "stage": 0,
+      "start": 4.28,
+      "end": 4.69
+    },
+    {
+      "text": "adipokines.",
+      "stage": 0,
+      "start": 4.68,
+      "end": 5.442
+    },
+    {
+      "text": "With",
+      "stage": 1,
+      "start": 6.0,
+      "end": 6.405
+    },
+    {
+      "text": "obesity,",
+      "stage": 1,
+      "start": 6.46,
+      "end": 6.88
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 7.3,
+      "end": 7.413
+    },
+    {
+      "text": "supplied",
+      "stage": 1,
+      "start": 7.38,
+      "end": 7.772
+    },
+    {
+      "text": "deck",
+      "stage": 1,
+      "start": 7.76,
+      "end": 8.06
+    },
+    {
+      "text": "links",
+      "stage": 1,
+      "start": 8.08,
+      "end": 8.444
+    },
+    {
+      "text": "insulin",
+      "stage": 1,
+      "start": 8.46,
+      "end": 8.949
+    },
+    {
+      "text": "resistance",
+      "stage": 1,
+      "start": 8.96,
+      "end": 9.47
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 9.46,
+      "end": 9.84
+    },
+    {
+      "text": "hyperinsulinemia.",
+      "stage": 1,
+      "start": 9.94,
+      "end": 11.069
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 11.62,
+      "end": 11.872
+    },
+    {
+      "text": "signaling",
+      "stage": 1,
+      "start": 11.86,
+      "end": 12.311
+    },
+    {
+      "text": "increase",
+      "stage": 1,
+      "start": 12.3,
+      "end": 12.833
+    },
+    {
+      "text": "around",
+      "stage": 1,
+      "start": 12.84,
+      "end": 13.217
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 13.22,
+      "end": 13.373
+    },
+    {
+      "text": "tissue.",
+      "stage": 1,
+      "start": 13.36,
+      "end": 13.687
+    },
+    {
+      "text": "This",
+      "stage": 1,
+      "start": 14.3,
+      "end": 14.525
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 14.52,
+      "end": 14.65
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 14.66,
+      "end": 14.72
+    },
+    {
+      "text": "risk",
+      "stage": 1,
+      "start": 14.76,
+      "end": 14.985
+    },
+    {
+      "text": "mechanism,",
+      "stage": 1,
+      "start": 14.98,
+      "end": 15.413
+    },
+    {
+      "text": "not",
+      "stage": 1,
+      "start": 15.7,
+      "end": 15.867
+    },
+    {
+      "text": "proof",
+      "stage": 1,
+      "start": 15.86,
+      "end": 16.176
+    },
+    {
+      "text": "that",
+      "stage": 1,
+      "start": 16.18,
+      "end": 16.465
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 16.48,
+      "end": 16.54
+    },
+    {
+      "text": "tumor",
+      "stage": 1,
+      "start": 16.58,
+      "end": 16.832
+    },
+    {
+      "text": "will",
+      "stage": 1,
+      "start": 16.82,
+      "end": 17.03
+    },
+    {
+      "text": "develop.",
+      "stage": 1,
+      "start": 17.02,
+      "end": 17.423
+    },
+    {
+      "text": "Physical",
+      "stage": 2,
+      "start": 18.1,
+      "end": 18.44
+    },
+    {
+      "text": "activity",
+      "stage": 2,
+      "start": 18.42,
+      "end": 19.022
+    },
+    {
+      "text": "can",
+      "stage": 2,
+      "start": 19.04,
+      "end": 19.287
+    },
+    {
+      "text": "reduce",
+      "stage": 2,
+      "start": 19.32,
+      "end": 19.63
+    },
+    {
+      "text": "inflammatory",
+      "stage": 2,
+      "start": 19.62,
+      "end": 20.12
+    },
+    {
+      "text": "mediators",
+      "stage": 2,
+      "start": 20.1,
+      "end": 20.889
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 20.92,
+      "end": 21.153
+    },
+    {
+      "text": "insulin-like",
+      "stage": 2,
+      "start": 21.18,
+      "end": 21.765
+    },
+    {
+      "text": "growth",
+      "stage": 2,
+      "start": 21.76,
+      "end": 22.037
+    },
+    {
+      "text": "factors.",
+      "stage": 2,
+      "start": 22.02,
+      "end": 22.423
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 22.42,
+      "end": 23.093
+    },
+    {
+      "text": "packet",
+      "stage": 2,
+      "start": 23.34,
+      "end": 23.633
+    },
+    {
+      "text": "describes",
+      "stage": 2,
+      "start": 23.62,
+      "end": 24.107
+    },
+    {
+      "text": "protection",
+      "stage": 2,
+      "start": 24.1,
+      "end": 24.682
+    },
+    {
+      "text": "for",
+      "stage": 2,
+      "start": 24.68,
+      "end": 24.94
+    },
+    {
+      "text": "selected",
+      "stage": 2,
+      "start": 24.98,
+      "end": 25.442
+    },
+    {
+      "text": "cancers",
+      "stage": 2,
+      "start": 25.44,
+      "end": 25.894
+    },
+    {
+      "text": "even",
+      "stage": 2,
+      "start": 25.9,
+      "end": 26.305
+    },
+    {
+      "text": "without",
+      "stage": 2,
+      "start": 26.36,
+      "end": 26.711
+    },
+    {
+      "text": "weight",
+      "stage": 2,
+      "start": 26.7,
+      "end": 26.977
+    },
+    {
+      "text": "loss.",
+      "stage": 2,
+      "start": 26.96,
+      "end": 27.2
+    }
+  ],
+  "duration": 27.528,
+  "recognitionAgreement": 0.9973
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "path": "css/app.css",
+    "bytes": 8939,
+    "sha256": "b40c373c10183058862b02fd2b72aaa45b143debad3651b315a0df113fa2864d"
+  },
+  {
+    "path": "index.html",
+    "bytes": 1543,
+    "sha256": "00352d026ceee72c26263eaa606fe6fcbdd7daa2ef510dd279cf1eab6d2399e1"
+  },
+  {
+    "path": "js/app.js",
+    "bytes": 29322,
+    "sha256": "f7f822881bfc4412cc6a21651974f9eb8666bddf4bf14367fcc807c150364d40"
+  },
+  {
+    "path": "js/core/engine.js",
+    "bytes": 10630,
+    "sha256": "d828950e3b5180203b010490df7993e922efe74ee3ef6d2f88186ebce6a45b9a"
+  },
+  {
+    "path": "js/core/store.js",
+    "bytes": 11001,
+    "sha256": "2c4cbd9861e730c3517744a479100be48ba3249e168e4abd98c5a2177a1c73b7"
+  },
+  {
+    "path": "js/core/util.js",
+    "bytes": 2862,
+    "sha256": "d0a0a758c11dbc85865d4699a03b00c9f2effab1b3afb3ad75130ff6946d29ac"
+  },
+  {
+    "path": "js/data/course.js",
+    "bytes": 575195,
+    "sha256": "9cd1bb943abcfcafb12812fe5f87a7a604f3c9ab6b9e79f480504836d3c8e8c6"
+  },
+  {
+    "path": "js/data/media.js",
+    "bytes": 20886,
+    "sha256": "2e8508febad924e4109bb96db04f2f0a76f0f10a91d1e189d10db3c4450d8268"
+  },
+  {
+    "path": "media/animation-source/align_narration.py",
+    "bytes": 3756,
+    "sha256": "da1f435d4dac65939fcebc2ef13ea19393e8737a457f22b67c114269df237db8"
+  },
+  {
+    "path": "media/animation-source/ch12-timing.json",
+    "bytes": 7267,
+    "sha256": "4851363669ccf6b0bd00f959167080d915c56cb21f0b09ee3902be438df94310"
+  },
+  {
+    "path": "media/animation-source/ch13-timing.json",
+    "bytes": 6786,
+    "sha256": "d2ab8eced6e398c7b8b805c0308b27f36b6fd585062e5b536e0944470b87344f"
+  },
+  {
+    "path": "media/animation-source/ch14-timing.json",
+    "bytes": 7124,
+    "sha256": "659ab0818108b6cd936c65c7f83e4d2a899f56768ef349e8080c63dae37ba973"
+  },
+  {
+    "path": "media/animation-source/ch4-timing.json",
+    "bytes": 6902,
+    "sha256": "537cfd69607d0a3829408317dce3316380eae0488554282040f378c89082bd5d"
+  },
+  {
+    "path": "media/animation-source/ch46-timing.json",
+    "bytes": 7354,
+    "sha256": "fa9c2d908ca37c84779c6c01aeed0e17e00d846dd5d0bd9303871f024c71c753"
+  },
+  {
+    "path": "media/animation-source/ch47-timing.json",
+    "bytes": 6557,
+    "sha256": "7bb63edaf7cbe159e66ee956329fa4cf86a507bf6c53d9274fe03d6b7a802f90"
+  },
+  {
+    "path": "media/animation-source/ch48-timing.json",
+    "bytes": 7341,
+    "sha256": "77e4c66f55bd1b2ff288601643d9bf713c2d929c281e80cc04c16e363ae89444"
+  },
+  {
+    "path": "media/animation-source/ch49-timing.json",
+    "bytes": 6756,
+    "sha256": "4fb4f84de285e77d9979975a6bc1f016d6882e735ba563c4dadebd4cdedac282"
+  },
+  {
+    "path": "media/animation-source/ch5-timing.json",
+    "bytes": 7931,
+    "sha256": "167d213aa18a61660d282536386117d07a5bf688e51cf8fcaf40301b10cdc4ff"
+  },
+  {
+    "path": "media/animation-source/ch6-timing.json",
+    "bytes": 6600,
+    "sha256": "62c45e3a8c4c5d7c937cd874a4889d4aca9339c4d5f6ed99224ffaaeb8f41615"
+  },
+  {
+    "path": "media/animation-source/chapter-film-scripts.json",
+    "bytes": 7661,
+    "sha256": "fa1cc582d589b06145866af05568f4d25522cc98e8a0e1e46d1013f92ff5fda9"
+  },
+  {
+    "path": "media/animation-source/figure-manifest.json",
+    "bytes": 8315,
+    "sha256": "f2765cbae2de69286a53911ff5c570451e33d71612047db8a1460e200928cdf6"
+  },
+  {
+    "path": "media/animation-source/render_chapters.py",
+    "bytes": 14522,
+    "sha256": "64453ac52c596e94bfeb7e25a5ebcea88f794cbc03f9b4608b0494d651dae451"
+  },
+  {
+    "path": "media/ch12-academic-poster.jpg",
+    "bytes": 92945,
+    "sha256": "3ceaa64479f70f2b5e9fd1a288a5439b309dfd5ae01a660fac668ace1f9a81b2"
+  },
+  {
+    "path": "media/ch12-academic.mp4",
+    "bytes": 604511,
+    "sha256": "2d4a470650f3b6355554cd53eacb6037fcc923c0e7dbd66fa03ce064762de550"
+  },
+  {
+    "path": "media/ch12-academic.txt",
+    "bytes": 459,
+    "sha256": "4307422276c0e0660fe59878a6df47bd1821e64c6b7b27951e425aaa440af3b4"
+  },
+  {
+    "path": "media/ch12-academic.vtt",
+    "bytes": 805,
+    "sha256": "137e464cc8f86f4e9cf72d2792554f8517329f5885b599da36638074d68cdcf7"
+  },
+  {
+    "path": "media/ch12-narration.mp3",
+    "bytes": 459648,
+    "sha256": "8dcc689bd652baf608d3d2739e1a9b7ddbd7f5ea5310011fc581b33b04d52bb7"
+  },
+  {
+    "path": "media/ch13-academic-poster.jpg",
+    "bytes": 135872,
+    "sha256": "3d7d6dfb5095af43bfa959f8a2039c55b9f2814831ca304815355bbeaceab49c"
+  },
+  {
+    "path": "media/ch13-academic.mp4",
+    "bytes": 1110187,
+    "sha256": "80846f5d946352e8a1db2233837d3528d0af848199c38e74ff551bc1daeb0524"
+  },
+  {
+    "path": "media/ch13-academic.txt",
+    "bytes": 442,
+    "sha256": "c0bbd66242527d6d8ef7e902c3fabe930a00a69c2f22915d85432ff2f0f9fae0"
+  },
+  {
+    "path": "media/ch13-academic.vtt",
+    "bytes": 819,
+    "sha256": "8ab7a82ea81f6ca0dd180605cef8f7995a68c2ec4b8250f85dcd96048eb2f169"
+  },
+  {
+    "path": "media/ch13-narration.mp3",
+    "bytes": 440448,
+    "sha256": "80b91d0af82c65c5b9894f2786903e3a2426da735cb5d604ea36b44d80b02d0a"
+  },
+  {
+    "path": "media/ch14-academic-poster.jpg",
+    "bytes": 76453,
+    "sha256": "5b6f3b8296effe9e833e2af4b769c015df6d59e5d0de59b50475731e7435a7b5"
+  },
+  {
+    "path": "media/ch14-academic.mp4",
+    "bytes": 594234,
+    "sha256": "d3e69d609c8619b3fb8bff560e5248f788b79210b826300434ddfe375227f6e0"
+  },
+  {
+    "path": "media/ch14-academic.txt",
+    "bytes": 472,
+    "sha256": "367dac5aa1f8729303e66f2b70a1d9c5a52416dfe442dea5ff1920c4158b46b6"
+  },
+  {
+    "path": "media/ch14-academic.vtt",
+    "bytes": 756,
+    "sha256": "979bd5cbc6bd5b7760109e8255b04b378eb3b3f2859e82f81da68911d2579c20"
+  },
+  {
+    "path": "media/ch14-narration.mp3",
+    "bytes": 469248,
+    "sha256": "0a433a9cf7e666211b362a2c08ae0fd570428e255965362612f6a9919c7267db"
+  },
+  {
+    "path": "media/ch4-academic-poster.jpg",
+    "bytes": 107297,
+    "sha256": "e53d3705b504901b5c6fc6bc3ed4724d0fa2a6edda4be681c15467538fd2c25d"
+  },
+  {
+    "path": "media/ch4-academic.mp4",
+    "bytes": 888000,
+    "sha256": "c75744b3f63ac9b5faf3944bfeaba4c422e9a2820ca3e8f27b8ec4d0cc6331b5"
+  },
+  {
+    "path": "media/ch4-academic.txt",
+    "bytes": 425,
+    "sha256": "59c2edf371cd8c10e5a96ce34fe200e4409eed34d65e042e190d9b4f9f10c40b"
+  },
+  {
+    "path": "media/ch4-academic.vtt",
+    "bytes": 771,
+    "sha256": "3077286f017c6346799c762be459de06e9cb4d4501dbc3d4806101e77a01cb25"
+  },
+  {
+    "path": "media/ch4-narration.mp3",
+    "bytes": 418944,
+    "sha256": "84defafb0715674b29a04549ab4fc07071e409ec236b723af2653fc67b546994"
+  },
+  {
+    "path": "media/ch46-academic-poster.jpg",
+    "bytes": 107208,
+    "sha256": "7dc55a6364ec86c2635235db58ee550925857a05fbd2b1678ec7fdd9481111a0"
+  },
+  {
+    "path": "media/ch46-academic.mp4",
+    "bytes": 1894032,
+    "sha256": "869dad26561c22752751b0004cc0d31fea7664c307839f5ecaab58549e51ec18"
+  },
+  {
+    "path": "media/ch46-academic.txt",
+    "bytes": 461,
+    "sha256": "4b852baf221c37be43464eeac98282cb96003333ac695bd5e561831e116ea644"
+  },
+  {
+    "path": "media/ch46-academic.vtt",
+    "bytes": 807,
+    "sha256": "b33439b5593cb3a097d1641128968a6114795651c2f4b164b9a82842dabe7b37"
+  },
+  {
+    "path": "media/ch46-narration.mp3",
+    "bytes": 458496,
+    "sha256": "73c2980eb1555a059eafb08b216aea3e03047ef939063870a8cd941284e0b760"
+  },
+  {
+    "path": "media/ch47-academic-poster.jpg",
+    "bytes": 137804,
+    "sha256": "a34c03217d816d9426f0abd2a56b68b63c6bc15e65377e47fd466ca9c03a3dbd"
+  },
+  {
+    "path": "media/ch47-academic.mp4",
+    "bytes": 785219,
+    "sha256": "b5b38df1f1d0b518675057de18ee6395bc888a07deccdc6659fd96998683a5bc"
+  },
+  {
+    "path": "media/ch47-academic.txt",
+    "bytes": 467,
+    "sha256": "17faa12273189100de37087472f636c0cf42c18734de26e31a1ed6ddef3f4f8b"
+  },
+  {
+    "path": "media/ch47-academic.vtt",
+    "bytes": 751,
+    "sha256": "2854c3daca43e50635ddd83725ced073318a8a04528828c49797ccc671a2a567"
+  },
+  {
+    "path": "media/ch47-narration.mp3",
+    "bytes": 464640,
+    "sha256": "c7b59da8004b90db6d19305f00d973e0cd5f93e6e4d260c905d78a7b2336c647"
+  },
+  {
+    "path": "media/ch48-academic-poster.jpg",
+    "bytes": 107372,
+    "sha256": "5232ed71646f961bd24c24936d1d23fb7bab2b8f005d69ab4a23cbcb162e9644"
+  },
+  {
+    "path": "media/ch48-academic.mp4",
+    "bytes": 1123704,
+    "sha256": "4fb7e49cfd5aa19fa8d137ba5b99c58512bc232ecfc139aa9b90f54901a186fd"
+  },
+  {
+    "path": "media/ch48-academic.txt",
+    "bytes": 458,
+    "sha256": "8a6119e761e244e9904f388a0ad322b1ab819b0a9b06f534a232efcdbc8d69a3"
+  },
+  {
+    "path": "media/ch48-academic.vtt",
+    "bytes": 804,
+    "sha256": "219437895352734920cfe0d7255980b0763503cc1ae94b9a786f5d3ee425ee90"
+  },
+  {
+    "path": "media/ch48-narration.mp3",
+    "bytes": 455808,
+    "sha256": "e12fbfe0427b33fdf3d2d9c9f27a28d6985f9807404eba231ba4460e440746e2"
+  },
+  {
+    "path": "media/ch49-academic-poster.jpg",
+    "bytes": 107481,
+    "sha256": "5c629e517ad689958fc44a422f389be76d79ce20cce5172398fd500db85ecbc5"
+  },
+  {
+    "path": "media/ch49-academic.mp4",
+    "bytes": 751503,
+    "sha256": "480abac28189d81b7bf0681b234d689675402811d918504fa436b803def3b4c8"
+  },
+  {
+    "path": "media/ch49-academic.txt",
+    "bytes": 425,
+    "sha256": "1ded7ca2a8f54c9679a2b3590d0da34e589e8edda328f48c77582aee4da33b4d"
+  },
+  {
+    "path": "media/ch49-academic.vtt",
+    "bytes": 740,
+    "sha256": "0ec722d5ae4122ec70bb6f44401407b8bd5a88b60892b6d59277ead10c7e7644"
+  },
+  {
+    "path": "media/ch49-narration.mp3",
+    "bytes": 422016,
+    "sha256": "390b24a77f25870db1165a17609f5c57bf284cdc03cf2194aa551db5192919f5"
+  },
+  {
+    "path": "media/ch5-academic-poster.jpg",
+    "bytes": 98500,
+    "sha256": "f33cb047ce8892465e7f996bb6f772f000dd76c9b0da114647219f1096c50e51"
+  },
+  {
+    "path": "media/ch5-academic.mp4",
+    "bytes": 970710,
+    "sha256": "fa0898fbd524e38c0cccc678eff6283c436ff52e2b125f55a691b04e8c310a0b"
+  },
+  {
+    "path": "media/ch5-academic.txt",
+    "bytes": 518,
+    "sha256": "487a97a3b54e69f3f65fb989f0ec2e80e93d63cd6ad86c0112d08b8272097cf8"
+  },
+  {
+    "path": "media/ch5-academic.vtt",
+    "bytes": 864,
+    "sha256": "ff0421966255e7e80925a7796f173a8c904c9ccaec8615f89f1384508c370ba6"
+  },
+  {
+    "path": "media/ch5-narration.mp3",
+    "bytes": 497664,
+    "sha256": "d2dba631fdcf49b4520465333ace9367148c70578437358830e28e5f4008e8ae"
+  },
+  {
+    "path": "media/ch6-academic-poster.jpg",
+    "bytes": 104709,
+    "sha256": "82ca7fab5c1bbe8584ac3e105629a6775d2a4bb33bd47b02e7b3ea922b6f50b1"
+  },
+  {
+    "path": "media/ch6-academic.mp4",
+    "bytes": 971216,
+    "sha256": "e5277ddfc9124aead3772efeeb2eb360f71cadb4a538b6b86985c13c65319610"
+  },
+  {
+    "path": "media/ch6-academic.txt",
+    "bytes": 435,
+    "sha256": "b8a22830f8ff0a6efa020ee653a48ce16793a0f529f484648ef3ce90067d938d"
+  },
+  {
+    "path": "media/ch6-academic.vtt",
+    "bytes": 719,
+    "sha256": "5b03fc336dce17fe8ec5cea4fa30f8364fb864b7617f02ff00434429bc6b998f"
+  },
+  {
+    "path": "media/ch6-narration.mp3",
+    "bytes": 432384,
+    "sha256": "6fa612bc7059a52b4124ab120211e571d168839ab53f3f8f359b2f044155081d"
+  },
+  {
+    "path": "media/figures/adipose-tissue.jpg",
+    "bytes": 1152730,
+    "sha256": "873ab0a6133cfb85bf731f7f1cdabc57441c21ba6a222223451ca0db1d20d8ea"
+  },
+  {
+    "path": "media/figures/ductal-in-situ.jpg",
+    "bytes": 51227,
+    "sha256": "78c056239453d4c236e48687a637bdba64d59e769407245035d8b02712080794"
+  },
+  {
+    "path": "media/figures/epigenetics.png",
+    "bytes": 1771773,
+    "sha256": "f7607151c8b0c90fdd71c320cdb64b949bddf80ee96b1c47cb80b5264e562755"
+  },
+  {
+    "path": "media/figures/glucose-homeostasis.jpg",
+    "bytes": 673751,
+    "sha256": "eb74d0c4e300e6dd2f39cb1ff87551a30813d7b8f4a3ce865e599e15ef5a701f"
+  },
+  {
+    "path": "media/figures/lymphatic-system.jpg",
+    "bytes": 694091,
+    "sha256": "ac20d8e1485ee33bd077d34a940a089a5246393864986a725ff2853d5a90d018"
+  },
+  {
+    "path": "media/figures/skin.jpg",
+    "bytes": 668034,
+    "sha256": "1f08f33002a885c6c61d11c00de210c0f3becf2b6a841292148b27281c29e61e"
+  },
+  {
+    "path": "media/figures/stem-cell.jpg",
+    "bytes": 362532,
+    "sha256": "6d0737415a0ff08068ce526180ba6f5bb9be1dbf5f5b40306fe244533416b17c"
+  },
+  {
+    "path": "media/figures/transcription.png",
+    "bytes": 225886,
+    "sha256": "8f850c377ea0a21a6901470b9ef096f19062a60273f49db5ae6a26fab43a4179"
+  },
+  {
+    "path": "media/figures/transcription.svg",
+    "bytes": 350006,
+    "sha256": "bdae668ada7e6444f82f9fb5b9486939ff848be4af57f610565f325a6dad986c"
+  }
+]

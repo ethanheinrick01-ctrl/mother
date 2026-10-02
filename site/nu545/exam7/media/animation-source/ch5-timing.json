@@ -1,0 +1,463 @@
+{
+  "title": "Insulin: response and supply",
+  "sources": "5:26,28,30N",
+  "stages": [
+    {
+      "start": 0,
+      "title": "Insulin resistance",
+      "text": "Chapter five. Obesity is a risk factor for type two diabetes, but the connection is more than a label. The supplied notes describe insulin resistance: cells have difficulty using the insulin present."
+    },
+    {
+      "start": 13.06,
+      "title": "Supply contrast",
+      "text": "Watch the tissue response weaken while insulin remains available. Contrast this with type one diabetes, where autoimmune destruction reduces the pancreatic beta-cell supply."
+    },
+    {
+      "start": 23.28,
+      "title": "Modifiable risk",
+      "text": "Family history also changes risk. Exercise and weight management address modifiable contributors; they do not erase inherited susceptibility."
+    }
+  ],
+  "words": [
+    {
+      "text": "Chapter",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.283
+    },
+    {
+      "text": "five.",
+      "stage": 0,
+      "start": 0.442,
+      "end": 1.161
+    },
+    {
+      "text": "Obesity",
+      "stage": 0,
+      "start": 1.32,
+      "end": 1.963
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 2.2,
+      "end": 2.26
+    },
+    {
+      "text": "risk",
+      "stage": 0,
+      "start": 2.3,
+      "end": 2.525
+    },
+    {
+      "text": "factor",
+      "stage": 0,
+      "start": 2.52,
+      "end": 2.963
+    },
+    {
+      "text": "for",
+      "stage": 0,
+      "start": 2.98,
+      "end": 3.173
+    },
+    {
+      "text": "type",
+      "stage": 0,
+      "start": 3.18,
+      "end": 3.405
+    },
+    {
+      "text": "two",
+      "stage": 0,
+      "start": 3.419,
+      "end": 3.626
+    },
+    {
+      "text": "diabetes,",
+      "stage": 0,
+      "start": 3.64,
+      "end": 4.085
+    },
+    {
+      "text": "but",
+      "stage": 0,
+      "start": 4.68,
+      "end": 4.873
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 4.88,
+      "end": 5.02
+    },
+    {
+      "text": "connection",
+      "stage": 0,
+      "start": 5.0,
+      "end": 5.294
+    },
+    {
+      "text": "is",
+      "stage": 0,
+      "start": 5.26,
+      "end": 5.49
+    },
+    {
+      "text": "more",
+      "stage": 0,
+      "start": 5.6,
+      "end": 5.81
+    },
+    {
+      "text": "than",
+      "stage": 0,
+      "start": 5.8,
+      "end": 5.98
+    },
+    {
+      "text": "a",
+      "stage": 0,
+      "start": 5.96,
+      "end": 6.02
+    },
+    {
+      "text": "label.",
+      "stage": 0,
+      "start": 6.08,
+      "end": 6.412
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 7.2,
+      "end": 7.34
+    },
+    {
+      "text": "supplied",
+      "stage": 0,
+      "start": 7.32,
+      "end": 7.695
+    },
+    {
+      "text": "notes",
+      "stage": 0,
+      "start": 7.68,
+      "end": 8.028
+    },
+    {
+      "text": "describe",
+      "stage": 0,
+      "start": 8.04,
+      "end": 8.555
+    },
+    {
+      "text": "insulin",
+      "stage": 0,
+      "start": 8.56,
+      "end": 9.031
+    },
+    {
+      "text": "resistance:",
+      "stage": 0,
+      "start": 9.04,
+      "end": 9.55
+    },
+    {
+      "text": "cells",
+      "stage": 0,
+      "start": 10.06,
+      "end": 10.264
+    },
+    {
+      "text": "have",
+      "stage": 0,
+      "start": 10.24,
+      "end": 10.45
+    },
+    {
+      "text": "difficulty",
+      "stage": 0,
+      "start": 10.44,
+      "end": 10.878
+    },
+    {
+      "text": "using",
+      "stage": 0,
+      "start": 10.86,
+      "end": 11.24
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 11.26,
+      "end": 11.453
+    },
+    {
+      "text": "insulin",
+      "stage": 0,
+      "start": 11.46,
+      "end": 11.777
+    },
+    {
+      "text": "present.",
+      "stage": 0,
+      "start": 11.76,
+      "end": 12.146
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 13.06,
+      "end": 13.248
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 13.22,
+      "end": 13.44
+    },
+    {
+      "text": "tissue",
+      "stage": 1,
+      "start": 13.46,
+      "end": 13.687
+    },
+    {
+      "text": "response",
+      "stage": 1,
+      "start": 13.66,
+      "end": 14.07
+    },
+    {
+      "text": "weaken",
+      "stage": 1,
+      "start": 14.06,
+      "end": 14.587
+    },
+    {
+      "text": "while",
+      "stage": 1,
+      "start": 14.62,
+      "end": 15.016
+    },
+    {
+      "text": "insulin",
+      "stage": 1,
+      "start": 15.04,
+      "end": 15.391
+    },
+    {
+      "text": "remains",
+      "stage": 1,
+      "start": 15.38,
+      "end": 15.749
+    },
+    {
+      "text": "available.",
+      "stage": 1,
+      "start": 15.74,
+      "end": 16.28
+    },
+    {
+      "text": "Contrast",
+      "stage": 1,
+      "start": 16.7,
+      "end": 17.128
+    },
+    {
+      "text": "this",
+      "stage": 1,
+      "start": 17.12,
+      "end": 17.39
+    },
+    {
+      "text": "with",
+      "stage": 1,
+      "start": 17.4,
+      "end": 17.625
+    },
+    {
+      "text": "type",
+      "stage": 1,
+      "start": 17.62,
+      "end": 17.86
+    },
+    {
+      "text": "one",
+      "stage": 1,
+      "start": 17.875,
+      "end": 18.085
+    },
+    {
+      "text": "diabetes,",
+      "stage": 1,
+      "start": 18.1,
+      "end": 18.65
+    },
+    {
+      "text": "where",
+      "stage": 1,
+      "start": 18.98,
+      "end": 19.12
+    },
+    {
+      "text": "autoimmune",
+      "stage": 1,
+      "start": 19.08,
+      "end": 19.608
+    },
+    {
+      "text": "destruction",
+      "stage": 1,
+      "start": 19.6,
+      "end": 20.26
+    },
+    {
+      "text": "reduces",
+      "stage": 1,
+      "start": 20.26,
+      "end": 20.92
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 20.96,
+      "end": 21.18
+    },
+    {
+      "text": "pancreatic",
+      "stage": 1,
+      "start": 21.2,
+      "end": 21.8
+    },
+    {
+      "text": "beta-cell",
+      "stage": 1,
+      "start": 21.8,
+      "end": 22.25
+    },
+    {
+      "text": "supply.",
+      "stage": 1,
+      "start": 22.26,
+      "end": 22.72
+    },
+    {
+      "text": "Family",
+      "stage": 2,
+      "start": 23.28,
+      "end": 23.673
+    },
+    {
+      "text": "history",
+      "stage": 2,
+      "start": 23.68,
+      "end": 24.066
+    },
+    {
+      "text": "also",
+      "stage": 2,
+      "start": 24.06,
+      "end": 24.45
+    },
+    {
+      "text": "changes",
+      "stage": 2,
+      "start": 24.5,
+      "end": 24.869
+    },
+    {
+      "text": "risk.",
+      "stage": 2,
+      "start": 24.86,
+      "end": 25.265
+    },
+    {
+      "text": "Exercise",
+      "stage": 2,
+      "start": 25.32,
+      "end": 26.22
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 26.28,
+      "end": 26.593
+    },
+    {
+      "text": "weight",
+      "stage": 2,
+      "start": 26.66,
+      "end": 26.82
+    },
+    {
+      "text": "management",
+      "stage": 2,
+      "start": 26.78,
+      "end": 27.272
+    },
+    {
+      "text": "address",
+      "stage": 2,
+      "start": 27.26,
+      "end": 27.629
+    },
+    {
+      "text": "modifiable",
+      "stage": 2,
+      "start": 27.62,
+      "end": 28.274
+    },
+    {
+      "text": "contributors;",
+      "stage": 2,
+      "start": 28.28,
+      "end": 28.963
+    },
+    {
+      "text": "they",
+      "stage": 2,
+      "start": 29.26,
+      "end": 29.485
+    },
+    {
+      "text": "do",
+      "stage": 2,
+      "start": 29.48,
+      "end": 29.63
+    },
+    {
+      "text": "not",
+      "stage": 2,
+      "start": 29.66,
+      "end": 29.867
+    },
+    {
+      "text": "erase",
+      "stage": 2,
+      "start": 29.88,
+      "end": 30.164
+    },
+    {
+      "text": "inherited",
+      "stage": 2,
+      "start": 30.16,
+      "end": 30.771
+    },
+    {
+      "text": "susceptibility.",
+      "stage": 2,
+      "start": 30.711,
+      "end": 30.771
+    }
+  ],
+  "duration": 31.104,
+  "recognitionAgreement": 0.9679
+}
