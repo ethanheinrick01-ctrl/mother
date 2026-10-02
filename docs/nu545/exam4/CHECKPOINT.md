@@ -35,3 +35,10 @@ Namespace nu545-exam4-progress-v1; accepted engine/util copied unchanged, store 
 ## Resume / final integration
 
 Only remaining action for a release claim: manual disposable-QA native backup file and full large clipboard roundtrip, then coordinated review of all four exams and class-picker integration. Source gaps stay explicit until exact assigned textbook passages/instructor clarification arrive. Never seed or clear Betsy’s history. Preserve stored question versions; new competencies require fresh learning evidence. Local commit is available for coordinated integration; do not publish independently.
+
+
+## October 2, 2026 — curated guide emphasis
+
+Ethan authorized updating and publishing the current integrated Exams 4–7. Current base is `6cf207f`; older local-only handoff notes above describe their earlier state. This change replaces automatic prompt/number/definition highlighting with explicit per-card editorial selections for all 33 guide cards. Gold identifies a supported topic from a numbered study-guide prompt. Cyan identifies useful distinctions, mechanisms and exact discriminating details. Missing components and disputed claims do not gain gold. Tables participate; source disclosures, practice questions and feedback do not.
+
+Data, item IDs, course storage keys, store, engine, app logic and media are byte-for-byte unchanged. All 108 engine tests pass across Exams 4–7. All 28 chapter routes were checked at 390px with no page overflow, missing planned marks or source-disclosure marks. Isolated browser QA confirmed wrong/correct feedback, no pre-answer highlighting, and a retained first answer and note after reload. Publication is authorized to the existing mother repository and URLs; final live receipt is retained privately with the authoring audit.

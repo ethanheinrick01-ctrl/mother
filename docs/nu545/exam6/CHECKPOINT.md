@@ -16,3 +16,10 @@ Verification: 33 scoped checks and 38 unchanged baseline checks pass; hydrated c
 Preview currently serves port 8766 using `python3 tests/exam6-preview.py` with byte ranges. Private QA sibling `../exam6-private`. A plain Python server failed seeking; do not substitute it for media verification. The final browser tab is a deliverable; other test preview tabs closed. No real learner progress touched.
 
 Resume only necessary integration/target-browser checks from HANDOFF.md. Rebuild content using `python3 docs/nu545/exam6/build.py /path/to/packet [outside-repo-evidence-review.html]`. Preserve stable keys/IDs and old snapshots. Run tests before integration. Do not publish private sources or synthetic learner exports.
+
+
+## October 2, 2026 — curated guide emphasis
+
+Ethan authorized updating and publishing the current integrated Exams 4–7. Current base is `6cf207f`; older local-only handoff notes above describe their earlier state. This change replaces automatic prompt/number/definition highlighting with explicit per-card editorial selections for all 89 guide cards. Gold identifies a supported topic from a numbered study-guide prompt. Cyan identifies useful distinctions, mechanisms and exact discriminating details. Missing components and disputed claims do not gain gold. Tables participate; source disclosures, practice questions and feedback do not.
+
+Data, item IDs, course storage keys, store, engine, app logic and media are byte-for-byte unchanged. All 108 engine tests pass across Exams 4–7. All 28 chapter routes were checked at 390px with no page overflow, missing planned marks or source-disclosure marks. Isolated browser QA confirmed wrong/correct feedback, no pre-answer highlighting, and a retained first answer and note after reload. Publication is authorized to the existing mother repository and URLs; final live receipt is retained privately with the authoring audit.

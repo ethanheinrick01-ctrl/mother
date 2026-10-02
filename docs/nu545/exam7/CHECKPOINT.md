@@ -17,3 +17,10 @@ Two exam-local renderer changes to coordinate: copyable backup JSON and freezing
 Private source: /Users/ethanheinrick/Desktop/NU545 Unit 7. Private QA: ../exam7-private. Clean preview: http://localhost:8877/nu545/exam7/. 127.0.0.1:8877 contains synthetic QA progress and must not be used as Betsy's clean preview. Source packet and raw QA never enter the public site.
 
 Next authorized integration step belongs to the final coordinator: inspect the local commit, integrate the scoped files, add the proposed exam7/ picker link, rerun combined tests, and deploy only if separately authorized. See HANDOFF.md and INTEGRATION-NOTES.md. Textbook completion requires the exact additional passages listed in the adjudication report. Preserve IDs/storage/version snapshots when extending.
+
+
+## October 2, 2026 — curated guide emphasis
+
+Ethan authorized updating and publishing the current integrated Exams 4–7. Current base is `6cf207f`; older local-only handoff notes above describe their earlier state. This change replaces automatic prompt/number/definition highlighting with explicit per-card editorial selections for all 71 guide cards. Gold identifies a supported topic from a numbered study-guide prompt. Cyan identifies useful distinctions, mechanisms and exact discriminating details. Missing components and disputed claims do not gain gold. Tables participate; source disclosures, practice questions and feedback do not.
+
+Data, item IDs, course storage keys, store, engine, app logic and media are byte-for-byte unchanged. All 108 engine tests pass across Exams 4–7. All 28 chapter routes were checked at 390px with no page overflow, missing planned marks or source-disclosure marks. Isolated browser QA confirmed wrong/correct feedback, no pre-answer highlighting, and a retained first answer and note after reload. Publication is authorized to the existing mother repository and URLs; final live receipt is retained privately with the authoring audit.
