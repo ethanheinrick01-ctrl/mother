@@ -1,0 +1,851 @@
+{
+  "title": "CF: dehydration and impaired clearance",
+  "sources": [
+    "CH36S40",
+    "CH36S42",
+    "CH36S43",
+    "CH36S47N",
+    "CH36S19"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Ion transport",
+      "text": "In cystic fibrosis, the airway problem begins with abnormal epithelial ion transport. The supplied chapter describes defective chloride transport and exaggerated sodium absorption, which deplete airway surface liquid."
+    },
+    {
+      "start": 13.82,
+      "title": "Impaired clearance",
+      "text": "Watch the mucus layer lose water and become harder to move. Cilia cannot clear the adherent secretions effectively, and bacteria remain in the airway."
+    },
+    {
+      "start": 22.86,
+      "title": "Inflammation and viscosity",
+      "text": "Inflammation then amplifies the problem. Degraded neutrophils release DNA and filamentous actin, adding to mucus viscosity."
+    },
+    {
+      "start": 31.3,
+      "title": "Structural injury",
+      "text": "Thick secretions obstruct small airways, while chronic inflammation can lead to bronchiectasis and fibrosis. The drawing shows a mechanism, not a scaled measurement of mucus thickness or a prediction for an individual child."
+    },
+    {
+      "start": 45.12,
+      "title": "Newborn RDS contrast",
+      "text": "Distinguish this process from newborn respiratory distress syndrome. In that disorder, inadequate surfactant in the immature lung promotes alveolar collapse. Both can impair breathing, but the initiating defect and the affected surface are different."
+    }
+  ],
+  "words": [
+    {
+      "text": "In",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.13
+    },
+    {
+      "text": "cystic",
+      "stage": 0,
+      "start": 0.14,
+      "end": 0.55
+    },
+    {
+      "text": "fibrosis,",
+      "stage": 0,
+      "start": 0.56,
+      "end": 1.075
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 1.26,
+      "end": 1.373
+    },
+    {
+      "text": "airway",
+      "stage": 0,
+      "start": 1.34,
+      "end": 1.7
+    },
+    {
+      "text": "problem",
+      "stage": 0,
+      "start": 1.7,
+      "end": 2.12
+    },
+    {
+      "text": "begins",
+      "stage": 0,
+      "start": 2.12,
+      "end": 2.447
+    },
+    {
+      "text": "with",
+      "stage": 0,
+      "start": 2.44,
+      "end": 2.74
+    },
+    {
+      "text": "abnormal",
+      "stage": 0,
+      "start": 2.76,
+      "end": 3.118
+    },
+    {
+      "text": "epithelial",
+      "stage": 0,
+      "start": 3.1,
+      "end": 3.916
+    },
+    {
+      "text": "ion",
+      "stage": 0,
+      "start": 3.94,
+      "end": 4.187
+    },
+    {
+      "text": "transport.",
+      "stage": 0,
+      "start": 4.22,
+      "end": 4.884
+    },
+    {
+      "text": "The",
+      "stage": 0,
+      "start": 5.28,
+      "end": 5.487
+    },
+    {
+      "text": "supplied",
+      "stage": 0,
+      "start": 5.5,
+      "end": 5.892
+    },
+    {
+      "text": "chapter",
+      "stage": 0,
+      "start": 5.88,
+      "end": 6.351
+    },
+    {
+      "text": "describes",
+      "stage": 0,
+      "start": 6.36,
+      "end": 6.971
+    },
+    {
+      "text": "defective",
+      "stage": 0,
+      "start": 6.98,
+      "end": 7.591
+    },
+    {
+      "text": "chloride",
+      "stage": 0,
+      "start": 7.6,
+      "end": 7.957
+    },
+    {
+      "text": "transport",
+      "stage": 0,
+      "start": 7.94,
+      "end": 8.551
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 8.56,
+      "end": 8.847
+    },
+    {
+      "text": "exaggerated",
+      "stage": 0,
+      "start": 8.9,
+      "end": 9.396
+    },
+    {
+      "text": "sodium",
+      "stage": 0,
+      "start": 9.38,
+      "end": 9.857
+    },
+    {
+      "text": "absorption,",
+      "stage": 0,
+      "start": 9.88,
+      "end": 10.444
+    },
+    {
+      "text": "which",
+      "stage": 0,
+      "start": 10.86,
+      "end": 11.144
+    },
+    {
+      "text": "deplete",
+      "stage": 0,
+      "start": 11.14,
+      "end": 11.56
+    },
+    {
+      "text": "airway",
+      "stage": 0,
+      "start": 11.56,
+      "end": 12.12
+    },
+    {
+      "text": "surface",
+      "stage": 0,
+      "start": 12.16,
+      "end": 12.563
+    },
+    {
+      "text": "liquid.",
+      "stage": 0,
+      "start": 12.56,
+      "end": 12.953
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 13.82,
+      "end": 14.008
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 13.98,
+      "end": 14.173
+    },
+    {
+      "text": "mucus",
+      "stage": 1,
+      "start": 14.18,
+      "end": 14.4
+    },
+    {
+      "text": "layer",
+      "stage": 1,
+      "start": 14.38,
+      "end": 14.664
+    },
+    {
+      "text": "lose",
+      "stage": 1,
+      "start": 14.66,
+      "end": 14.96
+    },
+    {
+      "text": "water",
+      "stage": 1,
+      "start": 14.98,
+      "end": 15.392
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 15.42,
+      "end": 15.68
+    },
+    {
+      "text": "become",
+      "stage": 1,
+      "start": 15.72,
+      "end": 15.997
+    },
+    {
+      "text": "harder",
+      "stage": 1,
+      "start": 15.98,
+      "end": 16.34
+    },
+    {
+      "text": "to",
+      "stage": 1,
+      "start": 16.34,
+      "end": 16.52
+    },
+    {
+      "text": "move.",
+      "stage": 1,
+      "start": 16.58,
+      "end": 16.835
+    },
+    {
+      "text": "Cilia",
+      "stage": 1,
+      "start": 17.166,
+      "end": 17.784
+    },
+    {
+      "text": "cannot",
+      "stage": 1,
+      "start": 17.78,
+      "end": 18.09
+    },
+    {
+      "text": "clear",
+      "stage": 1,
+      "start": 18.08,
+      "end": 18.396
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 18.4,
+      "end": 18.593
+    },
+    {
+      "text": "adherent",
+      "stage": 1,
+      "start": 18.6,
+      "end": 19.06
+    },
+    {
+      "text": "secretions",
+      "stage": 1,
+      "start": 19.08,
+      "end": 19.59
+    },
+    {
+      "text": "effectively,",
+      "stage": 1,
+      "start": 19.58,
+      "end": 20.131
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 20.12,
+      "end": 20.527
+    },
+    {
+      "text": "bacteria",
+      "stage": 1,
+      "start": 20.64,
+      "end": 21.05
+    },
+    {
+      "text": "remain",
+      "stage": 1,
+      "start": 21.04,
+      "end": 21.483
+    },
+    {
+      "text": "in",
+      "stage": 1,
+      "start": 21.5,
+      "end": 21.66
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 21.7,
+      "end": 21.84
+    },
+    {
+      "text": "airway.",
+      "stage": 1,
+      "start": 21.82,
+      "end": 22.197
+    },
+    {
+      "text": "Inflammation",
+      "stage": 2,
+      "start": 22.86,
+      "end": 23.433
+    },
+    {
+      "text": "then",
+      "stage": 2,
+      "start": 23.42,
+      "end": 23.705
+    },
+    {
+      "text": "amplifies",
+      "stage": 2,
+      "start": 23.72,
+      "end": 24.242
+    },
+    {
+      "text": "the",
+      "stage": 2,
+      "start": 24.24,
+      "end": 24.42
+    },
+    {
+      "text": "problem.",
+      "stage": 2,
+      "start": 24.42,
+      "end": 24.823
+    },
+    {
+      "text": "Degraded",
+      "stage": 2,
+      "start": 25.58,
+      "end": 26.042
+    },
+    {
+      "text": "neutrophils",
+      "stage": 2,
+      "start": 26.04,
+      "end": 26.609
+    },
+    {
+      "text": "release",
+      "stage": 2,
+      "start": 26.6,
+      "end": 26.969
+    },
+    {
+      "text": "DNA",
+      "stage": 2,
+      "start": 26.96,
+      "end": 27.34
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 27.44,
+      "end": 27.673
+    },
+    {
+      "text": "filamentous",
+      "stage": 2,
+      "start": 27.7,
+      "end": 28.305
+    },
+    {
+      "text": "actin,",
+      "stage": 2,
+      "start": 28.3,
+      "end": 28.728
+    },
+    {
+      "text": "adding",
+      "stage": 2,
+      "start": 28.76,
+      "end": 29.287
+    },
+    {
+      "text": "to",
+      "stage": 2,
+      "start": 29.32,
+      "end": 29.49
+    },
+    {
+      "text": "mucus",
+      "stage": 2,
+      "start": 29.54,
+      "end": 29.856
+    },
+    {
+      "text": "viscosity.",
+      "stage": 2,
+      "start": 29.86,
+      "end": 30.489
+    },
+    {
+      "text": "Thick",
+      "stage": 3,
+      "start": 31.3,
+      "end": 31.552
+    },
+    {
+      "text": "secretions",
+      "stage": 3,
+      "start": 31.54,
+      "end": 32.14
+    },
+    {
+      "text": "obstruct",
+      "stage": 3,
+      "start": 32.14,
+      "end": 32.515
+    },
+    {
+      "text": "small",
+      "stage": 3,
+      "start": 32.5,
+      "end": 32.928
+    },
+    {
+      "text": "airways,",
+      "stage": 3,
+      "start": 32.96,
+      "end": 33.5
+    },
+    {
+      "text": "while",
+      "stage": 3,
+      "start": 33.52,
+      "end": 34.06
+    },
+    {
+      "text": "chronic",
+      "stage": 3,
+      "start": 34.12,
+      "end": 34.489
+    },
+    {
+      "text": "inflammation",
+      "stage": 3,
+      "start": 34.48,
+      "end": 35.127
+    },
+    {
+      "text": "can",
+      "stage": 3,
+      "start": 35.12,
+      "end": 35.38
+    },
+    {
+      "text": "lead",
+      "stage": 3,
+      "start": 35.42,
+      "end": 35.63
+    },
+    {
+      "text": "to",
+      "stage": 3,
+      "start": 35.62,
+      "end": 35.78
+    },
+    {
+      "text": "bronchiectasis",
+      "stage": 3,
+      "start": 35.82,
+      "end": 36.604
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 36.6,
+      "end": 36.873
+    },
+    {
+      "text": "fibrosis.",
+      "stage": 3,
+      "start": 36.92,
+      "end": 37.523
+    },
+    {
+      "text": "The",
+      "stage": 3,
+      "start": 38.32,
+      "end": 38.433
+    },
+    {
+      "text": "drawing",
+      "stage": 3,
+      "start": 38.4,
+      "end": 38.666
+    },
+    {
+      "text": "shows",
+      "stage": 3,
+      "start": 38.64,
+      "end": 38.876
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 38.86,
+      "end": 38.92
+    },
+    {
+      "text": "mechanism,",
+      "stage": 3,
+      "start": 39.04,
+      "end": 39.544
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 39.88,
+      "end": 40.087
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 40.1,
+      "end": 40.16
+    },
+    {
+      "text": "scaled",
+      "stage": 3,
+      "start": 40.22,
+      "end": 40.513
+    },
+    {
+      "text": "measurement",
+      "stage": 3,
+      "start": 40.5,
+      "end": 40.924
+    },
+    {
+      "text": "of",
+      "stage": 3,
+      "start": 40.9,
+      "end": 41.04
+    },
+    {
+      "text": "mucus",
+      "stage": 3,
+      "start": 41.06,
+      "end": 41.36
+    },
+    {
+      "text": "thickness",
+      "stage": 3,
+      "start": 41.36,
+      "end": 41.74
+    },
+    {
+      "text": "or",
+      "stage": 3,
+      "start": 41.72,
+      "end": 42.01
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 42.18,
+      "end": 42.24
+    },
+    {
+      "text": "prediction",
+      "stage": 3,
+      "start": 42.3,
+      "end": 42.774
+    },
+    {
+      "text": "for",
+      "stage": 3,
+      "start": 42.76,
+      "end": 43.02
+    },
+    {
+      "text": "an",
+      "stage": 3,
+      "start": 43.06,
+      "end": 43.18
+    },
+    {
+      "text": "individual",
+      "stage": 3,
+      "start": 43.18,
+      "end": 43.6
+    },
+    {
+      "text": "child.",
+      "stage": 3,
+      "start": 43.58,
+      "end": 44.136
+    },
+    {
+      "text": "Distinguish",
+      "stage": 4,
+      "start": 45.12,
+      "end": 45.635
+    },
+    {
+      "text": "this",
+      "stage": 4,
+      "start": 45.62,
+      "end": 45.785
+    },
+    {
+      "text": "process",
+      "stage": 4,
+      "start": 45.76,
+      "end": 46.146
+    },
+    {
+      "text": "from",
+      "stage": 4,
+      "start": 46.14,
+      "end": 46.41
+    },
+    {
+      "text": "newborn",
+      "stage": 4,
+      "start": 46.42,
+      "end": 46.72
+    },
+    {
+      "text": "respiratory",
+      "stage": 4,
+      "start": 46.7,
+      "end": 47.287
+    },
+    {
+      "text": "distress",
+      "stage": 4,
+      "start": 47.28,
+      "end": 47.725
+    },
+    {
+      "text": "syndrome.",
+      "stage": 4,
+      "start": 47.72,
+      "end": 48.235
+    },
+    {
+      "text": "In",
+      "stage": 4,
+      "start": 48.96,
+      "end": 49.14
+    },
+    {
+      "text": "that",
+      "stage": 4,
+      "start": 49.2,
+      "end": 49.41
+    },
+    {
+      "text": "disorder,",
+      "stage": 4,
+      "start": 49.4,
+      "end": 49.88
+    },
+    {
+      "text": "inadequate",
+      "stage": 4,
+      "start": 50.3,
+      "end": 50.684
+    },
+    {
+      "text": "surfactant",
+      "stage": 4,
+      "start": 50.66,
+      "end": 51.404
+    },
+    {
+      "text": "in",
+      "stage": 4,
+      "start": 51.42,
+      "end": 51.59
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 51.64,
+      "end": 51.767
+    },
+    {
+      "text": "immature",
+      "stage": 4,
+      "start": 51.74,
+      "end": 52.098
+    },
+    {
+      "text": "lung",
+      "stage": 4,
+      "start": 52.08,
+      "end": 52.395
+    },
+    {
+      "text": "promotes",
+      "stage": 4,
+      "start": 52.42,
+      "end": 52.795
+    },
+    {
+      "text": "alveolar",
+      "stage": 4,
+      "start": 52.78,
+      "end": 53.4
+    },
+    {
+      "text": "collapse.",
+      "stage": 4,
+      "start": 53.42,
+      "end": 53.848
+    },
+    {
+      "text": "Both",
+      "stage": 4,
+      "start": 54.68,
+      "end": 54.95
+    },
+    {
+      "text": "can",
+      "stage": 4,
+      "start": 54.96,
+      "end": 55.18
+    },
+    {
+      "text": "impair",
+      "stage": 4,
+      "start": 55.2,
+      "end": 55.477
+    },
+    {
+      "text": "breathing,",
+      "stage": 4,
+      "start": 55.46,
+      "end": 55.911
+    },
+    {
+      "text": "but",
+      "stage": 4,
+      "start": 56.14,
+      "end": 56.467
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 56.54,
+      "end": 56.72
+    },
+    {
+      "text": "initiating",
+      "stage": 4,
+      "start": 56.72,
+      "end": 57.302
+    },
+    {
+      "text": "defect",
+      "stage": 4,
+      "start": 57.3,
+      "end": 57.693
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 57.7,
+      "end": 58.067
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 58.16,
+      "end": 58.3
+    },
+    {
+      "text": "affected",
+      "stage": 4,
+      "start": 58.28,
+      "end": 58.69
+    },
+    {
+      "text": "surface",
+      "stage": 4,
+      "start": 58.68,
+      "end": 59.134
+    },
+    {
+      "text": "are",
+      "stage": 4,
+      "start": 59.14,
+      "end": 59.52
+    },
+    {
+      "text": "different.",
+      "stage": 4,
+      "start": 59.62,
+      "end": 59.964
+    }
+  ],
+  "duration": 60.312,
+  "recognitionAgreement": 0.9969
+}

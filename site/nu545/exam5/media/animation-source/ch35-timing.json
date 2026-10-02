@@ -1,0 +1,828 @@
+{
+  "title": "ARDS: injury through remodeling",
+  "sources": [
+    "CH35S44",
+    "CH35S45",
+    "CH35S46",
+    "CH35S47",
+    "CH35S48",
+    "CH35S53"
+  ],
+  "stages": [
+    {
+      "start": 0,
+      "title": "Alveolar injury",
+      "text": "Alveolar injury changes both the barrier and the airspace."
+    },
+    {
+      "start": 4.16,
+      "title": "Leak and collapse",
+      "text": "In the exudative phase of acute respiratory distress syndrome, damage increases permeability of the alveolar and capillary membrane. Fluid crosses into the lung, and surfactant becomes inactivated. Watch the airspace shrink as fluid accumulates. Oxygen exchange is now impaired by more than a shortage of inspired air."
+    },
+    {
+      "start": 23.8,
+      "title": "Repair and proliferation",
+      "text": "The next view shows repair and proliferation. The supplied chapter describes type two pneumocytes, fibroblasts, and myofibroblasts during this phase."
+    },
+    {
+      "start": 32.86,
+      "title": "Remodeling",
+      "text": "In a fibrotic phase, remodeling and alveolar destruction further disrupt the exchange surface. These are source-described stages, with overlapping time ranges, not an inevitable clock for every patient."
+    },
+    {
+      "start": 44.94,
+      "title": "Airway contrast",
+      "text": "Keep this process separate from bronchial asthma: asthma narrows the conducting airway through smooth muscle contraction, swelling, and mucus. ARDS damages the alveolar and capillary exchange region."
+    }
+  ],
+  "words": [
+    {
+      "text": "Alveolar",
+      "stage": 0,
+      "start": 0.0,
+      "end": 0.532
+    },
+    {
+      "text": "injury",
+      "stage": 0,
+      "start": 0.54,
+      "end": 0.967
+    },
+    {
+      "text": "changes",
+      "stage": 0,
+      "start": 0.98,
+      "end": 1.52
+    },
+    {
+      "text": "both",
+      "stage": 0,
+      "start": 1.54,
+      "end": 1.825
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 1.84,
+      "end": 2.02
+    },
+    {
+      "text": "barrier",
+      "stage": 0,
+      "start": 2.02,
+      "end": 2.423
+    },
+    {
+      "text": "and",
+      "stage": 0,
+      "start": 2.42,
+      "end": 2.773
+    },
+    {
+      "text": "the",
+      "stage": 0,
+      "start": 2.86,
+      "end": 3.04
+    },
+    {
+      "text": "airspace.",
+      "stage": 0,
+      "start": 3.04,
+      "end": 3.45
+    },
+    {
+      "text": "In",
+      "stage": 1,
+      "start": 4.16,
+      "end": 4.3
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 4.32,
+      "end": 4.5
+    },
+    {
+      "text": "exudative",
+      "stage": 1,
+      "start": 4.5,
+      "end": 5.076
+    },
+    {
+      "text": "phase",
+      "stage": 1,
+      "start": 5.08,
+      "end": 5.364
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 5.36,
+      "end": 5.54
+    },
+    {
+      "text": "acute",
+      "stage": 1,
+      "start": 5.6,
+      "end": 5.836
+    },
+    {
+      "text": "respiratory",
+      "stage": 1,
+      "start": 5.82,
+      "end": 6.353
+    },
+    {
+      "text": "distress",
+      "stage": 1,
+      "start": 6.34,
+      "end": 6.75
+    },
+    {
+      "text": "syndrome,",
+      "stage": 1,
+      "start": 6.74,
+      "end": 7.237
+    },
+    {
+      "text": "damage",
+      "stage": 1,
+      "start": 7.68,
+      "end": 7.873
+    },
+    {
+      "text": "increases",
+      "stage": 1,
+      "start": 7.84,
+      "end": 8.398
+    },
+    {
+      "text": "permeability",
+      "stage": 1,
+      "start": 8.4,
+      "end": 9.212
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 9.22,
+      "end": 9.41
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 9.48,
+      "end": 9.647
+    },
+    {
+      "text": "alveolar",
+      "stage": 1,
+      "start": 9.64,
+      "end": 10.173
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 10.18,
+      "end": 10.44
+    },
+    {
+      "text": "capillary",
+      "stage": 1,
+      "start": 10.48,
+      "end": 10.949
+    },
+    {
+      "text": "membrane.",
+      "stage": 1,
+      "start": 10.94,
+      "end": 11.438
+    },
+    {
+      "text": "Fluid",
+      "stage": 1,
+      "start": 12.32,
+      "end": 12.668
+    },
+    {
+      "text": "crosses",
+      "stage": 1,
+      "start": 12.68,
+      "end": 13.031
+    },
+    {
+      "text": "into",
+      "stage": 1,
+      "start": 13.02,
+      "end": 13.35
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 13.38,
+      "end": 13.547
+    },
+    {
+      "text": "lung,",
+      "stage": 1,
+      "start": 13.54,
+      "end": 13.795
+    },
+    {
+      "text": "and",
+      "stage": 1,
+      "start": 13.8,
+      "end": 14.18
+    },
+    {
+      "text": "surfactant",
+      "stage": 1,
+      "start": 14.28,
+      "end": 14.898
+    },
+    {
+      "text": "becomes",
+      "stage": 1,
+      "start": 14.9,
+      "end": 15.251
+    },
+    {
+      "text": "inactivated.",
+      "stage": 1,
+      "start": 15.24,
+      "end": 16.191
+    },
+    {
+      "text": "Watch",
+      "stage": 1,
+      "start": 16.72,
+      "end": 16.94
+    },
+    {
+      "text": "the",
+      "stage": 1,
+      "start": 16.92,
+      "end": 17.14
+    },
+    {
+      "text": "airspace",
+      "stage": 1,
+      "start": 17.16,
+      "end": 17.535
+    },
+    {
+      "text": "shrink",
+      "stage": 1,
+      "start": 17.52,
+      "end": 17.88
+    },
+    {
+      "text": "as",
+      "stage": 1,
+      "start": 17.88,
+      "end": 18.05
+    },
+    {
+      "text": "fluid",
+      "stage": 1,
+      "start": 18.1,
+      "end": 18.384
+    },
+    {
+      "text": "accumulates.",
+      "stage": 1,
+      "start": 18.38,
+      "end": 18.931
+    },
+    {
+      "text": "Oxygen",
+      "stage": 1,
+      "start": 19.56,
+      "end": 19.92
+    },
+    {
+      "text": "exchange",
+      "stage": 1,
+      "start": 19.92,
+      "end": 20.33
+    },
+    {
+      "text": "is",
+      "stage": 1,
+      "start": 20.32,
+      "end": 20.49
+    },
+    {
+      "text": "now",
+      "stage": 1,
+      "start": 20.54,
+      "end": 20.707
+    },
+    {
+      "text": "impaired",
+      "stage": 1,
+      "start": 20.7,
+      "end": 21.075
+    },
+    {
+      "text": "by",
+      "stage": 1,
+      "start": 21.06,
+      "end": 21.23
+    },
+    {
+      "text": "more",
+      "stage": 1,
+      "start": 21.28,
+      "end": 21.505
+    },
+    {
+      "text": "than",
+      "stage": 1,
+      "start": 21.5,
+      "end": 21.665
+    },
+    {
+      "text": "a",
+      "stage": 1,
+      "start": 21.64,
+      "end": 21.7
+    },
+    {
+      "text": "shortage",
+      "stage": 1,
+      "start": 21.74,
+      "end": 22.045
+    },
+    {
+      "text": "of",
+      "stage": 1,
+      "start": 22.02,
+      "end": 22.19
+    },
+    {
+      "text": "inspired",
+      "stage": 1,
+      "start": 22.24,
+      "end": 22.72
+    },
+    {
+      "text": "air.",
+      "stage": 1,
+      "start": 22.72,
+      "end": 22.953
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 23.8,
+      "end": 24.033
+    },
+    {
+      "text": "next",
+      "stage": 2,
+      "start": 24.06,
+      "end": 24.285
+    },
+    {
+      "text": "view",
+      "stage": 2,
+      "start": 24.28,
+      "end": 24.52
+    },
+    {
+      "text": "shows",
+      "stage": 2,
+      "start": 24.52,
+      "end": 24.9
+    },
+    {
+      "text": "repair",
+      "stage": 2,
+      "start": 24.92,
+      "end": 25.23
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 25.22,
+      "end": 25.453
+    },
+    {
+      "text": "proliferation.",
+      "stage": 2,
+      "start": 25.48,
+      "end": 26.057
+    },
+    {
+      "text": "The",
+      "stage": 2,
+      "start": 26.61,
+      "end": 26.917
+    },
+    {
+      "text": "supplied",
+      "stage": 2,
+      "start": 26.98,
+      "end": 27.355
+    },
+    {
+      "text": "chapter",
+      "stage": 2,
+      "start": 27.34,
+      "end": 27.777
+    },
+    {
+      "text": "describes",
+      "stage": 2,
+      "start": 27.78,
+      "end": 28.32
+    },
+    {
+      "text": "type",
+      "stage": 2,
+      "start": 28.32,
+      "end": 28.59
+    },
+    {
+      "text": "two",
+      "stage": 2,
+      "start": 28.613,
+      "end": 28.837
+    },
+    {
+      "text": "pneumocytes,",
+      "stage": 2,
+      "start": 28.86,
+      "end": 29.429
+    },
+    {
+      "text": "fibroblasts,",
+      "stage": 2,
+      "start": 29.92,
+      "end": 30.471
+    },
+    {
+      "text": "and",
+      "stage": 2,
+      "start": 30.64,
+      "end": 30.74
+    },
+    {
+      "text": "myofibroblasts",
+      "stage": 2,
+      "start": 30.7,
+      "end": 31.67
+    },
+    {
+      "text": "during",
+      "stage": 2,
+      "start": 31.68,
+      "end": 32.04
+    },
+    {
+      "text": "this",
+      "stage": 2,
+      "start": 32.04,
+      "end": 32.265
+    },
+    {
+      "text": "phase.",
+      "stage": 2,
+      "start": 32.26,
+      "end": 32.528
+    },
+    {
+      "text": "In",
+      "stage": 3,
+      "start": 32.86,
+      "end": 32.96
+    },
+    {
+      "text": "a",
+      "stage": 3,
+      "start": 32.94,
+      "end": 33.0
+    },
+    {
+      "text": "fibrotic",
+      "stage": 3,
+      "start": 33.018,
+      "end": 33.489
+    },
+    {
+      "text": "phase,",
+      "stage": 3,
+      "start": 33.48,
+      "end": 33.94
+    },
+    {
+      "text": "remodeling",
+      "stage": 3,
+      "start": 34.24,
+      "end": 34.696
+    },
+    {
+      "text": "and",
+      "stage": 3,
+      "start": 34.68,
+      "end": 34.92
+    },
+    {
+      "text": "alveolar",
+      "stage": 3,
+      "start": 34.92,
+      "end": 35.383
+    },
+    {
+      "text": "destruction",
+      "stage": 3,
+      "start": 35.38,
+      "end": 36.022
+    },
+    {
+      "text": "further",
+      "stage": 3,
+      "start": 36.02,
+      "end": 36.543
+    },
+    {
+      "text": "disrupt",
+      "stage": 3,
+      "start": 36.56,
+      "end": 36.929
+    },
+    {
+      "text": "the",
+      "stage": 3,
+      "start": 36.92,
+      "end": 37.167
+    },
+    {
+      "text": "exchange",
+      "stage": 3,
+      "start": 37.2,
+      "end": 37.54
+    },
+    {
+      "text": "surface.",
+      "stage": 3,
+      "start": 37.52,
+      "end": 38.009
+    },
+    {
+      "text": "These",
+      "stage": 3,
+      "start": 38.58,
+      "end": 38.768
+    },
+    {
+      "text": "are",
+      "stage": 3,
+      "start": 38.74,
+      "end": 38.893
+    },
+    {
+      "text": "source-described",
+      "stage": 3,
+      "start": 38.88,
+      "end": 39.649
+    },
+    {
+      "text": "stages,",
+      "stage": 3,
+      "start": 39.64,
+      "end": 40.133
+    },
+    {
+      "text": "with",
+      "stage": 3,
+      "start": 40.16,
+      "end": 40.58
+    },
+    {
+      "text": "overlapping",
+      "stage": 3,
+      "start": 40.64,
+      "end": 41.082
+    },
+    {
+      "text": "time",
+      "stage": 3,
+      "start": 41.06,
+      "end": 41.465
+    },
+    {
+      "text": "ranges,",
+      "stage": 3,
+      "start": 41.52,
+      "end": 41.913
+    },
+    {
+      "text": "not",
+      "stage": 3,
+      "start": 42.34,
+      "end": 42.613
+    },
+    {
+      "text": "an",
+      "stage": 3,
+      "start": 42.66,
+      "end": 42.81
+    },
+    {
+      "text": "inevitable",
+      "stage": 3,
+      "start": 42.84,
+      "end": 43.224
+    },
+    {
+      "text": "clock",
+      "stage": 3,
+      "start": 43.2,
+      "end": 43.596
+    },
+    {
+      "text": "for",
+      "stage": 3,
+      "start": 43.62,
+      "end": 43.88
+    },
+    {
+      "text": "every",
+      "stage": 3,
+      "start": 43.92,
+      "end": 44.14
+    },
+    {
+      "text": "patient.",
+      "stage": 3,
+      "start": 44.12,
+      "end": 44.523
+    },
+    {
+      "text": "Keep",
+      "stage": 4,
+      "start": 44.94,
+      "end": 45.105
+    },
+    {
+      "text": "this",
+      "stage": 4,
+      "start": 45.08,
+      "end": 45.305
+    },
+    {
+      "text": "process",
+      "stage": 4,
+      "start": 45.3,
+      "end": 45.686
+    },
+    {
+      "text": "separate",
+      "stage": 4,
+      "start": 45.68,
+      "end": 46.09
+    },
+    {
+      "text": "from",
+      "stage": 4,
+      "start": 46.08,
+      "end": 46.335
+    },
+    {
+      "text": "bronchial",
+      "stage": 4,
+      "start": 46.34,
+      "end": 46.791
+    },
+    {
+      "text": "asthma:",
+      "stage": 4,
+      "start": 46.78,
+      "end": 47.157
+    },
+    {
+      "text": "asthma",
+      "stage": 4,
+      "start": 47.64,
+      "end": 47.95
+    },
+    {
+      "text": "narrows",
+      "stage": 4,
+      "start": 47.94,
+      "end": 48.394
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 48.4,
+      "end": 48.54
+    },
+    {
+      "text": "conducting",
+      "stage": 4,
+      "start": 48.52,
+      "end": 48.958
+    },
+    {
+      "text": "airway",
+      "stage": 4,
+      "start": 48.94,
+      "end": 49.417
+    },
+    {
+      "text": "through",
+      "stage": 4,
+      "start": 49.44,
+      "end": 49.723
+    },
+    {
+      "text": "smooth",
+      "stage": 4,
+      "start": 49.7,
+      "end": 50.043
+    },
+    {
+      "text": "muscle",
+      "stage": 4,
+      "start": 50.04,
+      "end": 50.383
+    },
+    {
+      "text": "contraction,",
+      "stage": 4,
+      "start": 50.38,
+      "end": 50.967
+    },
+    {
+      "text": "swelling,",
+      "stage": 4,
+      "start": 51.64,
+      "end": 51.84
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 52.12,
+      "end": 52.34
+    },
+    {
+      "text": "mucus.",
+      "stage": 4,
+      "start": 52.36,
+      "end": 52.692
+    },
+    {
+      "text": "ARDS",
+      "stage": 4,
+      "start": 52.7,
+      "end": 54.035
+    },
+    {
+      "text": "damages",
+      "stage": 4,
+      "start": 54.4,
+      "end": 54.871
+    },
+    {
+      "text": "the",
+      "stage": 4,
+      "start": 54.88,
+      "end": 55.087
+    },
+    {
+      "text": "alveolar",
+      "stage": 4,
+      "start": 55.1,
+      "end": 55.598
+    },
+    {
+      "text": "and",
+      "stage": 4,
+      "start": 55.6,
+      "end": 55.78
+    },
+    {
+      "text": "capillary",
+      "stage": 4,
+      "start": 55.78,
+      "end": 56.249
+    },
+    {
+      "text": "exchange",
+      "stage": 4,
+      "start": 56.24,
+      "end": 56.685
+    },
+    {
+      "text": "region.",
+      "stage": 4,
+      "start": 56.68,
+      "end": 57.123
+    }
+  ],
+  "duration": 57.936,
+  "recognitionAgreement": 0.9923
+}

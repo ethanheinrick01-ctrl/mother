@@ -1,0 +1,4611 @@
+{
+  "counts": {
+    "Direct": 11,
+    "Partial": 40,
+    "Missing": 5
+  },
+  "componentCounts": {
+    "Direct": 111,
+    "Partial": 71,
+    "Missing": 51
+  },
+  "definitions": {
+    "Direct": "Direct at supplied source depth; not a claim of textbook completeness.",
+    "Partial": "Some requested teaching is present; specified components remain incomplete.",
+    "Missing": "No reconciled teaching passage answers the requested component."
+  },
+  "prompts": [
+    {
+      "studyGuidePrompt": 1,
+      "promptVerbatim": "Know type I and Type II alveolar cells",
+      "status": "Direct",
+      "supported": "Type I cells provide alveolar structure. Type II cells secrete surfactant onto the inner alveolar surface. Keep these separate from alveolar macrophages, which ingest foreign material. The gas-exchange unit also includes respiratory bronchioles and alveolar ducts.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "type I cell role",
+          "status": "Direct",
+          "refs": [
+            "CH34S13",
+            "CH34S14",
+            "CH34S37N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "type II cell role",
+          "status": "Direct",
+          "refs": [
+            "CH34S13",
+            "CH34S14",
+            "CH34S37N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S13",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 13"
+        },
+        {
+          "sourceId": "CH34S14",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 14"
+        },
+        {
+          "sourceId": "CH34S37N",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 37 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 2,
+      "promptVerbatim": "Role of surfactant in the lungs-infants and adults",
+      "status": "Direct",
+      "supported": "Surfactant facilitates inflation during inspiration and lowers surface tension at end-expiration, opposing collapse. In premature infants, inadequate production and secretion cause widespread atelectasis and hypoventilation; shunting and hypoxemia follow. Surfactant deficiency therefore changes mechanics as well as gas exchange.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "surfactant action in adults",
+          "status": "Direct",
+          "refs": [
+            "CH34S33",
+            "CH34S37N",
+            "CH36S19",
+            "CH36S20"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "deficiency in infants",
+          "status": "Direct",
+          "refs": [
+            "CH34S33",
+            "CH34S37N",
+            "CH36S19",
+            "CH36S20"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S33",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 33"
+        },
+        {
+          "sourceId": "CH34S37N",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 37 speaker notes"
+        },
+        {
+          "sourceId": "CH36S19",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 19"
+        },
+        {
+          "sourceId": "CH36S20",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 20"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 3,
+      "promptVerbatim": "Know Chronic Bronchitis-pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "The notes describe continuing bronchial inflammation, edema, enlarged and more numerous mucus glands and goblet cells, and thick secretions that impaired cilia cannot clear. COPD includes airflow limitation that is not fully reversible. Tobacco smoke, occupational exposures and air pollution are listed COPD risks. The slide headed chronic bronchitis instead describes a self-limited viral illness; that conflicting block is not used as chronic-bronchitis teaching.",
+      "remainingGapOrLimit": "Need the chronic-bronchitis-specific etiology, prevention, manifestations, treatment and complications; resolve slide 62.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S58",
+            "CH35S59",
+            "CH35S68N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S58",
+            "CH35S59",
+            "CH35S68N"
+          ],
+          "missing": "Etiology: Need the chronic-bronchitis-specific etiology, prevention, manifestations, treatment and complications; resolve slide 62.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S58",
+            "CH35S59",
+            "CH35S68N"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need the chronic-bronchitis-specific etiology, prevention, manifestations, treatment and complications; resolve slide 62.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Partial",
+          "refs": [
+            "CH35S58",
+            "CH35S59",
+            "CH35S68N"
+          ],
+          "missing": "Clinical manifestations: Need the chronic-bronchitis-specific etiology, prevention, manifestations, treatment and complications; resolve slide 62.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Missing",
+          "refs": [
+            "CH35S58",
+            "CH35S59",
+            "CH35S68N"
+          ],
+          "missing": "Treatment: no reconciled teaching passage in the packet. Need the chronic-bronchitis-specific etiology, prevention, manifestations, treatment and complications; resolve slide 62.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH35S58",
+            "CH35S59",
+            "CH35S68N"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need the chronic-bronchitis-specific etiology, prevention, manifestations, treatment and complications; resolve slide 62.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S58",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 58"
+        },
+        {
+          "sourceId": "CH35S59",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 59"
+        },
+        {
+          "sourceId": "CH35S68N",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 68 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 4,
+      "promptVerbatim": "Know gas exchange in the lungs",
+      "status": "Direct",
+      "supported": "Ventilation brings air into and out of the lungs. Diffusion carries oxygen across the thin alveolocapillary membrane into blood. Systemic perfusion delivers that blood to tissues, where oxygen diffuses into cells. Carbon dioxide follows the reverse direction. A large surface area, thin membrane and oxygen partial-pressure gradient support diffusion. Ventilation and perfusion must be distributed together.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "ventilation",
+          "status": "Direct",
+          "refs": [
+            "CH34S9",
+            "CH34S18",
+            "CH34S40",
+            "CH34S41",
+            "CH34S42"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "diffusion",
+          "status": "Direct",
+          "refs": [
+            "CH34S9",
+            "CH34S18",
+            "CH34S40",
+            "CH34S41",
+            "CH34S42"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "perfusion",
+          "status": "Direct",
+          "refs": [
+            "CH34S9",
+            "CH34S18",
+            "CH34S40",
+            "CH34S41",
+            "CH34S42"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S9",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 9"
+        },
+        {
+          "sourceId": "CH34S18",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 18"
+        },
+        {
+          "sourceId": "CH34S40",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 40"
+        },
+        {
+          "sourceId": "CH34S41",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 41"
+        },
+        {
+          "sourceId": "CH34S42",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 42"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 5,
+      "promptVerbatim": "How is the patient’s alveolar ventilation measured?",
+      "status": "Direct",
+      "supported": "Minute volume is breathing rate multiplied by air volume per breath. The deck assesses alveolar ventilation using arterial blood gases, specifically PaCO₂. Spirometry measures air volume and flow; it is a different measurement.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "alveolar ventilation measurement",
+          "status": "Direct",
+          "refs": [
+            "CH34S25",
+            "CH34S47",
+            "CH34S48"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S25",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 25"
+        },
+        {
+          "sourceId": "CH34S47",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 47"
+        },
+        {
+          "sourceId": "CH34S48",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 48"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 6,
+      "promptVerbatim": "Know asthma (adult and childhood)- pathophysiology, etiology, prevention, inflammatory mediators, clinical manifestations, treatment (acute and chronic), complications",
+      "status": "Partial",
+      "supported": "Asthma is chronic bronchial inflammation with hyperresponsiveness and variable reversible obstruction. Early attacks combine smooth-muscle contraction, edema and tenacious mucus. The late response starts 4–8 hours later with inflammatory-cell recruitment, impaired clearance and plugs; untreated inflammation can remodel the airway. Notes distinguish IL-13 effects on clearance, fibroblasts and constriction from IL-17 neutrophilic inflammation. Childhood asthma adds IgE-mediated type I hypersensitivity and genetic/environmental influences. Expiratory wheeze, cough, dyspnea and prolonged expiration are typical; status asthmaticus resists usual measures. The packet lists oxygen, inhaled beta agonists, inhaled corticosteroids, immunotherapy, anti-IgE therapy, exposure education and peak-flow monitoring. Childhood medications use a stepwise approach.",
+      "remainingGapOrLimit": "Need full acute-versus-maintenance regimens, mediator sequence, prevention and detailed triggers. Slide 56 says leukotriene agonists; this drug-class wording is gated pending clarification.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "Etiology: Need full acute-versus-maintenance regimens, mediator sequence, prevention and detailed triggers. Slide 56 says leukotriene agonists; this drug-class wording is gated pending clarification.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Partial",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "Prevention: Need full acute-versus-maintenance regimens, mediator sequence, prevention and detailed triggers. Slide 56 says leukotriene agonists; this drug-class wording is gated pending clarification.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "inflammatory mediators",
+          "status": "Partial",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "Inflammatory mediators: Need full acute-versus-maintenance regimens, mediator sequence, prevention and detailed triggers. Slide 56 says leukotriene agonists; this drug-class wording is gated pending clarification.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "acute treatment",
+          "status": "Partial",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "Acute treatment: Need full acute-versus-maintenance regimens, mediator sequence, prevention and detailed triggers. Slide 56 says leukotriene agonists; this drug-class wording is gated pending clarification.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "chronic treatment",
+          "status": "Partial",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "Chronic treatment: Need full acute-versus-maintenance regimens, mediator sequence, prevention and detailed triggers. Slide 56 says leukotriene agonists; this drug-class wording is gated pending clarification.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH35S52",
+            "CH35S53",
+            "CH35S54",
+            "CH35S55",
+            "CH35S56",
+            "CH35S57N",
+            "CH36S37",
+            "CH36S38"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S52",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 52"
+        },
+        {
+          "sourceId": "CH35S53",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 53"
+        },
+        {
+          "sourceId": "CH35S54",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 54"
+        },
+        {
+          "sourceId": "CH35S55",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 55"
+        },
+        {
+          "sourceId": "CH35S56",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 56"
+        },
+        {
+          "sourceId": "CH35S57N",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 57 speaker notes"
+        },
+        {
+          "sourceId": "CH36S37",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 37"
+        },
+        {
+          "sourceId": "CH36S38",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 38"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 7,
+      "promptVerbatim": "Ageing and the pulmonary system",
+      "status": "Direct",
+      "supported": "Aging is associated with loss of elastic recoil, a stiffer chest wall, greater flow resistance and changes in gas exchange. Alveolar wall tissue and capillaries are lost. PaO₂, ventilatory reserve, respiratory muscle strength and endurance decrease, limiting exercise tolerance.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "lung changes",
+          "status": "Direct",
+          "refs": [
+            "CH34S49",
+            "CH34S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "chest-wall changes",
+          "status": "Direct",
+          "refs": [
+            "CH34S49",
+            "CH34S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "gas exchange and reserve",
+          "status": "Direct",
+          "refs": [
+            "CH34S49",
+            "CH34S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S49",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 49"
+        },
+        {
+          "sourceId": "CH34S50",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 50"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 8,
+      "promptVerbatim": "Know how oxygen and CO2 is carried in the blood",
+      "status": "Partial",
+      "supported": "Oxygen binds hemoglobin to form oxyhemoglobin. A right shift means lower affinity and easier release to cells; the deck associates it with acidosis, hypercapnia and hyperthermia. A left shift increases affinity and inhibits tissue unloading; alkalosis, hypocapnia and hypothermia favor it. Carbon dioxide travels dissolved in plasma, as bicarbonate, and in carbamino compounds. The Haldane effect is named as the effect of oxygen on CO₂ transport.",
+      "remainingGapOrLimit": "The deck lists CO₂ forms but does not explain their proportions or full chemical conversion sequence.",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "oxygen carriage",
+          "status": "Direct",
+          "refs": [
+            "CH34S43",
+            "CH34S44",
+            "CH34S46"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "CO₂ carriage forms",
+          "status": "Direct",
+          "refs": [
+            "CH34S43",
+            "CH34S44",
+            "CH34S46"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "CO₂ conversion and proportions",
+          "status": "Partial",
+          "refs": [
+            "CH34S43",
+            "CH34S44",
+            "CH34S46"
+          ],
+          "missing": "Co₂ conversion and proportions: The deck lists CO₂ forms but does not explain their proportions or full chemical conversion sequence.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S43",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 43"
+        },
+        {
+          "sourceId": "CH34S44",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 44"
+        },
+        {
+          "sourceId": "CH34S46",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 46"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 9,
+      "promptVerbatim": "Postures used to relief breathing difficulties",
+      "status": "Partial",
+      "supported": "Orthopnea is dyspnea when lying down. A person with paroxysmal nocturnal dyspnea wakes gasping and needs to sit or stand. In the supplied pediatric airway case, forward leaning with drooling and dysphagia accompanies epiglottitis. These are supported positional associations, not a complete catalogue of therapeutic postures.",
+      "remainingGapOrLimit": "Need a complete explanation of relief postures and their mechanisms.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "named relief posture",
+          "status": "Partial",
+          "refs": [
+            "CH35S10",
+            "CH36S12"
+          ],
+          "missing": "Named relief posture: Need a complete explanation of relief postures and their mechanisms.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "posture mechanism",
+          "status": "Missing",
+          "refs": [
+            "CH35S10",
+            "CH36S12"
+          ],
+          "missing": "Posture mechanism: no reconciled teaching passage in the packet. Need a complete explanation of relief postures and their mechanisms.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S10",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 10"
+        },
+        {
+          "sourceId": "CH36S12",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 12"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 10,
+      "promptVerbatim": "Know pulmonary edema: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Excess lung water can result from altered capillary hydrostatic pressure, oncotic pressure or permeability. Left-heart disease is the most common cause listed. Postobstructive edema can follow relief of upper-airway obstruction and produces dyspnea, hypoxemia and greater work of breathing. The treatment overview targets the cause: cardiac output and volume for hydrostatic edema; removal of an injurious agent and supportive oxygenation for permeability edema. Oxygen or ventilation may be required; PEEP is listed for postobstructive edema.",
+      "remainingGapOrLimit": "Need edema-specific prevention and a full complications account; avoid treating overview drug lists as a regimen.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S40",
+            "CH35S41",
+            "CH35S42",
+            "CH35S43"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S40",
+            "CH35S41",
+            "CH35S42",
+            "CH35S43"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S40",
+            "CH35S41",
+            "CH35S42",
+            "CH35S43"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need edema-specific prevention and a full complications account; avoid treating overview drug lists as a regimen.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Partial",
+          "refs": [
+            "CH35S40",
+            "CH35S41",
+            "CH35S42",
+            "CH35S43"
+          ],
+          "missing": "Clinical manifestations: Need edema-specific prevention and a full complications account; avoid treating overview drug lists as a regimen.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH35S40",
+            "CH35S41",
+            "CH35S42",
+            "CH35S43"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH35S40",
+            "CH35S41",
+            "CH35S42",
+            "CH35S43"
+          ],
+          "missing": "Complications: Need edema-specific prevention and a full complications account; avoid treating overview drug lists as a regimen.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S40",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 40"
+        },
+        {
+          "sourceId": "CH35S41",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 41"
+        },
+        {
+          "sourceId": "CH35S42",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 42"
+        },
+        {
+          "sourceId": "CH35S43",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 43"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 11,
+      "promptVerbatim": "Know pulmonary fibrosis: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Pulmonary fibrosis is excessive fibrous/connective tissue; the deck lists scarring, dangerous inhaled substances and idiopathic disease. Stiff lungs have low compliance and need more inspiratory work. The slide does not develop a complete fibrosis clinical or management pathway.",
+      "remainingGapOrLimit": "Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S33",
+            "CH34S34",
+            "CH34S36"
+          ],
+          "missing": "Pathophysiology: Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S33",
+            "CH34S34",
+            "CH34S36"
+          ],
+          "missing": "Etiology: Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S33",
+            "CH34S34",
+            "CH34S36"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Missing",
+          "refs": [
+            "CH35S33",
+            "CH34S34",
+            "CH34S36"
+          ],
+          "missing": "Clinical manifestations: no reconciled teaching passage in the packet. Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "treatment",
+          "status": "Missing",
+          "refs": [
+            "CH35S33",
+            "CH34S34",
+            "CH34S36"
+          ],
+          "missing": "Treatment: no reconciled teaching passage in the packet. Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH35S33",
+            "CH34S34",
+            "CH34S36"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need fibrosis-specific manifestations, prevention, treatment, complications and detailed pathogenesis.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S33",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 33"
+        },
+        {
+          "sourceId": "CH34S34",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 34"
+        },
+        {
+          "sourceId": "CH34S36",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 36"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 12,
+      "promptVerbatim": "How do different disease processes cause hypoxemia?",
+      "status": "Partial",
+      "supported": "Ventilation-perfusion mismatch is identified as the most common cause. Poor ventilation of perfused units and poor perfusion of ventilated units both impair effective exchange. Ventilated but unperfused alveoli are dead space. Thickening the exchange membrane or reducing its area impairs diffusion. Hypoventilation raises PaCO₂ and lowers available alveolar oxygen. The altitude explanation in the notes conflates inspired oxygen fraction with partial pressure; it is withheld.",
+      "remainingGapOrLimit": "Need a complete, reconciled five-cause account, including the altitude statement and detailed shunt distinctions.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "supported hypoxemia mechanisms",
+          "status": "Partial",
+          "refs": [
+            "CH35S17",
+            "CH35S19N",
+            "CH34S42"
+          ],
+          "missing": "Supported hypoxemia mechanisms: Need a complete, reconciled five-cause account, including the altitude statement and detailed shunt distinctions.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complete reconciled five-cause account",
+          "status": "Missing",
+          "refs": [
+            "CH35S17",
+            "CH35S19N",
+            "CH34S42"
+          ],
+          "missing": "Complete reconciled five-cause account: no reconciled teaching passage in the packet. Need a complete, reconciled five-cause account, including the altitude statement and detailed shunt distinctions.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S17",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 17"
+        },
+        {
+          "sourceId": "CH35S19N",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 19 speaker notes"
+        },
+        {
+          "sourceId": "CH34S42",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 42"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 13,
+      "promptVerbatim": "Know empyemas: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Empyema is pus in the pleural space. The listed findings are fever, cyanosis, tachycardia, cough and pleural pain. Management combines antimicrobials with drainage; severe cases may use image-guided drainage, intrapleural agents or surgical debridement. Distinguish this pleural-space collection from excess water in lung tissue.",
+      "remainingGapOrLimit": "Need specific organisms/etiologies, prevention, full pathogenesis and complications.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Pathophysiology: Need specific organisms/etiologies, prevention, full pathogenesis and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Etiology: Need specific organisms/etiologies, prevention, full pathogenesis and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need specific organisms/etiologies, prevention, full pathogenesis and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need specific organisms/etiologies, prevention, full pathogenesis and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S25",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 25"
+        },
+        {
+          "sourceId": "CH35S26",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 26"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 14,
+      "promptVerbatim": "Know ARDS: pathophysiology, etiology, description, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "ARDS is acute inflammation with diffuse alveolocapillary injury. In the exudative phase within 72 hours, membrane damage increases permeability, edema develops and surfactant is inactivated. Proliferation at 4–21 days involves type II pneumocytes and fibroblasts; the fibrotic phase at 14–21 days involves remodeling, alveolar destruction and severe right-to-left shunting. The ranges overlap; they are not a rigid clock. Hypoxemia responds poorly to oxygen, and increasing work can progress to hypercapnia, acidosis and organ dysfunction. The deck lists ventilatory support, PEEP, low-volume ventilation and prone positioning. It also lists experimental-sounding therapies without separating them from routine treatment; those are not scored treatment recommendations.",
+      "remainingGapOrLimit": "Need complete precipitating etiologies, prevention and clarification of routine versus investigational treatments.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "Etiology: Need complete precipitating etiologies, prevention and clarification of routine versus investigational treatments.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "description",
+          "status": "Direct",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need complete precipitating etiologies, prevention and clarification of routine versus investigational treatments.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "Treatment: Need complete precipitating etiologies, prevention and clarification of routine versus investigational treatments.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH35S44",
+            "CH35S45",
+            "CH35S46",
+            "CH35S47",
+            "CH35S48",
+            "CH35S49",
+            "CH35S50"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S44",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 44"
+        },
+        {
+          "sourceId": "CH35S45",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 45"
+        },
+        {
+          "sourceId": "CH35S46",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 46"
+        },
+        {
+          "sourceId": "CH35S47",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 47"
+        },
+        {
+          "sourceId": "CH35S48",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 48"
+        },
+        {
+          "sourceId": "CH35S49",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 49"
+        },
+        {
+          "sourceId": "CH35S50",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 50"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 15,
+      "promptVerbatim": "Discuss how cigarette smoking causes/exacerbates pulmonary disease processes",
+      "status": "Partial",
+      "supported": "Tobacco smoke is listed among COPD risks and as the most common cause of lung cancer. The emphysema comparison associates centriacinar disease with smokers who have chronic bronchitis. Those links establish risk associations; the packet does not supply a full smoke-to-injury molecular pathway.",
+      "remainingGapOrLimit": "Need detailed mechanisms by which smoking causes or exacerbates each named pulmonary disease.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "disease associations",
+          "status": "Direct",
+          "refs": [
+            "CH35S59",
+            "CH35S61",
+            "CH35S86"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "disease-specific causal mechanisms",
+          "status": "Partial",
+          "refs": [
+            "CH35S59",
+            "CH35S61",
+            "CH35S86"
+          ],
+          "missing": "Disease-specific causal mechanisms: Need detailed mechanisms by which smoking causes or exacerbates each named pulmonary disease.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S59",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 59"
+        },
+        {
+          "sourceId": "CH35S61",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 61"
+        },
+        {
+          "sourceId": "CH35S86",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 86"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 16,
+      "promptVerbatim": "Know pulmonary hypertension: pathophysiology, etiology, prevention, clinical manifestations, pressures, treatment, complications",
+      "status": "Partial",
+      "supported": "The deck describes excess vasoconstrictor activity, reduced vasodilators and remodeling that increase resistance and pulmonary arterial pressure. The right ventricle hypertrophies and may fail. Causes are classified as idiopathic, familial or associated. Imaging or ECG may first show enlarged pulmonary arteries/right-heart changes. Oxygen, diuretics, anticoagulants and several vasodilator classes are listed; secondary disease requires attention to its cause. The packet threshold is mean pressure above 25 mmHg at rest; it is a dated course value, not a current diagnostic recommendation.",
+      "remainingGapOrLimit": "Need detailed associated etiologies and primary prevention; confirm whether the instructor expects the packet pressure threshold.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "Etiology: Need detailed associated etiologies and primary prevention; confirm whether the instructor expects the packet pressure threshold.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need detailed associated etiologies and primary prevention; confirm whether the instructor expects the packet pressure threshold.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Partial",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "Clinical manifestations: Need detailed associated etiologies and primary prevention; confirm whether the instructor expects the packet pressure threshold.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "pressures",
+          "status": "Direct",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH35S79",
+            "CH35S80",
+            "CH35S81",
+            "CH35S82",
+            "CH35S83"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S79",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 79"
+        },
+        {
+          "sourceId": "CH35S80",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 80"
+        },
+        {
+          "sourceId": "CH35S81",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 81"
+        },
+        {
+          "sourceId": "CH35S82",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 82"
+        },
+        {
+          "sourceId": "CH35S83",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 83"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 17,
+      "promptVerbatim": "Understand pulmonary compliance in adults and children/infants and alterations of complicance",
+      "status": "Partial",
+      "supported": "Compliance describes distensibility. Low compliance means stiff lungs or chest wall and increased inspiratory work. High lung compliance makes inflation easier but can accompany loss of recoil and harder expiration. Pediatric ARDS includes reduced pulmonary compliance. Premature surfactant deficiency causes collapse, but the packet does not fully compare normal infant/adult chest-wall mechanics.",
+      "remainingGapOrLimit": "Need the normal developmental infant/child versus adult compliance comparison.",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "compliance and altered work",
+          "status": "Direct",
+          "refs": [
+            "CH34S34",
+            "CH34S36",
+            "CH36S19",
+            "CH36S39"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "normal infant-child-adult comparison",
+          "status": "Missing",
+          "refs": [
+            "CH34S34",
+            "CH34S36",
+            "CH36S19",
+            "CH36S39"
+          ],
+          "missing": "Normal infant-child-adult comparison: no reconciled teaching passage in the packet. Need the normal developmental infant/child versus adult compliance comparison.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S34",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 34"
+        },
+        {
+          "sourceId": "CH34S36",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 36"
+        },
+        {
+          "sourceId": "CH36S19",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 19"
+        },
+        {
+          "sourceId": "CH36S39",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 39"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 18,
+      "promptVerbatim": "Understand the danger of nasal congestion in infants.",
+      "status": "Missing",
+      "supported": "The guide asks specifically why nasal congestion is dangerous in infants. The acquired slides discuss pediatric upper-airway obstruction, but do not supply the infant-specific nasal-breathing mechanism. This component is not scored.",
+      "remainingGapOrLimit": "Need the textbook passage explaining infant nasal breathing, obstruction vulnerability and clinical consequences.",
+      "chapters": [
+        36
+      ],
+      "components": [
+        {
+          "component": "infant nasal breathing and obstruction danger",
+          "status": "Missing",
+          "refs": [
+            "CH36S5"
+          ],
+          "missing": "Infant nasal breathing and obstruction danger: no reconciled teaching passage in the packet. Need the textbook passage explaining infant nasal breathing, obstruction vulnerability and clinical consequences.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH36S5",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 5"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 19,
+      "promptVerbatim": "Know viral/bacterial pneumonia in adults and children: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Adult pneumonia is lower-respiratory infection; routes include aspiration, inhalation, airway equipment and bacteremia. Pneumococcal inflammation causes alveolar edema and consolidation. Adult findings include cough, dyspnea, fever, chills and pleuritic pain. Bacterial disease is treated with antibiotics; viral disease generally receives supportive therapy unless a secondary bacterial infection occurs. Pediatric viral pneumonia commonly involves RSV and destruction/sloughing of distal ciliated epithelium. Bacterial pediatric disease commonly involves streptococci or staphylococci and has higher temperature, neutrophils and bands than viral disease in the supplied comparison. Aspiration prevention, pulmonary hygiene and appropriate vaccination are listed.",
+      "remainingGapOrLimit": "Need complete viral/bacterial organism-specific complications and prevention/treatment pathways. Broad statements do not establish individual drug regimens.",
+      "chapters": [
+        35,
+        36
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S63",
+            "CH35S64",
+            "CH35S66",
+            "CH35S67",
+            "CH35S68N",
+            "CH36S28",
+            "CH36S29",
+            "CH36S30",
+            "CH36S31",
+            "CH36S32"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S63",
+            "CH35S64",
+            "CH35S66",
+            "CH35S67",
+            "CH35S68N",
+            "CH36S28",
+            "CH36S29",
+            "CH36S30",
+            "CH36S31",
+            "CH36S32"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Partial",
+          "refs": [
+            "CH35S63",
+            "CH35S64",
+            "CH35S66",
+            "CH35S67",
+            "CH35S68N",
+            "CH36S28",
+            "CH36S29",
+            "CH36S30",
+            "CH36S31",
+            "CH36S32"
+          ],
+          "missing": "Prevention: Need complete viral/bacterial organism-specific complications and prevention/treatment pathways. Broad statements do not establish individual drug regimens.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S63",
+            "CH35S64",
+            "CH35S66",
+            "CH35S67",
+            "CH35S68N",
+            "CH36S28",
+            "CH36S29",
+            "CH36S30",
+            "CH36S31",
+            "CH36S32"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH35S63",
+            "CH35S64",
+            "CH35S66",
+            "CH35S67",
+            "CH35S68N",
+            "CH36S28",
+            "CH36S29",
+            "CH36S30",
+            "CH36S31",
+            "CH36S32"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH35S63",
+            "CH35S64",
+            "CH35S66",
+            "CH35S67",
+            "CH35S68N",
+            "CH36S28",
+            "CH36S29",
+            "CH36S30",
+            "CH36S31",
+            "CH36S32"
+          ],
+          "missing": "Complications: Need complete viral/bacterial organism-specific complications and prevention/treatment pathways. Broad statements do not establish individual drug regimens.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S63",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 63"
+        },
+        {
+          "sourceId": "CH35S64",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 64"
+        },
+        {
+          "sourceId": "CH35S66",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 66"
+        },
+        {
+          "sourceId": "CH35S67",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 67"
+        },
+        {
+          "sourceId": "CH35S68N",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 68 speaker notes"
+        },
+        {
+          "sourceId": "CH36S28",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 28"
+        },
+        {
+          "sourceId": "CH36S29",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 29"
+        },
+        {
+          "sourceId": "CH36S30",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 30"
+        },
+        {
+          "sourceId": "CH36S31",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 31"
+        },
+        {
+          "sourceId": "CH36S32",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 32"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 20,
+      "promptVerbatim": "Know cystic fibrosis: pathophysiology, etiology, inheritary pattern, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "CF is an autosomal recessive multisystem disorder with abnormal chloride transport. Defective epithelial ion handling dehydrates airway mucus; thick secretions, impaired clearance and retained bacteria promote chronic inflammation. Neutrophil debris adds DNA and actin that increase viscosity. Consequences include bronchiectasis, pneumonia, hypoxia and fibrosis. Findings include persistent cough/wheeze, sputum, recurrent pneumonia and clubbing. The packet describes sweat chloride testing and newborn screening; care includes clearance techniques, aerosol therapies, antibiotics and nutritional support, including pancreatic enzymes and fat-soluble vitamins.",
+      "remainingGapOrLimit": "Primary prevention is not supplied; supportive care is not prevention of inheriting CF.",
+      "chapters": [
+        36
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "inheritance",
+          "status": "Direct",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Primary prevention is not supplied; supportive care is not prevention of inheriting CF.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH36S40",
+            "CH36S41",
+            "CH36S42",
+            "CH36S43",
+            "CH36S44",
+            "CH36S45",
+            "CH36S46",
+            "CH36S47N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH36S40",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 40"
+        },
+        {
+          "sourceId": "CH36S41",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 41"
+        },
+        {
+          "sourceId": "CH36S42",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 42"
+        },
+        {
+          "sourceId": "CH36S43",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 43"
+        },
+        {
+          "sourceId": "CH36S44",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 44"
+        },
+        {
+          "sourceId": "CH36S45",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 45"
+        },
+        {
+          "sourceId": "CH36S46",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 46"
+        },
+        {
+          "sourceId": "CH36S47N",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 47 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 21,
+      "promptVerbatim": "Know croup: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Croup is acute laryngotracheobronchitis with subglottic edema, usually infectious and usually viral in the notes. It commonly affects ages 6 months–5 years. A barking cough, hoarse voice and inspiratory stridor follow upper-respiratory symptoms. The Westley score estimates severity. Glucocorticoids are listed; severe cases may receive nebulized epinephrine and oxygen. Recurrent croup without infection symptoms may reflect underlying narrowing.",
+      "remainingGapOrLimit": "Need specific pathogens, prevention and a full complications account.",
+      "chapters": [
+        36
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH36S6",
+            "CH36S7",
+            "CH36S8",
+            "CH36S9N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH36S6",
+            "CH36S7",
+            "CH36S8",
+            "CH36S9N"
+          ],
+          "missing": "Etiology: Need specific pathogens, prevention and a full complications account.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH36S6",
+            "CH36S7",
+            "CH36S8",
+            "CH36S9N"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need specific pathogens, prevention and a full complications account.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH36S6",
+            "CH36S7",
+            "CH36S8",
+            "CH36S9N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH36S6",
+            "CH36S7",
+            "CH36S8",
+            "CH36S9N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH36S6",
+            "CH36S7",
+            "CH36S8",
+            "CH36S9N"
+          ],
+          "missing": "Complications: Need specific pathogens, prevention and a full complications account.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH36S6",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 6"
+        },
+        {
+          "sourceId": "CH36S7",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 7"
+        },
+        {
+          "sourceId": "CH36S8",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 8"
+        },
+        {
+          "sourceId": "CH36S9N",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 9 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 22,
+      "promptVerbatim": "Know Respiratory distress syndrome (RDS) of newborn: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "An immature preterm lung has not developed adequate surfactant production/secretion. Alveoli collapse, ventilation falls and shunting/hypoxemia develop; hypoventilation also causes hypercapnia. Tachypnea, grunting, retractions, nasal flaring and cyanosis are described. The packet lists oxygen, ventilation, surfactant and maternal glucocorticoids in preterm labor. Bronchopulmonary dysplasia is linked to prematurity, RDS, supplemental oxygen and positive-pressure ventilation.",
+      "remainingGapOrLimit": "Need fuller prevention, hyaline-membrane development and complications beyond the supplied BPD association.",
+      "chapters": [
+        36
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH36S19",
+            "CH36S20",
+            "CH36S21"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH36S19",
+            "CH36S20",
+            "CH36S21"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Partial",
+          "refs": [
+            "CH36S19",
+            "CH36S20",
+            "CH36S21"
+          ],
+          "missing": "Prevention: Need fuller prevention, hyaline-membrane development and complications beyond the supplied BPD association.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH36S19",
+            "CH36S20",
+            "CH36S21"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH36S19",
+            "CH36S20",
+            "CH36S21"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH36S19",
+            "CH36S20",
+            "CH36S21"
+          ],
+          "missing": "Complications: Need fuller prevention, hyaline-membrane development and complications beyond the supplied BPD association.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH36S19",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 19"
+        },
+        {
+          "sourceId": "CH36S20",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 20"
+        },
+        {
+          "sourceId": "CH36S21",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 21"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 23,
+      "promptVerbatim": "Causes of hypoxemia.",
+      "status": "Partial",
+      "supported": "Use the mismatch, diffusion and hypoventilation distinctions in prompt 12. Hypoxemia means inadequate arterial oxygenation; it is not synonymous with tissue hypoxia. Mechanism determines which part of air delivery, exchange or perfusion has failed.",
+      "remainingGapOrLimit": "Same unresolved complete five-cause/altitude clarification as prompt 12; this repeated guide prompt is not counted as a new question root.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "supported hypoxemia mechanisms",
+          "status": "Partial",
+          "refs": [
+            "CH35S17",
+            "CH35S19N"
+          ],
+          "missing": "Supported hypoxemia mechanisms: Same unresolved complete five-cause/altitude clarification as prompt 12; this repeated guide prompt is not counted as a new question root.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complete reconciled five-cause account",
+          "status": "Missing",
+          "refs": [
+            "CH35S17",
+            "CH35S19N"
+          ],
+          "missing": "Complete reconciled five-cause account: no reconciled teaching passage in the packet. Same unresolved complete five-cause/altitude clarification as prompt 12; this repeated guide prompt is not counted as a new question root.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S17",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 17"
+        },
+        {
+          "sourceId": "CH35S19N",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 19 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 24,
+      "promptVerbatim": "Know pleural effusions: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "A pleural effusion is fluid in the pleural space. Transudate is watery fluid diffusing out of capillaries; exudate is less watery and rich in white cells and plasma proteins. Chyle, blood and pus distinguish chylothorax, hemothorax and empyema. Dyspnea and pleural pain are listed. Drainage options include thoracentesis, chest tube and surgery.",
+      "remainingGapOrLimit": "Need causes and mechanisms for each effusion type, primary prevention and complications.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Pathophysiology: Need causes and mechanisms for each effusion type, primary prevention and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Etiology: Need causes and mechanisms for each effusion type, primary prevention and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need causes and mechanisms for each effusion type, primary prevention and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need causes and mechanisms for each effusion type, primary prevention and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S25",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 25"
+        },
+        {
+          "sourceId": "CH35S26",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 26"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 25,
+      "promptVerbatim": "What is transudative, exudative, purulent mean?",
+      "status": "Direct",
+      "supported": "Transudative means watery capillary-derived fluid in this deck. Exudative fluid contains higher concentrations of cells and plasma proteins. Purulent means pus-containing; empyema is pus in the pleural space. Do not confuse the composition of fluid with its location.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "transudative",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "exudative",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "purulent",
+          "status": "Direct",
+          "refs": [
+            "CH35S25",
+            "CH35S26"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S25",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 25"
+        },
+        {
+          "sourceId": "CH35S26",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 26"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 26,
+      "promptVerbatim": "What part of the brain controls respiration?",
+      "status": "Partial",
+      "supported": "Slide 26 places basic automatic rhythm with the dorsal respiratory group and increased ventilatory effort with the ventral group. Pontine apneustic and pneumotaxic centers modify depth/rate. The released Q2 answer reverses the dorsal/ventral roles. The slide account is taught with this conflict disclosed; the released item is unscored.",
+      "remainingGapOrLimit": "Instructor clarification requested for released Q2; supplied key is preserved privately and disclosed in Cases.",
+      "chapters": [
+        34
+      ],
+      "components": [
+        {
+          "component": "brainstem location",
+          "status": "Direct",
+          "refs": [
+            "CH34S26",
+            "CH34S27"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "DRG versus VRG assignment",
+          "status": "Partial",
+          "refs": [
+            "CH34S26",
+            "CH34S27"
+          ],
+          "missing": "Drg versus vrg assignment: Instructor clarification requested for released Q2; supplied key is preserved privately and disclosed in Cases.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH34S26",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 26"
+        },
+        {
+          "sourceId": "CH34S27",
+          "file": "Chapter_034 (2).pptx",
+          "locator": "Chapter 34 · slide 27"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 27,
+      "promptVerbatim": "Know squamous cell Ca of lung: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Squamous cell carcinoma appears under non-small-cell lung cancer with nonproductive cough or hemoptysis. Smoking is a major lung-cancer risk in the chapter. TNM denotes primary tumor extent, nodal involvement and metastasis. The generic lung-cancer treatment slide is not a subtype-specific regimen.",
+      "remainingGapOrLimit": "Need squamous-specific pathogenesis, prevention, staging implications, treatment and complications.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S86",
+            "CH35S87",
+            "CH35S91"
+          ],
+          "missing": "Pathophysiology: Need squamous-specific pathogenesis, prevention, staging implications, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH35S86",
+            "CH35S87",
+            "CH35S91"
+          ],
+          "missing": "Etiology: Need squamous-specific pathogenesis, prevention, staging implications, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S86",
+            "CH35S87",
+            "CH35S91"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need squamous-specific pathogenesis, prevention, staging implications, treatment and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S86",
+            "CH35S87",
+            "CH35S91"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH35S86",
+            "CH35S87",
+            "CH35S91"
+          ],
+          "missing": "Treatment: Need squamous-specific pathogenesis, prevention, staging implications, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH35S86",
+            "CH35S87",
+            "CH35S91"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need squamous-specific pathogenesis, prevention, staging implications, treatment and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S86",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 86"
+        },
+        {
+          "sourceId": "CH35S87",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 87"
+        },
+        {
+          "sourceId": "CH35S91",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 91"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 28,
+      "promptVerbatim": "Most likely site of aspiration in the pulmonary system",
+      "status": "Direct",
+      "supported": "The supplied adult deck identifies the right lower lobe as the most frequent aspiration site. The pediatric deck distinguishes inspiratory stridor with upper-tracheal foreign bodies from wheeze with lower intrathoracic obstruction.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "aspiration site",
+          "status": "Direct",
+          "refs": [
+            "CH35S27",
+            "CH36S15"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S27",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 27"
+        },
+        {
+          "sourceId": "CH36S15",
+          "file": "Chapter_036.pptx",
+          "locator": "Chapter 36 · slide 15"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 29,
+      "promptVerbatim": "Know tuberculosis: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Mycobacterium tuberculosis is an acid-fast bacillus transmitted by airborne droplets. Granulomatous tubercles and surrounding scar isolate bacilli; caseous necrosis develops. Infection can remain dormant or become active. Latent infection is asymptomatic; active manifestations include fatigue, weight loss, low-grade afternoon fever, night sweats and purulent cough. A positive skin test does not distinguish past, latent or active disease. The deck lists culture, immunoassays and imaging, and names isoniazid, rifampin, pyrazinamide and ethambutol.",
+      "remainingGapOrLimit": "Need prevention and full complications. Regimen selection/duration and resistance management require the designated textbook or instructor clarification.",
+      "chapters": [
+        35
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S69",
+            "CH35S70",
+            "CH35S71",
+            "CH35S72"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH35S69",
+            "CH35S70",
+            "CH35S71",
+            "CH35S72"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH35S69",
+            "CH35S70",
+            "CH35S71",
+            "CH35S72"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need prevention and full complications. Regimen selection/duration and resistance management require the designated textbook or instructor clarification.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH35S69",
+            "CH35S70",
+            "CH35S71",
+            "CH35S72"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH35S69",
+            "CH35S70",
+            "CH35S71",
+            "CH35S72"
+          ],
+          "missing": "Treatment: Need prevention and full complications. Regimen selection/duration and resistance management require the designated textbook or instructor clarification.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH35S69",
+            "CH35S70",
+            "CH35S71",
+            "CH35S72"
+          ],
+          "missing": "Complications: Need prevention and full complications. Regimen selection/duration and resistance management require the designated textbook or instructor clarification.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH35S69",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 69"
+        },
+        {
+          "sourceId": "CH35S70",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 70"
+        },
+        {
+          "sourceId": "CH35S71",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 71"
+        },
+        {
+          "sourceId": "CH35S72",
+          "file": "Chapter_035.pptx",
+          "locator": "Chapter 35 · slide 72"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 30,
+      "promptVerbatim": "Know the anatomy of the kidney, how much cardiac output do the kidneys gets?",
+      "status": "Partial",
+      "supported": "Retroperitoneal kidneys have cortex outside and medulla inside. Cortex contains glomeruli and much of the convoluted tubules; medullary pyramids contain tubules and collecting ducts. Urine reaches minor calyces, major calyces, pelvis and ureter. Afferent arterioles supply glomeruli; efferent arterioles lead to a second capillary bed. The deck gives renal blood flow of 1000–1200 mL/min, plasma flow of 600–700 mL/min and filtration of about 20% of plasma flow. This last number is not the percentage of cardiac output.",
+      "remainingGapOrLimit": "The requested percentage of cardiac output is not supplied; do not substitute filtration fraction.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "kidney anatomy and renal circulation",
+          "status": "Direct",
+          "refs": [
+            "CH37S7",
+            "CH37S8",
+            "CH37S9",
+            "CH37S19",
+            "CH37S20",
+            "CH37S21",
+            "CH37S27"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "percentage of cardiac output",
+          "status": "Missing",
+          "refs": [
+            "CH37S7",
+            "CH37S8",
+            "CH37S9",
+            "CH37S19",
+            "CH37S20",
+            "CH37S21",
+            "CH37S27"
+          ],
+          "missing": "Percentage of cardiac output: no reconciled teaching passage in the packet. The requested percentage of cardiac output is not supplied; do not substitute filtration fraction.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S7",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 7"
+        },
+        {
+          "sourceId": "CH37S8",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 8"
+        },
+        {
+          "sourceId": "CH37S9",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 9"
+        },
+        {
+          "sourceId": "CH37S19",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 19"
+        },
+        {
+          "sourceId": "CH37S20",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 20"
+        },
+        {
+          "sourceId": "CH37S21",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 21"
+        },
+        {
+          "sourceId": "CH37S27",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 27"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 31,
+      "promptVerbatim": "How does exercise and body position affect renal blood flow?",
+      "status": "Missing",
+      "supported": "The packet says sympathetic vasoconstriction reduces renal blood flow and GFR. It does not explicitly explain the effects of exercise or body position requested by the guide. General sympathetic physiology alone is insufficient to fill both components.",
+      "remainingGapOrLimit": "Need exercise-specific renal hemodynamics and body-position effects.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "exercise effect on renal blood flow",
+          "status": "Missing",
+          "refs": [
+            "CH37S31"
+          ],
+          "missing": "Exercise effect on renal blood flow: no reconciled teaching passage in the packet. Need exercise-specific renal hemodynamics and body-position effects.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "body-position effect on renal blood flow",
+          "status": "Missing",
+          "refs": [
+            "CH37S31"
+          ],
+          "missing": "Body-position effect on renal blood flow: no reconciled teaching passage in the packet. Need exercise-specific renal hemodynamics and body-position effects.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S31",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 31"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 32,
+      "promptVerbatim": "Understand the RAAS system.",
+      "status": "Direct",
+      "supported": "Renin release is triggered by reduced afferent pressure/stretch, reduced distal sodium chloride or sympathetic stimulation, as described in the notes. Renin helps form angiotensin I; ACE converts it to angiotensin II. Angiotensin II constricts vessels, stimulates adrenal aldosterone, promotes ADH secretion and thirst. The system increases pressure and sodium reabsorption.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "renin stimulus",
+          "status": "Direct",
+          "refs": [
+            "CH37S14",
+            "CH37S32",
+            "CH37S33",
+            "CH37S36N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "RAAS sequence and outputs",
+          "status": "Direct",
+          "refs": [
+            "CH37S14",
+            "CH37S32",
+            "CH37S33",
+            "CH37S36N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S14",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 14"
+        },
+        {
+          "sourceId": "CH37S32",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 32"
+        },
+        {
+          "sourceId": "CH37S33",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 33"
+        },
+        {
+          "sourceId": "CH37S36N",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 36 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 33,
+      "promptVerbatim": "Know ADH, aldosterone and all renal hormones.",
+      "status": "Partial",
+      "supported": "ADH increases distal/collecting-duct water permeability, raising water reabsorption and lowering final urine volume. Aldosterone increases distal sodium absorption and supports potassium secretion by principal cells. ANP and BNP oppose sodium/water retention and inhibit renin/aldosterone; urodilatin and C-type peptide provide additional vascular/diuretic effects. Renalase supports catecholamine metabolism. Calcitriol supports intestinal calcium/phosphate absorption. Renal erythropoietin supports red-cell production.",
+      "remainingGapOrLimit": "All renal hormones is not a bounded inventory; source covers these named outputs but not every synthesis/feedback detail.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "named hormones and their outputs",
+          "status": "Direct",
+          "refs": [
+            "CH37S17",
+            "CH37S32",
+            "CH37S33",
+            "CH37S34",
+            "CH37S35",
+            "CH37S49",
+            "CH37S54",
+            "CH37S55",
+            "CH37S56",
+            "CH37S57"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complete hormone inventory and feedback",
+          "status": "Partial",
+          "refs": [
+            "CH37S17",
+            "CH37S32",
+            "CH37S33",
+            "CH37S34",
+            "CH37S35",
+            "CH37S49",
+            "CH37S54",
+            "CH37S55",
+            "CH37S56",
+            "CH37S57"
+          ],
+          "missing": "Complete hormone inventory and feedback: All renal hormones is not a bounded inventory; source covers these named outputs but not every synthesis/feedback detail.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S17",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 17"
+        },
+        {
+          "sourceId": "CH37S32",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 32"
+        },
+        {
+          "sourceId": "CH37S33",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 33"
+        },
+        {
+          "sourceId": "CH37S34",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 34"
+        },
+        {
+          "sourceId": "CH37S35",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 35"
+        },
+        {
+          "sourceId": "CH37S49",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 49"
+        },
+        {
+          "sourceId": "CH37S54",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 54"
+        },
+        {
+          "sourceId": "CH37S55",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 55"
+        },
+        {
+          "sourceId": "CH37S56",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 56"
+        },
+        {
+          "sourceId": "CH37S57",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 57"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 34,
+      "promptVerbatim": "Understand protein metabolism by the kidneys.",
+      "status": "Partial",
+      "supported": "The normal filtration membrane is relatively impermeable to large plasma proteins. Urea is the end product of protein metabolism; about half is excreted and half recycled in the kidney in this deck. The released case cautions against assigning protein metabolism itself to the renal endocrine function. The kidney handles the resulting waste rather than serving as a complete account of protein metabolism.",
+      "remainingGapOrLimit": "Need the exact intended textbook scope of protein metabolism by the kidneys; current slides supply filtration and urea handling only.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "protein filtration and urea handling",
+          "status": "Partial",
+          "refs": [
+            "CH37S39",
+            "CH37S54"
+          ],
+          "missing": "Protein filtration and urea handling: Need the exact intended textbook scope of protein metabolism by the kidneys; current slides supply filtration and urea handling only.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "protein metabolism as requested",
+          "status": "Missing",
+          "refs": [
+            "CH37S39",
+            "CH37S54"
+          ],
+          "missing": "Protein metabolism as requested: no reconciled teaching passage in the packet. Need the exact intended textbook scope of protein metabolism by the kidneys; current slides supply filtration and urea handling only.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S39",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 39"
+        },
+        {
+          "sourceId": "CH37S54",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 54"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 35,
+      "promptVerbatim": "What is the best indicator of renal function.",
+      "status": "Direct",
+      "supported": "The deck identifies GFR as the best estimate of functioning renal tissue. Inulin clearance measures it; creatinine clearance provides a useful estimate. BUN varies with protein intake/catabolism and hydration and is a poor GFR measure. PAH clearance addresses renal plasma/blood flow.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "GFR as functional estimate",
+          "status": "Direct",
+          "refs": [
+            "CH37S58",
+            "CH37S59",
+            "CH37S60",
+            "CH37S61"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S58",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 58"
+        },
+        {
+          "sourceId": "CH37S59",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 59"
+        },
+        {
+          "sourceId": "CH37S60",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 60"
+        },
+        {
+          "sourceId": "CH37S61",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 61"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 36,
+      "promptVerbatim": "Understand specific gravity.",
+      "status": "Partial",
+      "supported": "Urine specific gravity estimates solute concentration. The course slide lists 1.016–1.022 as its normal range. It is a urine concentration measure, not the same as GFR or blood urea nitrogen. The deck does not provide a complete diagnostic interpretation of every high or low value.",
+      "remainingGapOrLimit": "Need cause-specific interpretation of high/low specific gravity and its limitations.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "specific gravity definition",
+          "status": "Direct",
+          "refs": [
+            "CH37S62"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "cause-specific interpretation and limits",
+          "status": "Partial",
+          "refs": [
+            "CH37S62"
+          ],
+          "missing": "Cause-specific interpretation and limits: Need cause-specific interpretation of high/low specific gravity and its limitations.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S62",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 62"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 37,
+      "promptVerbatim": "Know UTIs: pathophysiology, etiology, prevention, most common “bugs”, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "UTI involves bacterial inflammation of urinary epithelium, commonly through retrograde ascent from gut flora. E. coli and Staphylococcus saprophyticus are named common pathogens. Uropathogen pili/fimbriae promote attachment and biofilms resist host defenses. Flow during voiding, acidic urine, uromodulin, uroepithelial secretions and closure of the ureterovesical junction help defend the tract. Symptoms and care depend on location; pediatric infection can present as unexplained fever or new incontinence.",
+      "remainingGapOrLimit": "Need full prevention recommendations, host-risk stratification, complications and organism-specific regimens.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Partial",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "Prevention: Need full prevention recommendations, host-risk stratification, complications and organism-specific regimens.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "common organisms",
+          "status": "Direct",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "Treatment: Need full prevention recommendations, host-risk stratification, complications and organism-specific regimens.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH38S29",
+            "CH38S30",
+            "CH38S31",
+            "CH38S33",
+            "CH38S35",
+            "CH39S34",
+            "CH39S35",
+            "CH39S37"
+          ],
+          "missing": "Complications: Need full prevention recommendations, host-risk stratification, complications and organism-specific regimens.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S29",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 29"
+        },
+        {
+          "sourceId": "CH38S30",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 30"
+        },
+        {
+          "sourceId": "CH38S31",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 31"
+        },
+        {
+          "sourceId": "CH38S33",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 33"
+        },
+        {
+          "sourceId": "CH38S35",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 35"
+        },
+        {
+          "sourceId": "CH39S34",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 34"
+        },
+        {
+          "sourceId": "CH39S35",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 35"
+        },
+        {
+          "sourceId": "CH39S37",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 37"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 38,
+      "promptVerbatim": "Know renal calculi (all types): pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Formation progresses from supersaturation through precipitation to crystallization/agglomeration around a nidus. Calcium oxalate/phosphate, struvite, uric acid and inherited amino-acid-related stones are listed. Inadequate fluid intake is a major risk. Alkaline urine favors calcium phosphate; acidic urine favors uric acid. Staghorn describes a stone filling calyces, not its chemical composition. Renal colic is the characteristic manifestation. Management reduces stone-forming concentration, adjusts pH, controls pain and removes or fragments stones when needed.",
+      "remainingGapOrLimit": "Need each stone type’s exact etiology, prevention, treatment and complications; slide 11 wording about excess urine/cystinuric stones is ambiguous and excluded.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S10",
+            "CH38S11",
+            "CH38S12",
+            "CH38S13",
+            "CH38S14",
+            "CH38S15"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH38S10",
+            "CH38S11",
+            "CH38S12",
+            "CH38S13",
+            "CH38S14",
+            "CH38S15"
+          ],
+          "missing": "Etiology: Need each stone type’s exact etiology, prevention, treatment and complications; slide 11 wording about excess urine/cystinuric stones is ambiguous and excluded.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Partial",
+          "refs": [
+            "CH38S10",
+            "CH38S11",
+            "CH38S12",
+            "CH38S13",
+            "CH38S14",
+            "CH38S15"
+          ],
+          "missing": "Prevention: Need each stone type’s exact etiology, prevention, treatment and complications; slide 11 wording about excess urine/cystinuric stones is ambiguous and excluded.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH38S10",
+            "CH38S11",
+            "CH38S12",
+            "CH38S13",
+            "CH38S14",
+            "CH38S15"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S10",
+            "CH38S11",
+            "CH38S12",
+            "CH38S13",
+            "CH38S14",
+            "CH38S15"
+          ],
+          "missing": "Treatment: Need each stone type’s exact etiology, prevention, treatment and complications; slide 11 wording about excess urine/cystinuric stones is ambiguous and excluded.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH38S10",
+            "CH38S11",
+            "CH38S12",
+            "CH38S13",
+            "CH38S14",
+            "CH38S15"
+          ],
+          "missing": "Complications: Need each stone type’s exact etiology, prevention, treatment and complications; slide 11 wording about excess urine/cystinuric stones is ambiguous and excluded.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S10",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 10"
+        },
+        {
+          "sourceId": "CH38S11",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 11"
+        },
+        {
+          "sourceId": "CH38S12",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 12"
+        },
+        {
+          "sourceId": "CH38S13",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 13"
+        },
+        {
+          "sourceId": "CH38S14",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 14"
+        },
+        {
+          "sourceId": "CH38S15",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 15"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 39,
+      "promptVerbatim": "Know pyelonephritis: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Acute pyelonephritis involves ureter, pelvis and/or kidney interstitium. Flank/groin pain, fever, chills, costovertebral tenderness and UTI symptoms are supplied findings. White-cell casts support renal involvement. The released explanation connects bacterial invasion to inflammation and exudate that mixes with urine. Chronic/recurrent infection can scar kidneys, with hypertension or renal failure. Antibiotics are listed for acute and recurrent infection.",
+      "remainingGapOrLimit": "Need full prevention, pathogen-specific etiology/treatment and complete complications.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S35",
+            "CH38S36"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH38S35",
+            "CH38S36"
+          ],
+          "missing": "Etiology: Need full prevention, pathogen-specific etiology/treatment and complete complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH38S35",
+            "CH38S36"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need full prevention, pathogen-specific etiology/treatment and complete complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH38S35",
+            "CH38S36"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S35",
+            "CH38S36"
+          ],
+          "missing": "Treatment: Need full prevention, pathogen-specific etiology/treatment and complete complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH38S35",
+            "CH38S36"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S35",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 35"
+        },
+        {
+          "sourceId": "CH38S36",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 36"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 40,
+      "promptVerbatim": "Know cystitis: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Cystitis is bladder inflammation, with frequency, dysuria, urgency and suprapubic/low-back pain; it may be asymptomatic. The deck uses urine culture and lists antimicrobial treatment. Painful bladder syndrome has prolonged cystitis-like symptoms, negative cultures and no other known cause. Do not collapse these two source categories into one bacterial process.",
+      "remainingGapOrLimit": "Need cystitis-specific prevention and complications and precise regimen guidance.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Partial",
+          "refs": [
+            "CH38S29",
+            "CH38S31",
+            "CH38S33",
+            "CH38S34"
+          ],
+          "missing": "Pathophysiology: Need cystitis-specific prevention and complications and precise regimen guidance.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S29",
+            "CH38S31",
+            "CH38S33",
+            "CH38S34"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH38S29",
+            "CH38S31",
+            "CH38S33",
+            "CH38S34"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need cystitis-specific prevention and complications and precise regimen guidance.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH38S29",
+            "CH38S31",
+            "CH38S33",
+            "CH38S34"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S29",
+            "CH38S31",
+            "CH38S33",
+            "CH38S34"
+          ],
+          "missing": "Treatment: Need cystitis-specific prevention and complications and precise regimen guidance.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH38S29",
+            "CH38S31",
+            "CH38S33",
+            "CH38S34"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need cystitis-specific prevention and complications and precise regimen guidance.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S29",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 29"
+        },
+        {
+          "sourceId": "CH38S31",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 31"
+        },
+        {
+          "sourceId": "CH38S33",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 33"
+        },
+        {
+          "sourceId": "CH38S34",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 34"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 41,
+      "promptVerbatim": "Know Goodpasture syndrome: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Missing",
+      "supported": "Goodpasture syndrome appears in a chapter objective, but the body slides and notes do not develop its pathophysiology, etiology, manifestations, prevention, treatment or complications. An objective names a required topic; it does not supply an answer. No scored items are authored for it.",
+      "remainingGapOrLimit": "Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Missing",
+          "refs": [
+            "CH38S5"
+          ],
+          "missing": "Pathophysiology: no reconciled teaching passage in the packet. Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "etiology",
+          "status": "Missing",
+          "refs": [
+            "CH38S5"
+          ],
+          "missing": "Etiology: no reconciled teaching passage in the packet. Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH38S5"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Missing",
+          "refs": [
+            "CH38S5"
+          ],
+          "missing": "Clinical manifestations: no reconciled teaching passage in the packet. Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "treatment",
+          "status": "Missing",
+          "refs": [
+            "CH38S5"
+          ],
+          "missing": "Treatment: no reconciled teaching passage in the packet. Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH38S5"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need the entire designated textbook section on anti-glomerular basement membrane disease/Goodpasture syndrome.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S5",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 5"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 42,
+      "promptVerbatim": "Know acute renal failure: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "AKI is a sudden fall in kidney function/GFR with nitrogenous waste accumulation. Prerenal injury begins with hypoperfusion; intrarenal injury affects parenchyma/interstitium, commonly ischemic ATN; postrenal injury follows obstruction of outflow. Necrotic tubular cells, casts and edema can obstruct tubules, and filtrate may leak back. The prevention overview emphasizes volume maintenance around procedures/nephrotoxic exposure. Treatment addresses fluids, electrolytes, pressure, infection and nutrition; severe disturbances may need dialysis.",
+      "remainingGapOrLimit": "Need complete subtype-specific etiologies, stages, evaluation and treatment details beyond the overview.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S51",
+            "CH38S52",
+            "CH38S53",
+            "CH38S54",
+            "CH38S55"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S51",
+            "CH38S52",
+            "CH38S53",
+            "CH38S54",
+            "CH38S55"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Direct",
+          "refs": [
+            "CH38S51",
+            "CH38S52",
+            "CH38S53",
+            "CH38S54",
+            "CH38S55"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Partial",
+          "refs": [
+            "CH38S51",
+            "CH38S52",
+            "CH38S53",
+            "CH38S54",
+            "CH38S55"
+          ],
+          "missing": "Clinical manifestations: Need complete subtype-specific etiologies, stages, evaluation and treatment details beyond the overview.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S51",
+            "CH38S52",
+            "CH38S53",
+            "CH38S54",
+            "CH38S55"
+          ],
+          "missing": "Treatment: Need complete subtype-specific etiologies, stages, evaluation and treatment details beyond the overview.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH38S51",
+            "CH38S52",
+            "CH38S53",
+            "CH38S54",
+            "CH38S55"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S51",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 51"
+        },
+        {
+          "sourceId": "CH38S52",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 52"
+        },
+        {
+          "sourceId": "CH38S53",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 53"
+        },
+        {
+          "sourceId": "CH38S54",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 54"
+        },
+        {
+          "sourceId": "CH38S55",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 55"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 43,
+      "promptVerbatim": "Know how glucose and insulin treat hyperkalemia",
+      "status": "Direct",
+      "supported": "The packet describes glucose plus insulin as moving potassium from extracellular fluid into cells, reducing its serum concentration. This is a shift between compartments. It is different from treatments aimed at potassium excretion or removal.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "insulin moves potassium into cells",
+          "status": "Direct",
+          "refs": [
+            "CH38S55",
+            "CH38S56N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "glucose metabolism and potassium redistribution",
+          "status": "Direct",
+          "refs": [
+            "CH38S55",
+            "CH38S56N"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S55",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 55"
+        },
+        {
+          "sourceId": "CH38S56N",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 56 speaker notes"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 44,
+      "promptVerbatim": "Know anemia of renal failure: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Reduced renal erythropoietin means less stimulation of erythropoiesis. The CKD chapter describes normochromic normocytic anemia and lists erythropoietin as needed. Separate this production deficit from the red-cell destruction in HUS.",
+      "remainingGapOrLimit": "Need anemia-specific prevention, clinical manifestations, treatment prerequisites/targets and complications.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH37S57",
+            "CH38S63",
+            "CH38S68"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH37S57",
+            "CH38S63",
+            "CH38S68"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH37S57",
+            "CH38S63",
+            "CH38S68"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need anemia-specific prevention, clinical manifestations, treatment prerequisites/targets and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Partial",
+          "refs": [
+            "CH37S57",
+            "CH38S63",
+            "CH38S68"
+          ],
+          "missing": "Clinical manifestations: Need anemia-specific prevention, clinical manifestations, treatment prerequisites/targets and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH37S57",
+            "CH38S63",
+            "CH38S68"
+          ],
+          "missing": "Treatment: Need anemia-specific prevention, clinical manifestations, treatment prerequisites/targets and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH37S57",
+            "CH38S63",
+            "CH38S68"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need anemia-specific prevention, clinical manifestations, treatment prerequisites/targets and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S57",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 57"
+        },
+        {
+          "sourceId": "CH38S63",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 63"
+        },
+        {
+          "sourceId": "CH38S68",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 68"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 45,
+      "promptVerbatim": "Know kidney formation and urine production in fetus",
+      "status": "Direct",
+      "supported": "The kidney develops through pronephros, mesonephros and metanephros. The metanephros, involving the ureteric bud and metanephrogenic mesenchyme, becomes the functional kidney. Urine formation and excretion begin by the third month of gestation in the supplied slide.",
+      "remainingGapOrLimit": "",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "renal developmental sequence",
+          "status": "Direct",
+          "refs": [
+            "CH39S5"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "fetal urine production timing",
+          "status": "Direct",
+          "refs": [
+            "CH39S5"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH39S5",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 5"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 46,
+      "promptVerbatim": "Know nephritic syndrome in children: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Pediatric acute glomerulonephritis involves immune-mediated glomerular inflammation/proliferation, hematuria and red-cell casts. Salt and water retention contribute to edema and hypertension; severe disease reduces GFR. Contrast nephrotic disease, where large protein losses, hypoalbuminemia and edema dominate. Nephritic and nephrotic are different requested concepts; the guide’s nephritic wording is not silently changed.",
+      "remainingGapOrLimit": "Need full pediatric nephritic subtype etiologies, prevention, management and complications.",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S15",
+            "CH39S21",
+            "CH38S47",
+            "CH38S48"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH39S15",
+            "CH39S21",
+            "CH38S47",
+            "CH38S48"
+          ],
+          "missing": "Etiology: Need full pediatric nephritic subtype etiologies, prevention, management and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH39S15",
+            "CH39S21",
+            "CH38S47",
+            "CH38S48"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need full pediatric nephritic subtype etiologies, prevention, management and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH39S15",
+            "CH39S21",
+            "CH38S47",
+            "CH38S48"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH39S15",
+            "CH39S21",
+            "CH38S47",
+            "CH38S48"
+          ],
+          "missing": "Treatment: Need full pediatric nephritic subtype etiologies, prevention, management and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH39S15",
+            "CH39S21",
+            "CH38S47",
+            "CH38S48"
+          ],
+          "missing": "Complications: Need full pediatric nephritic subtype etiologies, prevention, management and complications.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH39S15",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 15"
+        },
+        {
+          "sourceId": "CH39S21",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 21"
+        },
+        {
+          "sourceId": "CH38S47",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 47"
+        },
+        {
+          "sourceId": "CH38S48",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 48"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 47,
+      "promptVerbatim": "Know vesicoureteral reflux: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Vesicoureteral reflux sends bladder urine backward into ureters/kidneys. A congenital abnormality or ectopic ureteral insertion may impair the junction; infected urine can then reach the kidney and encourage recurrent pyelonephritis. It may be silent or present with recurrent UTI, unexplained fever, poor growth or feeding difficulties. The deck lists VCUG/IVP evaluation, grades I–V, prompt infection treatment and intervention for recurrent/high-grade disease.",
+      "remainingGapOrLimit": "Need grade-by-grade criteria and primary prevention; inherited risk is not a complete prevention plan.",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need grade-by-grade criteria and primary prevention; inherited risk is not a complete prevention plan.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "grade-by-grade criteria",
+          "status": "Missing",
+          "refs": [
+            "CH39S39",
+            "CH39S40"
+          ],
+          "missing": "Grade-by-grade criteria: no reconciled teaching passage in the packet. Need grade-by-grade criteria and primary prevention; inherited risk is not a complete prevention plan.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH39S39",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 39"
+        },
+        {
+          "sourceId": "CH39S40",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 40"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 48,
+      "promptVerbatim": "Know Wilms tumor: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Wilms tumor is embryonal, arising from abnormal metanephric blastema, commonly at ages 1–5. Stromal, epithelial and blastemic components are named. The two-hit explanation connects an inherited tumor-suppressor mutation to a later somatic mutation. An enlarging, often asymptomatic upper-abdominal mass is typical; pain, hematuria, fever and hypertension may occur. The packet lists resection, chemotherapy and radiation according to extent, without a full staging protocol.",
+      "remainingGapOrLimit": "Need prevention, detailed stage-based treatment and complications; the broad most-common-solid-tumor claim is not tested.",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S31",
+            "CH39S32",
+            "CH39S33"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S31",
+            "CH39S32",
+            "CH39S33"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH39S31",
+            "CH39S32",
+            "CH39S33"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need prevention, detailed stage-based treatment and complications; the broad most-common-solid-tumor claim is not tested.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH39S31",
+            "CH39S32",
+            "CH39S33"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH39S31",
+            "CH39S32",
+            "CH39S33"
+          ],
+          "missing": "Treatment: Need prevention, detailed stage-based treatment and complications; the broad most-common-solid-tumor claim is not tested.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH39S31",
+            "CH39S32",
+            "CH39S33"
+          ],
+          "missing": "Complications: Need prevention, detailed stage-based treatment and complications; the broad most-common-solid-tumor claim is not tested.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH39S31",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 31"
+        },
+        {
+          "sourceId": "CH39S32",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 32"
+        },
+        {
+          "sourceId": "CH39S33",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 33"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 49,
+      "promptVerbatim": "Know poststreptococcal glomerulonephritis in children: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "After a throat or skin infection, immune complexes and complement deposited in glomeruli provoke injury. The chapter emphasizes ages 5–15, sudden hematuria, edema and hypertension. It lists restriction of fluid, sodium and potassium plus antihypertensives and diuretics. Slide 16’s organism wording needs clarification; the hemolysis designation is excluded from keys.",
+      "remainingGapOrLimit": "Need prevention, complete complications and clarification of slide 16 organism designation.",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S16",
+            "CH39S17"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH39S16",
+            "CH39S17"
+          ],
+          "missing": "Etiology: Need prevention, complete complications and clarification of slide 16 organism designation.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH39S16",
+            "CH39S17"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need prevention, complete complications and clarification of slide 16 organism designation.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH39S16",
+            "CH39S17"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH39S16",
+            "CH39S17"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH39S16",
+            "CH39S17"
+          ],
+          "missing": "Complications: Need prevention, complete complications and clarification of slide 16 organism designation.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH39S16",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 16"
+        },
+        {
+          "sourceId": "CH39S17",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 17"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 50,
+      "promptVerbatim": "Know hemolytic uremic syndrome: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "The packet links HUS to bacterial toxins including E. coli O157:H7. Endothelial injury, swelling and microthrombi obstruct glomerular vessels, lowering filtration. Red cells are damaged while passing through, then removed by the spleen, causing hemolytic anemia. A diarrheal illness can precede pallor, bruising/purpura, irritability and oliguria. Care addresses hydration/nutrition, hypertension, potassium and seizures; dialysis and transfusion may be needed.",
+      "remainingGapOrLimit": "Need prevention and a full distinction between typical and other HUS etiologies.",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S27",
+            "CH39S28",
+            "CH39S29",
+            "CH39S30",
+            "CH39S45"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH39S27",
+            "CH39S28",
+            "CH39S29",
+            "CH39S30",
+            "CH39S45"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH39S27",
+            "CH39S28",
+            "CH39S29",
+            "CH39S30",
+            "CH39S45"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need prevention and a full distinction between typical and other HUS etiologies.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH39S27",
+            "CH39S28",
+            "CH39S29",
+            "CH39S30",
+            "CH39S45"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Direct",
+          "refs": [
+            "CH39S27",
+            "CH39S28",
+            "CH39S29",
+            "CH39S30",
+            "CH39S45"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Direct",
+          "refs": [
+            "CH39S27",
+            "CH39S28",
+            "CH39S29",
+            "CH39S30",
+            "CH39S45"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH39S27",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 27"
+        },
+        {
+          "sourceId": "CH39S28",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 28"
+        },
+        {
+          "sourceId": "CH39S29",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 29"
+        },
+        {
+          "sourceId": "CH39S30",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 30"
+        },
+        {
+          "sourceId": "CH39S45",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 45"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 51,
+      "promptVerbatim": "Know Berger nephropathy: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "IgA and complement deposit in the glomerular mesangium. Gross hematuria may occur concurrently with a respiratory infection. The adult slide describes abnormal IgA binding to mesangial cells and proliferation; the pediatric slide lists supportive treatment, dialysis and transplantation. Henoch-Schönlein purpura nephritis adds systemic IgA vasculitis findings such as palpable purpura, arthritis and abdominal pain.",
+      "remainingGapOrLimit": "Need complete etiology, prevention, treatment selection and complications for Berger nephropathy.",
+      "chapters": [
+        39
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S39",
+            "CH39S18",
+            "CH39S19",
+            "CH39S20"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Partial",
+          "refs": [
+            "CH38S39",
+            "CH39S18",
+            "CH39S19",
+            "CH39S20"
+          ],
+          "missing": "Etiology: Need complete etiology, prevention, treatment selection and complications for Berger nephropathy.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH38S39",
+            "CH39S18",
+            "CH39S19",
+            "CH39S20"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need complete etiology, prevention, treatment selection and complications for Berger nephropathy.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH38S39",
+            "CH39S18",
+            "CH39S19",
+            "CH39S20"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S39",
+            "CH39S18",
+            "CH39S19",
+            "CH39S20"
+          ],
+          "missing": "Treatment: Need complete etiology, prevention, treatment selection and complications for Berger nephropathy.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH38S39",
+            "CH39S18",
+            "CH39S19",
+            "CH39S20"
+          ],
+          "missing": "Complications: Need complete etiology, prevention, treatment selection and complications for Berger nephropathy.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S39",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 39"
+        },
+        {
+          "sourceId": "CH39S18",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 18"
+        },
+        {
+          "sourceId": "CH39S19",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 19"
+        },
+        {
+          "sourceId": "CH39S20",
+          "file": "Chapter_039.pptx",
+          "locator": "Chapter 39 · slide 20"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 52,
+      "promptVerbatim": "Know Acute Tubular Necrosis: pathophysiology, etiology (know drugs), prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "Ischemic ATN is identified as a common intrarenal AKI cause. Damaged cells slough into the tubular lumen; casts and edema impede flow. Increased permeability can allow filtrate to leak back. The AKI prevention slide names nephrotoxic drugs and contrast exposure but does not give the required drug list.",
+      "remainingGapOrLimit": "Need ATN-specific nephrotoxic drugs, detailed etiologies, prevention, manifestations, treatment and complications.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S52",
+            "CH38S53",
+            "CH38S54"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology including drugs",
+          "status": "Partial",
+          "refs": [
+            "CH38S52",
+            "CH38S53",
+            "CH38S54"
+          ],
+          "missing": "Etiology including drugs: Need ATN-specific nephrotoxic drugs, detailed etiologies, prevention, manifestations, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Partial",
+          "refs": [
+            "CH38S52",
+            "CH38S53",
+            "CH38S54"
+          ],
+          "missing": "Prevention: Need ATN-specific nephrotoxic drugs, detailed etiologies, prevention, manifestations, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Partial",
+          "refs": [
+            "CH38S52",
+            "CH38S53",
+            "CH38S54"
+          ],
+          "missing": "Clinical manifestations: Need ATN-specific nephrotoxic drugs, detailed etiologies, prevention, manifestations, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S52",
+            "CH38S53",
+            "CH38S54"
+          ],
+          "missing": "Treatment: Need ATN-specific nephrotoxic drugs, detailed etiologies, prevention, manifestations, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Partial",
+          "refs": [
+            "CH38S52",
+            "CH38S53",
+            "CH38S54"
+          ],
+          "missing": "Complications: Need ATN-specific nephrotoxic drugs, detailed etiologies, prevention, manifestations, treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S52",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 52"
+        },
+        {
+          "sourceId": "CH38S53",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 53"
+        },
+        {
+          "sourceId": "CH38S54",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 54"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 53,
+      "promptVerbatim": "Know bladder cancer: pathophysiology, etiology, prevention, clinical manifestations, treatment, complications",
+      "status": "Partial",
+      "supported": "The most common bladder tumor listed is urothelial/transitional cell carcinoma. Risks include smoking, aromatic amines, arsenic and selected drugs. The chapter names ras, TP53, retinoblastoma and chromosome 9 changes. Painless microscopic hematuria is the stated manifestation. Options include transurethral treatment with intravesical therapy or more extensive surgery/systemic therapy depending on disease.",
+      "remainingGapOrLimit": "Need prevention, stage-specific treatment and complications.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "pathophysiology",
+          "status": "Partial",
+          "refs": [
+            "CH38S26",
+            "CH38S27",
+            "CH38S28"
+          ],
+          "missing": "Pathophysiology: Need prevention, stage-specific treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "etiology",
+          "status": "Direct",
+          "refs": [
+            "CH38S26",
+            "CH38S27",
+            "CH38S28"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "prevention",
+          "status": "Missing",
+          "refs": [
+            "CH38S26",
+            "CH38S27",
+            "CH38S28"
+          ],
+          "missing": "Prevention: no reconciled teaching passage in the packet. Need prevention, stage-specific treatment and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        },
+        {
+          "component": "clinical manifestations",
+          "status": "Direct",
+          "refs": [
+            "CH38S26",
+            "CH38S27",
+            "CH38S28"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "treatment",
+          "status": "Partial",
+          "refs": [
+            "CH38S26",
+            "CH38S27",
+            "CH38S28"
+          ],
+          "missing": "Treatment: Need prevention, stage-specific treatment and complications.",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "complications",
+          "status": "Missing",
+          "refs": [
+            "CH38S26",
+            "CH38S27",
+            "CH38S28"
+          ],
+          "missing": "Complications: no reconciled teaching passage in the packet. Need prevention, stage-specific treatment and complications.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S26",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 26"
+        },
+        {
+          "sourceId": "CH38S27",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 27"
+        },
+        {
+          "sourceId": "CH38S28",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 28"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 54,
+      "promptVerbatim": "Why does unilateral renal obstruction predispose patients to HTN?",
+      "status": "Partial",
+      "supported": "The packet explains unilateral obstruction, compensatory renal changes and RAAS generally, but does not directly connect unilateral obstruction to hypertension. Do not turn a plausible bridge into a sourced key.",
+      "remainingGapOrLimit": "Need the specific obstruction-to-renin/pressure mechanism from the designated textbook.",
+      "chapters": [
+        38
+      ],
+      "components": [
+        {
+          "component": "upstream dilation after obstruction",
+          "status": "Direct",
+          "refs": [
+            "CH38S7",
+            "CH38S8",
+            "CH38S9",
+            "CH37S32",
+            "CH37S33"
+          ],
+          "missing": "",
+          "locatorRole": "Teaching evidence"
+        },
+        {
+          "component": "unilateral obstruction-to-hypertension mechanism",
+          "status": "Missing",
+          "refs": [
+            "CH38S7",
+            "CH38S8",
+            "CH38S9",
+            "CH37S32",
+            "CH37S33"
+          ],
+          "missing": "Unilateral obstruction-to-hypertension mechanism: no reconciled teaching passage in the packet. Need the specific obstruction-to-renin/pressure mechanism from the designated textbook.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH38S7",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 7"
+        },
+        {
+          "sourceId": "CH38S8",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 8"
+        },
+        {
+          "sourceId": "CH38S9",
+          "file": "Chapter_038.pptx",
+          "locator": "Chapter 38 · slide 9"
+        },
+        {
+          "sourceId": "CH37S32",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 32"
+        },
+        {
+          "sourceId": "CH37S33",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 33"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 55,
+      "promptVerbatim": "Know BG level necessary to cause glucosuria.",
+      "status": "Missing",
+      "supported": "The guide requests the blood-glucose level needed for glucosuria. A transport-maximum objective and general carrier-saturation explanation do not supply that numerical threshold. No value is invented and no threshold question is scored.",
+      "remainingGapOrLimit": "Need the textbook renal glucose transport threshold, units and relevant qualifiers.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "blood glucose threshold for glucosuria",
+          "status": "Missing",
+          "refs": [
+            "CH37S4"
+          ],
+          "missing": "Blood glucose threshold for glucosuria: no reconciled teaching passage in the packet. Need the textbook renal glucose transport threshold, units and relevant qualifiers.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S4",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 4"
+        }
+      ]
+    },
+    {
+      "studyGuidePrompt": 56,
+      "promptVerbatim": "How much urine in the bladder causes person to feel bladder fullness?",
+      "status": "Missing",
+      "supported": "Bladder stretch activates mechanoreceptors and the sacral reflex; bladder contraction and internal sphincter relaxation follow, with voluntary modulation in older children/adults. Slide 25 prints 250 to 200 mL, while slide 36 notes print 250–300 mL. The reflex is supported; the requested numerical answer is gated.",
+      "remainingGapOrLimit": "Instructor or textbook clarification of the fullness/urge threshold is required.",
+      "chapters": [
+        37
+      ],
+      "components": [
+        {
+          "component": "resolved bladder fullness volume",
+          "status": "Missing",
+          "refs": [
+            "CH37S25",
+            "CH37S36N"
+          ],
+          "missing": "Resolved bladder fullness volume: no reconciled teaching passage in the packet. Instructor or textbook clarification of the fullness/urge threshold is required.",
+          "locatorRole": "Context only; does not answer this component"
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "CH37S25",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 25"
+        },
+        {
+          "sourceId": "CH37S36N",
+          "file": "Chapter_037.pptx",
+          "locator": "Chapter 37 · slide 36 speaker notes"
+        }
+      ]
+    }
+  ]
+}
