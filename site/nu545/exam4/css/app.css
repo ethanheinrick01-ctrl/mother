@@ -47,3 +47,8 @@ mark.em-cyan{color:#67dbe9;background:transparent;box-shadow:none}
 /* Let the selected relationships carry the color; preserve ordinary text rhythm. */
 .em-key{font-size:.8rem;line-height:1.7;max-width:80ch}.em-key .em-swatch{margin:0 .6em .3em 0;padding-left:0}mark.em{padding:0;font-weight:650}mark.em-gold{padding:0 .08em}
 @media print{mark.em,mark.em-gold,mark.em-cyan{color:#111;background:transparent;box-shadow:none;font-weight:700}.em-key{display:none}}
+
+/* Caption-safe playback for the rebuilt mechanism films. */
+.chapter-explainer video{aspect-ratio:16/10;min-height:400px;object-fit:contain;background:#0f1316}
+.chapter-explainer video::cue{font-size:18px}
+@media(max-width:600px){.chapter-explainer video{aspect-ratio:1/1;min-height:400px;object-fit:contain;background:#0f1316}.chapter-explainer video::cue{font-size:14px}}

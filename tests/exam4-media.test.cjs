@@ -11,7 +11,7 @@ test('all six chapter-first films have local Clear narration, controls assets an
   assert.ok(f.sources.every(s=>L.SOURCES[s]&&L.SOURCE_HTML[s]));
   const p=JSON.parse(cp.execFileSync('ffprobe',['-v','error','-show_streams','-show_format','-of','json',path.join(root,f.src)]));
   const v=p.streams.find(x=>x.codec_type==='video'),a=p.streams.find(x=>x.codec_type==='audio');
-  assert.equal(v.codec_name,'h264');assert.equal(v.width,1280);assert.equal(v.height,720);assert.equal(v.r_frame_rate,'24/1');assert.equal(a.codec_name,'aac');
+  assert.equal(v.codec_name,'h264');assert.equal(v.width,1280);assert.equal(v.height,720);assert.equal(v.r_frame_rate,'60/1');assert.equal(a.codec_name,'aac');
   const duration=+p.format.duration;assert.ok(Math.abs(duration-f.duration)<.12);assert.ok(duration>40&&duration<80);
   for(let n=0;n<4;n++)assert.ok(f.stages[n].start>=0&&f.stages[n].start<duration&&(n===0||f.stages[n].start>f.stages[n-1].start));
   const vtt=fs.readFileSync(path.join(root,f.captions),'utf8');assert.ok(vtt.startsWith('WEBVTT'));

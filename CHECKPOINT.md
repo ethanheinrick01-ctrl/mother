@@ -1,10 +1,10 @@
 # CHECKPOINT: Mom Lab portal / NU545 Exam 3
 
-Updated: September 30, 2026 by Codex root.
+Updated: October 12, 2026 by Codex root.
 Canonical repository: `ethanheinrick01-ctrl/mother`, branch `NU545`.
 Intended live URL: https://ethanheinrick01-ctrl.github.io/mother/
 Coordinator: Codex root. No active delegated work; Ethan requested personal completion.
-Current release: 100% published and live-verified. All seven scholarly films precede their chapter tabs and study cards. Source coverage is still partial; textbook gap closure remains a separate milestone.
+Current work: all 35 NU545 Exam 3–7 diagrams rebuilt and locally verified. New media are integrated locally, with narration and learner progress preserved. This October 12 revision is not pushed or deployed. Earlier publication receipts below remain historical.
 
 ## Settled decisions
 
@@ -72,3 +72,12 @@ Share [Mom Lab](https://ethanheinrick01-ctrl.github.io/mother/), then choose NU5
 - Published and verified: implementation `e47fb5bbbce1d8ddbb8c8b9311d18d974999e168`; [PR 3](https://github.com/ethanheinrick01-ctrl/mother/pull/3), merge `d95afdbd4a21e7462bf09cc18130dcad326bc155`; [successful Pages run 36752795009](https://github.com/ethanheinrick01-ctrl/mother/actions/runs/36752795009). Live HTML, CSS and app.js matched the tested bytes.
 - In-app live readback of an existing checked question confirmed the selected wrong option remains checked/red, the unselected correct option is green, and correct-answer text uses the identical green (`rgb(76, 208, 125)`). No production answers were created or changed for QA. Browser proof and asset hashes are stored in the private QA directory outside this repository.
 - `mom-nursing-study-lab` now carries this feedback rule in its entrypoint and accepted-standard reference, including the saved-version/shuffle and first-answer invariants. Skill validation passed. This feedback update is 100% complete; source-coverage gaps are unchanged.
+
+## Diagram rebuild · October 12, 2026
+
+- Rebuilt all 35 chapter films using the animate-textbook-diagrams process: 129 timed beats, 295 reviewed stills, full pacing passes and 60 fps final exports. Original AAC narration is bit-identical in every film; transcripts, captions and chapter timings remain intact.
+- Local integration replaces existing MP4/poster paths and updates illustration credits, editable-source links and caption-safe player sizing. Five portable editable ZIPs are included.
+- All 174 applicable tests, 141 gallery checks and 76 integrated Lab checks pass. Longest captions reviewed in 105 desktop/tablet/phone captures. The pre-existing historical Exam 5 branch-isolation assertion is separately disclosed in `docs/nu545/DIAGRAM-REBUILD-2026-10-12.md`.
+- Protected course/runtime files are unchanged. Isolated browser fixtures verified notes, immutable first answers, full saved state, exports and merging imports. Real learner profiles were not changed.
+- Originals, editable files, beat tables, render source and private QA receipts are saved in `../visual-redesign-2026-10-12/`. Earlier unrelated untracked files remain untouched.
+- New revision is local only; no publication has occurred in this task. Source coverage and user visual acceptance remain separate from this completed implementation.

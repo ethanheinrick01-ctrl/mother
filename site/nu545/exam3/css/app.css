@@ -28,3 +28,8 @@
   }
   .feedback .correct-answer{color:#111}
 }
+
+/* Caption-safe playback for the rebuilt mechanism films. */
+.chapter-explainer video{aspect-ratio:16/10;min-height:400px;object-fit:contain;background:#0f1316}
+.chapter-explainer video::cue{font-size:18px}
+@media(max-width:600px){.chapter-explainer video{aspect-ratio:1/1;min-height:400px;object-fit:contain;background:#0f1316}.chapter-explainer video::cue{font-size:14px}}
